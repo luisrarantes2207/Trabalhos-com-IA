@@ -29,6 +29,7 @@ Arquivos:
 - `Termo_Readmissao_Membro_Igreja_ISAC.docx`: pedido de readmissão, termo de readmissão, termo de compromisso de reparação de dano e comunicação da decisão.
 - `Certificado_Batismo_Igreja_ISAC.docx`: certificado de batismo, livro de registro de batismos e declaração de segunda via.
 - `Certificado_Apresentacao_Criancas_Igreja_ISAC.docx`: pedido de apresentação, certificado, livro de registro e roteiro litúrgico sugerido.
+- `Certificado_Casamento_Religioso_Igreja_ISAC.docx`: pedido de celebração, termo de casamento religioso para registro civil, requerimento ao cartório, certificado e livro de registro de casamentos.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -417,7 +418,7 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 
 - **Três modelos:** certificado numerado, com o texto centralizado, ligado ao livro e à folha do registro; Livro de Registro de Batismos, com termo de abertura e de encerramento e proibição de rasuras (correções só por anotação); e declaração de segunda via, emitida apenas ao próprio batizado ou aos pais, se ele for menor.
 - **Dados mínimos:** o livro não registra CPF nem endereço, só os dados necessários ao ato religioso, e a filiação é opcional. Os dados de membresia ficam na Ficha de Cadastro.
-- **Guarda permanente:** o registro de batismo é um registro histórico da igreja. Por isso incluí uma linha na tabela de prazos da Política de Privacidade (art. 10) prevendo guarda permanente com acesso restrito, para manter os dois documentos coerentes. A mesma linha passou a cobrir o livro de apresentação de crianças.
+- **Guarda permanente:** o registro de batismo é um registro histórico da igreja. Por isso incluí uma linha na tabela de prazos da Política de Privacidade (art. 10) prevendo guarda permanente com acesso restrito, para manter os dois documentos coerentes. A mesma linha passou a cobrir os livros de apresentação de crianças e de casamentos religiosos.
 - **Menores:** o batismo de menor exige a autorização dos pais e a manifestação do próprio menor, pelo Termo de Admissão de Membro Menor.
 - **Natureza religiosa:** o certificado não substitui documentos civis.
 - **Adaptação doutrinária:** a forma do batismo, a fórmula e o versículo estão entre colchetes, para ajuste à Declaração de Fé (seção VIII) e à liturgia da igreja.
@@ -429,3 +430,15 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Imagem da criança:** em cultos transmitidos, a exibição em destaque depende do consentimento específico dos pais (LGPD, art. 14). Sem ele, as câmeras evitam enquadrar a família durante o ato.
 - **Registro:** o livro de apresentação de crianças tem guarda permanente e acesso restrito. A linha da tabela de prazos da Política de Privacidade foi ampliada para incluí-lo.
 - **Outros pontos:** o ato é gratuito (Regimento, art. 48, § 3º). O certificado tem uso só religioso. O modelo traz um roteiro litúrgico sugerido, com compromisso dos pais e da comunidade, adaptável à liturgia da igreja.
+
+## 32. Casamento religioso
+
+- **Duas modalidades:**
+  - **Com efeito civil:** a cerimônia religiosa vale como casamento civil (CC, arts. 1.515 e 1.516). Exige habilitação prévia no Registro Civil das Pessoas Naturais (RCPN), celebração dentro do prazo de validade da certidão de habilitação (art. 1.532) e registro posterior no RCPN.
+  - **Sem efeito civil:** bênção matrimonial para casais já casados no civil, ou outras hipóteses que a doutrina da igreja admita.
+- **O Termo é o documento mais importante:** o Termo de Casamento Religioso (Modelo 2) segue os requisitos do art. 73 da Lei 6.015/1973: data e lugar, culto, nome e qualidade do celebrante, cartório e data da habilitação, qualificação dos contraentes e das testemunhas. É com ele que o celebrante ou qualquer interessado pede o registro civil (Modelo 3).
+- **Prazo do registro:** o Código Civil (art. 1.516, § 1º) fala em 90 dias da celebração, e a Lei 6.015 (art. 73) fala em 30 dias. **Confirme com o RCPN o prazo aplicado e se exige firma reconhecida do celebrante**, e protocole o quanto antes. Sem o registro, o casamento não produz efeitos civis e os noivos precisam de nova habilitação. Esses artigos foram citados sem conferência do texto, porque a base de legislação estava sem consultas.
+- **Cuidado do celebrante:** a cerimônia com efeito civil nunca pode ser realizada sem a certidão de habilitação conferida. O pedido de celebração (Modelo 1) já tem campo para essa conferência.
+- **O certificado religioso não prova casamento civil:** o Modelo 4 traz a ressalva de que a prova do casamento civil é a certidão do RCPN, e na modalidade sem efeito civil declara isso expressamente.
+- **Regras da igreja:** aconselhamento prévio, conformidade com a seção IX da Declaração de Fé e gratuidade, com ressarcimento de custos de espaço e serviços (Regimento, art. 48).
+- **Guarda:** o livro de casamentos tem guarda permanente, e a linha da Política de Privacidade foi ampliada para incluí-lo.

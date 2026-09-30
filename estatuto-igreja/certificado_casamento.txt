@@ -1,0 +1,105 @@
+# MODELOS PARA A CELEBRAÇÃO DE CASAMENTO RELIGIOSO
+![NOME COMPLETO DA IGREJA] – [SIGLA]
+!Código Civil, arts. 1.515 e 1.516 – Lei nº 6.015/1973, arts. 71 a 75 – Regimento Interno, art. <<cel>>
+
+## ORIENTAÇÕES DE USO
+I – A IGREJA celebra duas modalidades de cerimônia:
+%GRID 4,6,6
+Modalidade | Quando se aplica | Documentos
+Casamento religioso com efeito civil | Os noivos querem que a cerimônia religiosa valha também como casamento civil | Certidão de habilitação expedida pelo Registro Civil das Pessoas Naturais (RCPN), dentro do prazo de validade; Termo de Casamento Religioso (Modelo 2); requerimento de registro (Modelo 3); certificado (Modelo 4)
+Cerimônia religiosa sem efeito civil (bênção matrimonial) | Os noivos já se casaram no civil, ou [OUTRAS HIPÓTESES ADMITIDAS PELA DOUTRINA DA IGREJA] | Certidão de casamento civil, quando for o caso; certificado (Modelo 4) com a indicação de que não tem efeito civil
+%ENDGRID
+II – Para o efeito civil, a habilitação deve ser feita pelos noivos no RCPN antes da cerimônia (Código Civil, art. 1.516), e o casamento deve ser celebrado dentro do prazo de validade da certidão de habilitação (Código Civil, art. 1.532). O celebrante NÃO pode realizar a cerimônia com efeito civil sem a certidão de habilitação em mãos.
+III – Após a cerimônia, o registro civil deve ser promovido no prazo legal, mediante apresentação do Termo de Casamento Religioso ao RCPN que expediu a habilitação, pelo celebrante ou por qualquer interessado (Código Civil, art. 1.516, § 1º; Lei nº 6.015/1973, art. 73). Sem o registro no prazo, o ato não produz efeitos civis, e será necessária nova habilitação. Confira o prazo e as exigências atuais com o RCPN, inclusive quanto ao reconhecimento de firma do celebrante.
+IV – A celebração observa a seção IX da Declaração de Fé e o art. <<cel>> do Regimento Interno: é precedida de aconselhamento pastoral, realizada por ministro da IGREJA e gratuita, admitidos o ressarcimento de custos com espaços e serviços e contribuições voluntárias (Regimento, art. <<cel>>, § 3º).
+V – O Livro de Registro de Casamentos (Modelo 5) é conservado permanentemente, com acesso restrito (Política de Privacidade e Proteção de Dados). O certificado religioso (Modelo 4) não substitui a certidão de casamento emitida pelo RCPN, que é o único documento que prova o casamento civil.
+
+%PAGEBREAK
+## MODELO 1 – PEDIDO DE CELEBRAÇÃO DE CASAMENTO
+P Ao Conselho Ministerial da [NOME COMPLETO DA IGREJA].
+P Nós, [NOME COMPLETO DO(A) NOIVO(A) 1], CPF nº [NÚMERO], e [NOME COMPLETO DO(A) NOIVO(A) 2], CPF nº [NÚMERO], solicitamos a celebração de nosso casamento religioso em [DATA E HORÁRIO PRETENDIDOS], [NO TEMPLO DA SEDE / NA CONGREGAÇÃO (NOME) / EM (LOCAL EXTERNO)], na modalidade:
+P [ ] com efeito civil – declaramos que [JÁ PROMOVEMOS / PROMOVEREMOS] a habilitação perante o [Nº] Registro Civil das Pessoas Naturais de [CIDADE], e entregaremos a certidão de habilitação até [DATA, COM ANTECEDÊNCIA MÍNIMA DE 10 DIAS DA CERIMÔNIA];
+P [ ] sem efeito civil – [JÁ SOMOS CASADOS NO CIVIL DESDE (DATA), CONFORME CERTIDÃO ANEXA / OUTRA HIPÓTESE: (DESCREVER)].
+P Somos membros da IGREJA? [ ] Ambos [ ] Um de nós [ ] Nenhum. Ministro(a) celebrante desejado(a): [NOME].
+P Comprometemo-nos a participar do aconselhamento pré-nupcial definido pelo Conselho Ministerial e declaramos conhecer a Declaração de Fé da IGREJA, especialmente a sua seção IX.
+P USO DO TEMPLO E IMAGEM: [ ] Utilizaremos serviços da IGREJA (som, iluminação, limpeza, espaço para recepção), com o ressarcimento de custos informado pela Secretaria. [ ] Contrataremos fotógrafo ou filmagem próprios, que observarão as orientações da IGREJA. [ ] Autorizamos a transmissão da cerimônia nos canais da IGREJA.
+P Consentimos com o tratamento dos dados deste pedido para a organização da cerimônia, o seu registro e, se for o caso, o registro civil, nos termos da Política de Privacidade e Proteção de Dados da IGREJA.
+%DATE
+%SIGNS [NOME];Noivo(a)|[NOME];Noivo(a)
+P PARA USO DA IGREJA: aconselhamento realizado em [DATAS] por [NOME]; certidão de habilitação nº [NÚMERO], expedida em [DATA] pelo [RCPN], válida até [DATA], conferida por [NOME] em [DATA]; celebração deferida pelo Conselho Ministerial em [DATA].
+
+%PAGEBREAK
+## MODELO 2 – TERMO DE CASAMENTO RELIGIOSO (PARA REGISTRO CIVIL)
+!(Lei nº 6.015/1973, art. 73 – preencher sem rasuras e entregar ao RCPN que expediu a habilitação)
+P Aos [DIA POR EXTENSO] dias do mês de [MÊS] do ano de [ANO], às [HORA] horas, na [LOCAL DA CELEBRAÇÃO, COM ENDEREÇO COMPLETO], no Município de [CIDADE]/[UF], perante mim, [NOME COMPLETO DO CELEBRANTE], [QUALIDADE: PASTOR(A) / MINISTRO(A) DE CONFISSÃO RELIGIOSA] da [NOME COMPLETO DA IGREJA], culto [DENOMINAÇÃO RELIGIOSA/CONFISSÃO], e das testemunhas abaixo qualificadas, foi celebrado o casamento religioso de:
+%GRID 5,11
+CONTRAENTE 1 |
+Nome completo | [ ]
+Nacionalidade, estado civil anterior e profissão | [ ]
+Data e local de nascimento | [ ]
+Filiação | [ ]
+Residência | [ ]
+CONTRAENTE 2 |
+Nome completo | [ ]
+Nacionalidade, estado civil anterior e profissão | [ ]
+Data e local de nascimento | [ ]
+Filiação | [ ]
+Residência | [ ]
+%ENDGRID
+P que declararam, perante mim e as testemunhas, a vontade livre de estabelecer vínculo conjugal, tendo eu, em seguida, os declarado casados, na forma da lei e segundo o rito religioso.
+P Habilitação: certidão de habilitação para casamento religioso com efeito civil nº [NÚMERO], expedida em [DATA] pelo [Nº] Registro Civil das Pessoas Naturais de [CIDADE]/[UF], válida até [DATA]. Regime de bens: [CONFORME A CERTIDÃO DE HABILITAÇÃO]. Nomes que os contraentes passarão a usar: [CONFORME A CERTIDÃO DE HABILITAÇÃO].
+P Testemunhas:
+%GRID 5,11
+TESTEMUNHA 1 |
+Nome, nacionalidade e profissão | [ ]
+Residência | [ ]
+TESTEMUNHA 2 |
+Nome, nacionalidade e profissão | [ ]
+Residência | [ ]
+%ENDGRID
+P E, para constar, lavrei o presente termo, registrado no Livro de Registro de Casamentos nº [NÚMERO], folha [NÚMERO], que vai assinado por mim, pelos contraentes e pelas testemunhas.
+%SIGNS [NOME];Celebrante (firma reconhecida, se exigido pelo RCPN)|[NOME];Contraente 1|[NOME];Contraente 2|[NOME];Testemunha 1|[NOME];Testemunha 2
+
+%PAGEBREAK
+## MODELO 3 – REQUERIMENTO DE REGISTRO CIVIL DO CASAMENTO RELIGIOSO
+P Ilustríssimo(a) Senhor(a) Oficial do [Nº] Registro Civil das Pessoas Naturais de [CIDADE]/[UF].
+P [NOME COMPLETO DO CELEBRANTE], [QUALIDADE] da [NOME COMPLETO DA IGREJA], CNPJ nº [NÚMERO] [OU: (NOME DO INTERESSADO), CONTRAENTE], vem requerer o registro, com efeitos civis, do casamento religioso de [NOME DO CONTRAENTE 1] e [NOME DO CONTRAENTE 2], celebrado em [DATA], habilitados por esse Ofício conforme certidão nº [NÚMERO], de [DATA], nos termos do art. 1.516, § 1º, do Código Civil e do art. 73 da Lei nº 6.015/1973, apresentando o Termo de Casamento Religioso anexo.
+P Nestes termos, pede deferimento.
+%DATE
+%SIGNS [NOME];Requerente
+P PARA USO DA IGREJA: requerimento protocolado em [DATA], protocolo nº [NÚMERO]; registro civil efetuado em [DATA], matrícula/termo nº [NÚMERO]; cópia da certidão de casamento arquivada [SIM/NÃO].
+
+%PAGEBREAK
+## MODELO 4 – CERTIFICADO DE CASAMENTO RELIGIOSO
+![LOGOTIPO DA IGREJA]
+# [NOME COMPLETO DA IGREJA]
+!Certificado nº [NÚMERO]/[ANO] – Livro [NÚMERO], folha [NÚMERO]
+C CERTIFICADO DE CASAMENTO RELIGIOSO
+C Certificamos que
+C [NOME COMPLETO DO(A) CÔNJUGE 1]
+C e
+C [NOME COMPLETO DO(A) CÔNJUGE 2]
+C uniram-se em matrimônio perante Deus e esta comunidade,
+C em cerimônia religiosa realizada em [DIA] de [MÊS] de [ANO],
+C [NO TEMPLO DA SEDE / NA CONGREGAÇÃO (NOME) / EM (LOCAL)], [CIDADE]/[UF],
+C tendo como testemunhas [NOME] e [NOME].
+!"Assim, já não são dois, mas uma só carne. Portanto, o que Deus ajuntou não o separe o homem." (Mateus 19.6) [OU OUTRO VERSÍCULO ESCOLHIDO PELO CONSELHO MINISTERIAL]
+!Documento de natureza religiosa. [COM EFEITO CIVIL: O CASAMENTO FOI LEVADO A REGISTRO NO (Nº) RCPN DE (CIDADE)/(UF), E SUA PROVA CIVIL É A CERTIDÃO EMITIDA POR AQUELE OFÍCIO. / SEM EFEITO CIVIL: ESTA CERIMÔNIA NÃO PRODUZ EFEITOS CIVIS.]
+%DATE
+%SIGNS [NOME];Ministro(a) celebrante|[NOME];Pastor(a) Titular
+
+%PAGEBREAK
+## MODELO 5 – LIVRO DE REGISTRO DE CASAMENTOS RELIGIOSOS
+!Livro nº [NÚMERO] – aberto em [DATA] pelo(a) Pastor(a) Titular e pelo(a) 1º Secretário(a), com [NÚMERO] folhas numeradas
+%GRID 1.2,3.6,2.2,2,2.4,2.8,1.8
+Nº | Nomes dos cônjuges | Data e local | Efeito civil? | Celebrante | Testemunhas | Registro civil (RCPN, data e termo)
+[ ] | [ ] | [ ] | [SIM/NÃO] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+%ENDGRID
+P Observações e retificações (por anotação datada e assinada, vedada a rasura): [ ].
+P TERMO DE ENCERRAMENTO: Encerra-se este livro, contendo [NÚMERO] registros, em [DATA].
+%SIGNS [NOME];Pastor(a) Titular|[NOME];1º Secretário(a)
