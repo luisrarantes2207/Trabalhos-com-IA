@@ -21,6 +21,7 @@ Arquivos:
 - `Ata_Assembleia_Geral_Ordinaria_Igreja_ISAC.docx`: calendário preparatório, edital de convocação e modelo de ata da Assembleia Geral Ordinária, com lista de presença.
 - `Ata_Assembleia_Geral_Extraordinaria_Igreja_ISAC.docx`: tabela de matérias e quóruns, edital de convocação, modelo de ata da Assembleia Geral Extraordinária com módulos por matéria, lista de presença e termo de verificação de quórum.
 - `Ata_Parecer_Conselho_Fiscal_Igreja_ISAC.docx`: orientações, ata de reunião trimestral com roteiro de verificações, parecer anual sobre as contas, parecer específico e comunicação de constatação à Diretoria.
+- `Ata_Conselho_Ministerial_Igreja_ISAC.docx`: orientações, ata geral de reunião, ata reservada de instauração de procedimento disciplinar, notificação ao acusado, ata reservada de decisão e comunicação da decisão.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -341,3 +342,20 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Parecer específico:** um modelo único para todos os pareceres prévios exigidos: partes relacionadas, imóveis, endividamento, orçamento, despesa não prevista, sustento de ministro que integra a Diretoria e doação de imóvel. A análise segue um roteiro: vantagem para a igreja, preço de mercado, fonte de recursos, riscos e ausência de benefício indevido.
 - **Constatação de irregularidade:** comunicação formal à Diretoria, com prazo para resposta. Sem resposta satisfatória, o Conselho leva a matéria à Assembleia e pode recomendar o afastamento cautelar do dirigente envolvido (Estatuto, art. 30, parágrafo único).
 - **Limites de atuação:** o Conselho fiscaliza; não administra nem trata de matéria pastoral. Conselheiro com interesse pessoal na matéria se declara impedido e é substituído por suplente.
+
+## 24. Conselho Ministerial: atas e procedimento disciplinar
+
+- **Duas atas:**
+  - **Ata geral:** admissões, desligamentos, designação de líderes, credenciais, celebrações, orientações doutrinárias e mediação. A Diretoria e a Secretaria podem consultá-la para atualizar o Rol de Membros.
+  - **Ata reservada:** disciplina e assuntos pastorais, com acesso restrito.
+  Essa separação atende à LGPD, porque religião e disciplina são dados sensíveis, e ao sigilo pastoral previsto no Regimento.
+- **Aconselhamento:** as informações de aconselhamento não vão para a ata, salvo o mínimo necessário e com consentimento.
+- **Procedimento disciplinar completo, em quatro documentos:**
+  1. Ata de instauração: fatos descritos objetivamente, impedimentos, comissão de apuração e medida cautelar.
+  2. Notificação ao acusado, com todas as garantias do Regimento (acesso aos autos, 10 dias para defesa, testemunhas e acompanhante ou advogado).
+  3. Ata de decisão: fatos provados e não provados, análise da defesa e medida justificada pela proporcionalidade.
+  4. Comunicação da decisão, com o prazo de recurso à Assembleia.
+  Tribunais costumam anular exclusões de membros feitas sem defesa ou sem fundamentação, e esse roteiro previne isso.
+- **Violência contra vulneráveis:** a ata registra só a data e o protocolo da comunicação às autoridades, que deve ser imediata e não depende do procedimento interno.
+- **Acusação contra o Pastor Titular:** a sessão é presidida pelo ministro mais antigo, com comunicação ao Conselho Fiscal.
+- **Não exposição:** a comunicação à comunidade se limita ao estritamente necessário, sem expor o membro, o que reduz o risco de ação por dano moral.

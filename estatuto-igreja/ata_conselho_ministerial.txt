@@ -1,0 +1,74 @@
+# MODELOS DE ATA E DOCUMENTOS DO CONSELHO MINISTERIAL
+![NOME COMPLETO DA IGREJA] – [SIGLA]
+!Estatuto Social, art. [[cm]] – Regimento Interno, arts. <<cm1>>, <<adm1>> a <<pd7>> e <<ord>>
+
+## ORIENTAÇÕES DE USO
+I – O Conselho Ministerial é presidido pelo Pastor Titular, reúne-se ordinariamente [MENSALMENTE], delibera por maioria dos presentes, com quórum mínimo de metade de seus membros, e trata de matéria espiritual, doutrinária e eclesiástica; não tem competência sobre a gestão patrimonial e financeira (Estatuto, art. [[cm]] e parágrafo único; Regimento, art. <<cm1>>, § 1º).
+II – As deliberações serão registradas em dois tipos de ata: (a) ATA GERAL (Modelo 1), para admissões, desligamentos, designações de líderes, credenciais e orientações, que pode ser consultada pela Diretoria Executiva e pela Secretaria na medida necessária ao Rol de Membros; e (b) ATA RESERVADA (Modelos 2 e 4), para procedimentos disciplinares e assuntos pastorais, com acesso restrito aos membros do Conselho, ao interessado e a quem tiver interesse jurídico (Regimento, arts. <<cm1>>, § 1º, e <<pd7>>).
+III – Informações recebidas em aconselhamento pastoral não serão registradas em ata, salvo o estritamente necessário e com o consentimento do interessado, ressalvadas as comunicações obrigatórias por lei (Regimento, art. <<cm1>>, § 2º; Política de Privacidade, art. {{politica_privacidade:pastor}}).
+IV – Nenhum registro do Conselho substitui ou condiciona a comunicação às autoridades de suspeita de violência contra criança, adolescente, idoso ou pessoa com deficiência, que deve ser imediata (Regimento, art. <<pd6>>; Política de Proteção, art. {{politica_protecao:comun}}). Nesses casos, a ata reservada registra apenas a data e o protocolo da comunicação e as medidas cautelares adotadas.
+V – O integrante do Conselho que for acusado, vítima, testemunha, parente das partes ou tiver interesse no caso não participará da apuração nem do julgamento. Se o acusado for o Pastor Titular, o Conselho será presidido pelo ministro mais antigo, e o procedimento será acompanhado pelo Conselho Fiscal (Regimento, art. <<pd1>>, §§ 2º e 3º).
+VI – As atas e os autos serão arquivados pela Secretaria em local ou sistema com acesso restrito, pelo prazo do art. <<pd7>> do Regimento Interno.
+
+%PAGEBREAK
+## MODELO 1 – ATA GERAL DE REUNIÃO DO CONSELHO MINISTERIAL
+P ATA Nº [NÚMERO]/[ANO]. Aos [DIA] dias do mês de [MÊS] do ano de [ANO], às [HORA] horas, [NA SEDE DA IGREJA / POR MEIO ELETRÔNICO], reuniu-se [ORDINARIAMENTE / EXTRAORDINARIAMENTE] o Conselho Ministerial da [NOME COMPLETO DA IGREJA], sob a presidência do(a) Pastor(a) Titular, [NOME], com a presença de [NOMES E FUNÇÕES: PASTORES AUXILIARES, MINISTROS, (PRESBÍTEROS/OFICIAIS)], verificado o quórum mínimo de metade dos membros do Conselho (Regimento, art. <<cm1>>, § 1º). Após momento de oração, foram tratados os seguintes assuntos:
+P 1. ADMISSÃO DE MEMBROS (Estatuto, art. [[adm]]; Regimento, arts. <<adm1>> a <<adm4>>): após entrevista e verificação dos requisitos, foram admitidos:
+%GRID 6,3.5,3.5,3
+Nome | Modo de admissão | Requisitos verificados | Data da recepção
+[NOME] | [PROFISSÃO DE FÉ E BATISMO / TRANSFERÊNCIA / RECONCILIAÇÃO / ACLAMAÇÃO / JURISDIÇÃO] | [CLASSE DE PREPARAÇÃO, ENTREVISTA, DECLARAÇÃO DE ADESÃO, AUTORIZAÇÃO DOS PAIS SE MENOR, CARTA DE TRANSFERÊNCIA] | [DATA]
+[ ] | [ ] | [ ] | [ ]
+%ENDGRID
+P 2. DESLIGAMENTOS (Estatuto, art. [[disc]], I a IV; Regimento, art. <<aus>>): registram-se os desligamentos de [NOME], por [PEDIDO ESCRITO DE (DATA) / TRANSFERÊNCIA PARA (IGREJA) / FALECIMENTO EM (DATA) / AUSÊNCIA SUPERIOR A (PRAZO), APÓS NOTIFICAÇÃO DE (DATA) SEM MANIFESTAÇÃO OU COM MANIFESTAÇÃO NÃO ACOLHIDA]. [FOI EXPEDIDA CARTA DE TRANSFERÊNCIA A (NOME), A PEDIDO.] A Secretaria atualizará o Rol de Membros.
+P 3. MINISTÉRIOS E DEPARTAMENTOS (Regimento, art. <<mdep>>): foram designados, para mandato de [PRAZO], os seguintes líderes e vice-líderes: [MINISTÉRIO – NOMES]. [PARA OS MINISTÉRIOS COM CRIANÇAS E ADOLESCENTES: FOI CONFIRMADA, COM O(A) COORDENADOR(A) DE PROTEÇÃO, A HABILITAÇÃO DOS DESIGNADOS NOS TERMOS DA POLÍTICA DE PROTEÇÃO.]
+P 4. MINISTROS E OBREIROS (Estatuto, art. [[cm]], III; Regimento, art. <<ord>>): [APROVADA A RENOVAÇÃO DAS CREDENCIAIS DE (NOMES) PARA O ANO DE (ANO) / APROVADO, APÓS EXAME, O CANDIDATO (NOME) À (CONSAGRAÇÃO/ORDENAÇÃO), VERIFICADOS OS REQUISITOS DO ART. <<ord>> DO REGIMENTO INTERNO, COM CERIMÔNIA EM (DATA) E COMUNICAÇÃO À PRÓXIMA ASSEMBLEIA GERAL / RECEBIDO O MINISTRO (NOME), EM TRANSFERÊNCIA DE (IGREJA)].
+P 5. CELEBRAÇÕES E CALENDÁRIO: [CASAMENTOS, COM HABILITAÇÃO CIVIL E ACONSELHAMENTO PRÉVIO VERIFICADOS (REGIMENTO, ART. <<cel>>); BATISMOS; CEIA; EVENTOS ESPECIAIS].
+P 6. ORIENTAÇÕES DOUTRINÁRIAS E LITÚRGICAS (Estatuto, art. [[cm]], I e IV): [RESUMO DAS ORIENTAÇÕES APROVADAS, QUE NÃO PODERÃO CONTRARIAR A DECLARAÇÃO DE FÉ].
+P 7. MEDIAÇÃO INTERNA (Regimento, art. <<medi>>): [DESIGNADO(S) (NOME(S)) COMO MEDIADOR(ES) NO PEDIDO DE (DATA), COM A ANUÊNCIA DAS PARTES].
+P 8. COMUNICAÇÕES À DIRETORIA EXECUTIVA: [MATÉRIAS QUE DEPENDEM DE PROVIDÊNCIA ADMINISTRATIVA OU FINANCEIRA, SEM DADOS PASTORAIS, EX.: NECESSIDADE DE RECURSOS PARA MISSÕES, INDICAÇÃO DE CRIAÇÃO DE CONGREGAÇÃO].
+P 9. PROCEDIMENTOS RESERVADOS: registrou-se que foram tratados [NÚMERO] assuntos de natureza disciplinar ou pastoral, objeto de ata reservada.
+P Nada mais havendo, o(a) Pastor(a) Titular encerrou a reunião com oração, e foi lavrada a presente ata, assinada pelos presentes.
+%SIGNS [NOME];Pastor(a) Titular – Presidente do Conselho Ministerial|[NOME];Membro do Conselho Ministerial|[NOME];Membro do Conselho Ministerial
+
+%PAGEBREAK
+## MODELO 2 – ATA RESERVADA DE INSTAURAÇÃO DE PROCEDIMENTO DISCIPLINAR
+!(SIGILOSO – acesso restrito – Regimento Interno, art. <<pd7>>)
+P PROCEDIMENTO DISCIPLINAR Nº [NÚMERO]/[ANO]. Em [DATA], o Conselho Ministerial, reunido com a presença de [NOMES], tomou conhecimento de [REPRESENTAÇÃO ESCRITA DE (NOME OU "CANAL DE DENÚNCIAS") DE (DATA) / FATOS CONHECIDOS DE OFÍCIO] relativos a [NOME DO(A) MEMBRO], membro desde [DATA].
+P 1. DESCRIÇÃO SUMÁRIA DOS FATOS: [DESCRIÇÃO OBJETIVA: O QUÊ, QUANDO, ONDE, SEM ADJETIVOS NEM CONCLUSÕES]. Enquadramento provisório: [FALTA DO ART. <<fal>>, (INCISO), DO REGIMENTO INTERNO].
+P 2. IMPEDIMENTOS: [NENHUM INTEGRANTE DECLAROU IMPEDIMENTO / (NOME) DECLAROU-SE IMPEDIDO(A) POR (MOTIVO) E NÃO PARTICIPARÁ DO PROCEDIMENTO]. [SE O ACUSADO FOR O PASTOR TITULAR: A SESSÃO FOI PRESIDIDA POR (NOME), MINISTRO MAIS ANTIGO, E O CONSELHO FISCAL FOI COMUNICADO EM (DATA).]
+P 3. DELIBERAÇÕES: por [RESULTADO], o Conselho decidiu: (a) instaurar o procedimento disciplinar; (b) [DESIGNAR COMISSÃO DE APURAÇÃO COMPOSTA POR (NOMES), SEM IMPEDIMENTOS, COM PRAZO DE 30 (TRINTA) DIAS (REGIMENTO, ART. <<pd1>>, § 1º) / CONDUZIR DIRETAMENTE A APURAÇÃO]; (c) notificar o(a) acusado(a) na forma do Modelo 3; (d) [NÃO APLICAR MEDIDA CAUTELAR / AFASTAR CAUTELARMENTE O(A) ACUSADO(A) DAS SEGUINTES FUNÇÕES E ATIVIDADES, ATÉ A DECISÃO FINAL, EM RAZÃO DE (RISCO) (REGIMENTO, ART. <<pd5>>): (DESCREVER)].
+P 4. COMUNICAÇÃO ÀS AUTORIDADES [SE OS FATOS PUDEREM CONSTITUIR CRIME OU VIOLÊNCIA CONTRA VULNERÁVEL]: registra-se que a comunicação ao [CONSELHO TUTELAR / AUTORIDADE POLICIAL / OUTRO ÓRGÃO] foi realizada em [DATA], por [NOME], protocolo [NÚMERO] (Regimento, art. <<pd6>>).
+%SIGNS [NOME];Presidente da sessão|[NOME];Membro do Conselho Ministerial|[NOME];Membro do Conselho Ministerial
+
+%PAGEBREAK
+## MODELO 3 – NOTIFICAÇÃO AO(À) ACUSADO(A)
+!(Entregar pessoalmente, mediante recibo, ou pelo meio eletrônico cadastrado, com confirmação – Regimento Interno, art. <<praz>>, parágrafo único)
+P A(o) Sr.(a) [NOME]. Procedimento Disciplinar nº [NÚMERO]/[ANO].
+P O Conselho Ministerial da [NOME COMPLETO DA IGREJA] comunica a V. Sa. a instauração de procedimento disciplinar para apurar os seguintes fatos: [DESCRIÇÃO SUMÁRIA, IGUAL À DA ATA DE INSTAURAÇÃO], que, se confirmados, podem caracterizar a falta prevista no art. <<fal>>, [INCISO], do Regimento Interno.
+P Nos termos do art. [[disc]], § 2º, do Estatuto Social e do art. <<pd2>> do Regimento Interno, V. Sa. tem direito a: (a) acesso integral aos autos, na Secretaria, [DIAS E HORÁRIOS], ressalvados dados que possam expor vítima ou denunciante a risco; (b) apresentar defesa escrita ou oral no prazo de 10 (dez) dias do recebimento desta notificação, indicando até [3 (TRÊS)] testemunhas; (c) ser acompanhado(a), em todos os atos, por pessoa de sua confiança, inclusive advogado; e (d) presunção de boa-fé até a decisão final. A defesa oral, se preferida, será colhida em [DATA, HORA E LOCAL / DATA A AGENDAR].
+P [SE HOUVER MEDIDA CAUTELAR:] Comunica-se, ainda, o afastamento cautelar de V. Sa. das seguintes funções e atividades até a decisão final: [DESCREVER].
+P Não sendo apresentada defesa no prazo, o procedimento prosseguirá (Regimento, art. <<pd2>>, parágrafo único). O procedimento é sigiloso, e V. Sa. também deve preservar a intimidade das demais pessoas envolvidas.
+%DATE
+%SIGNS [NOME];Pastor(a) Titular – Presidente do Conselho Ministerial
+P Recebi esta notificação em [DATA]: ______________________________ [NOME DO(A) NOTIFICADO(A)]
+
+%PAGEBREAK
+## MODELO 4 – ATA RESERVADA DE DECISÃO DISCIPLINAR
+!(SIGILOSO – acesso restrito – Regimento Interno, art. <<pd7>>)
+P PROCEDIMENTO DISCIPLINAR Nº [NÚMERO]/[ANO]. Em [DATA], o Conselho Ministerial, reunido com a presença dos membros desimpedidos [NOMES], examinou os autos do procedimento instaurado em [DATA] em face de [NOME].
+P 1. REGULARIDADE DO PROCEDIMENTO: o(a) acusado(a) foi notificado(a) em [DATA]; [APRESENTOU DEFESA ESCRITA EM (DATA) / FOI OUVIDO(A) EM (DATA), ACOMPANHADO(A) DE (NOME) / NÃO APRESENTOU DEFESA, TENDO SIDO CERTIFICADA A REGULARIDADE DA NOTIFICAÇÃO]; foram ouvidas as testemunhas [NOMES OU "NENHUMA"]; [A COMISSÃO DE APURAÇÃO APRESENTOU RELATÓRIO EM (DATA)].
+P 2. FATOS CONSIDERADOS PROVADOS: [DESCRIÇÃO OBJETIVA, COM INDICAÇÃO DAS PROVAS QUE OS SUSTENTAM]. Fatos não provados: [DESCRIÇÃO OU "NENHUM"].
+P 3. ANÁLISE DA DEFESA: [RESUMO DOS ARGUMENTOS DA DEFESA E DAS RAZÕES PELAS QUAIS FORAM ACOLHIDOS OU NÃO].
+P 4. DECISÃO: por [NÚMERO] votos a [NÚMERO], o Conselho Ministerial decidiu [ARQUIVAR O PROCEDIMENTO, POR (INSUFICIÊNCIA DE PROVAS / INEXISTÊNCIA DE FALTA) / RECONHECER A PRÁTICA DA FALTA DO ART. <<fal>>, (INCISO), DO REGIMENTO INTERNO E APLICAR A MEDIDA DE (ADVERTÊNCIA ESCRITA / AFASTAMENTO DE (FUNÇÕES) POR (PRAZO) / SUSPENSÃO DOS DIREITOS DE MEMBRO EM PLENA COMUNHÃO POR (PRAZO) / EXCLUSÃO)] (Regimento, art. <<med>>), considerando a gravidade da falta, os antecedentes e as circunstâncias do caso, a saber: [FUNDAMENTAÇÃO DA PROPORCIONALIDADE]. [MEDIDA CAUTELAR: REVOGADA / MANTIDA ATÉ O TRÂNSITO DO RECURSO, SE HOUVER.]
+P 5. COMUNICAÇÃO E RECURSO: a decisão será comunicada por escrito e de forma reservada ao(à) interessado(a), com a informação de que dela cabe recurso à Assembleia Geral no prazo de 15 (quinze) dias da ciência, por petição dirigida ao Presidente da Diretoria Executiva (Estatuto, art. [[disc]], § 2º, IV; Regimento, art. <<pd4>>). À comunidade será comunicado, se necessário, apenas o afastamento de função ou a perda da condição de membro, em termos estritamente necessários (Regimento, art. <<med>>, § 1º). [ACOMPANHAMENTO PASTORAL OFERECIDO AO(À) INTERESSADO(A) E, SE HOUVER, À VÍTIMA: (DESCREVER).]
+%SIGNS [NOME];Presidente da sessão|[NOME];Membro do Conselho Ministerial|[NOME];Membro do Conselho Ministerial
+
+%PAGEBREAK
+## MODELO 5 – COMUNICAÇÃO DE DECISÃO AO(À) INTERESSADO(A)
+P A(o) Sr.(a) [NOME]. Procedimento Disciplinar nº [NÚMERO]/[ANO].
+P Comunicamos a V. Sa. que o Conselho Ministerial da [NOME COMPLETO DA IGREJA], em reunião de [DATA], decidiu [DISPOSITIVO DA DECISÃO], pelos fundamentos constantes da ata reservada, cuja cópia segue anexa.
+P Da decisão cabe recurso à Assembleia Geral, no prazo de 15 (quinze) dias do recebimento desta comunicação, por petição dirigida ao(à) Presidente da Diretoria Executiva, que será julgado em sessão reservada, com direito de sustentação oral (Regimento Interno, art. <<pd4>>). O recurso não impede o cumprimento da medida, salvo quanto aos efeitos previstos no Estatuto Social.
+P Reafirmamos nossa disposição de acompanhá-lo(a) pastoralmente, se assim desejar.
+%DATE
+%SIGNS [NOME];Pastor(a) Titular – Presidente do Conselho Ministerial
+P Recebi esta comunicação e a cópia da decisão em [DATA]: ______________________________ [NOME]
