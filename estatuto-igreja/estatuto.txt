@@ -356,5 +356,61 @@ ART[vig] Este Estatuto, aprovado pela Assembleia Geral realizada em [DIA] de [M�
 
 %SIGN
 
-## ANEXO I – DECLARAÇÃO DE FÉ
-!(A ser redigida e aprovada pela Assembleia Geral, contendo os fundamentos doutrinários da IGREJA: Escrituras Sagradas, Deus, salvação, sacramentos ou ordenanças, igreja, ética e vida cristã, e demais pontos que a comunidade entenda essenciais.)
+%PAGEBREAK
+## ANEXO I – DECLARAÇÃO DE FÉ DA [NOME COMPLETO DA IGREJA]
+!Parte integrante do Estatuto Social (art. [[dfe]]), alterável somente na forma do art. [[qref]], § 1º, I.
+
+### PREÂMBULO
+P A [NOME COMPLETO DA IGREJA], no exercício da liberdade de crença e de culto assegurada pelo art. 5º, VI, da Constituição Federal e da autonomia de organização reconhecida às organizações religiosas pelo art. 44, § 1º, do Código Civil, declara publicamente, por meio deste documento, os fundamentos de sua fé, que orientam seu culto, seu ensino, sua disciplina, sua missão e a vida de seus membros e ministros. Esta Declaração expressa convicções religiosas sinceramente professadas e não se destina a ofender, excluir ou discriminar qualquer pessoa, a quem a IGREJA estende respeito, acolhimento e o anúncio do Evangelho.
+
+### I – DAS ESCRITURAS SAGRADAS
+P Cremos que a Bíblia Sagrada, composta pelos 39 livros do Antigo Testamento e pelos 27 livros do Novo Testamento, é a Palavra de Deus, divinamente inspirada, infalível e suficiente, constituindo a única regra de fé e prática da IGREJA e o critério supremo pelo qual devem ser julgadas todas as doutrinas, tradições e condutas (2 Timóteo 3.16-17; 2 Pedro 1.20-21; Salmo 119.105).
+
+### II – DE DEUS
+P Cremos em um só Deus, eterno, onipotente, onisciente, onipresente, santo, justo e amoroso, Criador e Sustentador de todas as coisas, que subsiste eternamente em três pessoas distintas e iguais em essência, poder e glória: o Pai, o Filho e o Espírito Santo (Deuteronômio 6.4; Mateus 28.19; 2 Coríntios 13.13).
+
+### III – DE JESUS CRISTO
+P Cremos em Jesus Cristo, o Filho unigênito de Deus, verdadeiro Deus e verdadeiro homem, concebido pelo Espírito Santo e nascido da virgem Maria; que viveu sem pecado, morreu na cruz em lugar dos pecadores, ressuscitou corporalmente ao terceiro dia, subiu aos céus, intercede pelos seus e voltará pessoal e visivelmente para julgar os vivos e os mortos. Cremos que Ele é o único mediador entre Deus e os homens e o Senhor e Cabeça da Igreja (João 1.1-14; 1 Coríntios 15.3-4; 1 Timóteo 2.5; Atos 1.11; Efésios 1.22).
+
+### IV – DO ESPÍRITO SANTO
+P Cremos no Espírito Santo, terceira pessoa da Trindade, que convence o mundo do pecado, da justiça e do juízo, regenera, habita, santifica, consola, guia e capacita os crentes para a vida cristã e para o serviço, concedendo-lhes dons espirituais para a edificação da Igreja (João 16.8-13; Romanos 8.9-16; 1 Coríntios 12.4-11).
+P [OPÇÃO PENTECOSTAL/CARISMÁTICA:] Cremos no batismo no Espírito Santo como experiência distinta e posterior à conversão, e na atualidade de todos os dons espirituais, inclusive o falar em línguas, a profecia e os dons de cura, exercidos com ordem e submetidos às Escrituras (Atos 2.1-4; 1 Coríntios 14.26-40). [OPÇÃO TRADICIONAL: suprimir este parágrafo ou substituí-lo por redação própria.]
+
+### V – DO SER HUMANO E DO PECADO
+P Cremos que o ser humano foi criado por Deus, à sua imagem e semelhança, homem e mulher, dotado de dignidade inviolável desde a concepção; que, pela desobediência, toda a humanidade caiu em pecado e ficou separada de Deus, sendo incapaz de salvar-se por seus próprios méritos (Gênesis 1.26-27; Romanos 3.23; Efésios 2.1-3).
+
+### VI – DA SALVAÇÃO
+P Cremos que a salvação é dom gratuito de Deus, recebido exclusivamente pela graça, mediante a fé em Jesus Cristo, e não por obras, méritos, contribuições ou ritos; que todo aquele que se arrepende de seus pecados e crê em Cristo é justificado, regenerado e adotado como filho de Deus; e que a verdadeira fé se manifesta em boas obras e em uma vida de santificação (João 3.16; Romanos 5.1; Efésios 2.8-10; Tiago 2.17).
+P Em consequência, a IGREJA declara que nenhum dízimo, oferta ou contribuição confere salvação, bênção condicionada ou posição espiritual, sendo sempre voluntários, fruto de gratidão e de fidelidade a Deus (2 Coríntios 9.7).
+
+### VII – DA IGREJA
+P Cremos que a Igreja universal é o corpo de Cristo, formado por todos os que foram salvos por Ele, e que a igreja local é a comunidade de crentes que se reúnem regularmente para o culto, a comunhão, o ensino da Palavra, a oração, a administração das ordenanças, o serviço e a proclamação do Evangelho, governando-se na forma de seu Estatuto (Atos 2.42-47; Efésios 4.11-16; 1 Coríntios 12.12-27).
+
+### VIII – DAS ORDENANÇAS [OU SACRAMENTOS]
+P Cremos que Cristo instituiu duas ordenanças a serem observadas pela Igreja até a sua volta:
+I – o Batismo, símbolo público da identificação do crente com Cristo em sua morte e ressurreição, administrado em nome do Pai, do Filho e do Espírito Santo, [POR IMERSÃO, AOS QUE FIZEREM PÚBLICA PROFISSÃO DE FÉ / OU FORMA ADOTADA PELA IGREJA] (Mateus 28.19; Romanos 6.3-4);
+II – a Ceia do Senhor, memorial da morte de Cristo e expressão da comunhão dos crentes, celebrada com pão e fruto da videira, [FRANQUEADA AOS MEMBROS E A CRISTÃOS DE OUTRAS COMUNIDADES EM COMUNHÃO COM SUAS IGREJAS / OU CRITÉRIO ADOTADO PELA IGREJA] (1 Coríntios 11.23-29).
+
+### IX – DO CASAMENTO E DA FAMÍLIA
+P Cremos que a família é instituição criada por Deus e que o casamento, segundo as Escrituras, é a união exclusiva e permanente entre um homem e uma mulher, fundada no amor, na fidelidade e no respeito mútuo, sendo o ambiente próprio para a expressão da sexualidade (Gênesis 2.24; Mateus 19.4-6; Hebreus 13.4).
+P Em respeito à sua convicção religiosa, os ministros da IGREJA somente celebrarão cerimônias religiosas de casamento e os templos da IGREJA somente serão cedidos para tais cerimônias quando conformes a esta Declaração, sem prejuízo do respeito devido a todas as pessoas e do cumprimento da legislação civil, que a IGREJA reconhece como esfera própria do Estado.
+
+### X – DA VIDA CRISTÃ E DA ÉTICA
+P Cremos que o cristão é chamado a viver em santidade, amor, justiça, honestidade e humildade; a amar a Deus sobre todas as coisas e ao próximo como a si mesmo; a zelar pela vida e pela dignidade de toda pessoa; a proteger crianças, idosos e vulneráveis; a administrar com fidelidade os bens que possui; a trabalhar com diligência; e a cumprir as leis e respeitar as autoridades constituídas, naquilo que não contrarie a consciência formada pela Palavra de Deus (Mateus 22.37-39; Miquéias 6.8; Romanos 13.1-7; Atos 5.29).
+P A IGREJA repudia toda forma de violência, abuso, discriminação, exploração e corrupção, e compromete-se com a transparência e a integridade na gestão dos recursos que lhe são confiados.
+
+### XI – DA MISSÃO
+P Cremos que a Igreja foi comissionada por Cristo a anunciar o Evangelho a todas as pessoas, fazer discípulos, ensinar a Palavra e servir ao próximo por meio de obras de misericórdia, assistência e promoção humana, como expressão concreta do amor de Deus, sem qualquer discriminação quanto aos que recebem esse serviço (Mateus 28.18-20; Mateus 25.35-40; Gálatas 6.10).
+
+### XII – DAS ÚLTIMAS COISAS
+P Cremos na volta pessoal de Jesus Cristo, na ressurreição dos mortos, no juízo final, na vida eterna com Deus para os salvos e na separação eterna de Deus para os que rejeitarem a sua graça, e na consumação de todas as coisas em novos céus e nova terra (1 Tessalonicenses 4.13-17; Apocalipse 20.11-15; 21.1-4).
+
+### XIII – DA RELIGIOSIDADE E DA LIBERDADE DE CONSCIÊNCIA
+P A IGREJA defende a liberdade religiosa e de consciência de todas as pessoas, inclusive daquelas que não compartilham sua fé, e rejeita qualquer forma de coerção em matéria religiosa. A adesão a esta Declaração é livre e pessoal, sendo condição para a admissão e permanência como membro, bem como para o exercício de ministério e de cargos na IGREJA.
+
+### XIV – DA APLICAÇÃO DESTA DECLARAÇÃO
+P Esta Declaração de Fé:
+I – é o fundamento doutrinário do culto, do ensino, da disciplina, da ordenação de ministros e da atuação de todos os órgãos da IGREJA;
+II – será interpretada, em matéria doutrinária, pelo Conselho Ministerial, com recurso à Assembleia Geral, nos termos do Estatuto;
+III – não abrange nem pretende exaurir todos os aspectos da fé cristã, podendo o Conselho Ministerial editar orientações doutrinárias complementares, que não poderão contrariá-la;
+IV – prevalece, em matéria de fé e doutrina, sobre quaisquer normas internas, e somente poderá ser alterada pela Assembleia Geral, na forma do art. [[qref]], § 1º, I, do Estatuto.

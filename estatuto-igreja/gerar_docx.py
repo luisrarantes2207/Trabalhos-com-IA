@@ -66,6 +66,10 @@ for line in src:
         k = re.match(r"ART\[(\w+)\]\s*", line)
         n = nums[k.group(1)]
         para(line[k.end():], bold_prefix=f"Art. {label(n)}{'.' if n >= 10 else ''} ")
+    elif line.startswith("%PAGEBREAK"):
+        doc.add_page_break()
+    elif line.startswith("P "):
+        p = para(line[2:]); p.paragraph_format.first_line_indent = Cm(1.25)
     elif line.startswith("%SIGN"):
         para("[CIDADE]/[UF], [DIA] de [MÊS] de [ANO].", align=WD_ALIGN_PARAGRAPH.RIGHT).paragraph_format.space_before = Pt(18)
         for nome, cargo in [("[NOME DO PRESIDENTE DA ASSEMBLEIA]", "Presidente da Assembleia"),

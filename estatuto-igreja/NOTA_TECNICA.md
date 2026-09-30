@@ -36,11 +36,11 @@ Arquivos:
 9. **Devido processo para exclusão de membros**, com defesa e recurso à Assembleia (CC, art. 57), preservando a autonomia doutrinária da igreja (art. 3º).
 10. **Congregações/filiais** sem personalidade jurídica própria. Os bens das congregações pertencem à igreja, e uma congregação que se separar não leva patrimônio.
 11. **LGPD** (a convicção religiosa é dado sensível), **proteção de crianças e vulneráveis** e **proibição de uso político-eleitoral**.
-12. **Anexo I – Declaração de Fé**, protegido por quórum de 3/4.
+12. **Anexo I – Declaração de Fé**, redigida (14 seções), protegida por quórum de 3/4. Segue a linha cristã evangélica e tem alternativas entre colchetes para o parágrafo pentecostal/carismático, a forma do batismo e quem pode participar da Ceia. A seção IX (casamento) inclui uma cláusula que permite à igreja recusar celebrações contrárias à sua fé, com respeito às pessoas e à lei civil. A seção XIV liga a Declaração ao Estatuto: ela é interpretada pelo Conselho Ministerial, com recurso à Assembleia.
 
 ## 3. Campos a preencher (entre [COLCHETES])
 
-Nome e sigla, endereço, prazo de carência para membro votante, prazos de mandato e número de reconduções, a opção sobre o Pastor Titular (membro nato ou eleito como Presidente; mandato fixo ou prazo indeterminado), o limite de endividamento (% da receita), o valor de receita que obriga à auditoria, o número mínimo de membros que impede a dissolução, a entidade que recebe o patrimônio na dissolução, e o texto da Declaração de Fé.
+Nome e sigla, endereço, prazo de carência para membro votante, prazos de mandato e número de reconduções, a opção sobre o Pastor Titular (membro nato ou eleito como Presidente; mandato fixo ou prazo indeterminado), o limite de endividamento (% da receita), o valor de receita que obriga à auditoria, o número mínimo de membros que impede a dissolução, a entidade que recebe o patrimônio na dissolução, e as opções doutrinárias da Declaração de Fé (seção IV, parágrafo pentecostal; seção VIII, batismo e Ceia).
 
 ## 4. Checklist após a aprovação
 
