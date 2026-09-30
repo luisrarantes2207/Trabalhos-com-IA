@@ -1,0 +1,301 @@
+# REGIMENTO INTERNO DA [NOME COMPLETO DA IGREJA] – [SIGLA]
+!Aprovado pela Assembleia Geral em [DATA], nos termos do art. [[reg]] e do art. [[agc]], X, do Estatuto Social
+
+## TÍTULO I – DISPOSIÇÕES PRELIMINARES
+
+RART[obj] Este Regimento Interno disciplina o funcionamento da [NOME COMPLETO DA IGREJA], doravante IGREJA, em complemento ao seu Estatuto Social, especialmente quanto à admissão e à disciplina de membros, às Assembleias e eleições, ao funcionamento dos órgãos, dos ministérios, dos departamentos e das congregações, aos procedimentos financeiros e patrimoniais, à integridade, à proteção de vulneráveis, à proteção de dados e à mediação interna.
+
+RART[hier] Na aplicação deste Regimento observar-se-á a seguinte ordem de prevalência:
+I – a Constituição Federal e a legislação;
+II – o Estatuto Social;
+III – a Declaração de Fé, em matéria de fé, doutrina e disciplina eclesiástica;
+IV – este Regimento Interno;
+V – as normas complementares aprovadas pela Diretoria Executiva ou, em matéria religiosa, pelo Conselho Ministerial.
+Parágrafo único. É nula a disposição deste Regimento ou de norma complementar que contrarie o Estatuto Social ou a Declaração de Fé.
+
+RART[praz] Os prazos deste Regimento contam-se em dias corridos, excluído o dia do início e incluído o do vencimento, prorrogando-se para o primeiro dia útil seguinte o prazo que vencer em sábado, domingo ou feriado.
+Parágrafo único. Consideram-se válidas as comunicações feitas por escrito, entregues pessoalmente mediante recibo, ou enviadas ao endereço eletrônico ou ao número de telefone cadastrado pelo membro, com confirmação de recebimento.
+
+## TÍTULO II – DOS MEMBROS
+
+### Capítulo I – Da admissão
+
+RART[adm1] A admissão por profissão de fé e batismo (Estatuto, art. [[adm]], I) observará as seguintes etapas:
+I – manifestação de interesse pelo candidato a um ministro ou oficial da IGREJA;
+II – participação em classe de preparação ou discipulado, com duração mínima de [4 (QUATRO)] encontros, na qual serão apresentados a Declaração de Fé, o Estatuto Social e este Regimento;
+III – entrevista com pelo menos 2 (dois) integrantes do Conselho Ministerial;
+IV – deliberação do Conselho Ministerial, registrada em ata;
+V – celebração do batismo ou do rito equivalente e apresentação pública do novo membro.
+§ 1º O candidato menor de 18 (dezoito) anos somente será admitido com autorização escrita de pelo menos um de seus pais ou responsáveis legais, arquivada na Secretaria.
+§ 2º Ninguém será admitido sem declarar, por escrito ou perante o Conselho Ministerial, que professa a Declaração de Fé e aceita o Estatuto Social e este Regimento.
+
+RART[adm2] A admissão por transferência (Estatuto, art. [[adm]], II) dar-se-á mediante carta de transferência ou de recomendação emitida por comunidade da mesma fé, seguida de entrevista e de deliberação do Conselho Ministerial.
+Parágrafo único. Solicitada a carta pelo interessado e não sendo ela fornecida em 60 (sessenta) dias, o Conselho Ministerial poderá admiti-lo por aclamação, na forma do art. {{adm4}}.
+
+RART[adm3] A admissão por reconciliação (Estatuto, art. [[adm]], III) aplica-se a quem tenha sido excluído da IGREJA e dependerá de pedido escrito do interessado, de manifestação de arrependimento, quando o motivo da exclusão o exigir, de reparação de eventual dano causado à IGREJA e de deliberação do Conselho Ministerial.
+
+RART[adm4] Admite-se por aclamação, após entrevista e deliberação do Conselho Ministerial, quem comprovar, por testemunho de pelo menos 2 (dois) membros em plena comunhão ou por outro meio idôneo, ter sido membro de comunidade da mesma fé, quando não for possível obter carta de transferência.
+Parágrafo único. Admite-se por jurisdição o membro de congregação ou comunidade que venha a ser incorporada à IGREJA, mediante deliberação do Conselho Ministerial e relação nominal aprovada pela Diretoria Executiva.
+
+RART[rol] O Rol de Membros (Estatuto, art. [[adm]], § 1º), mantido pelo 1º Secretário em livro ou sistema eletrônico com controle de acesso, conterá somente os dados necessários à vida religiosa e institucional: nome, data de nascimento, CPF, endereço, telefone e endereço eletrônico, modo e data de admissão, categoria, funções exercidas, medidas disciplinares e data e motivo do desligamento.
+§ 1º A Secretaria atualizará anualmente a categoria de cada membro (Estatuto, art. [[cat]]), com base nos dados de admissão e nas medidas disciplinares registradas, e publicará, até 15 (quinze) dias antes de cada Assembleia Geral, a relação dos membros em plena comunhão aptos a votar.
+§ 2º Qualquer membro poderá impugnar a relação de que trata o § 1º, por escrito, até 5 (cinco) dias antes da Assembleia, cabendo ao Conselho Ministerial decidir antes da sua instalação.
+
+RART[aus] Para os fins do art. [[disc]], IV, do Estatuto Social, o Conselho Ministerial verificará anualmente os membros ausentes das atividades da IGREJA por mais de [12 (DOZE)] meses consecutivos e os notificará para manifestação em 15 (quinze) dias, antes de deliberar sobre o desligamento.
+Parágrafo único. Não se considera injustificada a ausência motivada por doença, idade avançada, mudança temporária de domicílio, trabalho, estudo ou outra causa relevante comunicada à IGREJA.
+
+## TÍTULO III – DA DISCIPLINA ECLESIÁSTICA
+
+### Capítulo I – Das faltas e medidas disciplinares
+
+RART[fal] Considera-se conduta incompatível com os princípios éticos e doutrinários da IGREJA, para os fins do art. [[disc]], § 1º, II, do Estatuto Social:
+I – a prática reiterada e não abandonada, após admoestação pastoral, de conduta contrária aos princípios da Declaração de Fé;
+II – a violência física, psicológica, sexual, patrimonial ou moral, inclusive no âmbito doméstico e familiar;
+III – qualquer forma de abuso, assédio ou exploração de criança, adolescente, idoso ou pessoa vulnerável;
+IV – o assédio moral ou sexual no âmbito das atividades da IGREJA;
+V – a fraude, o estelionato, a apropriação indevida ou o uso pessoal de bens e recursos da IGREJA ou de terceiros;
+VI – a difusão deliberada de informações falsas que ofendam a honra de membros, ministros ou dirigentes, ou o nome da IGREJA;
+VII – a promoção de divisão ou a arregimentação de membros com o propósito de desviar a IGREJA de sua Declaração de Fé ou de apropriar-se de seu patrimônio;
+VIII – a utilização da IGREJA, de seus bens, cadastros ou meios de comunicação para fins político-partidários ou comerciais particulares;
+IX – a condenação criminal transitada em julgado por crime doloso incompatível com a vida cristã, conforme avaliação do Conselho Ministerial.
+Parágrafo único. As faltas previstas nos incisos II a V e VII constituem justa causa para exclusão, sem prejuízo das demais hipóteses do art. [[disc]], § 1º, do Estatuto Social.
+
+RART[med] São medidas disciplinares, aplicáveis de forma proporcional à gravidade da falta, aos antecedentes do membro e às circunstâncias do caso:
+I – admoestação pastoral reservada, sem caráter de sanção formal e sem registro no Rol de Membros;
+II – advertência escrita;
+III – afastamento de funções, cargos de liderança ou ministérios, por prazo de até [12 (DOZE)] meses;
+IV – suspensão dos direitos de membro em plena comunhão, por prazo de até [12 (DOZE)] meses;
+V – exclusão.
+§ 1º As medidas disciplinares serão sempre comunicadas de forma reservada, sendo vedada a exposição pública do membro ou dos fatos, sem prejuízo da comunicação à comunidade, em termos estritamente necessários, do afastamento de função ou da perda da condição de membro.
+§ 2º O cumprimento da medida e o arrependimento do membro poderão, a critério do Conselho Ministerial, abreviar o prazo das medidas dos incisos III e IV.
+
+### Capítulo II – Do procedimento disciplinar
+
+RART[pd1] O procedimento disciplinar será instaurado pelo Conselho Ministerial, de ofício ou mediante representação escrita de qualquer membro, dirigente ou do canal de denúncias (art. {{den}}), por decisão que descreverá sumariamente os fatos.
+§ 1º O Conselho Ministerial poderá designar comissão de apuração composta por 3 (três) membros em plena comunhão, que não tenham interesse no caso nem relação de parentesco até o terceiro grau com as partes, para colher provas e ouvir testemunhas no prazo de 30 (trinta) dias, prorrogável uma vez por igual período.
+§ 2º Estão impedidos de participar da apuração e do julgamento o representante, a vítima, as testemunhas e quem tenha interesse pessoal no caso ou seja cônjuge, companheiro ou parente, até o terceiro grau, do acusado ou da vítima.
+§ 3º Quando o acusado for integrante do Conselho Ministerial, não participará das deliberações do caso; quando for o Pastor Titular, o Conselho Ministerial será presidido pelo ministro mais antigo e o procedimento será acompanhado pelo Conselho Fiscal.
+
+RART[pd2] Ao acusado são asseguradas as garantias do art. [[disc]], § 2º, do Estatuto Social, e ainda:
+I – o acesso integral aos autos do procedimento, ressalvados os dados que possam expor vítima ou denunciante a risco;
+II – a apresentação de defesa escrita ou oral no prazo de 10 (dez) dias da notificação, com indicação de até [3 (TRÊS)] testemunhas;
+III – o acompanhamento, em todos os atos, por pessoa de sua confiança, membro ou não da IGREJA, inclusive advogado;
+IV – a presunção de boa-fé até a decisão final.
+Parágrafo único. Não comparecendo o acusado nem apresentando defesa, o procedimento prosseguirá, após certificada a regularidade da notificação.
+
+RART[pd3] Concluída a instrução, o Conselho Ministerial decidirá em até 30 (trinta) dias, por maioria de seus membros desimpedidos, em decisão escrita e fundamentada, que indicará os fatos considerados provados, a falta caracterizada e a medida aplicada, e será comunicada ao acusado com a informação do prazo de recurso.
+
+RART[pd4] Da decisão que aplicar advertência escrita, afastamento, suspensão ou exclusão caberá recurso à Assembleia Geral no prazo de 15 (quinze) dias da ciência (Estatuto, art. [[disc]], § 2º, IV), por petição dirigida ao Presidente da Diretoria Executiva.
+§ 1º O recurso será julgado na primeira Assembleia Geral que se realizar ou em Assembleia Extraordinária convocada para esse fim no prazo de até 90 (noventa) dias da interposição.
+§ 2º O julgamento será feito em sessão reservada aos membros em plena comunhão, sem a presença de visitantes e sem transmissão ou gravação pública, facultada ao recorrente a sustentação oral por até 15 (quinze) minutos, após a exposição do relator designado pelo Conselho Ministerial, e a votação será secreta.
+§ 3º A Assembleia poderá manter, reduzir ou anular a medida aplicada, vedado o seu agravamento.
+
+RART[pd5] Havendo notícia de falta grave que envolva risco a criança, adolescente, idoso, pessoa vulnerável, ao patrimônio da IGREJA ou à integridade de pessoas, o Conselho Ministerial poderá, desde a instauração, afastar cautelarmente o acusado de funções, ministérios ou atividades, por decisão fundamentada, até a decisão final.
+
+RART[pd6] O procedimento disciplinar não substitui nem condiciona a atuação das autoridades públicas. Quando os fatos puderem constituir crime ou violência contra criança, adolescente, idoso ou pessoa vulnerável, a IGREJA fará as comunicações exigidas por lei, na forma do art. {{prot}}, independentemente do andamento ou da conclusão do procedimento interno.
+
+RART[pd7] Os autos do procedimento disciplinar serão sigilosos e arquivados pela Secretaria, com acesso restrito ao Conselho Ministerial, ao acusado e a quem tiver interesse jurídico, pelo prazo mínimo de [10 (DEZ)] anos.
+
+## TÍTULO IV – DAS ASSEMBLEIAS GERAIS
+
+RART[ag1] Instalada a Assembleia Geral (Estatuto, arts. [[quo]] e [[qref]]), os trabalhos obedecerão à seguinte ordem:
+I – abertura e momento devocional;
+II – verificação da presença e do quórum, à vista da lista de presença;
+III – leitura da ordem do dia;
+IV – discussão e votação de cada item, na ordem do edital;
+V – encerramento e lavratura da ata.
+Parágrafo único. Somente os membros em plena comunhão constantes da relação de que trata o art. {{rol}}, § 1º, assinarão a lista de presença de votantes; os demais presentes poderão acompanhar os trabalhos, sem direito a voto ou a palavra, salvo autorização do presidente da sessão.
+
+RART[ag2] O uso da palavra dependerá de inscrição perante a mesa, pelo prazo de até [3 (TRÊS)] minutos por orador em cada item, prorrogável a critério do presidente da sessão, garantida a manifestação de posições contrárias.
+§ 1º A questão de ordem, relativa à aplicação do Estatuto ou deste Regimento, poderá ser suscitada a qualquer tempo e será decidida pelo presidente da sessão, cabendo recurso imediato ao plenário.
+§ 2º O presidente da sessão poderá suspender a palavra de quem se manifestar de forma ofensiva ou estranha ao item em discussão.
+
+RART[ag3] As votações serão:
+I – simbólicas, pela manifestação visível dos presentes, como regra;
+II – nominais, quando requerido por 1/10 (um décimo) dos presentes ou determinado pelo presidente da sessão;
+III – secretas, obrigatoriamente, nas eleições em que houver mais de um candidato ou chapa, nas destituições e no julgamento de recursos disciplinares, e facultativamente quando requerido por 1/5 (um quinto) dos presentes.
+§ 1º Nas votações que exigirem quórum qualificado (Estatuto, art. [[qref]]), os votos serão contados e o resultado numérico constará da ata.
+§ 2º O presidente da sessão designará 2 (dois) escrutinadores entre os presentes para a apuração das votações secretas e nominais.
+
+RART[ag4] Nas Assembleias realizadas por meio eletrônico ou híbrido (Estatuto, art. [[elet]]):
+I – o acesso à plataforma será individual, mediante cadastro prévio com validação do CPF e envio de credencial pessoal ao endereço eletrônico ou ao telefone cadastrado;
+II – a presença será registrada eletronicamente, com relatório de acesso anexado à ata;
+III – a manifestação será feita por áudio e vídeo ou por mensagem escrita registrada na plataforma, e a votação por ferramenta que identifique o votante e assegure o sigilo quando exigido;
+IV – eventual falha técnica que impeça a participação de mais de 10% (dez por cento) dos presentes acarretará a suspensão da sessão até o restabelecimento ou o seu adiamento.
+
+RART[ag5] A ata será lida e aprovada ao final da própria Assembleia ou, não sendo possível, lavrada em até 15 (quinze) dias e submetida à aprovação da Assembleia seguinte, ficando à disposição dos membros na Secretaria desde a sua lavratura; quando sujeita a registro, será levada ao cartório em até 30 (trinta) dias da aprovação.
+
+## TÍTULO V – DAS ELEIÇÕES
+
+RART[el1] As eleições para a Diretoria Executiva e o Conselho Fiscal serão conduzidas por Comissão Eleitoral composta por 3 (três) membros em plena comunhão, designados pela Diretoria Executiva até 60 (sessenta) dias antes da Assembleia eleitoral, vedada a participação de candidatos e de seus cônjuges, companheiros ou parentes até o terceiro grau.
+
+RART[el2] O processo eleitoral observará o seguinte calendário:
+I – publicação do edital das eleições, com os cargos, requisitos e prazos, até 45 (quarenta e cinco) dias antes da Assembleia;
+II – inscrição de candidaturas até 20 (vinte) dias antes da Assembleia;
+III – publicação das candidaturas deferidas até 15 (quinze) dias antes da Assembleia, juntamente com o edital de convocação;
+IV – impugnação de candidaturas por qualquer membro em plena comunhão em até 3 (três) dias da publicação, com decisão da Comissão Eleitoral em igual prazo e recurso, sem efeito suspensivo, à Assembleia.
+Parágrafo único. O pedido de inscrição será instruído com a qualificação completa do candidato e a declaração de que preenche os requisitos do art. [[req]] do Estatuto Social, acompanhada das certidões criminais das Justiças Estadual e Federal do domicílio do candidato.
+
+RART[el3] A Diretoria Executiva será eleita por chapa completa, com indicação do candidato a cada cargo, e o Conselho Fiscal por candidaturas individuais, considerando-se eleitos titulares os 3 (três) mais votados e suplentes os 3 (três) seguintes, na ordem de votação.
+§ 1º Será eleita a chapa que obtiver a maioria dos votos válidos; havendo mais de 2 (duas) chapas e nenhuma alcançar a maioria dos votos válidos, far-se-á segundo escrutínio entre as 2 (duas) mais votadas.
+§ 2º Em caso de empate, proceder-se-á a nova votação; persistindo o empate, será considerado eleito o candidato, ou a chapa cujo candidato a Presidente, for membro da IGREJA há mais tempo.
+§ 3º Havendo chapa ou candidato único, a eleição poderá ser feita por aclamação, se nenhum membro presente requerer votação secreta.
+
+RART[el4] A posse dos eleitos ocorrerá em até 30 (trinta) dias da eleição (Estatuto, art. [[de]], § 3º), mediante assinatura do Termo de Posse e Declaração de Desimpedimento.
+Parágrafo único. Na transição, a Diretoria Executiva que deixa o cargo entregará à que o assume, mediante termo assinado por ambas e por um membro do Conselho Fiscal, os livros, as atas, os documentos, o inventário patrimonial, os extratos e saldos bancários, os contratos vigentes, as senhas e credenciais de acesso e a relação das obrigações pendentes.
+
+## TÍTULO VI – DO FUNCIONAMENTO DOS ÓRGÃOS DE ADMINISTRAÇÃO E FISCALIZAÇÃO
+
+RART[dir1] A Diretoria Executiva reunir-se-á ordinariamente [MENSALMENTE], em data fixada no início de cada exercício, e extraordinariamente por convocação do Presidente ou da maioria de seus membros, com antecedência mínima de 3 (três) dias, instalando-se com a presença da maioria de seus membros.
+Parágrafo único. As reuniões poderão ser realizadas por meio eletrônico, e suas deliberações constarão de ata assinada pelos presentes.
+
+RART[alc] Observado o orçamento aprovado pela Assembleia Geral, ficam estabelecidas as seguintes alçadas para a realização de despesas:
+I – até R$ [VALOR] por despesa ordinária recorrente, autorização de um único dirigente, nos termos do art. [[mov]], § 1º, do Estatuto Social, com prestação de contas mensal à Diretoria Executiva;
+II – acima de R$ [VALOR] e até R$ [VALOR], autorização conjunta do Presidente, ou do Vice-Presidente, e do 1º ou do 2º Tesoureiro, precedida de pelo menos 3 (três) orçamentos, salvo fornecedor exclusivo ou urgência justificada;
+III – acima de R$ [VALOR], deliberação da Diretoria Executiva registrada em ata, precedida de pelo menos 3 (três) orçamentos;
+IV – despesas não previstas no orçamento anual acima de [10% (DEZ POR CENTO)] da respectiva rubrica dependerão de parecer do Conselho Fiscal e de referendo da Assembleia Geral seguinte.
+Parágrafo único. É vedado o fracionamento de despesas para enquadramento em alçada inferior.
+
+RART[cfis] O Conselho Fiscal reunir-se-á ordinariamente a cada trimestre (Estatuto, art. [[cf]], § 2º) e terá acesso, independentemente de solicitação, aos extratos bancários, aos demonstrativos mensais do Tesoureiro e às atas da Diretoria Executiva.
+Parágrafo único. O parecer anual do Conselho Fiscal será entregue à Diretoria Executiva até 30 (trinta) dias antes da Assembleia Geral Ordinária e indicará expressamente se foram observados os requisitos do art. [[imu]], § 1º, do Estatuto Social.
+
+## TÍTULO VII – DO CONSELHO MINISTERIAL E DOS MINISTROS
+
+RART[cm1] Integram o Conselho Ministerial (Estatuto, art. [[cm]]):
+I – o Pastor Titular, que o preside;
+II – os pastores auxiliares e demais ministros ordenados em exercício na IGREJA;
+III – os [PRESBÍTEROS/OFICIAIS] eleitos pela Assembleia Geral, em número de [NÚMERO], para mandato de [2 (DOIS)] anos, dentre membros em plena comunhão há pelo menos [3 (TRÊS)] anos.
+§ 1º O Conselho Ministerial reunir-se-á ordinariamente [MENSALMENTE] e deliberará por maioria dos presentes, com quórum mínimo de metade de seus membros, lavrando-se ata, que será sigilosa quanto a matérias pastorais e disciplinares.
+§ 2º Os integrantes do Conselho Ministerial guardarão sigilo sobre as informações recebidas em aconselhamento pastoral e em procedimentos disciplinares, ressalvadas as comunicações obrigatórias por lei.
+
+RART[ord] São requisitos para a consagração ou ordenação de ministro de confissão religiosa pela IGREJA:
+I – ser membro em plena comunhão há pelo menos [3 (TRÊS)] anos;
+II – possuir formação teológica ou ministerial reconhecida pelo Conselho Ministerial;
+III – ter exercido atividades ministeriais na IGREJA sob supervisão por pelo menos [1 (UM)] ano;
+IV – preencher os requisitos do art. [[req]], III, do Estatuto Social, comprovados por certidões criminais;
+V – ser aprovado em exame perante o Conselho Ministerial, a quem compete deliberar sobre a ordenação (Estatuto, art. [[cm]], III), que será comunicada à Assembleia Geral seguinte.
+Parágrafo único. Os ministros receberão credencial, com validade anual, renovada pelo Conselho Ministerial, que poderá suspendê-la em procedimento disciplinar.
+
+RART[sus] O sustento ministerial (Estatuto, art. [[min]]) observará critérios gerais aprovados no orçamento anual, considerando o número de dependentes, o custo de vida local, a dedicação ao ministério e a capacidade financeira da IGREJA, e será pago independentemente da natureza e da quantidade do trabalho executado, vedadas metas de arrecadação, comissões ou qualquer vinculação a receitas.
+§ 1º O ministro que integrar a Diretoria Executiva não participará da deliberação sobre seu próprio sustento, que dependerá de parecer prévio do Conselho Fiscal (Estatuto, art. [[min]], § 3º).
+§ 2º Os valores de sustento, ajudas de custo e benefícios concedidos a cada ministro serão registrados individualmente, com recibo, e informados nas obrigações acessórias exigidas pela legislação.
+
+## TÍTULO VIII – DOS MINISTÉRIOS E DEPARTAMENTOS
+
+RART[mdep] Os ministérios e departamentos (Estatuto, art. [[dec]], VII) são grupos de trabalho sem personalidade jurídica e sem autonomia financeira ou patrimonial, criados pela Diretoria Executiva, ouvido o Conselho Ministerial, para o desenvolvimento das finalidades da IGREJA, tais como: [LOUVOR E ADORAÇÃO; ENSINO E ESCOLA BÍBLICA; INFANTIL; ADOLESCENTES E JOVENS; MULHERES; HOMENS; FAMÍLIAS; MISSÕES E EVANGELISMO; AÇÃO SOCIAL; COMUNICAÇÃO E MÍDIA; RECEPÇÃO E INTEGRAÇÃO].
+§ 1º Cada ministério ou departamento terá um líder e um vice-líder, designados pelo Conselho Ministerial para mandato de [2 (DOIS)] anos, permitida a recondução, dentre membros em plena comunhão.
+§ 2º Os ministérios e departamentos apresentarão anualmente plano de atividades e proposta de despesas para inclusão no orçamento.
+§ 3º Toda arrecadação promovida por ministério ou departamento será recolhida à Tesouraria no prazo de 2 (dois) dias úteis, com termo de contagem, sendo vedada a manutenção de caixa próprio ou de contas bancárias em nome de pessoas físicas.
+
+RART[acsoc] As ações assistenciais e beneficentes serão prestadas sem discriminação de qualquer natureza aos assistidos e sem exigência de adesão religiosa ou de participação em cultos como condição para o atendimento (Estatuto, art. [[fin]], § 4º), mantendo-se registro das ações realizadas e dos recursos empregados.
+
+## TÍTULO IX – DAS CONGREGAÇÕES
+
+RART[cong1] A criação de congregação (Estatuto, art. [[den]], § 2º) dependerá de deliberação da Diretoria Executiva, ouvido o Conselho Ministerial, com base em proposta que indique o local, o dirigente, o número estimado de frequentadores e a previsão de receitas e despesas.
+§ 1º Cada congregação terá um dirigente designado pelo Conselho Ministerial, que responderá perante a Diretoria Executiva e o Conselho Ministerial.
+§ 2º A congregação será inscrita como estabelecimento filial no CNPJ quando a legislação o exigir, e seus imóveis, contratos, contas e bens serão sempre titularizados pela IGREJA.
+
+RART[cong2] As receitas das congregações serão depositadas em conta bancária da IGREJA no prazo de 2 (dois) dias úteis, com termo de contagem na forma do art. {{cont}}, admitida a manutenção de fundo fixo de caixa até o limite do art. {{caixa}}, § 1º, com prestação de contas mensal à Tesouraria.
+
+RART[cong3] A congregação não tem direito a qualquer parcela do patrimônio da IGREJA. Sua emancipação ou desmembramento somente poderá ocorrer por deliberação da Assembleia Geral, observados o art. [[qref]], III, e o art. [[dest]], § 3º, do Estatuto Social.
+
+## TÍTULO X – DOS PROCEDIMENTOS FINANCEIROS E PATRIMONIAIS
+
+RART[cont] A contagem de dízimos e ofertas recebidos em espécie (Estatuto, art. [[rec]], § 2º) será feita logo após cada culto ou atividade, em local reservado, por 2 (duas) pessoas designadas pela Tesouraria, sem vínculo de parentesco entre si, que lavrarão termo de contagem, em 2 (duas) vias, com a data, a atividade, os valores apurados por espécie e as assinaturas de ambas.
+§ 1º Os valores serão guardados em cofre ou local seguro e depositados em conta bancária da IGREJA em até 2 (dois) dias úteis.
+§ 2º Os contribuintes que o solicitarem receberão recibo ou comprovante de suas contribuições.
+§ 3º As contribuições por meio eletrônico serão recebidas exclusivamente por chaves PIX, maquininhas e contas vinculadas ao CNPJ da IGREJA, sendo vedado o uso de contas ou chaves de pessoas físicas.
+
+RART[caixa] Todos os pagamentos serão feitos por transferência bancária ou meio eletrônico rastreável, a partir de conta da IGREJA, e instruídos com nota fiscal, cupom fiscal ou recibo com identificação do beneficiário e do CPF ou CNPJ.
+§ 1º O fundo fixo de caixa (Estatuto, art. [[rec]], § 1º) terá o limite de R$ [VALOR] na sede e de R$ [VALOR] em cada congregação, destinado exclusivamente a despesas de pequeno valor, com prestação de contas e recomposição mensais.
+§ 2º O reembolso de despesas realizadas em favor da IGREJA dependerá de autorização prévia, salvo urgência justificada, e de pedido instruído com os comprovantes, apresentado em até 30 (trinta) dias da despesa.
+§ 3º Os adiantamentos para viagens e eventos serão objeto de prestação de contas em até 10 (dez) dias do retorno, com devolução do saldo não utilizado.
+
+RART[pat1] Os bens permanentes da IGREJA serão registrados em inventário, com número de patrimônio, descrição, valor, data de aquisição e localização, conferido anualmente pelo Conselho Fiscal (Estatuto, art. [[pat]], § 3º).
+§ 1º A baixa de bens móveis por obsolescência, perda ou dano dependerá de termo aprovado pela Diretoria Executiva; a alienação de bens móveis de valor superior a R$ [VALOR] dependerá de deliberação da Diretoria Executiva registrada em ata.
+§ 2º Os veículos da IGREJA serão utilizados exclusivamente em suas atividades, mediante registro de uso (condutor, data, trajeto e quilometragem), e as multas decorrentes de infração serão de responsabilidade do condutor.
+§ 3º As doações de bens à IGREJA serão formalizadas por termo de doação, com a identificação do doador e a descrição e o valor estimado do bem.
+
+RART[uso] A cessão dos templos e demais espaços da IGREJA a terceiros:
+I – somente será admitida para atividades compatíveis com as finalidades da IGREJA e com sua Declaração de Fé;
+II – será formalizada por termo escrito aprovado pela Diretoria Executiva, com identificação do cessionário, finalidade, datas e responsabilidades;
+III – poderá envolver contribuição para cobertura de custos, cujo valor será integralmente recolhido à Tesouraria e registrado de forma segregada (Estatuto, art. [[fin]], §§ 1º e 2º);
+IV – não poderá ter caráter permanente ou habitual que caracterize atividade econômica preponderante.
+
+## TÍTULO XI – DA INTEGRIDADE
+
+### Capítulo I – Do Código de Conduta
+
+RART[cc1] Os dirigentes, conselheiros, ministros, líderes, voluntários e empregados da IGREJA pautarão sua conduta pelos seguintes princípios:
+I – probidade, transparência e zelo na gestão de recursos e bens;
+II – respeito à dignidade de todas as pessoas, vedados o assédio moral ou sexual, a humilhação e a discriminação;
+III – uso da autoridade espiritual exclusivamente para o serviço, vedados a coação, a manipulação e o constrangimento para obtenção de contribuições, votos ou vantagens;
+IV – sigilo sobre as informações recebidas em razão da função;
+V – declaração de conflitos de interesses (Estatuto, art. [[ci]]).
+Parágrafo único. Os dirigentes, conselheiros e ministros firmarão, anualmente, declaração de conflitos de interesses, na qual informarão as pessoas jurídicas de que sejam sócios ou administradores e os parentes que prestem serviços ou forneçam bens à IGREJA.
+
+RART[elei] Em observância ao art. [[fin]], § 3º, do Estatuto Social e à legislação eleitoral, que considera os templos bens de uso comum para fins eleitorais (Lei nº 9.504/1997), é vedado:
+I – realizar propaganda eleitoral de qualquer natureza nos templos, nas congregações e nos demais espaços e meios de comunicação da IGREJA;
+II – ceder o púlpito, a palavra ou os espaços da IGREJA a candidatos, pré-candidatos ou partidos para fins eleitorais;
+III – utilizar recursos, bens, cadastros ou listas de contatos da IGREJA em campanhas;
+IV – orientar o voto dos membros em nome da IGREJA.
+Parágrafo único. Fica preservado o direito de cada membro, ministro ou dirigente de exercer livremente, em caráter pessoal e fora das atividades e dos meios da IGREJA, seus direitos políticos.
+
+### Capítulo II – Da proteção de crianças, adolescentes e vulneráveis
+
+RART[prot] Em cumprimento ao art. [[int]], II, do Estatuto Social e ao Estatuto da Criança e do Adolescente, as atividades com crianças, adolescentes e pessoas vulneráveis observarão as seguintes regras:
+I – os voluntários e empregados que atuem com esses públicos serão membros da IGREJA há pelo menos [6 (SEIS)] meses, apresentarão certidões criminais atualizadas a cada 2 (dois) anos e participarão de capacitação específica;
+II – as atividades serão conduzidas por pelo menos 2 (dois) adultos habilitados, vedada a permanência de um adulto a sós com criança ou adolescente em ambiente fechado ou sem visibilidade;
+III – as crianças somente serão entregues aos pais, aos responsáveis legais ou a pessoas por eles previamente autorizadas por escrito;
+IV – as atividades externas, viagens e pernoites dependerão de autorização escrita dos pais ou responsáveis e observarão a legislação aplicável;
+V – é vedado a qualquer adulto manter contato privado reiterado com criança ou adolescente por meios eletrônicos, fora dos canais institucionais e sem conhecimento dos responsáveis;
+VI – a captação e a divulgação da imagem de crianças e adolescentes dependerão de autorização dos responsáveis.
+§ 1º Qualquer suspeita ou confirmação de castigo físico, tratamento cruel ou degradante, maus-tratos ou crime contra criança ou adolescente será comunicada imediatamente ao Conselho Tutelar e, quando for o caso, à autoridade policial, nos termos dos arts. 13 e 70-B do Estatuto da Criança e do Adolescente, sem prejuízo do procedimento disciplinar e do afastamento cautelar do suspeito (art. {{pd5}}).
+§ 2º A comunicação de que trata o § 1º é dever de todos os ministros, líderes e voluntários, e não poderá ser impedida, retardada ou condicionada por qualquer órgão da IGREJA.
+§ 3º Aplicam-se, no que couber, as regras deste artigo à proteção de idosos e pessoas com deficiência, observados o Estatuto da Pessoa Idosa e o Estatuto da Pessoa com Deficiência.
+
+### Capítulo III – Do canal de denúncias
+
+RART[den] A IGREJA manterá canal de denúncias (Estatuto, art. [[int]], III), por meio de [ENDEREÇO ELETRÔNICO EXCLUSIVO / FORMULÁRIO / CAIXA LACRADA], para o recebimento de relatos, identificados ou anônimos, sobre violações da lei, do Estatuto Social, deste Regimento ou do Código de Conduta.
+§ 1º As denúncias serão recebidas por comissão de 3 (três) pessoas designadas pela Assembleia Geral, da qual fará parte ao menos 1 (um) membro do Conselho Fiscal, que as encaminhará, conforme a matéria, ao Conselho Ministerial, à Diretoria Executiva ou ao Conselho Fiscal.
+§ 2º As denúncias que envolvam o Pastor Titular ou membro da Diretoria Executiva serão encaminhadas ao Conselho Fiscal, que acompanhará sua apuração.
+§ 3º Serão preservados o sigilo da identidade do denunciante e a confidencialidade dos fatos, vedada qualquer forma de retaliação ao denunciante de boa-fé, que constituirá falta disciplinar.
+
+### Capítulo IV – Da proteção de dados pessoais
+
+RART[lgpd] O tratamento de dados pessoais pela IGREJA observará a Lei nº 13.709/2018 (LGPD) e as seguintes regras:
+I – a Diretoria Executiva designará o encarregado pelo tratamento de dados pessoais, cuja identidade e contato serão divulgados aos membros;
+II – os dados referentes à convicção religiosa, à saúde e à vida pessoal dos membros são dados sensíveis e somente serão tratados para as finalidades religiosas, pastorais e institucionais legítimas da IGREJA, vedado seu compartilhamento com terceiros sem base legal;
+III – o acesso ao Rol de Membros, aos cadastros e aos autos disciplinares será restrito às pessoas que dele necessitem para o exercício de suas funções;
+IV – os titulares poderão exercer os direitos previstos na LGPD mediante requerimento ao encarregado, respondido em até 15 (quinze) dias;
+V – os cultos e eventos transmitidos ou gravados serão precedidos de aviso aos presentes, com indicação de área não alcançada pelas câmeras, quando possível;
+VI – os dados serão conservados apenas pelo tempo necessário às finalidades e às obrigações legais, observado o art. [[imu]], § 1º, IV, do Estatuto Social quanto aos documentos contábeis e fiscais.
+
+## TÍTULO XII – DAS CELEBRAÇÕES RELIGIOSAS
+
+RART[cel] As celebrações de casamento religioso, apresentação de crianças, funerais e demais atos de culto serão realizadas pelos ministros da IGREJA em conformidade com a Declaração de Fé.
+§ 1º O casamento religioso com efeitos civis dependerá da prévia habilitação perante o Registro Civil das Pessoas Naturais, na forma dos arts. 1.515 e 1.516 do Código Civil, e será precedido de aconselhamento pastoral, na forma definida pelo Conselho Ministerial.
+§ 2º A cessão do templo e a participação dos ministros em celebrações observarão a seção IX da Declaração de Fé, sem prejuízo do respeito devido a todas as pessoas.
+§ 3º Os atos religiosos serão realizados sem cobrança de valores, admitidas contribuições voluntárias e o ressarcimento de custos com a utilização de espaços e serviços, na forma do art. {{uso}}.
+
+## TÍTULO XIII – DA MEDIAÇÃO INTERNA
+
+RART[medi] As divergências entre membros, ministros ou órgãos da IGREJA relativas à aplicação do Estatuto Social ou deste Regimento (Estatuto, art. [[conf]]) poderão ser submetidas à mediação interna por requerimento escrito de qualquer interessado ao Conselho Ministerial.
+§ 1º O Conselho Ministerial designará 1 (um) ou 2 (dois) mediadores, dentre membros em plena comunhão sem interesse no caso e aceitos pelas partes, que conduzirão até [3 (TRÊS)] sessões no prazo de 60 (sessenta) dias, podendo inspirar-se nos princípios da Lei nº 13.140/2015.
+§ 2º As sessões de mediação são confidenciais, e o que nelas for dito não poderá ser utilizado em procedimento disciplinar ou judicial, ressalvadas as comunicações obrigatórias por lei.
+§ 3º O acordo alcançado será reduzido a termo e assinado pelas partes; não havendo acordo, a mediação será encerrada por termo, ficando as partes livres para adotar as medidas cabíveis, inclusive judiciais.
+§ 4º A mediação não se aplica aos casos de violência, abuso ou crime, nem suspende os prazos do procedimento disciplinar.
+
+## TÍTULO XIV – DISPOSIÇÕES FINAIS
+
+RART[fin1] As normas complementares expedidas pela Diretoria Executiva ou pelo Conselho Ministerial para a execução deste Regimento serão publicadas aos membros e arquivadas na Secretaria.
+
+RART[fin2] Este Regimento poderá ser alterado pela Assembleia Geral por maioria simples dos presentes (Estatuto, art. [[reg]]), mediante proposta da Diretoria Executiva, do Conselho Ministerial ou de 1/10 (um décimo) dos membros em plena comunhão, incluída expressamente na ordem do dia.
+Parágrafo único. A Diretoria Executiva promoverá a revisão deste Regimento pelo menos a cada [4 (QUATRO)] anos.
+
+RART[fin3] Os casos omissos serão resolvidos na forma do art. [[omi]] do Estatuto Social.
+
+RART[fin4] Este Regimento entra em vigor na data de sua aprovação pela Assembleia Geral, aplicando-se aos procedimentos em curso somente quanto aos atos ainda não praticados.
+
+%DATE
+%SIGNS [NOME DO PRESIDENTE DA ASSEMBLEIA];Presidente da Assembleia|[NOME DO SECRETÁRIO DA ASSEMBLEIA];Secretário da Assembleia

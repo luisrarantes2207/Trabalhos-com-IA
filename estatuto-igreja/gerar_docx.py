@@ -13,7 +13,8 @@ base = Path(__file__).parent
 DOCS = [("estatuto.txt", "Estatuto_Social_Igreja_ISAC_v2.docx"),
         ("ata_fundacao.txt", "Ata_Assembleia_Fundacao_Igreja_ISAC.docx"),
         ("edital_convocacao.txt", "Edital_Convocacao_Fundacao_Igreja_ISAC.docx"),
-        ("requerimento_registro.txt", "Requerimento_Registro_RCPJ_Igreja_ISAC.docx")]
+        ("requerimento_registro.txt", "Requerimento_Registro_RCPJ_Igreja_ISAC.docx"),
+        ("regimento_interno.txt", "Regimento_Interno_Igreja_ISAC.docx")]
 
 def label(n):
     return f"{n}º" if n < 10 else f"{n}"
@@ -26,16 +27,24 @@ for line in (base / "estatuto.txt").read_text(encoding="utf-8").splitlines():
         n += 1
         nums[m.group(1)] = n
 
-def refs(text):
-    def sub(m):
+def refs(text, local=None):
+    """[[chave]] remete a artigo do estatuto; {{chave}} a artigo do próprio documento (RART)."""
+    def sub(table, m):
         k = m.group(1)
-        if k not in nums:
+        if k not in table:
             sys.exit(f"Referência inexistente: {k}")
-        return label(nums[k])
-    return re.sub(r"\[\[(\w+)\]\]", sub, text)
+        return label(table[k])
+    text = re.sub(r"\[\[(\w+)\]\]", lambda m: sub(nums, m), text)
+    return re.sub(r"\{\{(\w+)\}\}", lambda m: sub(local or {}, m), text)
 
 def build(src_name, out_name):
     src = (base / src_name).read_text(encoding="utf-8").splitlines()
+    local, k = {}, 0
+    for line in src:
+        m = re.match(r"RART\[(\w+)\]", line)
+        if m:
+            k += 1
+            local[m.group(1)] = k
     doc = Document()
     sec = doc.sections[0]
     sec.page_height, sec.page_width = Cm(29.7), Cm(21)
@@ -71,7 +80,7 @@ def build(src_name, out_name):
             para(cargo, align=WD_ALIGN_PARAGRAPH.CENTER)
 
     for line in src:
-        line = refs(line.rstrip())
+        line = refs(line.rstrip(), local)
         if not line:
             continue
         if line.startswith("# "):
@@ -83,9 +92,9 @@ def build(src_name, out_name):
             para(line[4:], align=WD_ALIGN_PARAGRAPH.CENTER, bold=True, italic=True)
         elif line.startswith("!"):
             para(line[1:], align=WD_ALIGN_PARAGRAPH.CENTER, italic=True)
-        elif line.startswith("ART["):
-            k = re.match(r"ART\[(\w+)\]\s*", line)
-            n = nums[k.group(1)]
+        elif line.startswith(("ART[", "RART[")):
+            k = re.match(r"R?ART\[(\w+)\]\s*", line)
+            n = (local if line.startswith("R") else nums)[k.group(1)]
             para(line[k.end():], bold_prefix=f"Art. {label(n)}{'.' if n >= 10 else ''} ")
         elif line.startswith("%PAGEBREAK"):
             doc.add_page_break()

@@ -5,7 +5,8 @@ Arquivos:
 - `Ata_Assembleia_Fundacao_Igreja_ISAC.docx`: ata da Assembleia de Fundação, com o Anexo A (lista de presença dos fundadores) e o Anexo B (termo de posse e declaração de desimpedimento, um por eleito).
 - `Edital_Convocacao_Fundacao_Igreja_ISAC.docx`: edital de convocação da Assembleia de Fundação, com a certidão de afixação e divulgação.
 - `Requerimento_Registro_RCPJ_Igreja_ISAC.docx`: requerimento de registro ao Registro Civil de Pessoas Jurídicas, com a lista de documentos que o acompanham.
-- `estatuto.txt`, `ata_fundacao.txt`, `edital_convocacao.txt` e `requerimento_registro.txt`: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões da ata acompanham essa numeração.
+- `Regimento_Interno_Igreja_ISAC.docx`: Regimento Interno (53 artigos), a ser aprovado pela Assembleia Geral em até 180 dias da fundação.
+- `estatuto.txt`, `ata_fundacao.txt`, `edital_convocacao.txt`, `requerimento_registro.txt` e `regimento_interno.txt`: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. No Regimento, os artigos têm numeração própria: `[[chave]]` remete ao Estatuto e `{{chave}}` ao próprio Regimento.
 
 ## 1. Base legal verificada (setembro de 2026)
 
@@ -74,3 +75,15 @@ Nome e sigla, endereço, prazo de carência para membro votante, prazos de manda
 - **Edital:** antes do registro a igreja ainda não existe, então quem convoca é uma Comissão Organizadora. O prazo de 15 dias repete a regra do Estatuto para assembleias extraordinárias (art. 18, § 2º). A ordem do dia é idêntica à da ata. Guarde as provas da divulgação (a certidão de afixação e capturas de tela), porque a ata faz referência ao edital.
 - **Requerimento:** fundamenta o pedido no CC, arts. 44 e 45, e na Lei 6.015/1973, arts. 114, 120 e 121. Ele aponta ao cartório onde está cada informação exigida pelo art. 120 e identifica o apresentante (art. 120, VI). Pela redação atual do art. 121, § 1º, o requerimento pode ser dispensado quando o representante legal assinou o estatuto. Mesmo assim, vale apresentá-lo, porque ele organiza o pedido e informa os contatos para eventuais exigências.
 - **Antes de protocolar:** confira no próprio cartório as normas de serviço da Corregedoria do seu Estado (número de vias, reconhecimento de firma e documentos adicionais) e faça uma pesquisa de nome para evitar homonímia.
+
+## 8. Regimento Interno
+
+Ele regulamenta todos os pontos que o Estatuto delega ao Regimento: modos de admissão (art. 8º), faltas que caracterizam conduta incompatível (art. 13), eleição da Diretoria por chapa (art. 23), composição do Conselho Ministerial (art. 32), limite do fundo fixo de caixa (art. 38), alçada de despesas autorizadas por um só dirigente (art. 41), integridade (art. 43) e mediação interna (art. 48).
+
+**Destaques:**
+- **Disciplina:** as medidas são graduais, da admoestação reservada à exclusão, e a exposição pública do membro é proibida (reduz o risco de ação por dano moral). O procedimento prevê impedimentos de quem julga, direito a acompanhante ou advogado, afastamento cautelar em casos graves, e recurso à Assembleia em sessão reservada com voto secreto, sem possibilidade de agravar a punição.
+- **Proteção de menores:** regra de pelo menos dois adultos em cada atividade, certidões criminais para voluntários e comunicação obrigatória ao Conselho Tutelar (ECA, arts. 13 e 70-B; o parágrafo único do art. 70-B alcança expressamente quem exerce "ministério"). Nenhum órgão da igreja pode impedir ou atrasar essa comunicação.
+- **Finanças:** alçadas de despesa, exigência de 3 orçamentos, proibição de fracionar despesas, contagem de ofertas em duplicidade com depósito em até 2 dias úteis, proibição de PIX em contas pessoais, e ministérios e congregações sem caixa próprio.
+- **Sustento pastoral:** proibidas metas, comissões ou qualquer vínculo com a arrecadação (Lei 8.212, art. 22, § 13).
+- **Eleições e conduta:** Comissão Eleitoral independente e termo de transição entre diretorias. Proibição de uso político-eleitoral da igreja, pois a legislação eleitoral trata templos como bens de uso comum. Confirme o dispositivo exato da Lei 9.504/1997 antes de citá-lo; não consegui conferi-lo na base consultada.
+- **Valores a preencher:** alçadas em R$, fundo fixo de caixa, prazos e número de presbíteros ou oficiais, conforme o porte da igreja.
