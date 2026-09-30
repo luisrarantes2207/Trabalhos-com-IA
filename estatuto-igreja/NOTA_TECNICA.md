@@ -9,6 +9,7 @@ Arquivos:
 - `Codigo_de_Conduta_Igreja_ISAC.docx` e `Politica_Protecao_Menores_Vulneraveis_Igreja_ISAC.docx`: normas complementares aprovadas pela Diretoria Executiva, ouvido o Conselho Ministerial (Estatuto, art. 43).
 - `Politica_Privacidade_Protecao_Dados_Igreja_ISAC.docx`: política de privacidade (aviso público aos titulares e normas internas), aprovada pela Diretoria Executiva (Estatuto, art. 43, IV).
 - `Termo_Adesao_Servico_Voluntario_Igreja_ISAC.docx`: termo de adesão ao serviço voluntário (Lei 9.608/1998), com registro de atividades e termo de encerramento.
+- `Contrato_Comodato_Templo_Igreja_ISAC.docx`: modelo de contrato de comodato do imóvel usado como templo, com laudo de vistoria e termo de devolução.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -146,3 +147,15 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Adolescentes de 14 a 17 anos:** cláusula opcional que exige a assinatura dos pais, compatibilidade com a escola e proíbe trabalho noturno ou perigoso.
 
 **Anexos:** registro de atividades e ressarcimentos, que serve de base para a declaração de serviço voluntário, e termo de encerramento com quitação.
+
+## 12. Contrato de comodato do templo
+
+**Base legal:** CC, arts. 579 a 585. O comodato é o empréstimo gratuito de um bem. O comodante não pode retomar o imóvel antes do prazo, salvo necessidade urgente reconhecida pelo juiz (art. 581). O comodatário deve conservar o bem como se fosse seu e, se atrasar a devolução, paga aluguel arbitrado (art. 582). Ele também não recupera as despesas de uso (art. 584). Esses artigos foram citados sem conferência do texto, porque a base de legislação estava sem consultas.
+
+**Pontos de atenção:**
+- **IPTU:** a Constituição (art. 156, § 1º-A) afasta o IPTU de templos em imóvel de terceiro quando a igreja é **locatária**, e não fala em comodato. O reconhecimento da imunidade para imóvel emprestado é incerto e depende do município. O contrato prevê um pedido conjunto de imunidade ou isenção e define quem paga se o pedido for negado. Não transforme o comodato em "locação com aluguel simbólico" só para buscar a imunidade: isso pode ser visto como simulação. Avalie com o advogado e verifique se a lei municipal prevê isenção.
+- **Prazo determinado:** recomendado (a sugestão é 10 anos). O prazo protege a igreja contra uma retomada repentina, e o contrato ainda exige aviso prévio de 180 dias para a devolução ao fim do prazo, para dar tempo de transferir o templo.
+- **Venda do imóvel:** o comodato não é direito real e, em regra, não obriga quem compra o imóvel. Por isso o comodante se obriga a exigir do comprador que respeite o contrato, sob pena de indenizar a igreja. O registro no Registro de Títulos e Documentos dá prova da data do contrato. Para uma proteção real contra terceiros, a alternativa seria a locação com cláusula de vigência averbada na matrícula (Lei 8.245/1991, art. 8º).
+- **Comodante ligado à igreja:** se o dono do imóvel for dirigente, ministro ou parente de um deles, aplica-se o Estatuto, art. 40. É preciso parecer do Conselho Fiscal e aprovação da Diretoria sem a participação do interessado, e o contrato declara que o comodante não ganha nenhum direito sobre a igreja.
+- **Benfeitorias:** adaptações exigidas pelo Poder Público (Bombeiros e acessibilidade) podem ser feitas sem autorização. Bancos, som e outros bens removíveis continuam da igreja. A indenização de obras fica como opção a escolher.
+- **Assinatura do cônjuge:** a lei não exige a assinatura do cônjuge do comodante no comodato (CC, art. 1.647), mas o contrato inclui o cônjuge como anuente para prevenir disputas.
