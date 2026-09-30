@@ -1,0 +1,68 @@
+# MODELOS PARA A APRESENTAÇÃO DE CRIANÇAS
+![NOME COMPLETO DA IGREJA] – [SIGLA]
+!Regimento Interno, art. <<cel>> – Política de Proteção de Crianças, Adolescentes e Pessoas Vulneráveis
+
+## ORIENTAÇÕES DE USO
+I – A apresentação de crianças é ato de culto em que os pais ou responsáveis apresentam a criança a Deus e à comunidade, em ação de graças, e assumem o compromisso de criá-la segundo os valores da fé. Não constitui batismo nem admissão como membro, e não gera para a criança qualquer vínculo com a IGREJA (Estatuto, art. [[cat]]).
+II – A apresentação é realizada somente a pedido dos pais ou responsáveis legais (Modelo 1). Recomenda-se a participação de ambos os pais; se apenas um fizer o pedido, declarará se o outro tem conhecimento e se há oposição. Havendo oposição conhecida, a apresentação não será realizada até que haja acordo entre os responsáveis, e a IGREJA não tomará partido na questão familiar.
+III – Não é exigido que os pais sejam membros da IGREJA, a critério do Conselho Ministerial, que poderá oferecer conversa pastoral prévia sobre o significado do ato.
+IV – O ato é gratuito (Regimento Interno, art. <<cel>>, § 3º).
+V – Se o culto for transmitido ou gravado, a imagem da criança somente será exibida em destaque com o consentimento específico dos responsáveis (Lei nº 13.709/2018, art. 14; Política de Proteção, art. {{politica_protecao:img}}), manifestado no Modelo 1. Sem esse consentimento, a transmissão evitará o enquadramento da criança e da família durante o ato.
+VI – O registro no Livro de Apresentação de Crianças (Modelo 3) contém apenas os dados necessários e é conservado permanentemente, com acesso restrito, conforme a Política de Privacidade. O certificado (Modelo 2) tem natureza exclusivamente religiosa.
+
+%PAGEBREAK
+## MODELO 1 – PEDIDO DE APRESENTAÇÃO DE CRIANÇA
+P Ao Conselho Ministerial da [NOME COMPLETO DA IGREJA].
+P Nós, [NOME DO RESPONSÁVEL 1] e [NOME DO RESPONSÁVEL 2], [PAI E MÃE / RESPONSÁVEIS LEGAIS], solicitamos a apresentação de nosso(a) filho(a) [NOME COMPLETO DA CRIANÇA], nascido(a) em [DATA], no culto de [DATA PREFERIDA], [NA SEDE / NA CONGREGAÇÃO (NOME)].
+P [SE APENAS UM RESPONSÁVEL ASSINAR:] Declaro que o(a) outro(a) genitor(a) ou responsável [TEM CONHECIMENTO DESTE PEDIDO E NÃO SE OPÕE / É FALECIDO(A) / NÃO EXERCE O PODER FAMILIAR / OUTRO: (DESCREVER)].
+P Contato: [TELEFONE E E-MAIL]. Somos membros da IGREJA? [ ] Sim [ ] Não [ ] Apenas um de nós.
+P Nomes que desejamos que constem do certificado (opcional): [NOMES DOS PAIS, AVÓS OU PADRINHOS, CONFORME O COSTUME DA FAMÍLIA].
+P USO DE IMAGEM (Lei nº 13.709/2018, art. 14): [ ] Autorizamos a exibição e a divulgação da imagem da criança durante o ato, nos canais oficiais da IGREJA, sem identificação do nome completo. [ ] Autorizamos apenas o registro para uso da família, sem divulgação. [ ] Não autorizamos a exibição da imagem da criança.
+P Consentimos com o tratamento dos dados acima exclusivamente para a realização do ato e o seu registro, nos termos da Política de Privacidade e Proteção de Dados da IGREJA, podendo revogar o consentimento quanto ao uso da imagem a qualquer tempo.
+%DATE
+%SIGNS [NOME COMPLETO];Responsável 1|[NOME COMPLETO];Responsável 2
+
+%PAGEBREAK
+## MODELO 2 – CERTIFICADO DE APRESENTAÇÃO
+![LOGOTIPO DA IGREJA]
+# [NOME COMPLETO DA IGREJA]
+!Certificado nº [NÚMERO]/[ANO] – Livro [NÚMERO], folha [NÚMERO]
+C CERTIFICADO DE APRESENTAÇÃO
+C Certificamos que
+C [NOME COMPLETO DA CRIANÇA]
+C nascido(a) em [DATA DE NASCIMENTO],
+C foi apresentado(a) ao Senhor por seus pais [NOME] e [NOME],
+C em culto de ação de graças realizado em [DIA] de [MÊS] de [ANO],
+C [NO TEMPLO DA SEDE / NA CONGREGAÇÃO (NOME)], [CIDADE]/[UF],
+C tendo os pais assumido, perante Deus e a comunidade, o compromisso de criá-lo(a) no amor e nos ensinamentos do Senhor.
+!"Deixai vir a mim os pequeninos e não os impeçais, porque dos tais é o Reino de Deus." (Marcos 10.14) [OU OUTRO VERSÍCULO ESCOLHIDO PELO CONSELHO MINISTERIAL]
+%DATE
+%SIGNS [NOME];Ministro(a) celebrante|[NOME];Pastor(a) Titular
+
+%PAGEBREAK
+## MODELO 3 – LIVRO DE REGISTRO DE APRESENTAÇÃO DE CRIANÇAS
+!Livro nº [NÚMERO] – aberto em [DATA] pelo(a) Pastor(a) Titular e pelo(a) 1º Secretário(a), com [NÚMERO] folhas numeradas
+%GRID 1.3,4,2.2,3,2.5,1.5,1.5
+Nº | Nome completo da criança | Data de nascimento | Pais ou responsáveis | Data e local do ato | Ministro(a) | Nº do certificado
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+%ENDGRID
+P Observações e retificações (por anotação datada e assinada, vedada a rasura): [ ].
+P TERMO DE ENCERRAMENTO: Encerra-se este livro, contendo [NÚMERO] registros, em [DATA].
+%SIGNS [NOME];Pastor(a) Titular|[NOME];1º Secretário(a)
+
+%PAGEBREAK
+## MODELO 4 – ROTEIRO LITÚRGICO SUGERIDO
+!(Adaptar à liturgia aprovada pelo Conselho Ministerial)
+I – Convite à família para vir à frente, com leitura bíblica (por exemplo, Marcos 10.13-16 ou 1 Samuel 1.27-28).
+II – Breve palavra sobre o significado da apresentação, esclarecendo que não se trata de batismo.
+III – Compromisso dos pais, respondido em voz alta: "Vocês se comprometem, com a ajuda de Deus, a criar esta criança no amor, no respeito e nos ensinamentos do Senhor, sendo para ela exemplo de fé?" – "Sim, com a ajuda de Deus."
+IV – Compromisso da comunidade: "Igreja, vocês se comprometem a acolher esta criança e esta família, apoiando-as com oração, cuidado e exemplo?" – "Sim, com a ajuda de Deus."
+V – Oração de consagração e bênção pelo(a) ministro(a).
+VI – Entrega do certificado aos pais.

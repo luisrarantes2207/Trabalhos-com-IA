@@ -1,0 +1,102 @@
+# CONTRATO DE PRESTAÇÃO DE SERVIÇOS
+!Código Civil, arts. 593 a 609 – [NOME COMPLETO DA IGREJA] – [SIGLA]
+
+P Pelo presente instrumento particular, as partes abaixo qualificadas:
+P CONTRATANTE: [NOME COMPLETO DA IGREJA] – [SIGLA], organização religiosa, pessoa jurídica de direito privado sem fins lucrativos, inscrita no CNPJ sob o nº [NÚMERO], com sede na [ENDEREÇO COMPLETO, COM CEP], neste ato representada por seu Presidente, [NOME COMPLETO], na forma do art. [[pres]] do seu Estatuto Social, doravante denominada IGREJA;
+P CONTRATADA: [SE PESSOA JURÍDICA:] [RAZÃO SOCIAL], inscrita no CNPJ sob o nº [NÚMERO], com sede na [ENDEREÇO], neste ato representada por [NOME E QUALIFICAÇÃO DO REPRESENTANTE]; [SE PESSOA FÍSICA:] [NOME COMPLETO], [NACIONALIDADE], [ESTADO CIVIL], [PROFISSÃO], inscrito(a) no CPF sob o nº [NÚMERO], [REGISTRO PROFISSIONAL, SE HOUVER], inscrito(a) na Prefeitura como contribuinte do ISS sob o nº [NÚMERO] e no INSS sob o NIT/PIS nº [NÚMERO], residente e domiciliado(a) na [ENDEREÇO];
+P têm entre si justo e contratado o presente Contrato de Prestação de Serviços, que se regerá pelas cláusulas seguintes e pelos arts. 593 a 609 do Código Civil.
+
+CL[obj] DO OBJETO
+P A CONTRATADA prestará à IGREJA os serviços de [DESCRIÇÃO SUMÁRIA, EX.: ASSESSORIA CONTÁBIL / ASSESSORIA JURÍDICA / MANUTENÇÃO PREDIAL / LIMPEZA / MANUTENÇÃO DE EQUIPAMENTOS DE SOM E IMAGEM / DESENVOLVIMENTO E MANUTENÇÃO DE SITE / FOTOGRAFIA E FILMAGEM DE EVENTO], conforme o escopo, os níveis de serviço e as entregas descritos no Anexo I, que integra este contrato.
+Parágrafo único. Serviços não previstos no Anexo I somente serão prestados mediante proposta prévia aceita por escrito pela IGREJA, observadas as alçadas do art. <<alc>> do seu Regimento Interno.
+
+CL[auto] DA AUTONOMIA E DA INEXISTÊNCIA DE VÍNCULO EMPREGATÍCIO
+P A CONTRATADA executará os serviços com autonomia técnica e organizacional, por sua conta e risco, com seus próprios meios, métodos e profissionais, sem subordinação jurídica à IGREJA, cabendo a esta apenas a indicação dos resultados esperados, dos prazos, dos locais de acesso e das normas de segurança e de conduta aplicáveis.
+§ 1º Este contrato não gera vínculo empregatício entre a IGREJA e a CONTRATADA, seus sócios, empregados ou prepostos, que permanecem sob a exclusiva direção e responsabilidade da CONTRATADA.
+§ 2º [SE PESSOA FÍSICA:] A CONTRATADA poderá prestar serviços a outros tomadores, não está sujeita a controle de jornada nem a exclusividade, e poderá fazer-se substituir por profissional de igual qualificação, mediante comunicação prévia à IGREJA.
+§ 3º Não poderá figurar como CONTRATADA, pessoa física ou pessoa jurídica de que seja sócio ou titular, quem tenha sido empregado(a) da IGREJA nos últimos 18 (dezoito) meses, salvo se aposentado(a), por cautela e em observância, no que couber, à legislação sobre terceirização (Lei nº 6.019/1974, arts. 5º-C e 5º-D).
+
+CL[obc] DAS OBRIGAÇÕES DA CONTRATADA
+P São obrigações da CONTRATADA:
+I – executar os serviços com qualidade, diligência e observância das normas técnicas, legais e profissionais aplicáveis, nos prazos e níveis de serviço do Anexo I;
+II – manter, durante toda a vigência, as habilitações, registros profissionais, licenças e a regularidade fiscal, previdenciária e trabalhista exigidas para a atividade, apresentando os comprovantes quando solicitados;
+III – arcar com todos os encargos trabalhistas, previdenciários, fiscais e securitários relativos a seus empregados e prepostos, fornecendo-lhes os equipamentos de proteção individual necessários;
+IV – [SE HOUVER CESSÃO DE MÃO DE OBRA OU TERCEIRIZAÇÃO, COMO LIMPEZA OU PORTARIA:] apresentar mensalmente, junto com a nota fiscal, os comprovantes de pagamento dos salários, dos depósitos do FGTS e das contribuições previdenciárias dos trabalhadores alocados nos serviços;
+V – cumprir e fazer cumprir por seus profissionais, nas dependências e atividades da IGREJA, o Código de Conduta, as normas de segurança e, se houver acesso a espaços ou atividades com crianças, adolescentes ou pessoas vulneráveis, a Política de Proteção, inclusive quanto à apresentação de certidões de antecedentes criminais;
+VI – responder pelos danos causados à IGREJA ou a terceiros por seus profissionais, na execução dos serviços;
+VII – não subcontratar total ou parcialmente os serviços sem autorização prévia e escrita da IGREJA;
+VIII – comunicar imediatamente à IGREJA qualquer fato que possa comprometer a execução dos serviços.
+
+CL[obi] DAS OBRIGAÇÕES DA IGREJA
+P São obrigações da IGREJA:
+I – fornecer as informações, os documentos e o acesso às dependências necessários à execução dos serviços;
+II – designar responsável pelo acompanhamento do contrato: [NOME E FUNÇÃO];
+III – efetuar os pagamentos na forma da Cláusula ((prec));
+IV – comunicar à CONTRATADA, por escrito, as falhas verificadas na execução dos serviços.
+
+CL[prec] DO PREÇO, DO PAGAMENTO E DOS TRIBUTOS
+P Pelos serviços, a IGREJA pagará à CONTRATADA [O VALOR MENSAL DE R$ (VALOR) / O VALOR TOTAL DE R$ (VALOR), EM (NÚMERO) PARCELAS DE R$ (VALOR) / O VALOR DE R$ (VALOR) POR (HORA, VISITA, EVENTO OU ENTREGA)], mediante apresentação de nota fiscal de serviços [OU, SE PESSOA FÍSICA SEM INSCRIÇÃO MUNICIPAL, DE RECIBO DE PAGAMENTO A AUTÔNOMO (RPA)], com vencimento em [NÚMERO] dias após o recebimento do documento fiscal e o aceite dos serviços, por transferência para conta de titularidade da CONTRATADA.
+§ 1º O preço inclui todos os custos, encargos e tributos devidos pela CONTRATADA, inclusive, quando aplicáveis, o ISS e o IBS e a CBS incidentes sobre os serviços, não sendo devida qualquer outra remuneração.
+§ 2º A IGREJA reterá e recolherá os tributos e contribuições cuja retenção lhe seja atribuída pela legislação, como o imposto de renda na fonte, as contribuições previdenciárias, as contribuições sociais retidas na fonte e o ISS, quando exigidos, e o valor líquido pago quitará integralmente a respectiva parcela. A imunidade tributária da IGREJA não a dispensa das retenções devidas por terceiros.
+§ 3º [SE PESSOA FÍSICA:] Sobre a remuneração da CONTRATADA pessoa física incidem as contribuições previdenciárias previstas na legislação para o contribuinte individual, cabendo à IGREJA recolher a parte que lhe competir e reter a parte devida pela CONTRATADA, com as informações exigidas no eSocial e na EFD-Reinf.
+§ 4º [SE HOUVER CESSÃO DE MÃO DE OBRA:] A IGREJA poderá reter o pagamento, até a regularização, se a CONTRATADA não apresentar os comprovantes do inciso IV da Cláusula ((obc)), ou pagar diretamente aos trabalhadores os valores comprovadamente inadimplidos, descontando-os do preço, em razão de sua responsabilidade subsidiária (Lei nº 6.019/1974, art. 5º-A, § 5º).
+§ 5º O atraso no pagamento sujeitará a IGREJA a multa de 2% (dois por cento) e juros de mora de 1% (um por cento) ao mês, pro rata die.
+
+CL[reaj] DO REAJUSTE
+P O preço será reajustado a cada 12 (doze) meses, contados da data de início da vigência, pela variação acumulada do IPCA/IBGE, ou por índice que o substituir.
+
+CL[vig] DA VIGÊNCIA
+P Este contrato vigorará por [12 (DOZE) MESES / PRAZO DETERMINADO DE (PRAZO) / ATÉ A CONCLUSÃO DAS ENTREGAS DO ANEXO I], a partir de [DATA], podendo ser prorrogado por termo aditivo, respeitado o prazo máximo de 4 (quatro) anos para cada contrato (Código Civil, art. 598).
+
+CL[resc] DA RESCISÃO E DAS PENALIDADES
+P Qualquer das partes poderá rescindir este contrato, sem penalidade, mediante aviso prévio escrito de [30 (TRINTA)] dias, pagando a IGREJA os serviços prestados até a data da rescisão.
+§ 1º O contrato poderá ser rescindido imediatamente, por notificação escrita, em caso de descumprimento de obrigação contratual não sanado no prazo de [10 (DEZ)] dias da notificação, de violação do dever de sigilo, do Código de Conduta ou da Política de Proteção, de prática de ato lesivo previsto na Lei nº 12.846/2013 ou de irregularidade fiscal, trabalhista ou previdenciária da CONTRATADA não sanada no prazo fixado.
+§ 2º A parte que der causa à rescisão por descumprimento pagará à outra multa de [10% (DEZ POR CENTO)] do valor [MENSAL / TOTAL] do contrato, sem prejuízo da indenização por perdas e danos que exceder esse valor.
+§ 3º Ao término do contrato, a CONTRATADA devolverá os documentos, dados, chaves, credenciais e bens da IGREJA em seu poder e entregará os trabalhos em andamento, e a IGREJA revogará seus acessos.
+
+CL[sig] DO SIGILO E DA PROTEÇÃO DE DADOS
+P A CONTRATADA manterá sigilo sobre todas as informações a que tiver acesso em razão deste contrato, especialmente os dados de membros, contribuintes, crianças e demais pessoas atendidas pela IGREJA, durante a vigência e após o seu término.
+Parágrafo único. Se a execução dos serviços envolver o tratamento de dados pessoais em nome da IGREJA, a CONTRATADA atuará como operadora, observando a Lei nº 13.709/2018 e as obrigações do art. {{politica_privacidade:oper}} da Política de Privacidade e Proteção de Dados da IGREJA, cuja cláusula-padrão (Anexo III daquela Política) integra o presente contrato.
+
+CL[prop] DA PROPRIEDADE INTELECTUAL
+P Os documentos, relatórios, projetos, artes, textos, fotografias, vídeos, sistemas, códigos-fonte e demais materiais produzidos especificamente para a IGREJA em razão deste contrato poderão ser por ela utilizados livremente, por prazo indeterminado e em qualquer meio, [MEDIANTE CESSÃO DOS DIREITOS PATRIMONIAIS DE AUTOR À IGREJA / MEDIANTE LICENÇA GRATUITA, NÃO EXCLUSIVA E IRREVOGÁVEL], incluída no preço, preservados os direitos morais do autor (Lei nº 9.610/1998), e a CONTRATADA garante que os materiais entregues não violam direitos de terceiros.
+
+CL[integ] DA INTEGRIDADE E DO CONFLITO DE INTERESSES
+P As partes comprometem-se a não oferecer, prometer ou entregar vantagem indevida a qualquer pessoa em razão deste contrato, observada a Lei nº 12.846/2013, e a CONTRATADA declara que não ofereceu nem ofertará a dirigentes, ministros ou colaboradores da IGREJA presentes, comissões ou vantagens de qualquer natureza.
+§ 1º A CONTRATADA declara que [NÃO É, NEM SEUS SÓCIOS OU ADMINISTRADORES SÃO, DIRIGENTE, CONSELHEIRO OU MINISTRO DA IGREJA, NEM CÔNJUGE, COMPANHEIRO OU PARENTE ATÉ O TERCEIRO GRAU DE QUEM O SEJA / TEM O SEGUINTE VÍNCULO: (DESCREVER)].
+§ 2º Havendo o vínculo mencionado no § 1º, a IGREJA declara que a contratação observou preço de mercado, comprovado por pelo menos 3 (três) orçamentos ou avaliação idônea, e foi precedida de parecer favorável do Conselho Fiscal e aprovada pela Diretoria Executiva sem a participação do interessado, conforme ata de [DATA] (Estatuto Social, art. [[ci]]).
+
+CL[fin] DAS DISPOSIÇÕES FINAIS
+P A tolerância de qualquer das partes quanto ao descumprimento de obrigação da outra não importará novação ou renúncia.
+§ 1º As notificações serão feitas por escrito, nos endereços indicados neste contrato ou nos endereços eletrônicos [E-MAIL DA IGREJA] e [E-MAIL DA CONTRATADA], com comprovação de recebimento.
+§ 2º Fica eleito o foro da Comarca de [CIDADE]/[UF] para dirimir as questões decorrentes deste contrato.
+P E, por estarem justas e contratadas, as partes assinam este instrumento em 2 (duas) vias de igual teor, na presença das testemunhas abaixo.
+
+%DATE
+%SIGNS [NOME DO PRESIDENTE];[NOME COMPLETO DA IGREJA] – Contratante|[NOME COMPLETO];Contratada
+### Testemunhas
+%SIGNS [NOME COMPLETO];Testemunha – CPF nº [NÚMERO]|[NOME COMPLETO];Testemunha – CPF nº [NÚMERO]
+
+%PAGEBREAK
+## ANEXO I – ESCOPO, NÍVEIS DE SERVIÇO E ENTREGAS
+%GRID 4,6,3,3
+Item | Descrição do serviço ou da entrega | Periodicidade ou prazo | Critério de aceite
+1 | [ ] | [ ] | [ ]
+2 | [ ] | [ ] | [ ]
+3 | [ ] | [ ] | [ ]
+4 | [ ] | [ ] | [ ]
+%ENDGRID
+P Local e horários de acesso às dependências: [DESCREVER, EVITANDO HORÁRIOS DE CULTO QUANDO POSSÍVEL]. Materiais e equipamentos fornecidos pela CONTRATADA: [DESCREVER]. Materiais fornecidos pela IGREJA: [DESCREVER OU "NENHUM"]. Prazo de atendimento a chamados: [PRAZO]. Relatórios a apresentar: [DESCREVER].
+P [EXEMPLOS DE ESCOPO – ASSESSORIA CONTÁBIL:] escrituração contábil conforme as normas aplicáveis às entidades sem finalidade de lucros; folha de pagamento e eSocial; EFD-Reinf, DCTFWeb, ECF e ECD, quando exigidas; apuração das retenções na fonte; balancetes mensais e demonstrações anuais para o Conselho Fiscal e a Assembleia Geral; e orientação sobre a manutenção dos requisitos da imunidade tributária (Estatuto Social, art. [[imu]], § 1º).
+%SIGNS [NOME COMPLETO];Pela Contratante|[NOME COMPLETO];Pela Contratada
+
+%PAGEBREAK
+## ANEXO II – DECLARAÇÕES DA CONTRATADA
+P A CONTRATADA declara, sob as penas da lei, que:
+I – possui a qualificação técnica, as habilitações e os registros exigidos para a prestação dos serviços;
+II – encontra-se em situação regular perante a Fazenda Federal, Estadual e Municipal, o FGTS e a Justiça do Trabalho, e apresentará as certidões correspondentes quando solicitadas;
+III – executará os serviços com autonomia, sem subordinação à IGREJA, e seus profissionais não serão empregados da IGREJA;
+IV – não emprega menor de 18 (dezoito) anos em trabalho noturno, perigoso ou insalubre, nem menor de 16 (dezesseis) anos, salvo na condição de aprendiz a partir de 14 (quatorze) anos (Constituição Federal, art. 7º, XXXIII);
+V – recebeu o Código de Conduta da IGREJA e, se aplicável, a Política de Proteção e a Política de Privacidade e Proteção de Dados, e se compromete a cumpri-los e a fazê-los cumprir por seus profissionais.
+%DATE
+%SIGNS [NOME COMPLETO];Contratada

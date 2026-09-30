@@ -1,0 +1,191 @@
+# POLÍTICA DE PROTEÇÃO DE CRIANÇAS, ADOLESCENTES E PESSOAS VULNERÁVEIS DA [NOME COMPLETO DA IGREJA] – [SIGLA]
+!Aprovada pela Diretoria Executiva, ouvido o Conselho Ministerial, em [DATA], nos termos do art. [[int]], II, do Estatuto Social e do art. <<prot>> do Regimento Interno
+
+## CAPÍTULO I – DISPOSIÇÕES GERAIS
+
+RART[obj] Esta Política estabelece as regras de prevenção, identificação e resposta a situações de violência contra crianças, adolescentes e pessoas vulneráveis nas atividades da [NOME COMPLETO DA IGREJA] (IGREJA), em cumprimento ao art. 227 da Constituição Federal, ao Estatuto da Criança e do Adolescente (Lei nº 8.069/1990 – ECA), à Lei nº 13.431/2017, ao Estatuto da Pessoa Idosa (Lei nº 10.741/2003), ao Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015) e à Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018 – LGPD).
+
+RART[princ] A aplicação desta Política orienta-se pelos seguintes princípios:
+I – a proteção integral e a prioridade absoluta de crianças e adolescentes;
+II – o melhor interesse da criança e do adolescente, que prevalece sobre a reputação da IGREJA ou de qualquer pessoa;
+III – a tolerância zero a qualquer forma de violência, abuso ou exploração;
+IV – a prevenção, mediante seleção, capacitação e supervisão dos que atuam com esses públicos;
+V – a resposta imediata, com comunicação às autoridades competentes e acolhimento da vítima e de sua família.
+
+RART[def] Para os fins desta Política, considera-se:
+I – criança, a pessoa com até 12 (doze) anos incompletos, e adolescente, a pessoa entre 12 (doze) e 18 (dezoito) anos de idade (ECA, art. 2º);
+II – pessoa vulnerável, o idoso, a pessoa com deficiência e qualquer pessoa que, por enfermidade, condição física ou mental, ou circunstância pessoal, tenha reduzida sua capacidade de proteger-se;
+III – violência, entre outras formas, a violência física, psicológica, sexual, institucional e patrimonial, a negligência, o castigo físico e o tratamento cruel ou degradante (ECA, art. 18-A; Lei nº 13.431/2017, art. 4º);
+IV – COLABORADOR, toda pessoa que atue, a qualquer título, em atividade da IGREJA com crianças, adolescentes ou pessoas vulneráveis, inclusive ministros, líderes, voluntários, empregados e prestadores de serviços;
+V – atividade, qualquer culto, aula, reunião, evento, acampamento, viagem, transporte ou ação social promovida pela IGREJA, presencial ou por meio eletrônico.
+
+## CAPÍTULO II – DA GOVERNANÇA
+
+RART[coord] A Diretoria Executiva designará um(a) Coordenador(a) de Proteção e um(a) suplente, dentre membros em plena comunhão capacitados, preferencialmente com formação ou experiência nas áreas de educação, saúde, assistência social, psicologia ou direito, para mandato de [2 (DOIS)] anos.
+§ 1º Compete ao(à) Coordenador(a) de Proteção:
+I – zelar pelo cumprimento desta Política e orientar os COLABORADORES;
+II – manter o cadastro dos COLABORADORES habilitados e controlar a validade de suas certidões e capacitações;
+III – organizar a capacitação inicial e anual dos COLABORADORES;
+IV – receber os relatos de suspeita de violência e assegurar as comunicações às autoridades;
+V – manter o registro sigiloso de incidentes;
+VI – apresentar relatório anual à Diretoria Executiva e ao Conselho Fiscal, sem identificação das vítimas.
+§ 2º É recomendável que o(a) Coordenador(a) de Proteção não seja o Pastor Titular nem cônjuge ou parente dele. Quando o relato envolver o(a) Coordenador(a), atuará o(a) suplente; quando envolver o Pastor Titular ou membro da Diretoria Executiva, o Conselho Fiscal acompanhará as providências (Regimento Interno, art. <<den>>, § 2º).
+
+## CAPÍTULO III – DA SELEÇÃO E HABILITAÇÃO DOS COLABORADORES
+
+RART[req] Somente poderá atuar em atividades com crianças, adolescentes ou pessoas vulneráveis o COLABORADOR que:
+I – for maior de 18 (dezoito) anos e membro da IGREJA há pelo menos [6 (SEIS)] meses, salvo empregados e prestadores de serviços contratados para a função;
+II – tiver sido entrevistado pelo(a) Coordenador(a) de Proteção ou pelo líder do ministério, com indicação de pelo menos [1 (UMA)] referência pessoal;
+III – apresentar certidões de antecedentes criminais das Justiças Estadual e Federal de seu domicílio e dos domicílios dos últimos [5 (CINCO)] anos;
+IV – concluir a capacitação inicial prevista no art. {{cap}};
+V – firmar o Termo de Compromisso do Anexo I;
+VI – cumprir período de atuação supervisionada de [3 (TRÊS)] meses.
+§ 1º As certidões serão renovadas a cada 12 (doze) meses ou, quando a IGREJA receber recursos públicos para atividades com crianças e adolescentes, a cada 6 (seis) meses (ECA, art. 59-A), e mantidas em arquivo com acesso restrito.
+§ 2º Estão impedidos de atuar com crianças, adolescentes ou pessoas vulneráveis os que:
+I – tenham sido condenados por crime contra a dignidade sexual, por crime praticado com violência ou grave ameaça, por crime previsto no ECA ou por violência doméstica e familiar;
+II – respondam a procedimento disciplinar ou a processo criminal por fatos dessa natureza, enquanto não encerrados;
+III – tenham sido desligados de atividade semelhante, nesta ou em outra instituição, por conduta inadequada com esses públicos.
+§ 3º Adolescentes com pelo menos 14 (quatorze) anos poderão auxiliar nas atividades com crianças, com autorização dos responsáveis e sob supervisão permanente de COLABORADORES habilitados, não sendo computados como adultos para os fins do art. {{dois}}.
+
+RART[cap] A capacitação inicial e a reciclagem anual dos COLABORADORES abordarão, no mínimo: o conteúdo desta Política e do Código de Conduta; os sinais de violência e negligência; a forma de acolher uma revelação; o dever de comunicar e os canais oficiais; a disciplina positiva; a segurança em ambientes digitais; e noções de primeiros socorros.
+
+## CAPÍTULO IV – DAS REGRAS PARA AS ATIVIDADES
+
+RART[dois] Toda atividade com crianças ou adolescentes será conduzida por pelo menos 2 (dois) adultos habilitados, que não sejam cônjuges, companheiros ou parentes entre si, sempre que possível, sendo vedado a qualquer adulto permanecer a sós com criança ou adolescente em ambiente fechado ou sem visibilidade.
+§ 1º As salas utilizadas terão porta com visor ou permanecerão com a porta aberta durante as atividades.
+§ 2º A proporção máxima de crianças por adulto habilitado será de: [5 (CINCO)] até 3 (três) anos; [8 (OITO)] de 4 (quatro) a 6 (seis) anos; e [12 (DOZE)] de 7 (sete) a 11 (onze) anos.
+§ 3º As crianças e adolescentes serão agrupados por faixa etária, evitando-se atividades conjuntas não supervisionadas entre crianças pequenas e adolescentes.
+
+RART[entr] A entrada e a saída de crianças nas atividades observarão o seguinte:
+I – cadastro prévio, com a Ficha do Anexo II assinada pelos pais ou responsáveis;
+II – registro de entrada, com entrega de etiqueta, senha ou código de identificação ao responsável;
+III – entrega da criança somente ao responsável que apresentar a identificação correspondente ou a pessoa previamente autorizada por escrito;
+IV – havendo dúvida sobre a pessoa que se apresenta para retirar a criança, esta permanecerá sob os cuidados dos COLABORADORES até o contato com o responsável cadastrado.
+
+RART[banh] O uso de banheiros por crianças observará o seguinte:
+I – as crianças pequenas serão acompanhadas preferencialmente por seus pais ou responsáveis;
+II – quando necessário o auxílio de COLABORADOR, este deixará a porta do banheiro entreaberta ou será acompanhado por outro adulto habilitado;
+III – a troca de fraldas será feita em local visível, preferencialmente com outro adulto presente.
+
+RART[contf] São condutas adequadas os gestos de acolhimento breves, respeitosos e visíveis, como o cumprimento com as mãos, o toque no ombro e o abraço lateral, e o consolo de criança pequena em local visível. São vedados:
+I – beijos, carícias, cócegas, lutas corporais e brincadeiras com contato físico excessivo;
+II – colocar no colo crianças maiores, salvo necessidade de consolo ou cuidado em local visível;
+III – comentários sobre o corpo, a aparência física ou a sexualidade da criança ou do adolescente;
+IV – linguagem, conteúdos, imagens ou piadas de conotação sexual, violenta ou vexatória;
+V – presentes, favores ou atenção individualizada que possam criar relação de dependência ou segredo;
+VI – qualquer castigo físico ou tratamento cruel ou degradante, como forma de disciplina (ECA, art. 18-A).
+Parágrafo único. A disciplina nas atividades será exercida por meios positivos e educativos, como a orientação, a mudança de atividade e o diálogo com os responsáveis.
+
+RART[dig] Na comunicação com crianças e adolescentes, inclusive por meios eletrônicos:
+I – serão utilizados apenas os canais institucionais da IGREJA, como grupos com a participação de pelo menos 2 (dois) adultos habilitados, e dada ciência aos pais ou responsáveis;
+II – é vedado manter conversas privadas reiteradas, pedir sigilo, solicitar ou enviar imagens pessoais, ou manter contato em horários impróprios;
+III – as transmissões e atividades virtuais com crianças e adolescentes observarão as mesmas regras das presenciais.
+
+RART[acons] O aconselhamento de adolescentes será feito em local visível, com ciência dos responsáveis, salvo quando o próprio relato indicar que os responsáveis são suspeitos de violência, hipótese em que se aplica o Capítulo V.
+
+RART[trans] O transporte de crianças e adolescentes em atividades da IGREJA dependerá de autorização escrita dos responsáveis e será feito, sempre que possível, com pelo menos 2 (dois) adultos habilitados, sendo vedado o transporte de criança ou adolescente a sós com um adulto que não seja seu responsável, salvo emergência comunicada imediatamente aos responsáveis.
+
+RART[viag] Nos acampamentos, retiros, viagens e demais atividades com pernoite:
+I – será exigida autorização escrita dos pais ou responsáveis (Anexo III), com as informações de saúde e contatos de emergência;
+II – será observado o art. 83 do ECA, providenciando-se a autorização judicial ou a autorização expressa dos pais ou responsáveis exigida para a viagem de criança ou adolescente menor de 16 (dezesseis) anos para fora da comarca de residência desacompanhado dos pais ou responsáveis;
+III – os dormitórios serão separados por sexo e por faixa etária, e nenhum adulto dormirá no mesmo cômodo que crianças ou adolescentes, salvo seus próprios pais ou responsáveis ou, na impossibilidade, pelo menos 2 (dois) adultos habilitados;
+IV – haverá supervisão noturna por pelo menos 2 (dois) adultos habilitados;
+V – a proporção de adultos habilitados por participante será definida pelo(a) Coordenador(a) de Proteção, não podendo ser inferior à do art. {{dois}}, § 2º.
+
+RART[saude] Os medicamentos somente serão ministrados a crianças e adolescentes mediante autorização escrita dos responsáveis, com indicação da dose e do horário, e as situações de saúde ocorridas nas atividades serão comunicadas imediatamente aos responsáveis. Em emergências, será acionado o serviço de atendimento móvel (SAMU – 192) ou o Corpo de Bombeiros (193).
+
+RART[img] A captação, o uso e a divulgação de imagem, voz e dados de crianças e adolescentes observarão o art. 14 da LGPD e dependerão de consentimento específico e em destaque de pelo menos um dos pais ou responsáveis, na forma do Anexo II, podendo ser revogado a qualquer tempo, e:
+I – serão vedadas imagens que exponham a criança ou o adolescente a situação vexatória ou constrangedora;
+II – não serão divulgados nome completo, escola, endereço ou outros dados que permitam localizar a criança ou o adolescente;
+III – as imagens serão removidas dos canais da IGREJA mediante solicitação dos responsáveis.
+
+## CAPÍTULO V – DA RESPOSTA A SUSPEITAS E REVELAÇÕES DE VIOLÊNCIA
+
+RART[acolh] O COLABORADOR que receber uma revelação de violência feita por criança, adolescente ou pessoa vulnerável deverá:
+I – ouvir com calma e atenção, acreditar no relato e acolher a pessoa, sem demonstrar espanto, julgamento ou incredulidade;
+II – não fazer perguntas sugestivas nem investigar os fatos, limitando-se ao necessário para garantir a segurança imediata da vítima, pois a escuta especializada e o depoimento especial são atribuições dos órgãos da rede de proteção (Lei nº 13.431/2017);
+III – não prometer segredo, explicando que precisará pedir ajuda a quem pode protegê-la;
+IV – não confrontar o suspeito;
+V – registrar por escrito, o quanto antes, as palavras utilizadas pela vítima, a data, o horário e as circunstâncias, no Formulário do Anexo IV;
+VI – comunicar imediatamente o(a) Coordenador(a) de Proteção.
+
+RART[comun] Havendo suspeita ou confirmação de violência contra criança ou adolescente:
+I – o fato será comunicado imediatamente ao Conselho Tutelar e, conforme o caso, à autoridade policial, pelo(a) Coordenador(a) de Proteção ou, em sua ausência ou demora, pelo próprio COLABORADOR (ECA, arts. 13 e 70-B; Lei nº 13.431/2017, art. 13);
+II – havendo risco imediato, será acionada a Polícia Militar (190), sem prejuízo da comunicação ao Conselho Tutelar;
+III – poderá ser utilizado, adicionalmente, o Disque Direitos Humanos (Disque 100);
+IV – os responsáveis pela criança ou adolescente serão informados, salvo quando forem suspeitos ou quando a informação puder colocar a vítima em risco, caso em que se seguirá a orientação do Conselho Tutelar ou da autoridade policial.
+§ 1º O dever de comunicar não depende de certeza sobre os fatos, nem de autorização do Pastor Titular, da Diretoria Executiva ou de qualquer órgão da IGREJA, e não poderá ser retardado para apuração interna.
+§ 2º A omissão ou o retardamento injustificado da comunicação por quem tem o dever de fazê-la constitui falta grave, sem prejuízo das sanções legais (ECA, art. 70-B, parágrafo único).
+§ 3º As situações de violência contra idosos e pessoas com deficiência serão comunicadas às autoridades competentes, como a autoridade policial, o Ministério Público, os conselhos de direitos e os órgãos de assistência social, na forma do Estatuto da Pessoa Idosa e do Estatuto da Pessoa com Deficiência.
+
+RART[susp] Quando o suspeito for COLABORADOR ou membro da IGREJA:
+I – será imediatamente afastado de todas as atividades com crianças, adolescentes e pessoas vulneráveis e, se necessário, de outras funções, até a conclusão das apurações (Regimento Interno, art. <<pd5>>);
+II – a IGREJA cooperará com as autoridades, preservando documentos, registros, imagens e demais provas;
+III – o procedimento disciplinar interno correrá em paralelo e não substituirá nem condicionará a atuação das autoridades (Regimento Interno, art. <<pd6>>);
+IV – é vedado promover mediação, acordo ou encontro entre a vítima ou sua família e o suspeito (Regimento Interno, art. <<medi>>, § 4º);
+V – a comunicação à comunidade, quando necessária, será feita em termos estritamente necessários, preservando a identidade da vítima.
+
+RART[apoio] A IGREJA oferecerá à vítima e à sua família acolhimento pastoral, se desejado, e orientação para acesso aos serviços da rede de proteção, saúde e assistência social, e zelará para que não sofram qualquer forma de pressão, exposição ou retaliação.
+
+RART[reg] O(A) Coordenador(a) de Proteção manterá registro sigiloso de todos os relatos e das providências adotadas, arquivado com acesso restrito pelo prazo mínimo de [20 (VINTE)] anos, observada a LGPD.
+
+## CAPÍTULO VI – DA PARTICIPAÇÃO DE PESSOAS COM HISTÓRICO DE VIOLÊNCIA
+
+RART[hist] A pessoa que tenha sido condenada ou que responda a processo por crime contra criança, adolescente ou pessoa vulnerável, ou por crime contra a dignidade sexual, poderá participar dos cultos, mediante acordo escrito de participação supervisionada, firmado com o Conselho Ministerial e o(a) Coordenador(a) de Proteção, que preverá, no mínimo:
+I – a proibição de atuar, a qualquer título, em atividades com crianças, adolescentes ou pessoas vulneráveis;
+II – a proibição de frequentar os espaços destinados a essas atividades e de manter contato com esses públicos nas dependências e atividades da IGREJA;
+III – o acompanhamento por membro designado durante sua permanência nas atividades da IGREJA;
+IV – o cumprimento das condições eventualmente impostas pelo Poder Judiciário.
+Parágrafo único. O descumprimento do acordo acarretará o impedimento de participação nas atividades da IGREJA, sem prejuízo das comunicações às autoridades.
+
+## CAPÍTULO VII – DISPOSIÇÕES FINAIS
+
+RART[aval] O(A) Coordenador(a) de Proteção promoverá, anualmente, a revisão do cumprimento desta Política, incluindo a verificação das certidões, das capacitações, dos cadastros e dos registros de incidentes, e apresentará relatório à Diretoria Executiva e ao Conselho Fiscal.
+
+RART[vig] Esta Política será divulgada a todos os membros e aos pais e responsáveis pelas crianças e adolescentes que participam das atividades da IGREJA, será revisada pela Diretoria Executiva a cada [2 (DOIS)] anos ou sempre que necessário, e entra em vigor na data de sua aprovação.
+
+%DATE
+%SIGNS [NOME DO PRESIDENTE];Presidente da Diretoria Executiva|[NOME DO PASTOR TITULAR];Pastor(a) Titular – Presidente do Conselho Ministerial|[NOME];Coordenador(a) de Proteção
+
+%PAGEBREAK
+## ANEXO I – TERMO DE COMPROMISSO DO COLABORADOR
+P Eu, [NOME COMPLETO], inscrito(a) no CPF sob o nº [NÚMERO], residente na [ENDEREÇO COMPLETO], na função de [FUNÇÃO] no ministério [NOME DO MINISTÉRIO] da [NOME COMPLETO DA IGREJA], declaro que:
+I – recebi, li e compreendi a Política de Proteção de Crianças, Adolescentes e Pessoas Vulneráveis e o Código de Conduta da IGREJA e comprometo-me a cumpri-los integralmente;
+II – não estou incurso(a) em nenhum dos impedimentos do art. {{req}}, § 2º, da Política, e comunicarei imediatamente à IGREJA qualquer fato superveniente que me torne impedido(a);
+III – autorizo a IGREJA a manter em arquivo as certidões de antecedentes criminais que apresentar, para a finalidade exclusiva de verificação da minha habilitação, nos termos da LGPD;
+IV – estou ciente de que tenho o dever legal de comunicar às autoridades qualquer suspeita de violência contra criança ou adolescente (ECA, arts. 13 e 70-B; Lei nº 13.431/2017, art. 13), independentemente de autorização de qualquer pessoa;
+V – estou ciente de que o descumprimento da Política acarretará meu afastamento imediato das atividades, sem prejuízo das demais consequências previstas no Código de Conduta e na lei.
+%DATE
+%SIGNS [NOME COMPLETO];Assinatura do(a) Colaborador(a)|[NOME];Coordenador(a) de Proteção
+
+%PAGEBREAK
+## ANEXO II – FICHA DE CADASTRO E AUTORIZAÇÕES DA CRIANÇA OU DO ADOLESCENTE
+P Nome da criança ou do adolescente: [NOME COMPLETO]. Data de nascimento: [DATA].
+P Pais ou responsáveis: [NOME, PARENTESCO, CPF, TELEFONE E E-MAIL DE CADA UM].
+P Pessoas autorizadas a retirar a criança (além dos responsáveis): [NOME, PARENTESCO, DOCUMENTO E TELEFONE].
+P Informações de saúde relevantes (alergias, restrições alimentares, medicamentos de uso contínuo, necessidades específicas): [DESCREVER].
+P Contato de emergência: [NOME E TELEFONE].
+P AUTORIZAÇÃO DE PARTICIPAÇÃO: Autorizo a participação da criança ou do adolescente acima nas atividades regulares da IGREJA, na forma da Política de Proteção, da qual recebi cópia.
+P CONSENTIMENTO PARA TRATAMENTO DE DADOS (LGPD, art. 14): Consinto com o tratamento dos dados acima pela IGREJA, exclusivamente para a organização, a segurança e o cuidado da criança ou do adolescente nas atividades, pelo tempo em que participar delas.
+P CONSENTIMENTO PARA USO DE IMAGEM (marque uma opção): [ ] Autorizo a captação e a divulgação de imagens em que a criança ou o adolescente apareça, nos canais oficiais da IGREJA, sem identificação do nome completo; [ ] Autorizo apenas a captação para uso interno, sem divulgação; [ ] Não autorizo. Estou ciente de que posso revogar este consentimento a qualquer tempo, mediante comunicação à IGREJA.
+%DATE
+%SIGNS [NOME COMPLETO];Assinatura do pai, da mãe ou do responsável legal
+
+%PAGEBREAK
+## ANEXO III – AUTORIZAÇÃO PARA EVENTO, VIAGEM OU PERNOITE
+P Eu, [NOME COMPLETO], [PARENTESCO/QUALIDADE DE RESPONSÁVEL], portador(a) do RG nº [NÚMERO] e inscrito(a) no CPF sob o nº [NÚMERO], AUTORIZO [NOME COMPLETO DA CRIANÇA OU DO ADOLESCENTE], nascido(a) em [DATA], a participar do(a) [NOME DO EVENTO], promovido pela [NOME COMPLETO DA IGREJA], a realizar-se em [LOCAL], de [DATA E HORA DE SAÍDA] a [DATA E HORA DE RETORNO], com transporte [DESCREVER], sob a responsabilidade dos seguintes adultos: [NOMES, RG E TELEFONE DOS RESPONSÁVEIS PELO EVENTO].
+P [SE A VIAGEM FOR PARA FORA DA COMARCA E O MENOR TIVER MENOS DE 16 ANOS:] A presente autorização é concedida nos termos do art. 83, § 1º, do ECA, para que viaje acompanhado(a) do(s) adulto(s) acima indicado(s), com firma reconhecida [OU CONFORME A NORMA DO CONSELHO NACIONAL DE JUSTIÇA VIGENTE / AUTORIZAÇÃO JUDICIAL ANEXA].
+P Informações de saúde e medicamentos a ministrar (dose e horário): [DESCREVER]. Contato de emergência durante o evento: [NOME E TELEFONE].
+%DATE
+%SIGNS [NOME COMPLETO];Assinatura do pai, da mãe ou do responsável legal
+
+%PAGEBREAK
+## ANEXO IV – FORMULÁRIO DE REGISTRO DE RELATO OU INCIDENTE (SIGILOSO)
+P Data e hora do registro: [ ]. Nome e função de quem registra: [ ].
+P Data, hora e local do fato ou da revelação: [ ].
+P Pessoa envolvida (vítima): nome, idade e responsáveis: [ ].
+P Descrição do que foi visto, ouvido ou relatado, utilizando, sempre que possível, as palavras exatas da pessoa: [ ].
+P Pessoa(s) apontada(s) como suspeita(s), se houver: [ ].
+P Testemunhas: [ ].
+P Providências adotadas (data, hora e responsável): comunicação ao(à) Coordenador(a) de Proteção [ ]; comunicação ao Conselho Tutelar [ ]; comunicação à autoridade policial [ ]; comunicação aos responsáveis [ ]; afastamento cautelar do suspeito [ ]; outras [ ].
+%SIGNS [NOME COMPLETO];Quem registrou|[NOME];Coordenador(a) de Proteção

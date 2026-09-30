@@ -1,0 +1,175 @@
+# POLÍTICA DE PRIVACIDADE E PROTEÇÃO DE DADOS PESSOAIS DA [NOME COMPLETO DA IGREJA] – [SIGLA]
+!Aprovada pela Diretoria Executiva em [DATA], nos termos do art. [[int]], IV, do Estatuto Social e do art. <<lgpd>> do Regimento Interno
+
+## PARTE I – AVISO DE PRIVACIDADE AOS TITULARES
+
+## CAPÍTULO I – QUEM SOMOS E A QUEM ESTA POLÍTICA SE APLICA
+
+RART[contr] A [NOME COMPLETO DA IGREJA] (IGREJA), organização religiosa inscrita no CNPJ sob o nº [NÚMERO], com sede na [ENDEREÇO COMPLETO, COM CEP], é a controladora dos dados pessoais tratados em suas atividades, nos termos da Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD).
+
+RART[enc] O(A) encarregado(a) pelo tratamento de dados pessoais da IGREJA é [NOME COMPLETO], que pode ser contatado(a) pelo endereço eletrônico [E-MAIL EXCLUSIVO, EX.: privacidade@...], pelo telefone [TELEFONE] ou pessoalmente na Secretaria, e atua como canal de comunicação entre a IGREJA, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD) (LGPD, art. 41).
+
+RART[abr] Esta Política aplica-se aos dados pessoais de membros, frequentadores, visitantes, crianças e adolescentes, contribuintes e doadores, voluntários, ministros, empregados, candidatos, prestadores de serviços, assistidos em ações sociais, participantes de eventos e usuários dos canais digitais da IGREJA, coletados por meio físico ou eletrônico.
+
+RART[sens] A IGREJA reconhece que os dados que revelam a convicção religiosa ou a filiação a organização de caráter religioso são dados pessoais sensíveis (LGPD, art. 5º, II), razão pela qual o simples fato de uma pessoa constar dos registros da IGREJA é tratado com o nível de proteção reservado a esses dados.
+
+## CAPÍTULO II – QUAIS DADOS TRATAMOS, PARA QUE E COM QUAL BASE LEGAL
+
+RART[trat] A IGREJA trata somente os dados necessários às finalidades abaixo, com as seguintes bases legais (LGPD, arts. 7º e 11):
+%GRID
+Titulares | Dados | Finalidades | Base legal
+Membros | Nome, data de nascimento, CPF, contatos, endereço, estado civil, modo e data de admissão, funções, medidas disciplinares | Manter o Rol de Membros, convocar Assembleias, verificar o direito de voto, cuidado pastoral e vida religiosa | Consentimento específico e destacado (art. 11, I); cumprimento de obrigação legal e exercício regular de direitos quanto aos registros exigidos pelo Estatuto e pela lei civil (art. 11, II, "a" e "d")
+Frequentadores e visitantes | Nome, contatos e, se fornecidos, pedidos de oração ou de visita | Acolhimento, retorno de contato e acompanhamento pastoral solicitado | Consentimento (art. 11, I)
+Crianças e adolescentes | Nome, data de nascimento, responsáveis, pessoas autorizadas, informações de saúde, imagem | Segurança e cuidado nas atividades, conforme a Política de Proteção | Consentimento específico de um dos pais ou responsável (art. 14, § 1º); proteção da vida em emergência (art. 11, II, "e")
+Contribuintes e doadores | Nome, CPF, valor, data e meio de pagamento das contribuições | Registro contábil, emissão de recibos, prestação de contas e prevenção a fraudes | Cumprimento de obrigação legal (art. 11, II, "a"); prevenção à fraude e à segurança do titular (art. 11, II, "g")
+Ministros, voluntários, líderes e colaboradores com crianças | Qualificação, contatos, termos assinados, certidões de antecedentes criminais, capacitações | Habilitação e gestão das funções, proteção de vulneráveis | Cumprimento de obrigação legal (arts. 7º, II, e 11, II, "a"); exercício regular de direitos (art. 11, II, "d"); consentimento, quando aplicável
+Empregados e candidatos | Dados exigidos pela legislação trabalhista e previdenciária, currículo | Recrutamento, contrato de trabalho, folha de pagamento, eSocial | Execução de contrato (art. 7º, V); obrigação legal (arts. 7º, II, e 11, II, "a")
+Dirigentes e conselheiros | Qualificação completa, declarações de desimpedimento e de conflito de interesses | Registro público dos atos da IGREJA, cadastros fiscais e bancários, governança | Cumprimento de obrigação legal (arts. 7º, II, e 11, II, "a")
+Assistidos em ações sociais | Nome, contatos, composição familiar e necessidades informadas | Prestação de assistência sem discriminação e prestação de contas de parcerias | Consentimento (art. 11, I); execução de políticas públicas em parcerias, quando houver (art. 11, II, "b"); proteção da vida (art. 11, II, "e")
+Participantes de eventos e inscritos | Nome, contatos, dados de pagamento, restrições de saúde informadas | Inscrição, organização, segurança e comunicação do evento | Execução de contrato (art. 7º, V); consentimento quanto a dados de saúde (art. 11, I)
+Pessoas filmadas ou fotografadas em cultos e eventos | Imagem e voz | Transmissão e registro de cultos e atividades | Consentimento (art. 11, I), observado o art. {{img}}
+Usuários do site, aplicativo e redes da IGREJA | Dados de navegação, cookies e dados de formulários | Funcionamento dos serviços, segurança e estatísticas | Legítimo interesse, apenas para dados não sensíveis (art. 7º, IX); consentimento para cookies não essenciais (art. 7º, I)
+%ENDGRID
+Parágrafo único. A IGREJA não utiliza dados pessoais para fins comerciais, não os vende, não os aluga e não os utiliza para fins político-partidários (Estatuto, art. [[fin]], § 3º).
+
+RART[pastor] As informações compartilhadas em aconselhamento pastoral são confidenciais. A IGREJA orienta seus ministros a não manter registros escritos detalhados dessas conversas e, quando indispensáveis, a guardá-los sob sua responsabilidade pessoal, em meio protegido, sem inclusão em cadastros gerais, ressalvadas as comunicações obrigatórias por lei.
+
+RART[img] Nas transmissões e gravações de cultos e eventos:
+I – haverá aviso visível na entrada e no início da atividade sobre a captação de imagens;
+II – será reservada área não alcançada pelas câmeras, sempre que possível;
+III – as câmeras privilegiarão o púlpito e os participantes da programação, evitando enquadramentos individualizados do público;
+IV – a imagem de pessoa identificável em destaque somente será divulgada com seu consentimento, e a de crianças e adolescentes observará a Política de Proteção;
+V – qualquer pessoa poderá solicitar a remoção de conteúdo em que apareça, na forma do art. {{dir}}.
+
+## CAPÍTULO III – COM QUEM COMPARTILHAMOS
+
+RART[comp] A IGREJA poderá compartilhar dados pessoais, na medida estritamente necessária, com:
+I – o escritório de contabilidade, instituições financeiras e meios de pagamento, para a gestão financeira e o cumprimento de obrigações fiscais;
+II – fornecedores de tecnologia, como provedores de sistemas de gestão, armazenamento em nuvem, correio eletrônico e plataformas de transmissão, que atuam como operadores sob contrato;
+III – autoridades públicas, quando exigido por lei ou por ordem judicial, inclusive para a comunicação de violência contra criança, adolescente, idoso ou pessoa com deficiência;
+IV – o cartório de registro e os órgãos públicos, quanto aos dados de dirigentes e fundadores necessários aos registros e cadastros legais;
+V – o Poder Público parceiro, quanto aos dados de assistidos exigidos na prestação de contas de parcerias;
+VI – [CONVENÇÃO, CONCÍLIO OU ORGANIZAÇÃO RELIGIOSA A QUE A IGREJA SEJA FILIADA], somente mediante consentimento do titular, salvo os dados de ministros necessários ao credenciamento.
+Parágrafo único. A IGREJA não divulga a terceiros a lista de seus membros, frequentadores ou contribuintes.
+
+RART[intl] Quando fornecedores de tecnologia armazenarem dados em servidores fora do Brasil, a IGREJA exigirá garantias contratuais de proteção compatíveis com a LGPD, observadas as hipóteses do art. 33 da LGPD e a regulamentação da ANPD.
+
+## CAPÍTULO IV – POR QUANTO TEMPO GUARDAMOS
+
+RART[ret] Os dados pessoais serão conservados apenas pelo tempo necessário às finalidades para as quais foram coletados e ao cumprimento de obrigações legais, observados os seguintes prazos:
+%GRID
+Categoria | Prazo de conservação | Após o prazo
+Rol de Membros (membros ativos) | Enquanto durar a condição de membro | Mantêm-se apenas nome, datas e modo de admissão e desligamento
+Dados de membro desligado | Nome e datas: permanentemente, como registro histórico e para defesa de direitos; demais dados: [5 (CINCO)] anos após o desligamento | Eliminação dos demais dados
+Documentos contábeis, fiscais e de contribuições | 10 (dez) anos, ou o prazo legal maior (Estatuto, art. [[imu]], § 1º, IV) | Eliminação ou anonimização
+Atas, termos de posse e documentos de governança | Permanentemente | —
+Livros de Registro de Batismos, de Apresentação de Crianças, de Casamentos Religiosos e de Ordenações (nomes, datas, filiação, local, celebrante e testemunhas) | Permanentemente, como registro histórico da vida religiosa, com acesso restrito | —
+Autos de procedimentos disciplinares | [10 (DEZ)] anos após a decisão final (Regimento Interno, art. <<pd7>>) | Eliminação
+Registros de incidentes de proteção de menores | [20 (VINTE)] anos | Revisão pelo(a) Coordenador(a) de Proteção
+Fichas de crianças e autorizações | Enquanto participar das atividades e mais [2 (DOIS)] anos | Eliminação
+Certidões criminais de colaboradores | Enquanto durar a função e mais [5 (CINCO)] anos | Eliminação
+Documentos trabalhistas e previdenciários | Prazos da legislação trabalhista e previdenciária | Eliminação
+Contatos de visitantes e frequentadores | [2 (DOIS)] anos sem interação | Eliminação
+Gravações de cultos e eventos | Conforme o interesse da IGREJA, atendidos os pedidos de remoção | —
+Gravações de Assembleias eletrônicas | 5 (cinco) anos (Estatuto, art. [[elet]], III) | Eliminação
+%ENDGRID
+Parágrafo único. Os dados poderão ser conservados após os prazos acima nas hipóteses do art. 16 da LGPD, inclusive para cumprimento de obrigação legal e para uso exclusivo da IGREJA, desde que anonimizados.
+
+## CAPÍTULO V – DIREITOS DOS TITULARES
+
+RART[dir] O titular pode, a qualquer tempo e gratuitamente, solicitar à IGREJA (LGPD, art. 18):
+I – a confirmação da existência de tratamento e o acesso aos seus dados;
+II – a correção de dados incompletos, inexatos ou desatualizados;
+III – a anonimização, o bloqueio ou a eliminação de dados desnecessários, excessivos ou tratados em desconformidade com a LGPD;
+IV – a portabilidade dos dados, nos termos da regulamentação;
+V – a eliminação dos dados tratados com base no consentimento, ressalvadas as hipóteses de conservação do art. 16 da LGPD;
+VI – a informação sobre as entidades com as quais a IGREJA compartilhou seus dados;
+VII – a informação sobre a possibilidade de não fornecer consentimento e suas consequências;
+VIII – a revogação do consentimento;
+IX – a oposição a tratamento realizado com dispensa de consentimento, em caso de descumprimento da LGPD.
+§ 1º As solicitações serão dirigidas ao(à) encarregado(a) (art. {{enc}}) e respondidas de forma simplificada imediatamente ou, por declaração completa, em até 15 (quinze) dias da solicitação (LGPD, art. 19).
+§ 2º A IGREJA poderá solicitar informações para confirmar a identidade do solicitante, a fim de evitar o acesso indevido a dados de terceiros.
+§ 3º O pedido de desligamento da condição de membro implica a revogação do consentimento para o cuidado pastoral e as comunicações, conservando-se apenas os registros previstos no art. {{ret}}.
+§ 4º O titular pode apresentar reclamação à ANPD, sem prejuízo de procurar antes a IGREJA para a solução da questão.
+
+## CAPÍTULO VI – SEGURANÇA E INCIDENTES
+
+RART[seg] A IGREJA adota medidas técnicas e administrativas para proteger os dados pessoais contra acessos não autorizados e situações acidentais ou ilícitas de destruição, perda, alteração ou comunicação (LGPD, art. 46), descritas na Parte II desta Política.
+
+RART[incid] Na ocorrência de incidente de segurança que possa acarretar risco ou dano relevante aos titulares, a IGREJA comunicará a ANPD e os titulares afetados no prazo e na forma da regulamentação da ANPD (LGPD, art. 48), conforme o art. {{resp_inc}}.
+
+## CAPÍTULO VII – CANAIS DIGITAIS E COOKIES
+
+RART[cook] O site e o aplicativo da IGREJA utilizam cookies estritamente necessários ao seu funcionamento e, mediante consentimento obtido por aviso específico, cookies de estatística e de preferências. O usuário pode gerenciar ou recusar os cookies não essenciais a qualquer tempo, sem prejuízo do acesso aos conteúdos.
+Parágrafo único. As contribuições on-line são processadas por meios de pagamento contratados, que recebem os dados necessários à transação, e a IGREJA não armazena os números completos de cartões de pagamento.
+
+## PARTE II – NORMAS INTERNAS DE GOVERNANÇA EM PRIVACIDADE
+
+## CAPÍTULO VIII – RESPONSABILIDADES
+
+RART[papeis] São responsabilidades na proteção de dados:
+I – da Diretoria Executiva: aprovar esta Política, designar o(a) encarregado(a), prover os recursos necessários e responder pela conformidade da IGREJA;
+II – do(a) encarregado(a): orientar os COLABORADORES, receber e responder as solicitações dos titulares e as comunicações da ANPD, manter o registro das operações de tratamento e coordenar a resposta a incidentes;
+III – do 1º Secretário: manter o Rol de Membros e os arquivos com controle de acesso (Estatuto, art. [[sec]]);
+IV – dos líderes de ministérios e dirigentes de congregações: assegurar o cumprimento desta Política em suas áreas;
+V – de todos os COLABORADORES: tratar os dados pessoais apenas para as finalidades de suas funções, guardar sigilo e comunicar imediatamente qualquer incidente ao(à) encarregado(a).
+Parágrafo único. O(A) encarregado(a) será designado(a) por ato da Diretoria Executiva, com divulgação de sua identidade e contato no site da IGREJA e na Secretaria, e deverá ter conhecimentos de proteção de dados compatíveis com a função.
+
+RART[inv] O(A) encarregado(a) manterá registro das operações de tratamento (LGPD, art. 37), com a indicação, para cada atividade, dos dados tratados, da finalidade, da base legal, dos responsáveis, dos compartilhamentos e do prazo de conservação, e elaborará relatório de impacto à proteção de dados pessoais para os tratamentos de dados sensíveis e de crianças e adolescentes, quando exigido (LGPD, art. 38).
+
+## CAPÍTULO IX – REGRAS DE SEGURANÇA NO DIA A DIA
+
+RART[regras] Os COLABORADORES observarão as seguintes regras:
+I – o acesso a cadastros, sistemas e arquivos será concedido individualmente, com senha pessoal, somente a quem dele necessitar para suas funções, e revogado imediatamente ao fim da função;
+II – as credenciais de sistemas, perfis e contas da IGREJA pertencem à IGREJA, serão registradas na Secretaria e transferidas na forma do art. <<el4>>, parágrafo único, do Regimento Interno;
+III – os cadastros serão mantidos em sistemas ou planilhas da IGREJA, com cópia de segurança periódica, sendo vedada a manutenção de cópias em dispositivos ou contas pessoais, salvo o estritamente necessário e com proteção por senha;
+IV – os documentos físicos com dados pessoais serão guardados em armário trancado, e as listas impressas utilizadas em atividades serão recolhidas e destruídas após o uso;
+V – os grupos de mensagens institucionais serão criados e administrados por COLABORADORES designados, com pelo menos 2 (dois) administradores, não expondo números de telefone além do necessário, e é vedado incluir pessoas sem seu consentimento;
+VI – é vedado divulgar, em grupos, murais, cultos ou redes sociais, informações sobre saúde, situação financeira, disciplina ou vida pessoal de membros sem o seu consentimento, inclusive pedidos de oração;
+VII – as comunicações em massa serão feitas com cópia oculta dos destinatários ou por ferramentas próprias;
+VIII – os pedidos de dados feitos por telefone ou mensagem somente serão atendidos após a confirmação da identidade do solicitante.
+
+RART[oper] A contratação de fornecedores que tratem dados pessoais em nome da IGREJA (operadores) será formalizada por contrato ou termo que contenha, no mínimo, a obrigação de tratar os dados apenas conforme as instruções da IGREJA, de manter sigilo e medidas de segurança, de comunicar incidentes em até [48 (QUARENTA E OITO)] horas, de não subcontratar sem autorização e de devolver ou eliminar os dados ao término do contrato.
+
+RART[resp_inc] Na ocorrência de incidente de segurança, como perda, furto ou acesso indevido a cadastros, dispositivos, contas ou documentos:
+I – o COLABORADOR que dele tiver conhecimento comunicará imediatamente o(a) encarregado(a) e a Diretoria Executiva;
+II – o(a) encarregado(a) adotará as medidas de contenção, como a troca de senhas, o bloqueio de acessos e o contato com o fornecedor, e avaliará o risco aos titulares;
+III – havendo risco ou dano relevante aos titulares, a IGREJA comunicará a ANPD e os titulares afetados no prazo de 3 (três) dias úteis contados do conhecimento de que o incidente afetou dados pessoais, ou no prazo diferenciado aplicável aos agentes de tratamento de pequeno porte, se a IGREJA se enquadrar nessa condição, observada a Resolução CD/ANPD nº 15/2024 ou a norma que a suceder;
+IV – todo incidente, comunicado ou não, será registrado com a descrição dos fatos, dos dados afetados, da avaliação de risco e das medidas adotadas, e o registro será conservado por pelo menos 5 (cinco) anos.
+
+RART[trein] Os COLABORADORES com acesso a dados pessoais receberão orientação sobre esta Política ao iniciar suas funções e firmarão termo de confidencialidade, que poderá integrar o Termo de Ciência e Compromisso do Código de Conduta.
+
+RART[aud] O(A) encarregado(a) apresentará à Diretoria Executiva e ao Conselho Fiscal relatório anual sobre a aplicação desta Política, com as solicitações de titulares recebidas, os incidentes registrados e as medidas de melhoria recomendadas.
+
+## CAPÍTULO X – DISPOSIÇÕES FINAIS
+
+RART[desc] O descumprimento desta Política sujeitará o infrator às consequências do art. {{codigo_conduta:cons}} do Código de Conduta, sem prejuízo das responsabilidades civil, administrativa e criminal.
+
+RART[alt] Esta Política será revisada pela Diretoria Executiva a cada [2 (DOIS)] anos ou sempre que houver alteração relevante na legislação ou nas atividades da IGREJA. A versão vigente, com a data da última atualização, será mantida no site da IGREJA e na Secretaria, e as alterações relevantes serão comunicadas aos membros.
+
+RART[vig] Esta Política entra em vigor na data de sua aprovação.
+P Última atualização: [DATA].
+
+%DATE
+%SIGNS [NOME DO PRESIDENTE];Presidente da Diretoria Executiva|[NOME];Encarregado(a) pelo Tratamento de Dados Pessoais
+
+%PAGEBREAK
+## ANEXO I – TERMO DE CONSENTIMENTO DO MEMBRO
+P Eu, [NOME COMPLETO], inscrito(a) no CPF sob o nº [NÚMERO], ao solicitar minha admissão como membro da [NOME COMPLETO DA IGREJA], declaro que li a Política de Privacidade e Proteção de Dados Pessoais da IGREJA e CONSINTO, de forma específica e destacada, com o tratamento dos meus dados pessoais, inclusive dos que revelam minha convicção religiosa e minha condição de membro, para as seguintes finalidades: manutenção do Rol de Membros, convocação e participação em Assembleias, cuidado pastoral, comunicação sobre as atividades da IGREJA e cumprimento das obrigações estatutárias e legais.
+P Opções adicionais (marque as que desejar): [ ] Aceito receber comunicações da IGREJA por mensagens eletrônicas e grupos institucionais; [ ] Autorizo a divulgação do meu nome e da data do meu aniversário nos canais internos da IGREJA; [ ] Autorizo a divulgação de imagens em que eu apareça em destaque nos canais oficiais da IGREJA.
+P Estou ciente de que posso revogar este consentimento a qualquer tempo, mediante solicitação ao(à) encarregado(a), e de que, nesse caso, serão conservados apenas os registros previstos na Política.
+%DATE
+%SIGNS [NOME COMPLETO];Assinatura do(a) titular
+
+%PAGEBREAK
+## ANEXO II – FORMULÁRIO DE SOLICITAÇÃO DO TITULAR
+P Nome completo: [ ]. CPF: [ ]. Endereço eletrônico ou telefone para resposta: [ ].
+P Relação com a IGREJA: [ ] membro; [ ] ex-membro; [ ] frequentador ou visitante; [ ] pai, mãe ou responsável por criança ou adolescente; [ ] colaborador; [ ] outro: [ ].
+P Solicitação (marque): [ ] confirmação e acesso aos dados; [ ] correção; [ ] eliminação; [ ] revogação do consentimento; [ ] informação sobre compartilhamento; [ ] remoção de imagem; [ ] portabilidade; [ ] oposição; [ ] outra: [ ].
+P Detalhamento do pedido: [ ].
+P Data do recebimento pela IGREJA: [ ]. Data da resposta: [ ]. Responsável pela resposta: [ ].
+%SIGNS [NOME COMPLETO];Assinatura do(a) titular
+
+%PAGEBREAK
+## ANEXO III – CLÁUSULA DE PROTEÇÃO DE DADOS PARA CONTRATOS COM OPERADORES
+P CLÁUSULA [NÚMERO] – DA PROTEÇÃO DE DADOS PESSOAIS. A CONTRATADA, na condição de operadora, tratará os dados pessoais a que tiver acesso em razão deste contrato exclusivamente para a execução de seu objeto e conforme as instruções documentadas da CONTRATANTE, observando a Lei nº 13.709/2018, obrigando-se a: (a) manter sigilo e adotar medidas de segurança técnicas e administrativas adequadas; (b) não compartilhar os dados nem subcontratar o tratamento sem autorização prévia e escrita da CONTRATANTE; (c) comunicar à CONTRATANTE qualquer incidente de segurança em até [48 (QUARENTA E OITO)] horas de seu conhecimento, com as informações disponíveis; (d) auxiliar a CONTRATANTE no atendimento às solicitações dos titulares e às requisições da ANPD; (e) informar a localização dos servidores e observar as regras de transferência internacional de dados; (f) ao término do contrato, devolver ou eliminar os dados, conforme orientação da CONTRATANTE, ressalvada a conservação exigida por lei; e (g) responder pelos danos decorrentes do descumprimento desta cláusula, nos termos da lei.

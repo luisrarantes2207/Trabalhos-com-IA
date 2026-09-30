@@ -1,0 +1,70 @@
+# TERMO DE DOAÇÃO DE BENS MÓVEIS
+!Código Civil, arts. 538 a 564 – [NOME COMPLETO DA IGREJA] – [SIGLA]
+
+P Pelo presente instrumento particular (Código Civil, art. 541), as partes abaixo qualificadas:
+P DOADOR(A): [SE PESSOA FÍSICA:] [NOME COMPLETO], [NACIONALIDADE], [ESTADO CIVIL], [PROFISSÃO], portador(a) da cédula de identidade RG nº [NÚMERO] [ÓRGÃO/UF], inscrito(a) no CPF sob o nº [NÚMERO], residente e domiciliado(a) na [ENDEREÇO COMPLETO, COM CEP], [CASADO(A) SOB O REGIME DE (REGIME) COM (NOME DO CÔNJUGE), (QUALIFICAÇÃO), QUE COMPARECE COMO ANUENTE]; [SE PESSOA JURÍDICA:] [RAZÃO SOCIAL], inscrita no CNPJ sob o nº [NÚMERO], com sede na [ENDEREÇO], neste ato representada por [NOME E QUALIFICAÇÃO DO REPRESENTANTE], com poderes para o ato na forma de seus atos constitutivos;
+P DONATÁRIA: [NOME COMPLETO DA IGREJA] – [SIGLA], organização religiosa, pessoa jurídica de direito privado sem fins lucrativos, inscrita no CNPJ sob o nº [NÚMERO], com sede na [ENDEREÇO COMPLETO, COM CEP], neste ato representada por seu Presidente, [NOME COMPLETO], [QUALIFICAÇÃO], na forma do art. [[pres]] do seu Estatuto Social, doravante denominada IGREJA;
+P celebram o presente Termo de Doação, mediante as cláusulas seguintes.
+
+CL[obj] DO OBJETO
+P O(A) DOADOR(A), por livre e espontânea vontade e por liberalidade, doa à IGREJA, que aceita, os seguintes bens de sua propriedade, doravante denominados BENS:
+%GRID 1,6.5,3,2.5,3
+Item | Descrição (marca, modelo, número de série, características) | Estado de conservação | Quantidade | Valor estimado (R$)
+1 | [ ] | [ ] | [ ] | [ ]
+2 | [ ] | [ ] | [ ] | [ ]
+3 | [ ] | [ ] | [ ] | [ ]
+Total | | | | [ ]
+%ENDGRID
+§ 1º [SE VEÍCULO:] Veículo [MARCA/MODELO], ano de fabricação/modelo [ANO], cor [COR], placa [PLACA], RENAVAM nº [NÚMERO], chassi nº [NÚMERO], livre de ônus, multas, débitos de IPVA e licenciamento [OU: COM OS SEGUINTES DÉBITOS, QUE SERÃO QUITADOS PELO(A) DOADOR(A) ATÉ (DATA): (DESCREVER)]. O(A) DOADOR(A) assinará a autorização de transferência de propriedade do veículo, com as formalidades exigidas pelo órgão de trânsito, e comunicará a transferência nos prazos legais.
+§ 2º O valor estimado atribuído aos BENS destina-se exclusivamente ao registro contábil e patrimonial da IGREJA e às declarações fiscais exigidas.
+
+CL[nat] DA NATUREZA DA DOAÇÃO
+P A doação é feita em caráter [PURO E SIMPLES, SEM ENCARGO / COM O ENCARGO DESCRITO NA CLÁUSULA ((enc))], irrevogável e irretratável, ressalvadas as hipóteses legais de revogação (Código Civil, arts. 555 a 564).
+§ 1º A doação não está sujeita a contrapartida de qualquer natureza e não confere ao(à) DOADOR(A) direito algum sobre o patrimônio, as receitas ou a administração da IGREJA (Estatuto Social, art. [[rec]], § 3º).
+§ 2º [OPCIONAL, SOMENTE SE DESEJADO PELO(A) DOADOR(A):] Os BENS reverterão ao patrimônio do(a) DOADOR(A) se este(a) sobreviver à IGREJA (Código Civil, art. 547). [RECOMENDA-SE NÃO ADOTAR ESTA CLÁUSULA, POIS O ESTATUTO DESTINA O PATRIMÔNIO REMANESCENTE, EM CASO DE DISSOLUÇÃO, A OUTRA ENTIDADE RELIGIOSA (ART. [[dest]]).]
+
+CL[enc] DA DESTINAÇÃO E DO ENCARGO
+P [ALTERNATIVA A – SEM ENCARGO:] O(A) DOADOR(A) manifesta o desejo, sem caráter de encargo ou condição, de que os BENS sejam utilizados em [FINALIDADE, EX.: MINISTÉRIO INFANTIL / AÇÃO SOCIAL], cabendo à IGREJA decidir livremente sobre sua utilização em suas finalidades.
+P [ALTERNATIVA B – COM ENCARGO:] A IGREJA obriga-se a destinar os BENS a [FINALIDADE ESPECÍFICA], nos termos do art. 553 do Código Civil. Se a utilização se tornar impossível ou desnecessária, ou os BENS se tornarem inservíveis, a IGREJA poderá aliená-los ou dar-lhes outra destinação compatível com suas finalidades, aplicando o produto da alienação em suas finalidades essenciais, sem que isso caracterize descumprimento do encargo.
+Parágrafo único. É vedada a aceitação de encargo que desvirtue as finalidades da IGREJA, que implique contrapartida ao(à) DOADOR(A) ou a terceiros, ou cujo custo de cumprimento seja desproporcional ao valor dos BENS.
+
+CL[decl] DAS DECLARAÇÕES DO(A) DOADOR(A)
+P O(A) DOADOR(A) declara, sob as penas da lei, que:
+I – é o(a) legítimo(a) proprietário(a) dos BENS, que estão livres e desembaraçados de ônus, penhoras, alienação fiduciária, reserva de domínio ou restrições judiciais;
+II – os BENS têm origem lícita;
+III – [SE PESSOA FÍSICA:] a presente doação não compromete a renda necessária à sua subsistência (Código Civil, art. 548) e não excede a parte de que poderia dispor em testamento (Código Civil, art. 549);
+IV – [SE CASADO(A) E OS BENS FOREM COMUNS:] conta com a anuência de seu cônjuge, que também assina este Termo (Código Civil, art. 1.647, IV);
+V – [SE PESSOA JURÍDICA:] a doação foi aprovada pelos órgãos competentes, na forma de seus atos constitutivos;
+VI – não é dirigente, conselheiro ou ministro da IGREJA, nem cônjuge, companheiro ou parente até o terceiro grau de quem o seja, [OU: É (VÍNCULO), SENDO A DOAÇÃO PURA E SEM ENCARGO, OU, SE COM ENCARGO, PRECEDIDA DE PARECER DO CONSELHO FISCAL E APROVAÇÃO DA DIRETORIA EXECUTIVA SEM A PARTICIPAÇÃO DO INTERESSADO (ESTATUTO SOCIAL, ART. [[ci]])].
+
+CL[ent] DA ENTREGA E DO ESTADO DOS BENS
+P Os BENS são entregues à IGREJA nesta data [OU: SERÃO ENTREGUES ATÉ (DATA), NO ENDEREÇO (ENDEREÇO)], no estado de conservação descrito na Cláusula ((obj)), que a IGREJA declara conhecer, transferindo-se a propriedade com a tradição.
+Parágrafo único. As partes reconhecem que, nos termos do art. 552 do Código Civil, o(a) DOADOR(A) não responde pela evicção nem pelos vícios redibitórios dos BENS, ressalvada, nas doações com encargo, a responsabilidade pelos vícios redibitórios prevista no art. 441, parágrafo único, do Código Civil.
+
+CL[trib] DOS TRIBUTOS E DAS DESPESAS
+P A doação à IGREJA de bens relacionados às suas finalidades essenciais é imune ao Imposto sobre Transmissão Causa Mortis e Doação (ITCMD), nos termos do art. 150, VI, "b", da Constituição Federal e do art. 149, I, "c", e § 1º, II, da Lei Complementar nº 227/2026, cabendo às partes cumprir as obrigações acessórias exigidas pela legislação do Estado, como a declaração da doação à Secretaria da Fazenda, quando exigida.
+Parágrafo único. As despesas de transporte, transferência e registro dos BENS correrão por conta da [IGREJA / DO(A) DOADOR(A)].
+
+CL[acei] DA ACEITAÇÃO E DO REGISTRO PATRIMONIAL
+P A IGREJA aceita a doação, por seu representante legal, [COM BASE NA DELIBERAÇÃO DA DIRETORIA EXECUTIVA DE (DATA), EXIGIDA PARA DOAÇÕES COM ENCARGO OU DE VALOR SUPERIOR A R$ (VALOR)], e incorporará os BENS ao seu patrimônio, com registro no inventário patrimonial e na contabilidade (Regimento Interno, art. <<pat1>>).
+Parágrafo único. A IGREJA fornecerá ao(à) DOADOR(A), quando solicitado, declaração de recebimento da doação, com a descrição dos BENS e o valor estimado, que não constitui documento hábil para dedução no imposto de renda, salvo nas hipóteses expressamente previstas em lei.
+
+CL[dados] DOS DADOS PESSOAIS E DO FORO
+P Os dados pessoais do(a) DOADOR(A) serão tratados pela IGREJA exclusivamente para a formalização e o registro desta doação e o cumprimento de obrigações legais, na forma da sua Política de Privacidade e Proteção de Dados, e não serão divulgados sem o seu consentimento.
+Parágrafo único. Fica eleito o foro da Comarca de [CIDADE]/[UF] para dirimir as questões decorrentes deste Termo.
+P E, por estarem de acordo, as partes assinam o presente Termo em 2 (duas) vias de igual teor, na presença das testemunhas abaixo.
+
+%DATE
+%SIGNS [NOME COMPLETO];Doador(a)|[NOME COMPLETO – SE CASADO(A) E BENS COMUNS];Cônjuge anuente|[NOME DO PRESIDENTE];[NOME COMPLETO DA IGREJA] – Donatária
+### Testemunhas
+%SIGNS [NOME COMPLETO];Testemunha – CPF nº [NÚMERO]|[NOME COMPLETO];Testemunha – CPF nº [NÚMERO]
+
+%PAGEBREAK
+## ANEXO – ROTEIRO PARA DOAÇÃO DE IMÓVEL À IGREJA
+!(A doação de imóvel não se faz por este Termo, mas por escritura pública lavrada em Tabelionato de Notas)
+I – Forma: a doação de imóvel de valor superior a 30 (trinta) salários mínimos exige escritura pública (Código Civil, art. 108), seguida de registro no Registro de Imóveis da circunscrição do imóvel; a propriedade somente se transfere com o registro (Código Civil, art. 1.245).
+II – Aprovação interna: a Diretoria Executiva deliberará sobre a aceitação, com parecer do Conselho Fiscal quanto aos custos de manutenção, tributos e eventuais passivos do imóvel; a doação com encargo que implique obrigação relevante ou a constituição de ônus será submetida à Assembleia Geral (Estatuto Social, art. [[agc]], VI).
+III – Diligências prévias: certidão de matrícula atualizada com negativa de ônus; certidões negativas de débitos de IPTU e de condomínio; certidões pessoais do doador (distribuições cíveis, trabalhistas, fiscais e protestos); verificação de regularidade da construção e de restrições urbanísticas e ambientais; e anuência do cônjuge do doador, salvo no regime da separação absoluta (Código Civil, art. 1.647, I).
+IV – Cláusulas recomendadas na escritura: doação pura ou com encargo claramente delimitado; declaração do doador de que a doação não compromete sua subsistência nem excede a parte disponível (Código Civil, arts. 548 e 549); vedação de cláusula de reversão ou de inalienabilidade que impeça a IGREJA de dar destinação ao imóvel conforme suas finalidades, salvo decisão expressa da Assembleia Geral; e indicação de que o imóvel se destina às finalidades essenciais da IGREJA.
+V – Tributos: requerer à Secretaria da Fazenda do Estado o reconhecimento da imunidade do ITCMD (Lei Complementar nº 227/2026, art. 149, I, "c", e § 1º, II, e legislação estadual) antes da lavratura, apresentando a certidão ou o comprovante exigido pelo tabelião; e, após o registro, requerer ao Município a imunidade do IPTU (Constituição Federal, art. 150, VI, "b").
+VI – Após o registro: incorporar o imóvel ao inventário e à contabilidade, contratar seguro e atualizar o cadastro imobiliário municipal em nome da IGREJA.

@@ -1,0 +1,81 @@
+# RECIBO DE PAGAMENTO A AUTÔNOMO (RPA)
+![NOME COMPLETO DA IGREJA] – [SIGLA] – CNPJ nº [NÚMERO]
+
+## INSTRUÇÕES DE USO (PARA A TESOURARIA E A CONTABILIDADE)
+I – Utilize o RPA para pagar serviços eventuais prestados por pessoa física sem vínculo empregatício que não emita nota fiscal de serviços, como pregadores e músicos convidados, fotógrafos, técnicos, professores de cursos e pequenos reparos. Se o prestador tiver inscrição municipal e emitir nota fiscal, ou se for MEI, utilize a nota fiscal, que dispensa o RPA.
+II – O RPA não se aplica ao sustento dos ministros de confissão religiosa da própria IGREJA (Estatuto Social, art. [[min]]), aos empregados (Contrato de Trabalho) nem aos voluntários (Termo de Adesão ao Serviço Voluntário), que têm tratamento próprio.
+III – O reembolso de despesas comprovadas (transporte, hospedagem, alimentação), realizadas em razão do serviço e documentadas, não integra a base de cálculo dos tributos e deve ser lançado em campo próprio, com os comprovantes anexados. Valores fixos pagos como "ajuda de custo" ou "oferta" sem comprovação de despesas integram a remuneração.
+IV – Antes de cada pagamento, confira as tabelas vigentes do imposto de renda e do INSS e a legislação do ISS do Município, pois os valores mudam periodicamente; os campos deste modelo devem ser preenchidos com as alíquotas, faixas e limites vigentes na data do pagamento.
+V – Ordem de cálculo: (1) valor bruto dos serviços; (2) contribuição previdenciária do autônomo retida, calculada sobre o valor bruto, respeitado o limite máximo do salário de contribuição e as contribuições já realizadas em outras fontes no mês (declaração do Anexo); (3) base do imposto de renda: valor bruto menos a contribuição previdenciária retida, as deduções por dependentes e a pensão alimentícia judicial, se houver, ou, se mais vantajoso, o desconto simplificado mensal previsto na legislação; (4) imposto de renda na fonte pela tabela progressiva mensal; (5) ISS retido, se exigido pela lei municipal; (6) valor líquido.
+VI – Além do valor retido do autônomo, a IGREJA recolhe a contribuição previdenciária patronal sobre a remuneração paga a contribuinte individual, que não pode ser descontada do prestador (quadro de controle interno).
+VII – Os pagamentos devem ser informados nas obrigações acessórias (eSocial, DCTFWeb e as demais exigidas), e os tributos recolhidos nos prazos legais. O RPA será emitido em 2 (duas) vias, numerado em sequência, e o pagamento feito por transferência para conta do próprio prestador.
+VIII – Pagamentos frequentes à mesma pessoa, com horário e subordinação, podem caracterizar vínculo de emprego; nesse caso, avalie a contratação pela CLT ou por contrato de prestação de serviços.
+
+%PAGEBREAK
+## RECIBO DE PAGAMENTO A AUTÔNOMO Nº [NÚMERO SEQUENCIAL]
+%GRID 6,10
+CONTRATANTE (FONTE PAGADORA) |
+Razão social | [NOME COMPLETO DA IGREJA]
+CNPJ | [NÚMERO]
+Endereço | [ENDEREÇO COMPLETO DA SEDE]
+%ENDGRID
+%GRID 6,10
+PRESTADOR(A) DE SERVIÇOS (CONTRIBUINTE INDIVIDUAL) |
+Nome completo | [NOME]
+CPF | [NÚMERO]
+NIT/PIS/PASEP | [NÚMERO]
+Data de nascimento | [DATA]
+Endereço | [ENDEREÇO COMPLETO]
+Ocupação (CBO) | [OCUPAÇÃO E CÓDIGO]
+Inscrição municipal (ISS), se houver | [NÚMERO OU "NÃO POSSUI"]
+Dados bancários para pagamento | [BANCO, AGÊNCIA E CONTA OU CHAVE PIX DE TITULARIDADE DO(A) PRESTADOR(A)]
+%ENDGRID
+%GRID 6,10
+SERVIÇO PRESTADO |
+Descrição | [EX.: PREGAÇÃO NO CULTO DE (DATA) / APRESENTAÇÃO MUSICAL NO EVENTO (NOME) / MANUTENÇÃO ELÉTRICA DO TEMPLO]
+Data(s) ou período | [DATA(S)]
+Local | [SEDE / CONGREGAÇÃO (NOME) / OUTRO]
+Autorização interna | [NOME DE QUEM AUTORIZOU E DATA, CONFORME AS ALÇADAS DO REGIMENTO INTERNO]
+%ENDGRID
+%GRID 10,6
+DEMONSTRATIVO | VALOR (R$)
+(1) Valor bruto dos serviços | [ ]
+(2) (–) Contribuição previdenciária retida do autônomo ([ALÍQUOTA VIGENTE]% sobre (1), observado o limite máximo) | [ ]
+(3) (–) Deduções da base do IR: dependentes ([NÚMERO]) / pensão alimentícia judicial / ou desconto simplificado mensal | [ ]
+(4) Base de cálculo do imposto de renda: (1) – (2) – (3) | [ ]
+(5) (–) Imposto de renda retido na fonte (faixa [ ]: alíquota [ ]%, parcela a deduzir R$ [ ]) | [ ]
+(6) (–) ISS retido ([ALÍQUOTA]%, se exigido pela lei municipal) | [ ]
+(7) (–) Outros descontos autorizados | [ ]
+(8) (+) Reembolso de despesas comprovadas (não tributável – comprovantes anexos) | [ ]
+(9) VALOR LÍQUIDO A PAGAR: (1) – (2) – (5) – (6) – (7) + (8) | [ ]
+%ENDGRID
+P Recebi da [NOME COMPLETO DA IGREJA] a importância líquida de R$ [VALOR] ([VALOR POR EXTENSO]), referente aos serviços acima descritos, prestados de forma eventual e autônoma, sem vínculo empregatício, e ao reembolso das despesas comprovadas, dando plena quitação quanto aos valores deste recibo. Declaro que as informações prestadas são verdadeiras e que as declarações do verso (ou do Anexo) integram este recibo.
+%DATE
+%SIGNS [NOME COMPLETO];Prestador(a) de serviços – CPF nº [NÚMERO]|[NOME COMPLETO];[1º OU 2º] Tesoureiro(a) – pela Contratante
+
+%PAGEBREAK
+## ANEXO – DECLARAÇÕES DO(A) PRESTADOR(A)
+P Eu, [NOME COMPLETO], CPF nº [NÚMERO], declaro, sob as penas da lei, para os fins do cálculo das retenções deste RPA:
+I – CONTRIBUIÇÃO PREVIDENCIÁRIA EM OUTRAS FONTES: [ ] Não recebi, no mês de [MÊS/ANO], remuneração de outras empresas ou entidades como segurado(a) empregado(a) ou contribuinte individual. [ ] Recebi remuneração de outras fontes no mês, sobre a qual já houve contribuição de R$ [VALOR] (salário de contribuição de R$ [VALOR]), conforme comprovantes anexos, comprometendo-me a informar qualquer alteração;
+II – DEPENDENTES PARA O IMPOSTO DE RENDA: [ ] Não possuo dependentes. [ ] Possuo os seguintes dependentes, nos termos da legislação do imposto de renda, que não são considerados por outra fonte pagadora neste mês: [NOME, CPF, PARENTESCO E DATA DE NASCIMENTO];
+III – PENSÃO ALIMENTÍCIA: [ ] Não pago. [ ] Pago pensão alimentícia por decisão judicial ou escritura pública no valor mensal de R$ [VALOR], conforme documento anexo;
+IV – NATUREZA DO SERVIÇO: o serviço foi prestado de forma eventual e autônoma, por minha conta, sem subordinação, controle de horário ou exclusividade, e não sou empregado(a) da IGREJA;
+V – INSCRIÇÃO MUNICIPAL: [ ] Não possuo inscrição municipal como prestador(a) de serviços. [ ] Possuo inscrição nº [NÚMERO], [COM RECOLHIMENTO DO ISS PELO REGIME FIXO ANUAL, CONFORME COMPROVANTE ANEXO];
+VI – DADOS PESSOAIS: estou ciente de que meus dados serão tratados pela IGREJA exclusivamente para este pagamento e o cumprimento das obrigações legais, conforme sua Política de Privacidade e Proteção de Dados.
+%DATE
+%SIGNS [NOME COMPLETO];Prestador(a) de serviços
+
+%PAGEBREAK
+## QUADRO DE CONTROLE INTERNO (USO EXCLUSIVO DA IGREJA – NÃO ENTREGAR AO PRESTADOR)
+%GRID 10,6
+ITEM | VALOR (R$) / DADOS
+RPA nº / competência | [NÚMERO] / [MÊS/ANO]
+Contribuição previdenciária patronal sobre (1) ([ALÍQUOTA VIGENTE]%) – encargo da IGREJA | [ ]
+Contribuição previdenciária retida do autônomo – item (2) | [ ]
+Imposto de renda retido – item (5) | [ ]
+ISS retido – item (6) | [ ]
+Informado no eSocial em / recibo nº | [DATA] / [NÚMERO]
+Tributos recolhidos em (guias / DARF / DAM) | [DATAS E NÚMEROS]
+Conta contábil de lançamento | [CONTA]
+Conferido por (Tesouraria) / Visto do Conselho Fiscal | [NOMES E DATAS]
+%ENDGRID

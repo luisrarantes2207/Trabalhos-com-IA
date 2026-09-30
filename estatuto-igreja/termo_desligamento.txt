@@ -1,0 +1,73 @@
+# MODELOS PARA O DESLIGAMENTO DE MEMBRO
+![NOME COMPLETO DA IGREJA] – [SIGLA]
+!Estatuto Social, arts. [[dir]], VII, e [[disc]] – Regimento Interno, arts. <<rol>> e <<aus>>
+
+## ORIENTAÇÕES DE USO
+I – A condição de membro cessa por desligamento voluntário, transferência, falecimento, ausência injustificada prolongada ou exclusão (Estatuto, art. [[disc]]). Este documento reúne os modelos para o desligamento voluntário (Modelos 1 e 4), para a ausência prolongada (Modelo 3) e o termo que formaliza qualquer desligamento no Rol de Membros (Modelo 2). A transferência segue os modelos de carta de transferência, e a exclusão, os documentos do procedimento disciplinar do Conselho Ministerial.
+II – O desligamento voluntário é um direito do membro, que pode exercê-lo a qualquer tempo, sem necessidade de justificativa (Estatuto, art. [[dir]], VII). A IGREJA não condicionará o desligamento a entrevista, à quitação de contribuições ou a qualquer outra exigência; a conversa pastoral pode ser oferecida, mas não imposta.
+III – O pedido também pode ser feito por mensagem eletrônica ou manifestação inequívoca registrada pela Secretaria (Estatuto, art. [[disc]], I). Nesse caso, a Secretaria preenche o Modelo 2 e anexa a mensagem recebida.
+IV – O membro desligado não tem direito à restituição de dízimos, ofertas ou doações, nem a qualquer parcela do patrimônio (Estatuto, art. [[disc]], § 5º). Contribuições recorrentes (débito automático, PIX agendado ou recorrência em cartão) devem ser canceladas pelo próprio contribuinte junto à sua instituição financeira, e a IGREJA prestará as informações necessárias.
+V – Após o desligamento, a IGREJA conserva apenas o nome, as datas e o modo de admissão e de desligamento, eliminando os demais dados no prazo da Política de Privacidade (art. {{politica_privacidade:ret}}), salvo os registros exigidos por lei, e exclui o ex-membro de grupos e listas de comunicação, salvo se ele pedir para continuar recebendo informações como frequentador.
+VI – Se o membro exercer cargo estatutário, função de liderança ou serviço voluntário, o desligamento importa também a cessação dessas funções, com a devolução de bens, chaves e credenciais e a aplicação das regras de vacância (Estatuto, art. [[vac]]).
+VII – O motivo do desligamento não é divulgado. À comunidade informa-se, quando necessário, apenas que a pessoa deixou de ser membro.
+
+%PAGEBREAK
+## MODELO 1 – PEDIDO DE DESLIGAMENTO
+P Ao Conselho Ministerial e à Secretaria da [NOME COMPLETO DA IGREJA].
+P Eu, [NOME COMPLETO], CPF nº [NÚMERO], membro desta IGREJA desde [DATA], comunico minha decisão de desligar-me do Rol de Membros, a partir desta data, nos termos do art. [[dir]], VII, do Estatuto Social. [MOTIVO, SE QUISER INFORMAR: (DESCREVER).]
+P [SE DESEJAR INCLUIR FAMILIARES MEMBROS:] O pedido abrange também [NOMES DOS FAMILIARES MAIORES, QUE ASSINAM ABAIXO, E DOS FILHOS MENORES SOB MINHA RESPONSABILIDADE].
+P Quanto aos meus dados pessoais, solicito que (marque uma opção):
+P [ ] sejam conservados apenas os registros mínimos previstos na Política de Privacidade, com minha exclusão de grupos e listas de comunicação da IGREJA;
+P [ ] sejam conservados os registros mínimos e que eu continue recebendo comunicações sobre as atividades da IGREJA, como frequentador(a).
+P [SE EXERCER FUNÇÃO:] Coloco à disposição, para devolução, os seguintes bens, chaves e credenciais da IGREJA em meu poder: [DESCREVER OU "NENHUM"].
+%DATE
+%SIGNS [NOME COMPLETO];Membro|[NOME COMPLETO – SE HOUVER];Familiar
+
+%PAGEBREAK
+## MODELO 2 – TERMO DE DESLIGAMENTO
+P TERMO Nº [NÚMERO]/[ANO]. Registra-se o desligamento do Rol de Membros da [NOME COMPLETO DA IGREJA] de:
+%GRID 6,10
+Nome | [NOME COMPLETO]
+Nº no Rol de Membros | [NÚMERO]
+Data e modo de admissão | [DATA] – [MODO]
+Data do desligamento | [DATA]
+Hipótese (Estatuto, art. [[disc]]) | [ ] I – pedido do membro (Modelo 1 ou mensagem anexa)   [ ] II – transferência (Carta nº [ ] e comunicação de recebimento de [DATA])   [ ] III – falecimento em [DATA]   [ ] IV – ausência injustificada (notificação de [DATA] – Modelo 3)   [ ] V – exclusão (Procedimento Disciplinar nº [ ], decisão de [DATA], [SEM RECURSO / RECURSO JULGADO EM (DATA)])
+Registro do Conselho Ministerial | Ata geral nº [NÚMERO], de [DATA]
+Funções cessadas | [CARGO ESTATUTÁRIO / LIDERANÇA / SERVIÇO VOLUNTÁRIO / NENHUMA]
+Familiares desligados em conjunto | [NOMES OU "NENHUM"]
+%ENDGRID
+P PROVIDÊNCIAS DA SECRETARIA:
+%GRID 9,3,4
+Providência | Data | Responsável
+Anotação no Rol de Membros e retirada da relação de votantes | [ ] | [ ]
+Exclusão de grupos e listas de comunicação (ou manutenção como frequentador, a pedido) | [ ] | [ ]
+Revogação de acessos a sistemas, contas e credenciais da IGREJA | [ ] | [ ]
+Devolução de bens, chaves e materiais | [ ] | [ ]
+Comunicação à Diretoria Executiva, se havia cargo estatutário (vacância – Estatuto, art. [[vac]]) | [ ] | [ ]
+Encerramento do Termo de Adesão ao Serviço Voluntário, se houver | [ ] | [ ]
+Resposta ao ex-membro (Modelo 4), no caso de pedido | [ ] | [ ]
+Programação da eliminação dos dados, no prazo da Política de Privacidade | [DATA PREVISTA] | [ ]
+%ENDGRID
+%DATE
+%SIGNS [NOME];1º Secretário(a)
+
+%PAGEBREAK
+## MODELO 3 – NOTIFICAÇÃO POR AUSÊNCIA PROLONGADA
+P A(o) Sr.(a) [NOME], membro da [NOME COMPLETO DA IGREJA] desde [DATA].
+P Sentimos sua falta! Em nossa verificação anual (Regimento Interno, art. <<aus>>), constatamos que você não tem participado das atividades da IGREJA desde [MÊS/ANO APROXIMADO]. Gostaríamos de saber como você está e se podemos ajudar de alguma forma.
+P Pedimos que nos responda em até 15 (quinze) dias, por [TELEFONE / E-MAIL / PESSOALMENTE NA SECRETARIA], informando se: (a) deseja continuar como membro, e se há algum motivo para a ausência, como doença, idade, mudança temporária, trabalho ou estudo, que não será considerada injustificada (Regimento, art. <<aus>>, parágrafo único); (b) deseja transferir-se para outra igreja; ou (c) deseja desligar-se.
+P Sem resposta no prazo, o Conselho Ministerial poderá deliberar sobre o seu desligamento por ausência (Estatuto, art. [[disc]], IV), que não tem caráter disciplinar. Você poderá ser readmitido(a) a qualquer tempo, mediante pedido ao Conselho Ministerial.
+P Com carinho,
+%DATE
+%SIGNS [NOME];Pastor(a) Titular
+P Enviado em [DATA] por [MEIO] – confirmação de recebimento: [ ].
+
+%PAGEBREAK
+## MODELO 4 – RESPOSTA AO PEDIDO DE DESLIGAMENTO
+P A(o) Sr.(a) [NOME].
+P Acusamos o recebimento de sua comunicação de [DATA] e informamos que seu desligamento do Rol de Membros da [NOME COMPLETO DA IGREJA] foi registrado em [DATA], conforme seu pedido.
+P Seus dados pessoais serão tratados conforme a opção que você indicou e a nossa Política de Privacidade, conservando-se apenas os registros mínimos exigidos por lei ou pelo Estatuto Social. Você pode, a qualquer tempo, solicitar informações sobre esses dados ao(à) encarregado(a) pelo tratamento de dados pessoais ([E-MAIL]).
+P Agradecemos o tempo em que caminhamos juntos. As portas da IGREJA continuam abertas, e você será sempre bem-vindo(a) às nossas atividades.
+P Com gratidão,
+%DATE
+%SIGNS [NOME];Pastor(a) Titular

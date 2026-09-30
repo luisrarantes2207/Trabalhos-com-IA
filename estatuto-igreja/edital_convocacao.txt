@@ -1,0 +1,35 @@
+# EDITAL DE CONVOCAÇÃO
+## ASSEMBLEIA GERAL DE FUNDAÇÃO DA [NOME COMPLETO DA IGREJA] – [SIGLA]
+
+P A Comissão Organizadora abaixo assinada, composta por [NOMES DOS INTEGRANTES DA COMISSÃO], no exercício da liberdade de crença, de culto e de associação assegurada pelo art. 5º, VI e XVII, da Constituição Federal, CONVOCA todas as pessoas civilmente capazes que professam a fé cristã e desejam participar da fundação de uma organização religiosa, nos termos do art. 44, IV, do Código Civil, para a ASSEMBLEIA GERAL DE FUNDAÇÃO da [NOME COMPLETO DA IGREJA], a realizar-se:
+Data: [DIA] de [MÊS] de [ANO] ([DIA DA SEMANA]);
+Horário: às [HORA] horas, em primeira convocação, com a presença dos interessados, e às [HORA + 30 MIN] horas, em segunda convocação, com qualquer número de presentes;
+Local: [ENDEREÇO COMPLETO, COM CEP], no Município de [CIDADE]/[UF][, COM POSSIBILIDADE DE PARTICIPAÇÃO POR MEIO ELETRÔNICO PELO LINK (ENDEREÇO), MEDIANTE IDENTIFICAÇÃO PRÉVIA].
+
+## ORDEM DO DIA
+I – deliberação sobre a fundação da organização religiosa;
+II – discussão e aprovação do Estatuto Social e da Declaração de Fé, que constitui seu Anexo I;
+III – reconhecimento dos fundadores como membros em plena comunhão;
+IV – eleição e posse do Pastor Titular, da Diretoria Executiva e do Conselho Fiscal, e composição do Conselho Ministerial;
+V – fixação da sede e declaração do patrimônio inicial;
+VI – autorizações para o registro, a inscrição e a regularização da entidade;
+VII – assuntos gerais.
+
+## INFORMAÇÕES AOS INTERESSADOS
+I – A minuta do Estatuto Social e da Declaração de Fé está disponível para consulta, desde a data deste edital, em [LOCAL E HORÁRIO DE CONSULTA / ENDEREÇO ELETRÔNICO], podendo ser enviadas sugestões por escrito à Comissão Organizadora até [DATA].
+II – Poderão participar como fundadores e votar as pessoas civilmente capazes que, na Assembleia, declararem professar a Declaração de Fé e aceitar o Estatuto Social, assinando a Lista de Presença.
+III – Os participantes deverão apresentar documento oficial de identidade com foto e informar o número do CPF e o endereço completo, dados necessários à lavratura da ata e ao registro da entidade.
+IV – Os interessados em concorrer aos cargos da Diretoria Executiva e do Conselho Fiscal poderão inscrever-se, individualmente ou por chapa, junto à Comissão Organizadora até [DATA], ou na própria Assembleia, e deverão apresentar a qualificação completa (nome, nacionalidade, estado civil, profissão, RG, CPF e endereço) e declarar não estar sujeitos aos impedimentos previstos na minuta do Estatuto Social. [SE HOUVER INDICAÇÃO PRÉVIA: O(A) Pastor(a) (NOME) é o(a) nome indicado(a) pela Comissão Organizadora para o cargo de Pastor(a) Titular, sem prejuízo de outras indicações.]
+V – Não será admitido voto por procuração.
+VI – Os dados pessoais informados serão utilizados exclusivamente para a realização da Assembleia, a lavratura da ata e o registro e a regularização da entidade, nos termos da Lei nº 13.709/2018 (LGPD).
+
+P Este edital será afixado em local visível no [LOCAL DE REUNIÃO DO GRUPO], lido em [CULTO(S)/REUNIÃO(ÕES) DE (DATAS)] e divulgado por [MEIOS: GRUPO DE MENSAGENS, REDES SOCIAIS, CORREIO ELETRÔNICO], com antecedência mínima de 15 (quinze) dias da data da Assembleia.
+%DATE
+### Comissão Organizadora
+%SIGNS [NOME COMPLETO];Membro da Comissão Organizadora – CPF nº [NÚMERO]|[NOME COMPLETO];Membro da Comissão Organizadora – CPF nº [NÚMERO]|[NOME COMPLETO];Membro da Comissão Organizadora – CPF nº [NÚMERO]
+
+%PAGEBREAK
+## CERTIDÃO DE AFIXAÇÃO E DIVULGAÇÃO
+P Certificamos que o presente edital foi afixado em [LOCAL] em [DATA], lido em [DATAS DOS CULTOS/REUNIÕES] e divulgado por [MEIOS] em [DATA(S)], permanecendo afixado até a data da Assembleia. As provas da divulgação eletrônica (capturas de tela com data) ficam arquivadas com esta certidão.
+%DATE
+%SIGNS [NOME COMPLETO];Membro da Comissão Organizadora|[NOME COMPLETO];Membro da Comissão Organizadora

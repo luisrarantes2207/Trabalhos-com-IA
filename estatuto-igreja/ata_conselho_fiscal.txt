@@ -1,0 +1,78 @@
+# MODELOS DE ATA E PARECERES DO CONSELHO FISCAL
+![NOME COMPLETO DA IGREJA] – [SIGLA] – CNPJ nº [NÚMERO]
+!Estatuto Social, art. [[cf]] – Regimento Interno, art. <<cfis>>
+
+## ORIENTAÇÕES DE USO
+I – O Conselho Fiscal reúne-se ordinariamente a cada trimestre e extraordinariamente quando necessário, delibera por maioria e registra suas reuniões em ata (Estatuto, art. [[cf]], § 2º). Os suplentes substituem os titulares em suas faltas e impedimentos, na ordem de votação.
+II – O Conselho tem acesso, independentemente de solicitação, aos extratos bancários, aos demonstrativos mensais do Tesoureiro e às atas da Diretoria Executiva, e pode examinar a qualquer tempo livros, contratos e documentos (Estatuto, art. [[cf]], § 1º, I; Regimento, art. <<cfis>>).
+III – O Conselho fiscaliza a gestão patrimonial e financeira; não administra nem autoriza despesas, salvo os pareceres prévios exigidos pelo Estatuto e pelo Regimento. Matérias doutrinárias e pastorais competem ao Conselho Ministerial.
+IV – Os pareceres exigidos pelo Estatuto e pelo Regimento são: (a) parecer anual sobre as contas, entregue até 30 dias antes da Assembleia Geral Ordinária (Regimento, art. <<cfis>>, parágrafo único); (b) parecer sobre o orçamento e sobre aquisição, alienação e oneração de imóveis e endividamento (Estatuto, art. [[cf]], § 1º, III); (c) parecer prévio sobre negócios com partes relacionadas (Estatuto, art. [[ci]]); (d) parecer prévio sobre o sustento de ministro que integre a Diretoria (Estatuto, art. [[min]], § 3º); (e) parecer sobre despesas não previstas no orçamento acima do limite do Regimento (art. <<alc>>, IV).
+V – O conselheiro que tiver interesse pessoal em matéria examinada, ou relação de parentesco com os envolvidos, declarará o impedimento e será substituído por suplente.
+VI – Constatada irregularidade, o Conselho a comunicará por escrito à Diretoria Executiva e, se não forem adotadas providências, à Assembleia Geral, podendo convocá-la nos casos do Estatuto (art. [[cf]], § 1º, V e VI; art. [[conv]], III) e recomendar o afastamento cautelar do dirigente (art. [[dest0]], parágrafo único).
+
+%PAGEBREAK
+## MODELO 1 – ATA DE REUNIÃO DO CONSELHO FISCAL
+P ATA Nº [NÚMERO]/[ANO]. Aos [DIA] dias do mês de [MÊS] do ano de [ANO], às [HORA] horas, [NA SEDE DA IGREJA / POR MEIO ELETRÔNICO], reuniu-se [ORDINARIAMENTE, PARA O EXAME DO (NÚMERO)º TRIMESTRE DE (ANO) / EXTRAORDINARIAMENTE, PARA (MATÉRIA)] o Conselho Fiscal da [NOME COMPLETO DA IGREJA], com a presença dos conselheiros [NOMES, INDICANDO TITULARES E SUPLENTES EM EXERCÍCIO], sob a coordenação de [NOME]. Participaram, a convite, [NOMES E FUNÇÕES, EX.: 1º TESOUREIRO(A), CONTADOR(A)], que prestaram esclarecimentos e se retiraram antes das deliberações.
+P 1. DOCUMENTOS EXAMINADOS: extratos bancários e de aplicações de [PERÍODO]; demonstrativos mensais da Tesouraria; balancetes contábeis; termos de contagem de ofertas; relação de despesas autorizadas por um único dirigente; atas da Diretoria Executiva nº [NÚMEROS]; contratos celebrados no período; [OUTROS].
+P 2. VERIFICAÇÕES REALIZADAS:
+%GRID 8,2.5,5.5
+Verificação | Resultado | Observações
+Conciliação entre saldos contábeis, extratos e fundo fixo de caixa (Regimento, art. <<caixa>>, § 1º) | [CONFORME / RESSALVA] | [ ]
+Termos de contagem de ofertas com 2 (duas) assinaturas e depósito em até 2 dias úteis (Regimento, art. <<cont>>) | [ ] | [ ]
+Recebimentos somente em contas e chaves PIX do CNPJ da IGREJA (Estatuto, art. [[mov]], § 2º) | [ ] | [ ]
+Amostra de [NÚMERO] pagamentos: documento fiscal ou recibo, autorização conforme as alçadas e 3 orçamentos quando exigidos (Regimento, art. <<alc>>) | [ ] | [ ]
+Movimentação bancária com autorização conjunta (Estatuto, art. [[mov]]) | [ ] | [ ]
+Reembolsos e adiantamentos com comprovantes e prestação de contas no prazo (Regimento, art. <<caixa>>, §§ 2º e 3º) | [ ] | [ ]
+Folha de pagamento, sustento ministerial conforme critérios do orçamento e RPAs com retenções (Estatuto, art. [[min]]; Regimento, art. <<sus>>) | [ ] | [ ]
+Recolhimento de tributos retidos e entrega das obrigações acessórias do período, conforme informação do(a) contador(a) | [ ] | [ ]
+Negócios com partes relacionadas precedidos de parecer do Conselho (Estatuto, art. [[ci]]) | [ ] | [ ]
+Receitas de atividades-meio registradas de forma segregada (Estatuto, art. [[fin]], §§ 1º e 2º) | [ ] | [ ]
+Doações designadas aplicadas na finalidade indicada | [ ] | [ ]
+Ausência de pagamentos que caracterizem distribuição de patrimônio ou renda (Estatuto, art. [[nd]]) | [ ] | [ ]
+Execução do orçamento e despesas não previstas (Regimento, art. <<alc>>, IV) | [ ] | [ ]
+[NO ÚLTIMO TRIMESTRE:] Conferência do inventário patrimonial (Estatuto, art. [[pat]], § 3º; Regimento, art. <<pat1>>) | [ ] | [ ]
+%ENDGRID
+P 3. PARECERES EMITIDOS NA REUNIÃO: [NENHUM / PARECER SOBRE (MATÉRIA), NO MODELO 3, QUE FICA ANEXO].
+P 4. CONCLUSÕES E RECOMENDAÇÕES: [NÃO FORAM CONSTATADAS IRREGULARIDADES NO PERÍODO EXAMINADO / FORAM CONSTATADAS AS SEGUINTES INCONSISTÊNCIAS, QUE SERÃO COMUNICADAS À DIRETORIA EXECUTIVA NA FORMA DO MODELO 4, COM PRAZO DE (DIAS) PARA ESCLARECIMENTOS OU CORREÇÃO: (DESCREVER)]. Recomenda-se: [RECOMENDAÇÕES DE MELHORIA DOS CONTROLES].
+P 5. PENDÊNCIAS DE REUNIÕES ANTERIORES: [SITUAÇÃO DE CADA RECOMENDAÇÃO ANTERIOR: ATENDIDA / EM ANDAMENTO / NÃO ATENDIDA].
+P Nada mais havendo, foi lavrada a presente ata, que, lida e aprovada, vai assinada pelos conselheiros presentes.
+%SIGNS [NOME];Conselheiro(a) Fiscal|[NOME];Conselheiro(a) Fiscal|[NOME];Conselheiro(a) Fiscal
+
+%PAGEBREAK
+## MODELO 2 – PARECER DO CONSELHO FISCAL SOBRE AS CONTAS DO EXERCÍCIO
+P PARECER Nº [NÚMERO]/[ANO]. O Conselho Fiscal da [NOME COMPLETO DA IGREJA], no exercício das atribuições do art. [[cf]], § 1º, II, do Estatuto Social, examinou o relatório de atividades, o balanço patrimonial e as demais demonstrações contábeis do exercício encerrado em 31 de dezembro de [ANO], elaboradas pelo(a) contador(a) [NOME], CRC nº [NÚMERO], [ACOMPANHADAS DO RELATÓRIO DA AUDITORIA INDEPENDENTE (NOME), DE (DATA)], e as atas de suas reuniões trimestrais do exercício.
+P 1. SÍNTESE DAS DEMONSTRAÇÕES: receitas totais de R$ [VALOR]; despesas totais de R$ [VALOR]; [SUPERÁVIT / DÉFICIT] de R$ [VALOR]; ativo total de R$ [VALOR]; passivo de R$ [VALOR]; patrimônio social de R$ [VALOR]; execução orçamentária de [PERCENTUAL]% das receitas e [PERCENTUAL]% das despesas previstas.
+P 2. REQUISITOS DA IMUNIDADE TRIBUTÁRIA (Estatuto, art. [[imu]], § 1º): com base nos exames realizados por amostragem ao longo do exercício, o Conselho Fiscal [ATESTA QUE FORAM OBSERVADOS / RESSALVA QUE NÃO FORAM INTEGRALMENTE OBSERVADOS] os seguintes requisitos:
+%GRID 10,6
+Requisito | Conclusão
+Não distribuição de parcela do patrimônio ou das rendas, a qualquer título, a membros, dirigentes, ministros ou terceiros | [OBSERVADO / RESSALVA: (DESCREVER)]
+Aplicação integral dos recursos no País, na manutenção das finalidades essenciais, ressalvadas as remessas missionárias aprovadas e documentadas | [ ]
+Escrituração contábil regular, por profissional habilitado, conforme as normas aplicáveis às entidades sem finalidade de lucros | [ ]
+Conservação dos livros e documentos pelo prazo estatutário | [ ]
+Cumprimento das obrigações acessórias e das retenções exigidas, conforme informação do(a) contador(a) | [ ]
+Atividades-meio não preponderantes, com resultado integralmente aplicado nas finalidades essenciais (Estatuto, art. [[fin]], §§ 1º e 2º) | [ ]
+%ENDGRID
+P 3. OUTRAS CONSTATAÇÕES: [EX.: CUMPRIMENTO DAS RECOMENDAÇÕES DO EXERCÍCIO ANTERIOR; NEGÓCIOS COM PARTES RELACIONADAS REALIZADOS E RESPECTIVOS PARECERES; CONFERÊNCIA DO INVENTÁRIO; CONSIDERAÇÕES SOBRE OS RELATÓRIOS DO(A) ENCARREGADO(A) DE DADOS (POLÍTICA DE PRIVACIDADE, ART. {{politica_privacidade:aud}}) E DO(A) COORDENADOR(A) DE PROTEÇÃO (POLÍTICA DE PROTEÇÃO, ART. {{politica_protecao:aval}}), SEM IDENTIFICAÇÃO DE PESSOAS].
+P 4. CONCLUSÃO: Diante do exposto, o Conselho Fiscal opina pela [APROVAÇÃO / APROVAÇÃO COM AS RESSALVAS ACIMA / REJEIÇÃO] das contas do exercício de [ANO] pela Assembleia Geral Ordinária[, RECOMENDANDO (PROVIDÊNCIAS)].
+P Este parecer foi aprovado na reunião de [DATA] (Ata nº [NÚMERO]/[ANO]) e é entregue à Diretoria Executiva em [DATA], para disponibilização aos membros com as demonstrações contábeis (Estatuto, art. [[cont]], § 1º).
+%DATE
+%SIGNS [NOME];Conselheiro(a) Fiscal|[NOME];Conselheiro(a) Fiscal|[NOME];Conselheiro(a) Fiscal
+
+%PAGEBREAK
+## MODELO 3 – PARECER ESPECÍFICO DO CONSELHO FISCAL
+P PARECER Nº [NÚMERO]/[ANO]. MATÉRIA: [NEGÓCIO COM PARTE RELACIONADA (ESTATUTO, ART. [[ci]]) / AQUISIÇÃO, ALIENAÇÃO OU ONERAÇÃO DE IMÓVEL (ART. [[cf]], § 1º, III) / ENDIVIDAMENTO / ORÇAMENTO ANUAL / DESPESA NÃO PREVISTA (REGIMENTO, ART. <<alc>>, IV) / SUSTENTO DE MINISTRO QUE INTEGRA A DIRETORIA (ESTATUTO, ART. [[min]], § 3º) / ACEITAÇÃO DE DOAÇÃO DE IMÓVEL / OUTRA].
+P 1. SOLICITAÇÃO: pedido da Diretoria Executiva de [DATA], referente a [DESCRIÇÃO DA OPERAÇÃO: PARTES, OBJETO, VALOR, PRAZO E CONDIÇÕES].
+P 2. DOCUMENTOS EXAMINADOS: [ORÇAMENTOS, LAUDO DE AVALIAÇÃO, MINUTA DE CONTRATO, CERTIDÕES, DEMONSTRATIVO DE IMPACTO NO ORÇAMENTO, DECLARAÇÃO DE VÍNCULO DAS PARTES].
+P 3. ANÁLISE: [EX.: (A) A OPERAÇÃO É INDISPENSÁVEL OU COMPROVADAMENTE VANTAJOSA PARA A IGREJA PORQUE (...); (B) O PREÇO É COMPATÍVEL COM O MERCADO, CONFORME (...); (C) HÁ RECURSOS ORÇAMENTÁRIOS OU FONTE DE CUSTEIO; (D) OS RISCOS IDENTIFICADOS SÃO (...); (E) A OPERAÇÃO NÃO IMPLICA DISTRIBUIÇÃO DE PATRIMÔNIO OU VANTAGEM INDEVIDA A PARTE RELACIONADA].
+P 4. CONCLUSÃO: o Conselho Fiscal opina [FAVORAVELMENTE / FAVORAVELMENTE, DESDE QUE (CONDIÇÕES) / DESFAVORAVELMENTE] à operação. [O CONSELHEIRO (NOME) DECLAROU-SE IMPEDIDO E FOI SUBSTITUÍDO PELO SUPLENTE (NOME).]
+%DATE
+%SIGNS [NOME];Conselheiro(a) Fiscal|[NOME];Conselheiro(a) Fiscal|[NOME];Conselheiro(a) Fiscal
+
+%PAGEBREAK
+## MODELO 4 – COMUNICAÇÃO DE CONSTATAÇÃO À DIRETORIA EXECUTIVA
+P Ao(À) Presidente da Diretoria Executiva da [NOME COMPLETO DA IGREJA].
+P O Conselho Fiscal, no exercício da atribuição do art. [[cf]], § 1º, V, do Estatuto Social, comunica que, na reunião de [DATA] (Ata nº [NÚMERO]/[ANO]), constatou o seguinte: [DESCRIÇÃO OBJETIVA DO FATO, DOS DOCUMENTOS E DOS VALORES ENVOLVIDOS, SEM JUÍZO SOBRE RESPONSABILIDADES INDIVIDUAIS].
+P Solicita-se à Diretoria Executiva que, no prazo de [15 (QUINZE)] dias, apresente esclarecimentos por escrito e informe as providências adotadas para [REGULARIZAÇÃO / RESSARCIMENTO / CORREÇÃO DOS CONTROLES]. Não sendo apresentados esclarecimentos satisfatórios no prazo, o Conselho Fiscal levará a matéria ao conhecimento da Assembleia Geral, podendo convocá-la nos termos do art. [[conv]], III, do Estatuto Social[, E RECOMENDAR O AFASTAMENTO CAUTELAR DO DIRIGENTE ENVOLVIDO (ART. [[dest0]], PARÁGRAFO ÚNICO)].
+%DATE
+%SIGNS [NOME];Conselheiro(a) Fiscal|[NOME];Conselheiro(a) Fiscal|[NOME];Conselheiro(a) Fiscal
+P Recebido em [DATA] por [NOME E CARGO]: ______________________________

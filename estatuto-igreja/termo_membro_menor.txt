@@ -1,0 +1,63 @@
+# TERMO DE ADMISSÃO DE MEMBRO MENOR DE 18 ANOS
+![NOME COMPLETO DA IGREJA] – [SIGLA]
+!Estatuto Social, art. [[cat]] – Regimento Interno, art. <<adm1>>, § 1º – Estatuto da Criança e do Adolescente – Lei nº 13.709/2018, art. 14
+
+## ORIENTAÇÕES DE USO
+I – A admissão de menor de 18 (dezoito) anos exige autorização escrita de pelo menos um dos pais ou do responsável legal (Regimento, art. <<adm1>>, § 1º). Recomenda-se colher a assinatura de ambos os pais sempre que possível; quando apenas um assinar, ele declarará se o outro tem conhecimento e se há oposição (item 2 do Termo).
+II – Havendo oposição conhecida de um dos pais ou do guardião, especialmente em caso de pais separados, a admissão ficará suspensa até que haja acordo entre eles ou decisão judicial, e o Conselho Ministerial não tomará partido na divergência familiar.
+III – O Estatuto da Criança e do Adolescente assegura à criança e ao adolescente a liberdade de crença e culto (art. 16, III) e o direito de ser ouvido. Por isso, a admissão depende também da manifestação livre do próprio menor (Parte B), colhida em conversa reservada, em ambiente visível e com a presença ou a ciência dos responsáveis, conforme a Política de Proteção. Nenhum menor será admitido contra a sua vontade, nem pressionado a pedir a admissão.
+IV – A idade mínima para a admissão como membro é de [IDADE MÍNIMA DEFINIDA PELO CONSELHO MINISTERIAL, CONFORME A DOUTRINA DA IGREJA]. Crianças abaixo dessa idade participam das atividades como filhos de membros ou frequentadores, sem admissão formal.
+V – O menor admitido será membro menor, sem direito a voto, até completar 16 (dezesseis) anos; a partir daí, preenchidos os demais requisitos, passará a membro em plena comunhão, com direito a voto (Estatuto, art. [[cat]]). Cargos na Diretoria Executiva e no Conselho Fiscal exigem plena capacidade civil (art. [[cat]], § 2º).
+VI – Ao completar 18 (dezoito) anos, o membro será convidado a ratificar sua condição e a firmar, em nome próprio, o consentimento para o tratamento de dados (Parte D).
+
+%PAGEBREAK
+## PARTE A – TERMO DE AUTORIZAÇÃO DOS PAIS OU RESPONSÁVEIS
+P 1. IDENTIFICAÇÃO DO(A) MENOR: [NOME COMPLETO], nascido(a) em [DATA], com [IDADE] anos, filho(a) de [NOME DA MÃE] e de [NOME DO PAI], residente na [ENDEREÇO COMPLETO].
+P 2. RESPONSÁVEIS:
+%GRID 4,6,6
+Dado | Responsável 1 | Responsável 2
+Nome completo | [ ] | [ ]
+CPF | [ ] | [ ]
+Vínculo | [MÃE / PAI / TUTOR(A) / GUARDIÃO(Ã)] | [ ]
+Telefone e endereço eletrônico | [ ] | [ ]
+Assina este Termo? | [SIM / NÃO] | [SIM / NÃO]
+%ENDGRID
+P [SE APENAS UM RESPONSÁVEL ASSINAR:] Declaro que o(a) outro(a) genitor(a) ou responsável [TEM CONHECIMENTO DESTE PEDIDO E NÃO SE OPÕE / NÃO TEM CONHECIMENTO, EM RAZÃO DE (MOTIVO) / É FALECIDO(A) / TEVE O PODER FAMILIAR SUSPENSO OU EXTINTO], e que [NÃO HÁ / HÁ] decisão judicial sobre guarda ou convivência que trate do tema [, CUJA CÓPIA APRESENTO].
+P 3. AUTORIZAÇÃO: Na qualidade de responsável(is) legal(is) pelo(a) menor acima identificado(a), no exercício do poder familiar, AUTORIZO(AMOS) sua admissão como membro da [NOME COMPLETO DA IGREJA], pelo modo de [PROFISSÃO DE FÉ E BATISMO / TRANSFERÊNCIA / OUTRO], [E A REALIZAÇÃO DE SEU BATISMO EM (DATA)], e declaro(amos) que recebi(emos) cópia da Declaração de Fé, do Estatuto Social e da Política de Proteção de Crianças, Adolescentes e Pessoas Vulneráveis da IGREJA.
+P 4. CIÊNCIA: Declaro(amos) estar ciente(s) de que:
+I – a admissão não gera para o(a) menor ou para os responsáveis qualquer obrigação financeira, e as contribuições são sempre voluntárias (Estatuto, art. [[dev]], parágrafo único);
+II – o(a) menor participará das atividades de sua faixa etária conforme a Política de Proteção, inclusive quanto às regras de acompanhamento, entrada e saída e comunicação;
+III – o aconselhamento pastoral do(a) adolescente será feito em local visível e com ciência dos responsáveis, salvo nas situações de risco previstas na Política de Proteção (art. {{politica_protecao:acons}});
+IV – qualquer suspeita de violência contra o(a) menor será comunicada às autoridades competentes, nos termos da lei;
+V – o(a) menor será membro sem direito a voto até completar 16 (dezesseis) anos (Estatuto, art. [[cat]]);
+VI – esta autorização pode ser revogada a qualquer tempo, mediante comunicação escrita, hipótese em que a IGREJA, ouvido o(a) menor, promoverá seu desligamento do Rol de Membros ou a suspensão de sua condição até a maioridade, conforme o caso.
+P 5. CONSENTIMENTO PARA O TRATAMENTO DE DADOS (Lei nº 13.709/2018, art. 14, § 1º): CONSINTO(IMOS), de forma específica e em destaque, com o tratamento dos dados pessoais do(a) menor, inclusive dos que revelam sua convicção religiosa, para as finalidades de manutenção do Rol de Membros, cuidado pastoral, organização e segurança das atividades e cumprimento de obrigações legais, nos termos da Política de Privacidade e Proteção de Dados. Quanto à imagem do(a) menor (Política de Proteção, art. {{politica_protecao:img}}): [ ] autorizo a divulgação nos canais oficiais, sem identificação do nome completo; [ ] autorizo apenas o uso interno; [ ] não autorizo.
+%DATE
+%SIGNS [NOME COMPLETO];Responsável 1|[NOME COMPLETO];Responsável 2
+
+%PAGEBREAK
+## PARTE B – MANIFESTAÇÃO DO(A) MENOR
+!(A ser preenchida pelo(a) próprio(a) menor, com suas palavras; se não souber escrever, o registro será feito por membro do Conselho Ministerial, na presença de um responsável)
+P Meu nome é [NOME]. Eu tenho [IDADE] anos.
+P Eu quero ser membro da [NOME COMPLETO DA IGREJA] porque: [ESCREVA COM SUAS PALAVRAS].
+P Eu entendo que ser membro é uma decisão minha, que ninguém pode me obrigar, e que posso conversar com meus pais e com os pastores sempre que tiver dúvidas.
+P Ninguém me pressionou, me ofereceu nada em troca ou me ameaçou para eu pedir para ser membro. [ ] Sim, é verdade.
+%DATE
+%SIGNS [NOME];Assinatura do(a) menor
+P Declaração do Conselho Ministerial: a manifestação acima foi colhida em [DATA], em conversa realizada em [LOCAL VISÍVEL], com a [PRESENÇA / CIÊNCIA] do(a) responsável [NOME], e o(a) menor demonstrou compreender o significado da admissão e manifestou livremente a sua vontade.
+%SIGNS [NOME];Membro do Conselho Ministerial|[NOME];Membro do Conselho Ministerial
+
+%PAGEBREAK
+## PARTE C – COMUNICAÇÃO AO OUTRO GENITOR OU RESPONSÁVEL (QUANDO APLICÁVEL)
+P A(o) Sr.(a) [NOME DO(A) OUTRO(A) GENITOR(A) OU RESPONSÁVEL] – [ENDEREÇO OU CONTATO].
+P A [NOME COMPLETO DA IGREJA] informa que recebeu, de [NOME DO RESPONSÁVEL QUE ASSINOU], pedido de admissão como membro de [NOME DO(A) MENOR], com a manifestação de vontade do(a) próprio(a) menor. Caso V. Sa. tenha objeção, pedimos a gentileza de comunicá-la por escrito até [DATA, PRAZO SUGERIDO DE 15 DIAS]. Havendo oposição, a admissão ficará suspensa até que haja acordo entre os responsáveis ou decisão judicial, e a IGREJA não tomará partido na questão familiar. Colocamo-nos à disposição para qualquer esclarecimento.
+%DATE
+%SIGNS [NOME];Pastor(a) Titular
+
+%PAGEBREAK
+## PARTE D – RATIFICAÇÃO NA MAIORIDADE
+P Eu, [NOME COMPLETO], CPF nº [NÚMERO], admitido(a) como membro da [NOME COMPLETO DA IGREJA] em [DATA], quando menor de idade, tendo completado 18 (dezoito) anos em [DATA]:
+P [ ] RATIFICO minha condição de membro, declaro que continuo a professar a Declaração de Fé e a aceitar o Estatuto Social e o Regimento Interno, e firmo, em nome próprio, o consentimento para o tratamento de dados pessoais da Parte D da Ficha de Cadastro de Membro, que substitui o consentimento dado por meus responsáveis; ou
+P [ ] SOLICITO meu desligamento do Rol de Membros (Estatuto, art. [[dir]], VII), com a conservação apenas dos registros previstos na Política de Privacidade.
+%DATE
+%SIGNS [NOME COMPLETO];Membro

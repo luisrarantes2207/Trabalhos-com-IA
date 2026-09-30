@@ -1,0 +1,76 @@
+# MODELO DE ATA DA ASSEMBLEIA GERAL ORDINÁRIA
+![NOME COMPLETO DA IGREJA] – [SIGLA] – CNPJ nº [NÚMERO]
+!Estatuto Social, arts. [[agc]], [[agtipo]], [[conv]] e [[quo]] – Regimento Interno, arts. <<ag1>> a <<ag5>>
+
+## ORIENTAÇÕES E CALENDÁRIO PREPARATÓRIO
+P A Assembleia Geral Ordinária (AGO) realiza-se uma vez por ano, até 30 de abril, para apreciar as contas do exercício anterior e o orçamento, e, quando for o caso, para as eleições (Estatuto, art. [[agtipo]], I). Recomenda-se o seguinte calendário, contado da data da AGO:
+%GRID 4,12
+Prazo | Providência
+Até 60 dias antes | Designação da Comissão Eleitoral, se houver eleições (Regimento, art. <<el1>>)
+Até 45 dias antes | Edital das eleições, com cargos, requisitos e prazos (Regimento, art. <<el2>>, I)
+Até 30 dias antes | Entrega do parecer do Conselho Fiscal sobre as contas à Diretoria (Regimento, art. <<cfis>>, parágrafo único)
+Até 20 dias antes | Encerramento das inscrições de candidaturas (Regimento, art. <<el2>>, II)
+Até 15 dias antes | Demonstrações contábeis, relatório anual e parecer do Conselho Fiscal à disposição dos membros (Estatuto, art. [[cont]], § 1º); publicação da relação de membros aptos a votar (Regimento, art. <<rol>>, § 1º) e das candidaturas deferidas
+Pelo menos 8 dias antes (15 dias, se houver matéria do art. [[agtipo]], II, do Estatuto) | Publicação do edital de convocação (Estatuto, art. [[conv]], § 2º)
+Até 5 dias antes | Prazo para impugnação da relação de votantes (Regimento, art. <<rol>>, § 2º)
+Após a AGO | Lavratura e assinatura da ata; posse dos eleitos em até 30 dias; registro da ata de eleição no Registro Civil de Pessoas Jurídicas em até 30 dias da aprovação (Regimento, art. <<ag5>>); atualização do cadastro bancário e da Receita Federal
+%ENDGRID
+P Na apreciação das contas, a Assembleia elegerá presidente e secretário ad hoc, porque a matéria envolve a gestão do Presidente e do Secretário da Diretoria (Estatuto, art. [[quo]], § 3º). Recomenda-se que os membros da Diretoria Executiva se abstenham de votar a aprovação de suas próprias contas.
+P Recursos disciplinares eventualmente incluídos na pauta serão julgados em sessão reservada, sem visitantes, transmissão ou gravação pública, com votação secreta (Regimento, art. <<pd4>>, § 2º); a ata geral registrará apenas o resultado, sem identificar fatos, vítimas ou testemunhas, e o registro detalhado constará de ata reservada arquivada com os autos.
+
+%PAGEBREAK
+## EDITAL DE CONVOCAÇÃO
+P O(A) Presidente da Diretoria Executiva da [NOME COMPLETO DA IGREJA], no uso das atribuições do art. [[conv]] do Estatuto Social, CONVOCA os membros em plena comunhão para a ASSEMBLEIA GERAL ORDINÁRIA a realizar-se em [DATA], às [HORA] horas em primeira convocação, com a presença da maioria absoluta dos membros em plena comunhão, e às [HORA + 30 MIN] horas em segunda convocação, com qualquer número, na [LOCAL] [E POR MEIO ELETRÔNICO, PELA PLATAFORMA (NOME), MEDIANTE CADASTRO PRÉVIO ATÉ (DATA) (ESTATUTO, ART. [[elet]])], para deliberar sobre a seguinte ORDEM DO DIA:
+I – relatório de atividades e demonstrações contábeis do exercício de [ANO], à vista do parecer do Conselho Fiscal;
+II – orçamento e plano de atividades do exercício de [ANO];
+III – [SE HOUVER:] eleição da Diretoria Executiva e do Conselho Fiscal para o mandato de [PERÍODO];
+IV – [SE HOUVER:] referendo de despesas não previstas no orçamento (Regimento, art. <<alc>>, IV);
+V – [SE HOUVER:] julgamento de recurso disciplinar, em sessão reservada;
+VI – [OUTRAS MATÉRIAS DE COMPETÊNCIA DA ASSEMBLEIA ORDINÁRIA];
+VII – comunicações e assuntos gerais, sem deliberação.
+P Os documentos referentes aos itens I e II estão à disposição dos membros na Secretaria, [DIAS E HORÁRIOS], desde [DATA]. A relação de membros aptos a votar e as candidaturas deferidas estão afixadas na sede. Não será admitido voto por procuração.
+%DATE
+%SIGNS [NOME];Presidente da Diretoria Executiva
+
+%PAGEBREAK
+## ATA DA ASSEMBLEIA GERAL ORDINÁRIA DE [ANO] DA [NOME COMPLETO DA IGREJA]
+P Aos [DIA POR EXTENSO] dias do mês de [MÊS] do ano de [ANO], às [HORA] horas, em [PRIMEIRA / SEGUNDA] convocação, na [LOCAL] [E POR MEIO ELETRÔNICO, PELA PLATAFORMA (NOME)], reuniram-se em Assembleia Geral Ordinária os membros em plena comunhão da [NOME COMPLETO DA IGREJA], convocados por edital publicado em [DATA], afixado na sede e nas congregações, lido no(s) culto(s) de [DATAS] e divulgado por [MEIOS], com a antecedência exigida pelo art. [[conv]], § 2º, do Estatuto Social.
+
+## 1. INSTALAÇÃO
+P Assumiu a presidência dos trabalhos o(a) Presidente da Diretoria Executiva, [NOME], secretariado(a) pelo(a) 1º Secretário(a), [NOME] (Estatuto, art. [[quo]], § 3º). Após o momento devocional, verificou-se, pela lista de presença que integra esta ata [E PELO RELATÓRIO DE ACESSO DA PLATAFORMA ELETRÔNICA], a presença de [NÚMERO] membros em plena comunhão, de um total de [NÚMERO] constantes da relação de votantes, [ATINGIDO O QUÓRUM DE PRIMEIRA CONVOCAÇÃO / INSTALANDO-SE A ASSEMBLEIA EM SEGUNDA CONVOCAÇÃO, COM QUALQUER NÚMERO] (Estatuto, art. [[quo]]). [NÃO HOUVE / FORAM DECIDIDAS AS SEGUINTES] impugnações à relação de votantes: [DESCREVER]. O(A) Presidente leu o edital de convocação e a ordem do dia e informou as regras de uso da palavra e de votação (Regimento, arts. <<ag2>> e <<ag3>>).
+
+## 2. ITEM I – RELATÓRIO DE ATIVIDADES E CONTAS DO EXERCÍCIO DE [ANO]
+P Para a apreciação deste item, nos termos do art. [[quo]], § 3º, do Estatuto Social, a Assembleia elegeu, por [ACLAMAÇÃO / (NÚMERO) VOTOS], [NOME] para presidir e [NOME] para secretariar os trabalhos, os quais não integram a Diretoria Executiva.
+P O(A) Presidente da Diretoria Executiva apresentou o relatório de atividades do exercício. O(A) 1º Tesoureiro(a) apresentou o balanço patrimonial e as demais demonstrações contábeis encerradas em 31 de dezembro de [ANO], elaboradas pelo(a) contador(a) [NOME], CRC nº [NÚMERO], que apontam: receitas totais de R$ [VALOR]; despesas totais de R$ [VALOR]; [SUPERÁVIT / DÉFICIT] de R$ [VALOR], integralmente [INCORPORADO AO PATRIMÔNIO SOCIAL PARA APLICAÇÃO NAS FINALIDADES DA IGREJA / COBERTO POR (DESCREVER)]; e patrimônio social de R$ [VALOR]. [SE HOUVER AUDITORIA:] Foi lido o relatório da auditoria independente [NOME], que emitiu opinião [SEM RESSALVAS / COM AS SEGUINTES RESSALVAS: (DESCREVER)].
+P Em seguida, o(a) [NOME], pelo Conselho Fiscal, leu o parecer do Conselho, datado de [DATA], que opinou pela [APROVAÇÃO / APROVAÇÃO COM RESSALVAS / REJEIÇÃO] das contas e atestou que [FORAM / NÃO FORAM] observados os requisitos do art. [[imu]], § 1º, do Estatuto Social (não distribuição de patrimônio ou rendas, aplicação integral dos recursos no País nas finalidades essenciais e escrituração regular) [, COM AS SEGUINTES OBSERVAÇÕES: (DESCREVER)].
+P Aberta a discussão, manifestaram-se [NOMES E RESUMO DAS PERGUNTAS E RESPOSTAS]. Submetidas à votação, [COM A ABSTENÇÃO DOS MEMBROS DA DIRETORIA EXECUTIVA], as contas do exercício de [ANO] foram [APROVADAS / APROVADAS COM AS RESSALVAS DO CONSELHO FISCAL / REJEITADAS] por [(NÚMERO) VOTOS FAVORÁVEIS, (NÚMERO) CONTRÁRIOS E (NÚMERO) ABSTENÇÕES]. [SE REJEITADAS: A ASSEMBLEIA DETERMINOU (PROVIDÊNCIAS, EX.: AUDITORIA, PRAZO PARA ESCLARECIMENTOS, APURAÇÃO DE RESPONSABILIDADES).] Concluído o item, a presidência dos trabalhos retornou ao(à) Presidente da Diretoria Executiva.
+
+## 3. ITEM II – ORÇAMENTO E PLANO DE ATIVIDADES DO EXERCÍCIO DE [ANO]
+P O(A) 1º Tesoureiro(a) apresentou a proposta de orçamento, com receitas estimadas de R$ [VALOR] e despesas fixadas de R$ [VALOR], distribuídas nas rubricas do documento arquivado com esta ata, incluindo os critérios gerais do sustento ministerial (Estatuto, art. [[min]], § 1º), a folha de pagamento, as missões, as ações sociais, a manutenção e os investimentos, e o plano de atividades. O Conselho Fiscal opinou [FAVORAVELMENTE / COM AS SEGUINTES OBSERVAÇÕES]. Após discussão, o orçamento foi [APROVADO / APROVADO COM AS SEGUINTES ALTERAÇÕES: (DESCREVER)] por [RESULTADO DA VOTAÇÃO].
+
+## 4. ITEM III – ELEIÇÕES [SE HOUVER]
+P O(A) presidente da Comissão Eleitoral, [NOME], informou que foram deferidas as seguintes candidaturas: [CHAPA(S) PARA A DIRETORIA EXECUTIVA E CANDIDATOS AO CONSELHO FISCAL], e que [NÃO HOUVE IMPUGNAÇÕES / FORAM DECIDIDAS AS SEGUINTES IMPUGNAÇÕES: (DESCREVER)] (Regimento, art. <<el2>>). A votação foi realizada [POR ACLAMAÇÃO, POR SE TRATAR DE CHAPA E CANDIDATOS ÚNICOS, SEM REQUERIMENTO DE VOTAÇÃO SECRETA / POR VOTO SECRETO, COM APURAÇÃO PELA COMISSÃO ELEITORAL E PELOS ESCRUTINADORES (NOMES)] (Regimento, arts. <<ag3>> e <<el3>>), com o seguinte resultado: [VOTOS POR CHAPA E POR CANDIDATO, BRANCOS E NULOS].
+P Foram proclamados eleitos, para o mandato de [DATA DE INÍCIO] a [DATA DE TÉRMINO]:
+P DIRETORIA EXECUTIVA: Presidente: [NOME COMPLETO], [NACIONALIDADE], [ESTADO CIVIL], [PROFISSÃO], RG nº [NÚMERO] [ÓRGÃO/UF], CPF nº [NÚMERO], residente e domiciliado(a) na [ENDEREÇO COMPLETO, COM CEP]; Vice-Presidente: [NOME E QUALIFICAÇÃO COMPLETA]; 1º Secretário(a): [NOME E QUALIFICAÇÃO COMPLETA]; 2º Secretário(a): [NOME E QUALIFICAÇÃO COMPLETA]; 1º Tesoureiro(a): [NOME E QUALIFICAÇÃO COMPLETA]; 2º Tesoureiro(a): [NOME E QUALIFICAÇÃO COMPLETA].
+P CONSELHO FISCAL – Titulares: [NOMES E QUALIFICAÇÃO COMPLETA]; Suplentes: [NOMES E QUALIFICAÇÃO COMPLETA].
+P Os eleitos [TOMARAM POSSE NESTA DATA / TOMARÃO POSSE EM (DATA), NO PRAZO DE ATÉ 30 (TRINTA) DIAS], mediante assinatura dos Termos de Posse e Declaração de Desimpedimento (Estatuto, art. [[req]]; Regimento, art. <<el4>>), no modelo do Anexo B da Ata de Fundação, e a transição será formalizada pelo termo previsto no art. <<el4>>, parágrafo único, do Regimento Interno. A Assembleia autorizou o(a) Presidente eleito(a) a promover o registro desta ata no Registro Civil de Pessoas Jurídicas e a atualização dos cadastros da IGREJA na Receita Federal e nas instituições financeiras.
+
+## 5. ITEM IV – REFERENDO DE DESPESAS NÃO PREVISTAS [SE HOUVER]
+P Foram apresentadas as despesas não previstas no orçamento de [ANO] autorizadas pela Diretoria Executiva com parecer do Conselho Fiscal (Regimento, art. <<alc>>, IV): [DESCRIÇÃO, VALOR, DATA DA APROVAÇÃO E DO PARECER]. Após discussão, as despesas foram [REFERENDADAS / NÃO REFERENDADAS, DETERMINANDO-SE (PROVIDÊNCIAS)] por [RESULTADO DA VOTAÇÃO].
+
+## 6. ITEM V – RECURSO DISCIPLINAR [SE HOUVER]
+P Retirados os visitantes e interrompida a transmissão, a Assembleia, em sessão reservada, julgou o recurso interposto contra decisão do Conselho Ministerial de [DATA] (Regimento, art. <<pd4>>). Após a exposição do relator e a sustentação oral do(a) recorrente, a Assembleia, por votação secreta, decidiu [MANTER / REDUZIR / ANULAR] a medida aplicada, por [RESULTADO DA VOTAÇÃO]. O registro detalhado consta de ata reservada, arquivada com os autos do procedimento.
+
+## 7. ITEM VI – [OUTRAS MATÉRIAS]
+P [RESUMO DA PROPOSTA, DISCUSSÃO E RESULTADO DA VOTAÇÃO, NA MESMA ESTRUTURA DOS ITENS ANTERIORES.]
+
+## 8. ITEM VII – COMUNICAÇÕES E ENCERRAMENTO
+P Foram feitas as seguintes comunicações, sem deliberação: [EX.: ORDENAÇÕES REALIZADAS NO EXERCÍCIO (REGIMENTO, ART. <<ord>>, V); RELATÓRIO RESUMIDO, SEM IDENTIFICAÇÃO DE PESSOAS, DA APLICAÇÃO DA POLÍTICA DE PROTEÇÃO; OUTROS INFORMES].
+P Nada mais havendo a tratar, o(a) Presidente encerrou os trabalhos às [HORA] horas, e eu, [NOME], Secretário(a) da Assembleia, lavrei a presente ata, que, [LIDA E APROVADA AO FINAL DA ASSEMBLEIA / LAVRADA NO PRAZO DO ART. <<ag5>> DO REGIMENTO INTERNO E SUBMETIDA À APROVAÇÃO DA ASSEMBLEIA SEGUINTE], vai assinada por mim, pelo(a) Presidente, pelos presidente e secretário ad hoc do Item I e pelos eleitos, integrando-a a lista de presença.
+%DATE
+%SIGNS [NOME];Presidente da Assembleia|[NOME];Secretário(a) da Assembleia|[NOME];Presidente ad hoc (Item I)|[NOME];Secretário(a) ad hoc (Item I)|[NOME DO ADVOGADO] – OAB/[UF] nº [NÚMERO];Visto do advogado, se exigido pelo cartório para o registro
+
+%PAGEBREAK
+## ANEXO – LISTA DE PRESENÇA DOS MEMBROS EM PLENA COMUNHÃO
+!Assembleia Geral Ordinária de [DATA]
+%TABLE 40 Nº|Nome completo|CPF|Nº no Rol de Membros|Assinatura

@@ -1,0 +1,51 @@
+# MODELOS DE CERTIFICADO E REGISTRO DE BATISMO
+![NOME COMPLETO DA IGREJA] – [SIGLA]
+
+## ORIENTAÇÕES DE USO
+I – O batismo é celebrado por ministro da IGREJA, conforme a Declaração de Fé (seção VIII) e a liturgia aprovada pelo Conselho Ministerial, e registrado no Livro de Registro de Batismos (Modelo 2), em livro próprio com folhas numeradas ou em sistema eletrônico com controle de acesso, mantido pela Secretaria.
+II – O certificado (Modelo 1) é entregue ao batizando no dia do batismo ou posteriormente, com numeração correspondente ao registro no livro. A segunda via (Modelo 3) é emitida a pedido do próprio batizado, ou de seus pais ou responsáveis, se menor.
+III – O batismo de menor de 18 (dezoito) anos depende da autorização dos pais ou responsáveis e da manifestação do próprio menor, conforme o Termo de Admissão de Membro Menor (Regimento Interno, art. <<adm1>>, § 1º).
+IV – O certificado e o registro contêm apenas os dados necessários: nome, data de nascimento, filiação (se o batizado desejar), data, local e forma do batismo e ministro celebrante. Não se registram CPF, endereço ou outros dados pessoais no livro de batismos; os dados de membresia constam da Ficha de Cadastro de Membro.
+V – O registro de batismo é conservado permanentemente, como registro histórico da vida religiosa da IGREJA, com acesso restrito à Secretaria e ao Conselho Ministerial; certidões e segundas vias somente são fornecidas ao próprio batizado, a seus pais ou responsáveis, se menor, ou mediante ordem judicial (Política de Privacidade e Proteção de Dados).
+VI – O certificado de batismo tem natureza exclusivamente religiosa e não substitui documentos civis.
+
+%PAGEBREAK
+## MODELO 1 – CERTIFICADO DE BATISMO
+![LOGOTIPO DA IGREJA]
+# [NOME COMPLETO DA IGREJA]
+!Certificado nº [NÚMERO]/[ANO] – Livro [NÚMERO], folha [NÚMERO]
+C CERTIFICADO DE BATISMO
+C Certificamos que
+C [NOME COMPLETO DO(A) BATIZADO(A)]
+C nascido(a) em [DATA DE NASCIMENTO][, filho(a) de (NOME) e de (NOME)],
+C tendo professado publicamente sua fé em Jesus Cristo como Senhor e Salvador,
+C foi batizado(a) [POR IMERSÃO / FORMA ADOTADA PELA IGREJA], em nome do Pai, do Filho e do Espírito Santo,
+C em [DIA] de [MÊS] de [ANO], [NO TEMPLO DA SEDE / NA CONGREGAÇÃO (NOME) / EM (LOCAL)], [CIDADE]/[UF].
+!"Portanto, ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo." (Mateus 28.19) [OU OUTRO VERSÍCULO ESCOLHIDO PELO CONSELHO MINISTERIAL]
+%DATE
+%SIGNS [NOME];Ministro(a) celebrante|[NOME];Pastor(a) Titular
+
+%PAGEBREAK
+## MODELO 2 – LIVRO DE REGISTRO DE BATISMOS
+!Livro nº [NÚMERO] – aberto em [DATA] pelo(a) Pastor(a) Titular e pelo(a) 1º Secretário(a), com [NÚMERO] folhas numeradas
+%GRID 1.3,4,2.2,2.5,2.2,2.3,1.5
+Nº | Nome completo do(a) batizado(a) e filiação (opcional) | Data de nascimento | Data e local do batismo | Forma | Ministro(a) celebrante | Nº do certificado
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+%ENDGRID
+P Observações (retificações, com data e assinatura do(a) Secretário(a); é vedado rasurar ou apagar registros – as correções são feitas por anotação): [ ].
+P TERMO DE ENCERRAMENTO: Encerra-se este livro, contendo [NÚMERO] registros, em [DATA].
+%SIGNS [NOME];Pastor(a) Titular|[NOME];1º Secretário(a)
+
+%PAGEBREAK
+## MODELO 3 – DECLARAÇÃO DE BATISMO (SEGUNDA VIA)
+P A [NOME COMPLETO DA IGREJA], inscrita no CNPJ sob o nº [NÚMERO], DECLARA, a pedido de [NOME DO(A) SOLICITANTE], [O(A) PRÓPRIO(A) BATIZADO(A) / PAI, MÃE OU RESPONSÁVEL LEGAL DO(A) BATIZADO(A)], que consta do Livro de Registro de Batismos nº [NÚMERO], folha [NÚMERO], registro nº [NÚMERO], que [NOME COMPLETO], nascido(a) em [DATA], foi batizado(a) [FORMA] em [DATA], [LOCAL], pelo(a) ministro(a) [NOME].
+P Esta declaração tem natureza exclusivamente religiosa, substitui o certificado original para todos os fins eclesiásticos e não contém outras informações pessoais do(a) batizado(a).
+%DATE
+%SIGNS [NOME];1º Secretário(a)|[NOME];Pastor(a) Titular

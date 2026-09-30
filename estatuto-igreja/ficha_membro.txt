@@ -1,0 +1,83 @@
+# FICHA DE CADASTRO DE MEMBRO
+![NOME COMPLETO DA IGREJA] – [SIGLA]
+!Estatuto Social, arts. [[adm]] e [[cat]] – Regimento Interno, arts. <<adm1>> e <<rol>> – Política de Privacidade e Proteção de Dados
+
+## ORIENTAÇÕES DE USO (PARA A SECRETARIA)
+I – A ficha é preenchida pelo candidato a membro, ou por seus pais ou responsáveis se menor de 18 (dezoito) anos, e entregue à Secretaria antes da entrevista com o Conselho Ministerial (Regimento, art. <<adm1>>). O preenchimento pode ser feito em papel ou em formulário eletrônico com o mesmo conteúdo.
+II – Os campos da Parte A são necessários à manutenção do Rol de Membros (Regimento, art. <<rol>>). Os campos da Parte B são facultativos: a recusa em preenchê-los não impede a admissão nem gera qualquer consequência.
+III – Não devem ser solicitados dados de saúde, renda, situação financeira, orientação política ou outros não previstos nesta ficha. Informações pastorais nunca são anotadas na ficha.
+IV – As fichas em papel serão guardadas em armário trancado, e as eletrônicas em sistema com acesso individual e restrito (Política de Privacidade, art. {{politica_privacidade:regras}}). A cópia é vedada, salvo para o arquivo da Secretaria.
+V – As medidas disciplinares não são anotadas na ficha; constam de registro reservado do Conselho Ministerial, e a Parte E indica apenas a categoria vigente do membro.
+VI – A Secretaria solicitará a atualização cadastral anualmente (Parte F), por ocasião da preparação da Assembleia Geral Ordinária.
+
+%PAGEBREAK
+## PARTE A – DADOS NECESSÁRIOS
+%GRID 6,10
+Nome completo | [ ]
+Nome social (se desejar ser chamado(a) de outra forma) | [ ]
+Data de nascimento | [ ]
+CPF | [ ]
+Endereço completo, com CEP | [ ]
+Telefone (celular) | [ ]
+Endereço eletrônico | [ ]
+Modo de admissão pretendido | [ ] Profissão de fé e batismo   [ ] Transferência   [ ] Reconciliação   [ ] Aclamação
+Data e local do batismo, se já batizado(a) | [ ]
+Igreja anterior, se houver (nome, cidade e ano) | [ ]
+Classe de preparação ou discipulado (data de conclusão) | [PREENCHIDO PELA SECRETARIA]
+%ENDGRID
+
+## PARTE B – DADOS FACULTATIVOS
+%GRID 6,10
+Estado civil | [ ]
+Nome do cônjuge ou companheiro(a), se também for membro ou frequentador | [ ]
+Filhos menores que participam das atividades (nome e data de nascimento) | [ ]
+Profissão ou ocupação | [ ]
+Áreas em que gostaria de servir como voluntário(a) | [ ] Louvor   [ ] Ensino   [ ] Infantil*   [ ] Jovens   [ ] Ação social   [ ] Mídia   [ ] Recepção   [ ] Outra: [ ]
+Contato de emergência (nome e telefone) | [ ]
+%ENDGRID
+P * O serviço com crianças, adolescentes ou pessoas vulneráveis depende dos requisitos da Política de Proteção, inclusive certidões de antecedentes criminais e capacitação.
+
+## PARTE C – DECLARAÇÃO DE ADESÃO
+P Declaro que professo a fé cristã, conforme a Declaração de Fé da [NOME COMPLETO DA IGREJA], que li ou me foram apresentados a Declaração de Fé, o Estatuto Social e o Regimento Interno, que os aceito e me comprometo a cumpri-los, e que solicito livremente minha admissão como membro (Estatuto, art. [[adm]]; Regimento, art. <<adm1>>, § 2º).
+P Estou ciente de que: (a) a condição de membro é pessoal e não gera direito sobre o patrimônio da IGREJA (Estatuto, art. [[adm]], § 2º); (b) as contribuições financeiras são sempre voluntárias e sua ausência não afeta minha condição de membro (Estatuto, art. [[dev]], parágrafo único); (c) os membros não respondem pelas obrigações da IGREJA (Estatuto, art. [[resp]]); e (d) posso desligar-me a qualquer tempo, mediante comunicação escrita (Estatuto, art. [[dir]], VII).
+
+## PARTE D – CONSENTIMENTO PARA O TRATAMENTO DE DADOS PESSOAIS
+P Consinto, de forma específica e destacada, com o tratamento dos meus dados pessoais, inclusive dos que revelam minha convicção religiosa e minha condição de membro, pela [NOME COMPLETO DA IGREJA], para as seguintes finalidades: manutenção do Rol de Membros, convocação e participação em Assembleias, cuidado pastoral, comunicação sobre as atividades da IGREJA e cumprimento das obrigações estatutárias e legais, nos termos da Lei nº 13.709/2018 e da Política de Privacidade e Proteção de Dados da IGREJA, que me foi disponibilizada.
+P Opções adicionais (marque as que desejar):
+P [ ] Aceito receber comunicações da IGREJA por mensagens eletrônicas e participar de grupos institucionais.
+P [ ] Autorizo a divulgação do meu nome e da data do meu aniversário (dia e mês) nos canais internos da IGREJA.
+P [ ] Autorizo a divulgação de imagens em que eu apareça em destaque nos canais oficiais da IGREJA.
+P [ ] Autorizo o uso dos dados facultativos da Parte B para a organização do serviço voluntário e do cuidado pastoral.
+P Estou ciente de que posso, a qualquer tempo e gratuitamente, acessar, corrigir e solicitar a eliminação dos meus dados e revogar este consentimento, mediante solicitação ao(à) encarregado(a) pelo tratamento de dados ([E-MAIL]), conservando-se apenas os registros exigidos por lei ou pelo Estatuto (Política de Privacidade, arts. {{politica_privacidade:ret}} e {{politica_privacidade:dir}}).
+%DATE
+%SIGNS [NOME COMPLETO];Assinatura do(a) candidato(a) a membro
+
+## AUTORIZAÇÃO DOS PAIS OU RESPONSÁVEIS (CANDIDATO MENOR DE 18 ANOS)
+P Eu, [NOME COMPLETO], CPF nº [NÚMERO], [PAI / MÃE / RESPONSÁVEL LEGAL] de [NOME DO(A) CANDIDATO(A)], AUTORIZO sua admissão como membro da [NOME COMPLETO DA IGREJA] (Regimento, art. <<adm1>>, § 1º) e CONSINTO, de forma específica e em destaque, com o tratamento de seus dados pessoais nos termos da Parte D (Lei nº 13.709/2018, art. 14, § 1º), com as opções ali assinaladas.
+%DATE
+%SIGNS [NOME COMPLETO];Pai, mãe ou responsável legal
+
+%PAGEBREAK
+## PARTE E – USO EXCLUSIVO DA SECRETARIA
+%GRID 7,9
+Nº no Rol de Membros | [ ]
+Entrevista com o Conselho Ministerial (data e entrevistadores) | [ ]
+Admissão aprovada pelo Conselho Ministerial (ata nº e data) | [ ]
+Modo e data da admissão | [ ]
+Data da recepção pública | [ ]
+Categoria (Estatuto, art. [[cat]]) e data em que passa a ser membro em plena comunhão | [MEMBRO MENOR / MEMBRO EM PLENA COMUNHÃO A PARTIR DE (DATA)]
+Funções exercidas (cargo, ministério e período) | [ ]
+Carta de transferência recebida / emitida (nº e data) | [ ]
+Desligamento (data e motivo: pedido, transferência, falecimento, ausência, exclusão) | [ ]
+Documentos arquivados | [ ] Carta de transferência   [ ] Autorização dos pais   [ ] Certificado de batismo   [ ] Outros: [ ]
+Cadastrado por / data | [ ]
+%ENDGRID
+
+%PAGEBREAK
+## PARTE F – ATUALIZAÇÃO CADASTRAL ANUAL
+P Nome: [ ]. Nº no Rol: [ ]. Ano de referência: [ ].
+P [ ] Meus dados permanecem os mesmos.
+P [ ] Meus dados foram alterados, conforme segue: endereço [ ]; telefone [ ]; endereço eletrônico [ ]; outros [ ].
+P [ ] Mantenho as opções de consentimento assinaladas na Parte D.   [ ] Altero as opções de consentimento, conforme segue: [ ].
+%DATE
+%SIGNS [NOME COMPLETO];Assinatura do(a) membro
