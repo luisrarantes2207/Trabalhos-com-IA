@@ -14,6 +14,7 @@ Arquivos:
 - `Recibo_Dizimos_Ofertas_Igreja_ISAC.docx`: instruções à Tesouraria e modelos de recibo de contribuição (com canhoto), de declaração anual de contribuições e de requerimento de devolução por erro material.
 - `Termo_Doacao_Bens_Igreja_ISAC.docx`: termo de doação de bens móveis, inclusive veículos, com roteiro para a doação de imóveis.
 - `Termo_Doacao_Imovel_Igreja_ISAC.docx`: minuta de escritura pública de doação de imóvel, instrumento particular para imóveis de pequeno valor e extrato de ata de aceitação pela Diretoria.
+- `Contrato_Trabalho_Empregado_Igreja_ISAC.docx`: contrato individual de trabalho (CLT), com descrição da função, acordo de compensação e banco de horas e opção pelo vale-transporte.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -217,3 +218,21 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Encargo:** a igreja pode vender o imóvel ou mudar o uso se a finalidade combinada se tornar impossível ou desnecessária. Evite cláusulas de reversão e de proibição de venda.
 - **Aceitação (Modelo 3):** a Diretoria aceita a doação depois do parecer do Conselho Fiscal sobre custos e riscos. Diretor com vínculo com o doador não vota. Encargo relevante ou ônus real exige a Assembleia.
 - **IPTU depois da doação:** a imunidade alcança o imóvel usado nas finalidades essenciais (CF, art. 150, § 4º). Um imóvel alugado a terceiros também pode ser imune se a renda for aplicada nessas finalidades, conforme entendimento do STF (RE 325.822). Guarde a comprovação dessa aplicação.
+
+## 17. Contrato de trabalho do empregado
+
+**Base legal:** a igreja é empregadora como qualquer entidade sem fins lucrativos (CLT, art. 2º, § 1º). O contrato se aplica a quem exerce funções administrativas, técnicas ou operacionais, como secretário, zelador ou técnico de som. **Ministros religiosos não são empregados**: o sustento deles segue o Estatuto, art. 34, e a Lei 8.212, art. 22, §§ 13 e 14. Os artigos da CLT e das demais leis foram citados sem conferência do texto, porque a base de legislação estava sem consultas.
+
+**Cláusulas pensadas para a realidade de uma igreja:**
+- **Função sem ministério religioso (1ª, § 1º):** as atribuições do empregado não incluem pregar, aconselhar ou dirigir espiritualmente. Isso evita que se confunda a função contratada com o ministério.
+- **Crença religiosa (1ª, § 2º; 7ª, § 3º; 9ª, III):** a igreja não exige confissão religiosa do empregado. É proibido descontar dízimo ou oferta do salário e proibida a discriminação religiosa.
+- **Trabalho e participação voluntária (5ª):** presença em cultos fora do horário é livre, não entra na jornada e a falta não gera consequência. Se o empregado quiser ser voluntário, será em outra atividade, com termo próprio, fora do horário de trabalho e sem cobrir tarefas da função. Esse é o ponto que mais gera ações trabalhistas contra igrejas.
+- **Domingos (4ª, § 1º):** trabalho aos domingos com folga em outro dia, conforme escala divulgada. Sem folga, o domingo trabalhado é pago em dobro.
+- **Registro de ponto (4ª, § 4º):** recomendado mesmo que a igreja tenha menos empregados do que o número que torna o ponto obrigatório (art. 74, § 2º). O registro é a principal prova em caso de ação por horas extras.
+- **Parentes de dirigentes (11ª):** a contratação de parente de dirigente exige parecer do Conselho Fiscal e aprovação da Diretoria sem o interessado (Estatuto, art. 40), e o empregado não pode ser subordinado direto do parente.
+- **Crianças:** se a função envolver contato com crianças, o empregado precisa apresentar as certidões criminais exigidas pela Política de Proteção e pelo ECA, art. 59-A.
+- **Foro:** não há cláusula de foro, porque a competência trabalhista é definida em lei (CLT, art. 651).
+
+**Encargos:** a imunidade da igreja vale só para impostos. Ela recolhe FGTS e a contribuição previdenciária patronal sobre a folha. A isenção de contribuições sociais depende da certificação como entidade beneficente de assistência social (CF, art. 195, § 7º), que uma igreja em regra não tem. Inclua esses custos no orçamento e confira com o contador.
+
+**Antes de usar:** verifique se existe convenção coletiva aplicável (por exemplo, de empregados de entidades religiosas ou de asseio e conservação) com piso salarial e regras próprias. Ela prevalece sobre o contrato se for mais favorável ao empregado.
