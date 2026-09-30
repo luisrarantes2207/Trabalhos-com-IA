@@ -16,6 +16,7 @@ Arquivos:
 - `Termo_Doacao_Imovel_Igreja_ISAC.docx`: minuta de escritura pública de doação de imóvel, instrumento particular para imóveis de pequeno valor e extrato de ata de aceitação pela Diretoria.
 - `Contrato_Trabalho_Empregado_Igreja_ISAC.docx`: contrato individual de trabalho (CLT), com descrição da função, acordo de compensação e banco de horas e opção pelo vale-transporte.
 - `Contrato_Prestacao_Servicos_Igreja_ISAC.docx`: contrato de prestação de serviços para fornecedores pessoa física ou jurídica, com escopo e níveis de serviço e declarações da contratada.
+- `RPA_Recibo_Pagamento_Autonomo_Igreja_ISAC.docx`: recibo de pagamento a autônomo, com instruções de uso, demonstrativo de retenções, declarações do prestador e quadro de controle interno.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -250,3 +251,18 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Dados pessoais:** se o prestador tratar dados da igreja (contador, sistema, site), ele atua como operador e segue a cláusula-padrão do Anexo III da Política de Privacidade.
 - **Prazo máximo:** o CC, art. 598, limita cada contrato de prestação de serviços a 4 anos. Depois disso, faça um novo contrato.
 - **Aprovações internas:** alçadas de despesa (Regimento, art. 29) e, se o prestador for parente de dirigente, 3 orçamentos, parecer do Conselho Fiscal e aprovação da Diretoria sem o interessado (Estatuto, art. 40).
+
+## 19. Recibo de pagamento a autônomo (RPA)
+
+- **Quando usar:** pagamento a pessoa física que presta serviço eventual e não emite nota fiscal, como pregador ou músico convidado, fotógrafo, técnico ou professor de curso. Não se usa para os ministros da própria igreja (sustento pelo Estatuto, art. 34), para empregados nem para voluntários. Se o prestador for MEI ou emitir nota fiscal, use a nota fiscal.
+- **Alíquotas e tabelas em branco:** o modelo não traz valores de INSS, IR e ISS, porque as tabelas mudam periodicamente. As instruções dão a ordem de cálculo:
+  1. valor bruto;
+  2. INSS retido do autônomo, respeitado o teto e as contribuições já feitas em outras fontes no mês;
+  3. base do IR: bruto menos INSS, dependentes e pensão, ou o desconto simplificado;
+  4. IR pela tabela progressiva;
+  5. ISS, se a lei municipal exigir;
+  6. valor líquido.
+- **Custo total para a igreja:** além do que retém do autônomo, a igreja paga a contribuição previdenciária patronal sobre o valor bruto. Esse encargo não pode ser descontado do prestador e fica registrado no quadro de controle interno. Em regra, igrejas sem certificação de entidade beneficente pagam esse encargo e retêm do autônomo a alíquota aplicável às empresas em geral. **Confirme alíquotas, tetos e prazos com o contador.**
+- **"Oferta" ao pregador convidado:** um valor fixo pago como "ajuda de custo" ou "oferta", sem comprovação de despesas, é remuneração e tem retenções. Só o reembolso de despesas comprovadas fica fora da base de cálculo e vai em campo próprio.
+- **Vínculo de emprego:** pagamentos frequentes à mesma pessoa, com horário e subordinação, podem caracterizar emprego. Nesse caso, use o contrato CLT ou o contrato de prestação de serviços.
+- **Obrigações acessórias:** os pagamentos precisam ser informados no eSocial e na DCTFWeb, com recolhimento dos tributos nos prazos legais.
