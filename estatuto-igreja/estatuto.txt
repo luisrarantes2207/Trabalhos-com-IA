@@ -350,7 +350,8 @@ ART[conf] As divergências entre membros, ministros ou órgãos da IGREJA relati
 ART[omi] Os casos omissos serão resolvidos pela Diretoria Executiva, ouvido o Conselho Ministerial em matéria religiosa, ad referendum da Assembleia Geral, observadas a legislação aplicável, as finalidades da IGREJA e sua Declaração de Fé.
 
 ART[trans] A primeira Diretoria Executiva, o primeiro Conselho Fiscal e o primeiro Pastor Titular serão eleitos na Assembleia Geral de Fundação [OU DE REFORMA ESTATUTÁRIA], constando da respectiva ata a qualificação completa dos eleitos (nome, nacionalidade, estado civil, profissão, RG, CPF e endereço), para fins do art. 120 da Lei nº 6.015/1973.
-Parágrafo único. [SE REFORMA:] Os mandatos em curso na data da aprovação deste Estatuto serão mantidos até o seu término, aplicando-se aos atuais dirigentes as regras deste Estatuto, inclusive quanto ao limite de reconduções, contado a partir do mandato seguinte.
+§ 1º Na Assembleia Geral de Fundação, são considerados membros em plena comunhão todos os fundadores civilmente capazes que professarem a Declaração de Fé e assinarem a lista de presença, e são dispensados, exclusivamente para essa Assembleia e para a primeira eleição, os prazos de tempo de membresia previstos no art. [[cat]], I, e no art. [[req]], I, mantidos os demais requisitos do art. [[req]].
+§ 2º [SE REFORMA:] Os mandatos em curso na data da aprovação deste Estatuto serão mantidos até o seu término, aplicando-se aos atuais dirigentes as regras deste Estatuto, inclusive quanto ao limite de reconduções, contado a partir do mandato seguinte.
 
 ART[vig] Este Estatuto, aprovado pela Assembleia Geral realizada em [DIA] de [MÊS] de [ANO], entra em vigor na data de sua aprovação, produzindo efeitos perante terceiros a partir do registro no Registro Civil de Pessoas Jurídicas da Comarca de [CIDADE]/[UF][, REVOGANDO-SE O ESTATUTO ANTERIOR E SUAS ALTERAÇÕES].
 

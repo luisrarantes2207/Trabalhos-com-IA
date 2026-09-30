@@ -2,7 +2,8 @@
 
 Arquivos:
 - `Estatuto_Social_Igreja_ISAC_v2.docx`: o estatuto pronto para preencher e registrar.
-- `estatuto.txt`: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar o .docx de novo. Os artigos e as remissões internas são renumerados automaticamente.
+- `Ata_Assembleia_Fundacao_Igreja_ISAC.docx`: ata da Assembleia de Fundação, com o Anexo A (lista de presença dos fundadores) e o Anexo B (termo de posse e declaração de desimpedimento, um por eleito).
+- `estatuto.txt` e `ata_fundacao.txt`: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões da ata acompanham essa numeração.
 
 ## 1. Base legal verificada (setembro de 2026)
 
@@ -57,3 +58,11 @@ Nome e sigla, endereço, prazo de carência para membro votante, prazos de manda
 - **A imunidade não cobre o que a igreja compra.** O ICMS e o IBS/CBS embutidos no preço das aquisições continuam sendo pagos (LC 214/2025, art. 9º, § 4º).
 - **Taxas e contribuições não são imunes.** Isso inclui a contribuição previdenciária sobre empregados, que continua devida.
 - **Revisão profissional.** Este texto é uma minuta técnica e deve ser revisado por advogado inscrito na OAB antes do registro, com atenção especial às exigências do cartório e da prefeitura do município-sede.
+
+## 6. Ata de fundação: cuidados para o registro
+
+- **Regra de transição (art. 50, § 1º, do Estatuto):** sem ela, nenhum fundador cumpriria a carência de 6 meses para votar (art. 9º, I) nem a de 2 anos para ser eleito (art. 24, I). A regra dispensa esses prazos somente na fundação. Por segurança, os fundadores devem ser pessoas civilmente capazes. Menores podem ser admitidos como membros depois.
+- **Qualificação completa de cada eleito** (nome, nacionalidade, estado civil, profissão, RG, CPF e endereço): é exigida pelo art. 120 da Lei 6.015/1973, e sua falta é o motivo mais comum de o cartório devolver o pedido.
+- **Assinaturas e visto:** a ata é assinada pelo presidente e pelo secretário da Assembleia e pelos eleitos, com visto de advogado. Todas as folhas do Estatuto devem ser rubricadas. Consulte o cartório local sobre reconhecimento de firma e número de vias.
+- **Preenchimento dos campos:** preencha todos os [COLCHETES] e apague as alternativas que não se aplicam. Não deixe espaços em branco nem rasuras. O resultado de cada votação deve bater com o número de presentes.
+- **Documentos para o cartório (normalmente):** requerimento assinado pelo Presidente, duas vias do Estatuto e da ata, lista de presença, cópia do edital de convocação e documentos de identidade dos dirigentes. Confirme a lista exata com o Registro Civil de Pessoas Jurídicas da comarca.
