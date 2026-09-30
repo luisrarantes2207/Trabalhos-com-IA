@@ -30,6 +30,7 @@ Arquivos:
 - `Certificado_Batismo_Igreja_ISAC.docx`: certificado de batismo, livro de registro de batismos e declaração de segunda via.
 - `Certificado_Apresentacao_Criancas_Igreja_ISAC.docx`: pedido de apresentação, certificado, livro de registro e roteiro litúrgico sugerido.
 - `Certificado_Casamento_Religioso_Igreja_ISAC.docx`: pedido de celebração, termo de casamento religioso para registro civil, requerimento ao cartório, certificado e livro de registro de casamentos.
+- `Certificado_Ordenacao_Ministro_Igreja_ISAC.docx`: ata de exame e aprovação, termo de compromisso ministerial, certificado de ordenação, credencial ministerial e livro de registro.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -418,7 +419,7 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 
 - **Três modelos:** certificado numerado, com o texto centralizado, ligado ao livro e à folha do registro; Livro de Registro de Batismos, com termo de abertura e de encerramento e proibição de rasuras (correções só por anotação); e declaração de segunda via, emitida apenas ao próprio batizado ou aos pais, se ele for menor.
 - **Dados mínimos:** o livro não registra CPF nem endereço, só os dados necessários ao ato religioso, e a filiação é opcional. Os dados de membresia ficam na Ficha de Cadastro.
-- **Guarda permanente:** o registro de batismo é um registro histórico da igreja. Por isso incluí uma linha na tabela de prazos da Política de Privacidade (art. 10) prevendo guarda permanente com acesso restrito, para manter os dois documentos coerentes. A mesma linha passou a cobrir os livros de apresentação de crianças e de casamentos religiosos.
+- **Guarda permanente:** o registro de batismo é um registro histórico da igreja. Por isso incluí uma linha na tabela de prazos da Política de Privacidade (art. 10) prevendo guarda permanente com acesso restrito, para manter os dois documentos coerentes. A mesma linha passou a cobrir os livros de apresentação de crianças, de casamentos religiosos e de ordenações.
 - **Menores:** o batismo de menor exige a autorização dos pais e a manifestação do próprio menor, pelo Termo de Admissão de Membro Menor.
 - **Natureza religiosa:** o certificado não substitui documentos civis.
 - **Adaptação doutrinária:** a forma do batismo, a fórmula e o versículo estão entre colchetes, para ajuste à Declaração de Fé (seção VIII) e à liturgia da igreja.
@@ -442,3 +443,10 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **O certificado religioso não prova casamento civil:** o Modelo 4 traz a ressalva de que a prova do casamento civil é a certidão do RCPN, e na modalidade sem efeito civil declara isso expressamente.
 - **Regras da igreja:** aconselhamento prévio, conformidade com a seção IX da Declaração de Fé e gratuidade, com ressarcimento de custos de espaço e serviços (Regimento, art. 48).
 - **Guarda:** o livro de casamentos tem guarda permanente, e a linha da Política de Privacidade foi ampliada para incluí-lo.
+
+## 33. Ordenação de ministro
+
+- **Procedimento completo:** verificação dos requisitos do Regimento (art. 32) e exame pelo Conselho Ministerial; termo de compromisso; culto de ordenação com certificado; registro no livro; e credencial anual. A ata de exame tem uma tabela de requisitos com a comprovação de cada um: tempo de membresia, formação, supervisão, certidões criminais, ausência de procedimento disciplinar e entrevista.
+- **Termo de Compromisso Ministerial:** fixa o que o ministro assume (doutrina, normas internas, sigilo pastoral com as comunicações obrigatórias por lei, disciplina, uso da credencial) e o que ele reconhece: não há vínculo empregatício; o sustento segue critérios gerais do orçamento, sem ligação com receitas ou metas (Lei 8.212, art. 22, §§ 13 e 14); ele é contribuinte individual do INSS; e a ordenação não lhe dá direito sobre o patrimônio ou a administração. Esse termo é a principal prova contra pedidos de reconhecimento de vínculo de emprego e contra a caracterização do sustento como remuneração.
+- **Certificado e credencial têm papéis diferentes:** o certificado atesta um ato permanente. A credencial vale por um ano, prova que o ministro está em exercício e pode ser suspensa em procedimento disciplinar. Cartórios, hospitais e presídios costumam pedir os dois, por exemplo para casamento com efeito civil ou assistência religiosa.
+- **Natureza religiosa:** a ordenação não é habilitação profissional regulamentada. O livro de ordenações tem guarda permanente, e a linha da Política de Privacidade foi ampliada para incluí-lo.

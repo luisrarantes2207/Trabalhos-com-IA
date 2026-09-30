@@ -1,0 +1,92 @@
+# MODELOS PARA A ORDENAÇÃO DE MINISTRO DE CONFISSÃO RELIGIOSA
+![NOME COMPLETO DA IGREJA] – [SIGLA]
+!Estatuto Social, arts. [[cm]], III, e [[min]] – Regimento Interno, art. <<ord>>
+
+## ORIENTAÇÕES DE USO
+I – A ordenação (ou consagração) é deliberada pelo Conselho Ministerial, após exame do candidato e verificação dos requisitos do art. <<ord>> do Regimento Interno, e comunicada à Assembleia Geral seguinte. O procedimento compreende: (1) indicação e verificação dos requisitos (Modelo 1); (2) exame e deliberação do Conselho Ministerial (Modelo 1); (3) assinatura do Termo de Compromisso Ministerial (Modelo 2); (4) culto de ordenação e entrega do certificado (Modelo 3); (5) registro no Livro de Ordenações (Modelo 5); e (6) emissão da credencial anual (Modelo 4).
+II – O ministro exerce o ministério por vocação religiosa, sem vínculo empregatício com a IGREJA (Estatuto, art. [[min]]). O eventual sustento observa os critérios do Estatuto e do Regimento e não é fixado em percentual das receitas. O ministro é segurado obrigatório da Previdência Social como contribuinte individual, responsável por seus recolhimentos (Estatuto, art. [[min]], § 4º).
+III – O certificado atesta um ato religioso permanente. A credencial, de validade anual, atesta que o ministro está em exercício e em regular situação perante a IGREJA; é renovada pelo Conselho Ministerial e pode ser suspensa em procedimento disciplinar (Regimento, art. <<ord>>, parágrafo único). Credenciais vencidas, suspensas ou de ministros desligados devem ser devolvidas.
+IV – Cartórios de registro civil, hospitais, estabelecimentos prisionais e outras instituições podem exigir comprovação da condição de ministro, por exemplo para a celebração de casamento religioso com efeito civil ou para assistência religiosa. Para esse fim, apresentam-se o certificado de ordenação e a credencial vigente, acompanhados, se solicitado, de declaração da IGREJA.
+V – A ordenação e a credencial têm natureza exclusivamente religiosa e não constituem habilitação profissional regulamentada.
+
+%PAGEBREAK
+## MODELO 1 – ATA DE EXAME E APROVAÇÃO PARA ORDENAÇÃO
+P Em [DATA], o Conselho Ministerial da [NOME COMPLETO DA IGREJA], reunido com a presença de [NOMES], examinou a indicação de [NOME COMPLETO], CPF nº [NÚMERO], para [ORDENAÇÃO AO MINISTÉRIO PASTORAL / CONSAGRAÇÃO A (FUNÇÃO MINISTERIAL: EVANGELISTA, MISSIONÁRIO(A), PRESBÍTERO(A), DIÁCONO(A) OU OUTRA)], apresentada por [NOME E FUNÇÃO DE QUEM INDICOU] em [DATA].
+P VERIFICAÇÃO DOS REQUISITOS (Regimento Interno, art. <<ord>>):
+%GRID 8,3,5
+Requisito | Atendido? | Comprovação
+Membro em plena comunhão há pelo menos [3] anos | [SIM/NÃO] | [DATA DE ADMISSÃO – Nº NO ROL]
+Formação teológica ou ministerial reconhecida pelo Conselho Ministerial | [ ] | [CURSO, INSTITUIÇÃO E ANO]
+Atividades ministeriais na IGREJA sob supervisão por pelo menos [1] ano | [ ] | [PERÍODO E SUPERVISOR]
+Certidões criminais das Justiças Estadual e Federal, sem condenação impeditiva (Estatuto, art. [[req]], III) | [ ] | [DATAS DE EMISSÃO]
+Ausência de procedimento disciplinar em curso | [ ] | [VERIFICADO PELA SECRETARIA]
+Conformidade com a Declaração de Fé e a vida cristã (seção X) | [ ] | [ENTREVISTA DE (DATA)]
+%ENDGRID
+P EXAME: o(a) candidato(a) foi examinado(a) em [DATA] sobre [DOUTRINA, ÉTICA MINISTERIAL, ESTATUTO SOCIAL, REGIMENTO INTERNO, CÓDIGO DE CONDUTA E POLÍTICA DE PROTEÇÃO], por [EXAMINADORES], com o seguinte resultado: [APROVADO(A) / NÃO APROVADO(A), COM AS SEGUINTES RECOMENDAÇÕES: (DESCREVER)].
+P DELIBERAÇÃO: por [RESULTADO], o Conselho Ministerial [APROVOU / NÃO APROVOU] a [ORDENAÇÃO / CONSAGRAÇÃO], a ser realizada em culto de [DATA], [COM A PARTICIPAÇÃO DE (MINISTROS CONVIDADOS OU DA CONVENÇÃO, SE HOUVER)], determinando a comunicação à próxima Assembleia Geral. [NENHUM INTEGRANTE DO CONSELHO DECLAROU IMPEDIMENTO / (NOME) DECLAROU-SE IMPEDIDO(A) POR PARENTESCO E NÃO VOTOU.]
+%SIGNS [NOME];Pastor(a) Titular – Presidente do Conselho Ministerial|[NOME];Membro do Conselho Ministerial|[NOME];Membro do Conselho Ministerial
+
+%PAGEBREAK
+## MODELO 2 – TERMO DE COMPROMISSO MINISTERIAL
+P Eu, [NOME COMPLETO], [NACIONALIDADE], [ESTADO CIVIL], CPF nº [NÚMERO], residente na [ENDEREÇO], aprovado(a) pelo Conselho Ministerial da [NOME COMPLETO DA IGREJA] para [ORDENAÇÃO / CONSAGRAÇÃO] como [FUNÇÃO MINISTERIAL], declaro e assumo, perante Deus e a IGREJA, os seguintes compromissos:
+I – professar e ensinar a Declaração de Fé da IGREJA e exercer o ministério com fidelidade, humildade e zelo pastoral;
+II – cumprir o Estatuto Social, o Regimento Interno, o Código de Conduta, a Política de Proteção de Crianças, Adolescentes e Pessoas Vulneráveis e a Política de Privacidade e Proteção de Dados, cujas cópias recebi;
+III – guardar sigilo sobre o que me for confiado no aconselhamento pastoral, ressalvadas as comunicações obrigatórias por lei, especialmente a comunicação imediata às autoridades de suspeita de violência contra criança, adolescente, idoso ou pessoa com deficiência;
+IV – submeter-me à disciplina eclesiástica exercida pelo Conselho Ministerial, na forma do Regimento Interno, com as garantias de defesa nele previstas;
+V – usar o título ministerial e a credencial exclusivamente no exercício do ministério e nos limites da autorização da IGREJA, devolvendo a credencial quando vencida, suspensa ou ao término do vínculo ministerial.
+P Declaro ainda estar ciente de que:
+a) exerço o ministério por vocação religiosa, sem vínculo empregatício com a IGREJA (Estatuto, art. [[min]]);
+b) o eventual sustento ministerial será fixado conforme os critérios gerais aprovados no orçamento, independentemente da natureza e da quantidade do trabalho executado, sem vinculação a receitas ou metas, e será registrado individualmente e informado para fins de imposto de renda (Estatuto, art. [[min]], §§ 1º e 2º; Regimento, art. <<sus>>);
+c) sou segurado(a) obrigatório(a) da Previdência Social na qualidade de contribuinte individual, cabendo-me o recolhimento de minhas contribuições (Estatuto, art. [[min]], § 4º);
+d) a ordenação não me confere direito sobre o patrimônio, as receitas ou a administração da IGREJA, que são exercidas pelos órgãos estatutários;
+e) a credencial ministerial tem validade anual e pode ser suspensa ou não renovada pelo Conselho Ministerial, na forma do Regimento Interno.
+%DATE
+%SIGNS [NOME COMPLETO];Ministro(a)|[NOME];Pastor(a) Titular
+
+%PAGEBREAK
+## MODELO 3 – CERTIFICADO DE ORDENAÇÃO
+![LOGOTIPO DA IGREJA]
+# [NOME COMPLETO DA IGREJA]
+!Certificado nº [NÚMERO]/[ANO] – Livro de Ordenações nº [NÚMERO], folha [NÚMERO]
+C CERTIFICADO DE [ORDENAÇÃO / CONSAGRAÇÃO]
+C Certificamos que
+C [NOME COMPLETO]
+C tendo sido examinado(a) e aprovado(a) pelo Conselho Ministerial desta Igreja,
+C foi [ORDENADO(A) / CONSAGRADO(A)] ao ministério de [PASTOR(A) / EVANGELISTA / MISSIONÁRIO(A) / (FUNÇÃO)],
+C mediante oração e imposição de mãos, em culto solene realizado em [DIA] de [MÊS] de [ANO],
+C [NO TEMPLO DA SEDE, À (ENDEREÇO)], [CIDADE]/[UF],
+C para o exercício do ministério da Palavra, das ordenanças e do cuidado pastoral, segundo a Declaração de Fé desta Igreja.
+!"Prega a palavra, insta a tempo e fora de tempo, redargui, repreende, exorta, com toda a longanimidade e doutrina." (2 Timóteo 4.2) [OU OUTRO VERSÍCULO ESCOLHIDO PELO CONSELHO MINISTERIAL]
+%DATE
+%SIGNS [NOME];Pastor(a) Titular – Presidente do Conselho Ministerial|[NOME];Presidente da Diretoria Executiva|[NOME];Ministro(a) oficiante [OU REPRESENTANTE DA CONVENÇÃO, SE HOUVER]
+
+%PAGEBREAK
+## MODELO 4 – CREDENCIAL MINISTERIAL
+!(Formato sugerido para impressão em cartão, frente e verso, ou para emissão digital com código de verificação)
+%GRID 5,11
+CREDENCIAL MINISTERIAL Nº [NÚMERO] | [NOME COMPLETO DA IGREJA] – CNPJ nº [NÚMERO]
+Nome | [NOME COMPLETO]
+CPF | [NÚMERO]
+Função ministerial | [PASTOR(A) / EVANGELISTA / MISSIONÁRIO(A) / (FUNÇÃO)]
+Ordenação | [DATA] – Certificado nº [NÚMERO]
+Validade | De [DATA] a [DATA]
+Situação | Em exercício, em regular situação perante a IGREJA
+Verificação | [TELEFONE OU E-MAIL DA SECRETARIA / CÓDIGO OU QR CODE DE VERIFICAÇÃO]
+Foto | [FOTO 3X4]
+%ENDGRID
+P VERSO: Esta credencial é de uso pessoal e intransferível, tem natureza exclusivamente religiosa e é válida somente no prazo nela indicado. Pertence à [NOME COMPLETO DA IGREJA] e deve ser devolvida quando vencida, suspensa ou ao término do vínculo ministerial. Em caso de perda, comunique à Secretaria. Autenticidade confirmada pela Secretaria: [CONTATO].
+%SIGNS [NOME];Pastor(a) Titular – Presidente do Conselho Ministerial
+
+%PAGEBREAK
+## MODELO 5 – LIVRO DE REGISTRO DE ORDENAÇÕES E CREDENCIAIS
+!Livro nº [NÚMERO] – aberto em [DATA] pelo(a) Pastor(a) Titular e pelo(a) 1º Secretário(a), com [NÚMERO] folhas numeradas
+%GRID 1.2,3.5,2.3,2.2,2.2,2.3,2.3
+Nº | Nome do(a) ministro(a) | Função | Data da ordenação e ata do Conselho | Nº do certificado | Credenciais (nº e validade) | Suspensões, cancelamento ou transferência
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ]
+%ENDGRID
+P Observações e retificações (por anotação datada e assinada, vedada a rasura): [ ].
+%SIGNS [NOME];Pastor(a) Titular|[NOME];1º Secretário(a)
