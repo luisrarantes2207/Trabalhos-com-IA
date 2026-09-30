@@ -23,6 +23,7 @@ Arquivos:
 - `Ata_Parecer_Conselho_Fiscal_Igreja_ISAC.docx`: orientações, ata de reunião trimestral com roteiro de verificações, parecer anual sobre as contas, parecer específico e comunicação de constatação à Diretoria.
 - `Ata_Conselho_Ministerial_Igreja_ISAC.docx`: orientações, ata geral de reunião, ata reservada de instauração de procedimento disciplinar, notificação ao acusado, ata reservada de decisão e comunicação da decisão.
 - `Carta_Transferencia_Membro_Igreja_ISAC.docx`: pedido e carta de transferência, comunicação de recebimento, carta de recomendação, declaração de membresia e solicitação de carta à igreja de origem.
+- `Ficha_Cadastro_Membro_Igreja_ISAC.docx`: ficha de cadastro de membro, com dados necessários e facultativos, declaração de adesão, consentimento LGPD, autorização dos pais, campos da Secretaria e atualização anual.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -369,3 +370,11 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Membro sob disciplina:** membro suspenso não está em plena comunhão, então não recebe carta de transferência. A pedido dele, pode receber uma Declaração de Membresia com dados objetivos e sem motivos. Isso evita tanto uma declaração falsa de comunhão quanto a exposição do membro, que poderia gerar ação por dano moral.
 - **Ausência temporária:** a Carta de Recomendação serve para estudo, trabalho ou tratamento fora, sem desligar o membro.
 - **Membro que chega de outra igreja:** a solicitação de carta à igreja de origem tem controle do prazo de 60 dias, depois do qual o Conselho pode admitir o membro por aclamação (Regimento, art. 5º, parágrafo único).
+
+## 26. Ficha de cadastro de membro
+
+- **Minimização de dados:** a Parte A coleta só o que o Regimento, art. 8º, prevê para o Rol de Membros. A Parte B é facultativa (estado civil, familiares, profissão, áreas de serviço, contato de emergência), e recusar preenchê-la não impede a admissão. Dados de saúde, renda e opinião política não são solicitados.
+- **Declaração de adesão:** atende ao Regimento, art. 4º, § 2º, que exige que o candidato declare professar a Declaração de Fé e aceitar o Estatuto e o Regimento. Também registra que o candidato está ciente de que a membresia não dá direito ao patrimônio, que as contribuições são voluntárias, que os membros não respondem pelas dívidas da igreja e que pode se desligar a qualquer tempo.
+- **Consentimento:** a ficha incorpora o termo de consentimento do Anexo I da Política de Privacidade, com opções separadas (mensagens, aniversário, imagem e uso dos dados facultativos). Para menores de 18 anos, a autorização dos pais serve também como o consentimento específico exigido pelo art. 14, § 1º, da LGPD.
+- **Disciplina fora da ficha:** medidas disciplinares ficam no registro reservado do Conselho Ministerial. A ficha mostra só a categoria vigente, que a Secretaria usa para montar a lista de votantes. Isso reduz a exposição de dados sensíveis.
+- **Atualização anual:** a Parte F é aplicada na preparação da AGO. Ela permite corrigir dados e rever as opções de consentimento, e ajuda a manter a lista de votantes confiável.
