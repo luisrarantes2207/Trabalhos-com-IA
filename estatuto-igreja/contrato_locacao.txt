@@ -1,0 +1,137 @@
+# INSTRUMENTO PARTICULAR DE CONTRATO DE LOCAÇÃO NÃO RESIDENCIAL
+!Lei nº 8.245/1991 – imóvel destinado a templo de entidade religiosa
+
+P Pelo presente instrumento particular, as partes abaixo qualificadas:
+P LOCADOR: [SE PESSOA FÍSICA:] [NOME COMPLETO], [NACIONALIDADE], [ESTADO CIVIL], [PROFISSÃO], portador(a) da cédula de identidade RG nº [NÚMERO] [ÓRGÃO/UF], inscrito(a) no CPF sob o nº [NÚMERO], residente e domiciliado(a) na [ENDEREÇO COMPLETO, COM CEP], [CASADO(A) SOB O REGIME DE (REGIME) COM (NOME DO CÔNJUGE), (QUALIFICAÇÃO), QUE COMPARECE COMO ANUENTE]; [SE PESSOA JURÍDICA:] [RAZÃO SOCIAL], inscrita no CNPJ sob o nº [NÚMERO], com sede na [ENDEREÇO], neste ato representada por [NOME E QUALIFICAÇÃO DO REPRESENTANTE], na forma de seus atos constitutivos; [SE HOUVER ADMINISTRADORA:] representado por [IMOBILIÁRIA], inscrita no CNPJ sob o nº [NÚMERO] e no CRECI sob o nº [NÚMERO];
+P LOCATÁRIA: [NOME COMPLETO DA IGREJA] – [SIGLA], organização religiosa, pessoa jurídica de direito privado sem fins lucrativos, devidamente registrada no Registro Civil de Pessoas Jurídicas da Comarca de [CIDADE] sob o nº [NÚMERO] e inscrita no CNPJ sob o nº [NÚMERO], com sede na [ENDEREÇO COMPLETO, COM CEP], neste ato representada por seu Presidente, [NOME COMPLETO], [QUALIFICAÇÃO], na forma do art. [[pres]], IV, do seu Estatuto Social, doravante denominada IGREJA;
+P têm entre si justo e contratado o presente Contrato de Locação Não Residencial, que se regerá pelas cláusulas seguintes e pela Lei nº 8.245/1991 (Lei do Inquilinato).
+
+CL[obj] DO OBJETO
+P O LOCADOR, proprietário [OU TITULAR DE DIREITO QUE LHE PERMITE LOCAR, CONFORME (DOCUMENTO)], dá em locação à IGREJA o imóvel situado na [ENDEREÇO COMPLETO, COM CEP], no Município de [CIDADE]/[UF], objeto da matrícula nº [NÚMERO] do [Nº] Registro de Imóveis da Comarca de [CIDADE], cadastrado na Prefeitura sob a inscrição imobiliária nº [NÚMERO], com área de terreno de [ÁREA] m² e área construída de [ÁREA] m², composto de [DESCRIÇÃO SUMÁRIA], doravante denominado IMÓVEL, no estado descrito no Laudo de Vistoria (Anexo I).
+Parágrafo único. O LOCADOR declara que o IMÓVEL se encontra livre de ônus, dívidas, ações ou restrições que impeçam ou limitem a locação, [OU: SALVO (DESCREVER)], e que não conhece impedimento legal, condominial ou urbanístico ao seu uso como templo.
+
+CL[dest] DA DESTINAÇÃO E DA PROTEÇÃO LEGAL
+P O IMÓVEL destina-se exclusivamente à instalação de templo e sede [OU CONGREGAÇÃO] da IGREJA, para a realização de cultos e das demais atividades religiosas, educacionais, assistenciais e comunitárias próprias de suas finalidades.
+§ 1º As partes reconhecem que a IGREJA é entidade religiosa devidamente registrada e que, em razão da destinação do IMÓVEL, a presente locação somente poderá ser rescindida pelo LOCADOR nas hipóteses do art. 53 da Lei nº 8.245/1991, e que o prazo para desocupação, em caso de despejo, observará o art. 63, § 3º, da mesma Lei.
+§ 2º Compete à IGREJA obter, às suas expensas, os alvarás, licenças, o auto de vistoria do Corpo de Bombeiros e as demais autorizações necessárias ao uso do IMÓVEL como templo, cabendo ao LOCADOR fornecer os documentos do IMÓVEL que forem exigidos.
+
+CL[prazo] DO PRAZO
+P A locação vigorará pelo prazo determinado de [5 (CINCO)] anos, com início em [DATA] e término em [DATA].
+§ 1º Findo o prazo, se a IGREJA permanecer no IMÓVEL por mais de 30 (trinta) dias sem oposição do LOCADOR, a locação prorrogar-se-á por prazo indeterminado, nas mesmas condições (Lei nº 8.245/1991, art. 56, parágrafo único), mantida a proteção do art. 53 da mesma Lei.
+§ 2º Aplica-se ao presente contrato a cláusula de vigência em caso de alienação, na forma da Cláusula ((alien)).
+§ 3º [SE O PRAZO FOR SUPERIOR A 5 (CINCO) ANOS:] A IGREJA declara que a presente locação foi autorizada pela Assembleia Geral realizada em [DATA], nos termos do art. [[agc]], VI, do seu Estatuto Social.
+
+CL[alug] DO ALUGUEL E DO PAGAMENTO
+P O aluguel mensal é de R$ [VALOR] ([VALOR POR EXTENSO]), vencível no dia [DIA] do mês seguinte ao vencido, e será pago por transferência bancária ou PIX para a conta de titularidade do LOCADOR [BANCO, AGÊNCIA, CONTA OU CHAVE PIX], servindo o comprovante como recibo, sem prejuízo do fornecimento de recibo discriminado pelo LOCADOR quando solicitado (Lei nº 8.245/1991, art. 22, VI).
+§ 1º [OPCIONAL:] Em razão das obras de adaptação a serem realizadas pela IGREJA, o LOCADOR concede carência de [NÚMERO] meses no pagamento do aluguel, contados do início da locação.
+§ 2º O atraso no pagamento sujeitará a IGREJA a multa moratória de [2% (DOIS POR CENTO) / 10% (DEZ POR CENTO)] sobre o valor em atraso, juros de mora de 1% (um por cento) ao mês e correção monetária pelo índice da Cláusula ((reaj)), calculados pro rata die.
+§ 3º Sendo o LOCADOR pessoa física, a IGREJA reterá e recolherá o imposto de renda na fonte incidente sobre o aluguel, quando devido, na forma da legislação, entregando ao LOCADOR o comprovante anual de rendimentos, e o valor líquido pago quitará integralmente o aluguel do mês.
+
+CL[reaj] DO REAJUSTE E DA REVISÃO
+P O aluguel será reajustado anualmente, a cada período de 12 (doze) meses contado do início da locação, pela variação acumulada do Índice Nacional de Preços ao Consumidor Amplo (IPCA/IBGE) ou, na sua extinção, pelo índice oficial que o substituir.
+Parágrafo único. A revisão do aluguel ao preço de mercado observará o art. 19 da Lei nº 8.245/1991, admitida a negociação amigável entre as partes a qualquer tempo, formalizada por aditivo.
+
+CL[trib] DOS TRIBUTOS SOBRE A OPERAÇÃO
+P O aluguel ajustado inclui todos os tributos incidentes sobre a operação de locação devidos pelo LOCADOR, inclusive o imposto de renda e, quando o LOCADOR for contribuinte, o IBS e a CBS, sendo de exclusiva responsabilidade do LOCADOR o seu recolhimento, ressalvada a retenção prevista na Cláusula ((alug)), § 3º.
+Parágrafo único. Sendo o LOCADOR contribuinte do IBS e da CBS, fornecerá à IGREJA o documento fiscal exigido pela legislação.
+
+CL[enc] DOS ENCARGOS DA LOCAÇÃO
+P Correrão por conta da IGREJA, a partir da entrega das chaves, as despesas de consumo de água, energia elétrica, gás, telefone e internet, as taxas de serviços públicos incidentes sobre o uso do IMÓVEL e [AS DESPESAS ORDINÁRIAS DE CONDOMÍNIO, SE HOUVER] (Lei nº 8.245/1991, art. 23, VIII e XII).
+§ 1º Quanto ao Imposto Predial e Territorial Urbano (IPTU):
+I – as partes reconhecem que o IPTU não incide sobre templos de qualquer culto, ainda que a entidade religiosa seja apenas locatária do imóvel (Constituição Federal, art. 156, § 1º-A), e requererão ao Município o reconhecimento da não incidência, cabendo à IGREJA preparar o requerimento e ao LOCADOR firmá-lo, quando necessário, e fornecer os documentos do IMÓVEL;
+II – eventual lançamento de IPTU, enquanto não reconhecida a não incidência, será [PAGO PELA IGREJA, QUE TERÁ DIREITO À RESTITUIÇÃO QUE VIER A SER OBTIDA / PAGO PELO LOCADOR], e as partes cooperarão na impugnação do lançamento e no pedido de restituição;
+III – se o IMÓVEL tiver uso misto ou área não utilizada como templo, o IPTU proporcional a essa área será pago pelo [LOCADOR / PELA IGREJA].
+§ 2º Correrão por conta do LOCADOR as despesas extraordinárias de condomínio, as contribuições de melhoria, os tributos incidentes sobre a propriedade não abrangidos pelo § 1º, as taxas de administração imobiliária e de intermediação (Lei nº 8.245/1991, art. 22, VII, VIII e X).
+§ 3º A IGREJA contratará e manterá seguro contra incêndio, raio, explosão e danos elétricos do IMÓVEL, tendo o LOCADOR como beneficiário quanto à estrutura, pelo valor de [VALOR OU CRITÉRIO], em conformidade com o art. 22, VIII, da Lei nº 8.245/1991, que admite disposição contratual em contrário.
+
+CL[gar] DA GARANTIA
+P Em garantia das obrigações deste contrato, a IGREJA oferece [CAUÇÃO EM DINHEIRO NO VALOR DE R$ (VALOR), CORRESPONDENTE A NO MÁXIMO 3 (TRÊS) ALUGUÉIS, DEPOSITADA EM CADERNETA DE POUPANÇA (LEI Nº 8.245/1991, ART. 38, § 2º) / SEGURO DE FIANÇA LOCATÍCIA CONTRATADO COM (SEGURADORA), APÓLICE Nº (NÚMERO) / FIANÇA DE (QUALIFICAÇÃO COMPLETA DO FIADOR E DO CÔNJUGE)], sendo vedada mais de uma modalidade de garantia (art. 37, parágrafo único).
+Parágrafo único. É vedado à IGREJA oferecer bens ou garantias de seus dirigentes em condições que caracterizem benefício a estes, e a eventual fiança prestada por dirigente, ministro ou membro será sempre gratuita e voluntária, sem qualquer contrapartida da IGREJA.
+
+CL[oblo] DAS OBRIGAÇÕES DO LOCADOR
+P Além das previstas no art. 22 da Lei nº 8.245/1991, o LOCADOR obriga-se a:
+I – entregar o IMÓVEL em estado de servir ao uso a que se destina, conforme o Laudo de Vistoria;
+II – garantir à IGREJA, durante a locação, o uso pacífico do IMÓVEL;
+III – responder pelos vícios ou defeitos anteriores à locação e realizar os reparos estruturais, de telhado, de fundações e de instalações embutidas que não decorram do uso pela IGREJA;
+IV – fornecer os documentos do IMÓVEL necessários à obtenção de licenças, alvarás e do reconhecimento da não incidência do IPTU;
+V – informar à IGREJA, no prazo de 5 (cinco) dias, o recebimento de qualquer notificação, lançamento ou exigência do Poder Público relativa ao IMÓVEL.
+
+CL[oblt] DAS OBRIGAÇÕES DA IGREJA
+P Além das previstas no art. 23 da Lei nº 8.245/1991, a IGREJA obriga-se a:
+I – pagar pontualmente o aluguel e os encargos que lhe competem;
+II – usar o IMÓVEL conforme a destinação contratual, tratando-o com o mesmo cuidado como se fosse seu;
+III – realizar a manutenção ordinária e reparar os danos causados por seus membros, frequentadores ou prepostos;
+IV – comunicar ao LOCADOR o surgimento de dano ou defeito cuja reparação a este incumba, e as turbações de terceiros;
+V – permitir a vistoria do IMÓVEL, mediante aviso prévio de pelo menos [48 (QUARENTA E OITO)] horas, em horário que não coincida com os cultos;
+VI – cumprir as normas de segurança, de vizinhança, de poluição sonora e de acessibilidade aplicáveis às suas atividades, adotando, se necessário, tratamento acústico;
+VII – restituir o IMÓVEL, ao término da locação, no estado em que o recebeu, conforme o Laudo de Vistoria, ressalvado o desgaste natural decorrente do uso regular.
+
+CL[benf] DAS OBRAS E BENFEITORIAS
+P A IGREJA poderá realizar, independentemente de autorização, as benfeitorias necessárias e as adaptações exigidas pelo Poder Público para o uso do IMÓVEL como templo, como as de segurança contra incêndio e de acessibilidade, comunicando-as previamente ao LOCADOR.
+§ 1º As benfeitorias úteis, as voluptuárias e as obras que alterem a estrutura ou a fachada do IMÓVEL dependerão de autorização prévia e escrita do LOCADOR.
+§ 2º As benfeitorias necessárias, as adaptações exigidas pelo Poder Público e as benfeitorias úteis autorizadas por escrito serão indenizadas pelo LOCADOR ao término da locação [OU: ABATIDAS DO ALUGUEL, NA FORMA AJUSTADA EM ADITIVO], e permitem o exercício do direito de retenção (Lei nº 8.245/1991, art. 35). [ALTERNATIVA, SE O LOCADOR NÃO ACEITAR: AS BENFEITORIAS ÚTEIS INCORPORAR-SE-ÃO AO IMÓVEL SEM INDENIZAÇÃO, MANTIDA A INDENIZAÇÃO DAS NECESSÁRIAS.]
+§ 3º As benfeitorias voluptuárias não serão indenizadas e poderão ser levantadas pela IGREJA ao final da locação, desde que sua retirada não afete a estrutura e a substância do IMÓVEL (Lei nº 8.245/1991, art. 36).
+§ 4º Os bens móveis e as instalações removíveis da IGREJA, tais como bancos, púlpito, instrumentos, equipamentos de som, imagem e climatização, mobiliário e comunicação visual, permanecem de sua propriedade e poderão ser retirados a qualquer tempo, reparados os danos decorrentes da retirada.
+
+CL[alien] DA ALIENAÇÃO DO IMÓVEL E DO DIREITO DE PREFERÊNCIA
+P Em caso de alienação do IMÓVEL durante a locação, o adquirente deverá respeitar o presente contrato, que contém cláusula de vigência em caso de alienação, para os fins do art. 8º da Lei nº 8.245/1991.
+§ 1º A IGREJA terá preferência para adquirir o IMÓVEL, em igualdade de condições com terceiros, em caso de venda, promessa de venda, cessão ou promessa de cessão de direitos ou dação em pagamento, devendo o LOCADOR dar-lhe conhecimento do negócio mediante notificação com todas as condições da oferta, na forma dos arts. 27 a 34 da Lei nº 8.245/1991, e a IGREJA manifestar sua aceitação integral no prazo de 30 (trinta) dias.
+§ 2º Para a eficácia da vigência e da preferência perante terceiros, as partes autorizam o registro e a averbação deste contrato na matrícula do IMÓVEL, a serem providenciados pela IGREJA, que arcará com as respectivas despesas.
+§ 3º O exercício do direito de preferência pela IGREJA dependerá das autorizações previstas em seu Estatuto Social para a aquisição de imóveis (art. [[agc]], VI).
+
+CL[subl] DA CESSÃO E DA SUBLOCAÇÃO
+P É vedado à IGREJA ceder, sublocar ou emprestar o IMÓVEL, no todo ou em parte, sem o consentimento prévio e escrito do LOCADOR (Lei nº 8.245/1991, art. 13), ressalvadas as cessões eventuais de espaço, sem caráter de sublocação, para atividades compatíveis com as finalidades da IGREJA, na forma do art. <<uso>> do seu Regimento Interno.
+
+CL[devant] DA DEVOLUÇÃO ANTECIPADA
+P A IGREJA poderá devolver o IMÓVEL antes do término do prazo, mediante notificação escrita ao LOCADOR com antecedência mínima de 30 (trinta) dias, pagando a multa compensatória da Cláusula ((infr)), proporcional ao período restante do contrato (Lei nº 8.245/1991, art. 4º).
+Parágrafo único. [OPCIONAL, FAVORÁVEL À IGREJA:] Ficará a IGREJA dispensada da multa se a devolução ocorrer após [12 (DOZE)] meses de locação, com aviso prévio de [90 (NOVENTA)] dias, ou em razão de dissolução da IGREJA, de desapropriação, de interdição do IMÓVEL por fato não imputável à IGREJA ou de indeferimento definitivo do alvará de funcionamento por motivo relacionado às características do IMÓVEL.
+
+CL[infr] DAS INFRAÇÕES E DA RESCISÃO
+P A infração de qualquer cláusula deste contrato sujeitará a parte infratora à multa compensatória equivalente a [3 (TRÊS)] aluguéis vigentes na data da infração, reduzida proporcionalmente ao tempo de contrato já cumprido, sem prejuízo da rescisão do contrato nos casos previstos em lei.
+§ 1º O LOCADOR somente poderá rescindir a locação nas hipóteses do art. 53 da Lei nº 8.245/1991, a saber: por mútuo acordo, em decorrência de prática de infração legal ou contratual, em decorrência da falta de pagamento do aluguel e demais encargos, para a realização de reparações urgentes determinadas pelo Poder Público que não possam ser executadas com a permanência da IGREJA no IMÓVEL (art. 9º), ou para demolição, edificação licenciada ou reforma que venha a resultar em aumento mínimo de 50% (cinquenta por cento) da área útil, nas condições do art. 53, II.
+§ 2º Antes de propor ação de despejo por infração contratual que não seja a falta de pagamento, o LOCADOR notificará a IGREJA para saná-la no prazo de [30 (TRINTA)] dias.
+
+CL[resti] DA RESTITUIÇÃO DO IMÓVEL
+P A restituição do IMÓVEL será formalizada por Termo de Devolução, acompanhado de vistoria final comparativa com o Laudo de Vistoria e da entrega das chaves, cessando a responsabilidade da IGREJA pelo aluguel e pelos encargos a partir dessa data, ressalvadas as pendências apontadas no Termo.
+Parágrafo único. Recusando-se o LOCADOR a receber as chaves, a IGREJA poderá consigná-las judicialmente, cessando a partir de então sua responsabilidade pelo aluguel.
+
+CL[conf] DA DECLARAÇÃO SOBRE CONFLITO DE INTERESSES
+P O LOCADOR declara que [NÃO É DIRIGENTE, CONSELHEIRO OU MINISTRO DA IGREJA, NEM CÔNJUGE, COMPANHEIRO OU PARENTE ATÉ O TERCEIRO GRAU DE QUEM O SEJA, NEM SÓCIO OU ADMINISTRADOR DE PESSOA JURÍDICA LOCADORA COM TAL VÍNCULO / É (VÍNCULO) DA IGREJA OU DE (NOME E CARGO)].
+Parágrafo único. Havendo o vínculo mencionado no caput, a IGREJA declara que o aluguel ajustado é compatível com o valor de mercado, comprovado por avaliação idônea ou por pelo menos 3 (três) pareceres de mercado, e que a contratação foi precedida de parecer favorável do Conselho Fiscal e aprovada pela Diretoria Executiva sem a participação do interessado, conforme ata de [DATA], em cumprimento ao art. [[ci]] do Estatuto Social.
+
+CL[fin] DAS DISPOSIÇÕES FINAIS
+P A tolerância de qualquer das partes quanto ao descumprimento de obrigação da outra não importará novação ou renúncia.
+§ 1º As notificações entre as partes serão feitas por escrito, nos endereços indicados neste contrato ou nos endereços eletrônicos [E-MAIL DO LOCADOR] e [E-MAIL DA IGREJA], com comprovação de recebimento.
+§ 2º São nulas as disposições deste contrato que contrariem a Lei nº 8.245/1991 (art. 45), permanecendo válidas as demais.
+§ 3º Fica eleito o foro da Comarca de [CIDADE]/[UF], onde se situa o IMÓVEL, para dirimir as questões decorrentes deste contrato.
+P E, por estarem justas e contratadas, as partes assinam este instrumento em 2 (duas) vias de igual teor, na presença das testemunhas abaixo.
+
+%DATE
+%SIGNS [NOME COMPLETO];Locador|[NOME COMPLETO – SE CASADO(A)];Cônjuge anuente|[NOME DO PRESIDENTE];[NOME COMPLETO DA IGREJA] – Locatária|[NOME COMPLETO – SE HOUVER];Fiador(a)
+### Testemunhas
+%SIGNS [NOME COMPLETO];Testemunha – CPF nº [NÚMERO]|[NOME COMPLETO];Testemunha – CPF nº [NÚMERO]
+
+%PAGEBREAK
+## ANEXO I – LAUDO DE VISTORIA INICIAL
+P Imóvel: [ENDEREÇO]. Data da vistoria: [DATA]. Presentes: [NOMES DOS REPRESENTANTES DAS PARTES].
+P Instruções: descrever cada cômodo e item, indicando o estado de conservação (novo, bom, regular ou ruim) e as observações relevantes, como trincas, infiltrações, manchas e defeitos. Anexar fotografias datadas, rubricadas pelas partes.
+%GRID
+Cômodo ou área | Item (piso, paredes, teto, portas, janelas, instalações elétricas e hidráulicas, louças, outros) | Estado | Observações
+[SALÃO PRINCIPAL] | [ ] | [ ] | [ ]
+[SALAS] | [ ] | [ ] | [ ]
+[BANHEIROS] | [ ] | [ ] | [ ]
+[COZINHA/COPA] | [ ] | [ ] | [ ]
+[ÁREA EXTERNA/ESTACIONAMENTO] | [ ] | [ ] | [ ]
+[FACHADA/COBERTURA] | [ ] | [ ] | [ ]
+%ENDGRID
+P Leituras dos medidores na entrega: água [ ]; energia [ ]; gás [ ]. Quantidade de chaves entregues: [ ].
+%SIGNS [NOME COMPLETO];Locador|[NOME COMPLETO];Pela Locatária
+
+%PAGEBREAK
+## ANEXO II – TERMO DE DEVOLUÇÃO DO IMÓVEL
+P Nesta data, a [NOME COMPLETO DA IGREJA] restitui ao LOCADOR o imóvel situado na [ENDEREÇO], objeto do Contrato de Locação firmado em [DATA], com a entrega de [NÚMERO] chaves, após vistoria final realizada em [DATA].
+P Resultado da vistoria final, comparada com o Laudo de Vistoria inicial: [O IMÓVEL FOI RESTITUÍDO NO ESTADO EM QUE FOI RECEBIDO, RESSALVADO O DESGASTE NATURAL / FORAM CONSTATADAS AS SEGUINTES PENDÊNCIAS: (DESCREVER), A SEREM SANADAS PELA IGREJA ATÉ (DATA) OU INDENIZADAS PELO VALOR DE R$ (VALOR)].
+P Benfeitorias indenizáveis apuradas: [DESCREVER E VALOR, OU "NENHUMA"]. Situação da garantia: [CAUÇÃO A SER DEVOLVIDA COM OS RENDIMENTOS EM ATÉ (PRAZO) / SEGURO-FIANÇA LIBERADO / FIANÇA EXONERADA].
+P Leituras finais dos medidores: água [ ]; energia [ ]; gás [ ]. A IGREJA compromete-se a apresentar, em até 30 (trinta) dias, a quitação das contas de consumo até esta data. Cumpridas as obrigações acima, as partes dão-se mútua quitação quanto às obrigações do contrato de locação.
+%DATE
+%SIGNS [NOME COMPLETO];Locador|[NOME DO PRESIDENTE];[NOME COMPLETO DA IGREJA] – Locatária

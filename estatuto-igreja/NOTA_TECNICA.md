@@ -10,6 +10,7 @@ Arquivos:
 - `Politica_Privacidade_Protecao_Dados_Igreja_ISAC.docx`: política de privacidade (aviso público aos titulares e normas internas), aprovada pela Diretoria Executiva (Estatuto, art. 43, IV).
 - `Termo_Adesao_Servico_Voluntario_Igreja_ISAC.docx`: termo de adesão ao serviço voluntário (Lei 9.608/1998), com registro de atividades e termo de encerramento.
 - `Contrato_Comodato_Templo_Igreja_ISAC.docx`: modelo de contrato de comodato do imóvel usado como templo, com laudo de vistoria e termo de devolução.
+- `Contrato_Locacao_Templo_Igreja_ISAC.docx`: modelo de contrato de locação não residencial do imóvel usado como templo, com laudo de vistoria e termo de devolução.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -159,3 +160,22 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Comodante ligado à igreja:** se o dono do imóvel for dirigente, ministro ou parente de um deles, aplica-se o Estatuto, art. 40. É preciso parecer do Conselho Fiscal e aprovação da Diretoria sem a participação do interessado, e o contrato declara que o comodante não ganha nenhum direito sobre a igreja.
 - **Benfeitorias:** adaptações exigidas pelo Poder Público (Bombeiros e acessibilidade) podem ser feitas sem autorização. Bancos, som e outros bens removíveis continuam da igreja. A indenização de obras fica como opção a escolher.
 - **Assinatura do cônjuge:** a lei não exige a assinatura do cônjuge do comodante no comodato (CC, art. 1.647), mas o contrato inclui o cônjuge como anuente para prevenir disputas.
+
+## 13. Contrato de locação do templo
+
+**Base legal:** Lei 8.245/1991 (Lei do Inquilinato). Os artigos citados abaixo não foram conferidos no texto oficial, porque a base de legislação estava sem consultas. Confira antes de usar.
+
+**Proteções específicas para igrejas:**
+- **Art. 53:** para imóvel usado por entidade religiosa devidamente registrada, o locador só pode rescindir a locação nas hipóteses do art. 9º (acordo, infração, falta de pagamento, reparos urgentes exigidos pelo Poder Público) ou para demolição, edificação licenciada ou reforma que aumente a área útil em pelo menos 50%. Ele não pode pedir o imóvel sem motivo, nem depois de vencido o prazo. Por isso o contrato exige que a igreja esteja registrada e informe o número do registro.
+- **Art. 63, § 3º:** em caso de despejo, a entidade religiosa tem prazo de um ano para desocupar, ou de seis meses se entre a citação e a sentença já tiver passado mais de um ano.
+- **IPTU:** a CF, art. 156, § 1º-A (EC 116/2022), afasta expressamente o IPTU de templos em imóvel alugado. O contrato prevê o pedido de reconhecimento à prefeitura e quem paga enquanto ele não sai.
+
+**Outros cuidados:**
+- **Venda do imóvel:** a cláusula de vigência e o direito de preferência (arts. 8º e 27 a 34) só valem contra o comprador se o contrato estiver registrado ou averbado na matrícula. A lei exige averbação pelo menos 30 dias antes da venda para a preferência (art. 33). A igreja deve providenciar isso logo após a assinatura.
+- **Tributos:** quando o locador é pessoa física, a igreja, como pessoa jurídica, retém o imposto de renda na fonte sobre o aluguel. Ser imune não a dispensa de reter tributos devidos por terceiros. Depois da reforma tributária, se o locador for contribuinte do IBS e da CBS, esses tributos estão incluídos no aluguel, e a imunidade da igreja não alcança o que ela paga a terceiros (LC 214/2025, art. 9º, § 4º). Confirme com o contador.
+- **Garantia:** a lei permite só uma modalidade (art. 37). Prefira caução, limitada a 3 aluguéis, ou seguro-fiança, em vez da fiança pessoal de dirigentes.
+- **Benfeitorias:** necessárias e adaptações exigidas pelo Poder Público são indenizáveis, com direito de retenção (art. 35). O STJ admite cláusula de renúncia a essa indenização (Súmula 335), então resista se o locador propuser a renúncia.
+- **Aprovações internas:**
+  - Locação por mais de 5 anos exige autorização da Assembleia (Estatuto, art. 16, VI).
+  - Locador ligado a dirigente exige aluguel comprovadamente de mercado, parecer do Conselho Fiscal e aprovação da Diretoria sem o interessado (Estatuto, art. 40).
+- **Saída antecipada:** multa proporcional ao tempo restante (art. 4º), com cláusula opcional de dispensa em situações como interdição ou negativa de alvará.
