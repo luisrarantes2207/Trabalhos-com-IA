@@ -694,7 +694,7 @@ def nota_docx():
             p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
             runs(p, l)
         i += 1
-    out = base / "Nota_Tecnica.docx"
+    out = base / "Nota_Tecnica_Igreja_IBP.docx"
     doc.save(out)
     return out
 
@@ -704,8 +704,8 @@ def montar_envio():
         shutil.rmtree(ENVIO)
     leia = ENVIO / "00_Leia_Primeiro"
     leia.mkdir(parents=True)
-    shutil.copy(base / "Manual_dos_Documentos_Igreja.docx", leia / "01_Manual_dos_Documentos.docx")
-    shutil.copy(base / "Nota_Tecnica.docx", leia / "02_Nota_Tecnica.docx")
+    shutil.copy(base / "Manual_dos_Documentos_Igreja_IBP.docx", leia / "01_Manual_dos_Documentos.docx")
+    shutil.copy(base / "Nota_Tecnica_Igreja_IBP.docx", leia / "02_Nota_Tecnica.docx")
     out_de = {Path(s).stem: o for s, o in DOCS}
     for pasta, _, chaves in PASTAS:
         d = ENVIO / pasta
@@ -721,7 +721,7 @@ def script_windows():
     linhas = []
     for pasta, _, chaves in PASTAS:
         for i, k in enumerate(chaves, 1):
-            padrao = Path(out_de[k]).stem.replace("_Igreja_ISAC", "").replace("_v2", "")
+            padrao = re.sub(r"_Igreja_(ISAC|IBP)(_v2)?$", "", Path(out_de[k]).stem)  # aceita nomes antigos e novos
             linhas.append(f'    @{{ Padrao = "{padrao}"; Pasta = "{pasta}"; Nome = "{i:02d}_{NOME_ENVIO[k]}.docx" }}')
     linhas.insert(0, '    @{ Padrao = "Nota_Tecnica"; Pasta = "00_Leia_Primeiro"; Nome = "02_Nota_Tecnica.docx" }')
     linhas.insert(0, '    @{ Padrao = "Manual_dos_Documentos"; Pasta = "00_Leia_Primeiro"; Nome = "01_Manual_dos_Documentos.docx" }')
@@ -786,7 +786,7 @@ if __name__ == "__main__":
     assert set(NOME_ENVIO) == set(DOCUMENTOS)
     assert sorted(k for _, _, c in PASTAS for k in c) == sorted(DOCUMENTOS), "PASTAS incompleto"
     escrever_manual()
-    build("manual.txt", "Manual_dos_Documentos_Igreja.docx")
+    build("manual.txt", "Manual_dos_Documentos_Igreja_IBP.docx")
     print(nota_docx().name)
     print(f"{montar_envio()} arquivos em {ENVIO.name}/")
     print(script_windows().name)
