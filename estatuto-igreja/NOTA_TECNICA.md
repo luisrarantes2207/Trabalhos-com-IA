@@ -24,6 +24,7 @@ Arquivos:
 - `Ata_Conselho_Ministerial_Igreja_ISAC.docx`: orientações, ata geral de reunião, ata reservada de instauração de procedimento disciplinar, notificação ao acusado, ata reservada de decisão e comunicação da decisão.
 - `Carta_Transferencia_Membro_Igreja_ISAC.docx`: pedido e carta de transferência, comunicação de recebimento, carta de recomendação, declaração de membresia e solicitação de carta à igreja de origem.
 - `Ficha_Cadastro_Membro_Igreja_ISAC.docx`: ficha de cadastro de membro, com dados necessários e facultativos, declaração de adesão, consentimento LGPD, autorização dos pais, campos da Secretaria e atualização anual.
+- `Termo_Admissao_Membro_Menor_Igreja_ISAC.docx`: termo de autorização dos pais, manifestação do menor, comunicação ao outro genitor e ratificação na maioridade.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -378,3 +379,11 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Consentimento:** a ficha incorpora o termo de consentimento do Anexo I da Política de Privacidade, com opções separadas (mensagens, aniversário, imagem e uso dos dados facultativos). Para menores de 18 anos, a autorização dos pais serve também como o consentimento específico exigido pelo art. 14, § 1º, da LGPD.
 - **Disciplina fora da ficha:** medidas disciplinares ficam no registro reservado do Conselho Ministerial. A ficha mostra só a categoria vigente, que a Secretaria usa para montar a lista de votantes. Isso reduz a exposição de dados sensíveis.
 - **Atualização anual:** a Parte F é aplicada na preparação da AGO. Ela permite corrigir dados e rever as opções de consentimento, e ajuda a manter a lista de votantes confiável.
+
+## 27. Admissão de membro menor de 18 anos
+
+- **Os dois lados da questão:** os pais dirigem a criação e a educação dos filhos (poder familiar), mas o ECA garante à criança e ao adolescente liberdade de crença e culto (art. 16, III) e o direito de ser ouvido. Por isso a admissão exige as duas coisas: autorização dos pais (Parte A) e manifestação livre do próprio menor (Parte B, em linguagem simples, com declaração de que não houve pressão).
+- **Divergência entre os pais:** o Regimento exige a autorização de pelo menos um dos pais. Quando só um assina, ele declara se o outro sabe e se há oposição, e pode haver comunicação formal ao outro (Parte C). Havendo oposição, a admissão fica suspensa até acordo entre os pais ou decisão judicial, e a igreja não toma partido. Isso evita que a igreja seja envolvida em disputas de guarda.
+- **Idade mínima:** fica a critério do Conselho Ministerial, conforme a doutrina, porque há tradições que não admitem crianças como membros. Até os 16 anos o menor é membro sem voto. Dos 16 em diante, pode votar (Estatuto, art. 9º), mas só pode ocupar cargo com plena capacidade civil.
+- **Proteção:** o termo remete às regras da Política de Proteção sobre atividades, aconselhamento (em local visível e com ciência dos pais) e comunicação de violência. O consentimento de dados e de imagem segue o art. 14 da LGPD.
+- **Revogação e maioridade:** os pais podem revogar a autorização a qualquer tempo, e a igreja ouve o menor antes de desligá-lo ou suspender a condição de membro. Aos 18 anos, a Parte D permite ratificar a condição de membro e dar o consentimento em nome próprio, substituindo o dos pais, ou pedir desligamento.
