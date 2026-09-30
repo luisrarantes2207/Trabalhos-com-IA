@@ -1,0 +1,80 @@
+# MODELO DE ATA DE REUNIÃO DA DIRETORIA EXECUTIVA
+![NOME COMPLETO DA IGREJA] – [SIGLA] – CNPJ nº [NÚMERO]
+!Estatuto Social, art. [[de]], § 4º – Regimento Interno, art. <<dir1>>
+
+## ORIENTAÇÕES DE USO
+I – Cada reunião terá ata própria, numerada em sequência por exercício (por exemplo, "Ata nº 07/2027"), lavrada em livro próprio ou em folhas numeradas, ou em documento eletrônico assinado digitalmente, e arquivada pela Secretaria.
+II – A ata registrará com precisão o que foi deliberado, o resultado de cada votação e os documentos examinados. Opiniões e debates podem ser resumidos; decisões, valores, prazos e responsáveis devem ser registrados por completo.
+III – Devem constar obrigatoriamente em ata: as despesas acima da alçada do Regimento Interno (art. <<alc>>, III); os perfis de acesso a contas bancárias, chaves PIX e cartões (Estatuto, art. [[mov]], § 2º); as contratações e negócios com partes relacionadas (Estatuto, art. [[ci]]); as aceitações de doação com encargo ou de valor relevante; as designações previstas nas políticas internas; e a convocação de Assembleias Gerais.
+IV – O membro da Diretoria que tiver interesse pessoal em qualquer matéria deverá declará-lo e não participar da deliberação, registrando-se o fato em ata (Estatuto, art. [[ci]], parágrafo único).
+V – Não se deve registrar em ata de Diretoria informação pastoral, de saúde ou disciplinar de membros; essas matérias competem ao Conselho Ministerial, em ata sigilosa. Dados pessoais devem limitar-se ao necessário.
+VI – A ata será assinada por todos os presentes (Regimento Interno, art. <<dir1>>, parágrafo único). As atas que precisem produzir efeitos perante terceiros, como bancos e órgãos públicos, podem ser levadas a registro no Registro Civil de Pessoas Jurídicas, quando exigido.
+
+%PAGEBREAK
+## ATA Nº [NÚMERO]/[ANO] DA REUNIÃO [ORDINÁRIA / EXTRAORDINÁRIA] DA DIRETORIA EXECUTIVA DA [NOME COMPLETO DA IGREJA]
+
+P Aos [DIA POR EXTENSO] dias do mês de [MÊS] do ano de [ANO], às [HORA] horas, [NA SEDE DA IGREJA, SITUADA NA (ENDEREÇO) / POR MEIO ELETRÔNICO, PELA PLATAFORMA (NOME) / DE FORMA HÍBRIDA, NA SEDE E PELA PLATAFORMA (NOME)], reuniu-se a Diretoria Executiva da [NOME COMPLETO DA IGREJA], [EM DATA PREVIAMENTE FIXADA NO CALENDÁRIO ANUAL / MEDIANTE CONVOCAÇÃO DE (NOME), ENVIADA EM (DATA), COM ANTECEDÊNCIA MÍNIMA DE 3 (TRÊS) DIAS], nos termos do art. [[de]], § 4º, do Estatuto Social e do art. <<dir1>> do Regimento Interno.
+
+## 1. PRESENÇAS E QUÓRUM
+%GRID 7,5,4
+Cargo | Nome | Presença
+Presidente | [NOME] | [PRESENTE / AUSENTE JUSTIFICADO / AUSENTE]
+Vice-Presidente | [NOME] | [ ]
+1º Secretário(a) | [NOME] | [ ]
+2º Secretário(a) | [NOME] | [ ]
+1º Tesoureiro(a) | [NOME] | [ ]
+2º Tesoureiro(a) | [NOME] | [ ]
+%ENDGRID
+P Participaram, sem direito a voto, a convite da Diretoria: [NOME E QUALIFICAÇÃO, EX.: (NOME), MEMBRO DO CONSELHO FISCAL; (NOME), CONTADOR(A); (NOME), PASTOR(A) TITULAR, PARA O ITEM (NÚMERO)].
+P Verificada a presença de [NÚMERO] dos 6 (seis) membros da Diretoria Executiva, o(a) Presidente declarou instalada a reunião, secretariada pelo(a) [1º SECRETÁRIO(A) / NOME], e leu a ordem do dia.
+
+## 2. ORDEM DO DIA
+I – leitura e aprovação da ata da reunião anterior;
+II – relatório financeiro do mês de [MÊS/ANO];
+III – [MATÉRIA]
+IV – [MATÉRIA]
+V – assuntos gerais e acompanhamento de pendências.
+
+## 3. DELIBERAÇÕES
+P ITEM I – ATA ANTERIOR: Lida a Ata nº [NÚMERO]/[ANO], de [DATA], foi aprovada [SEM RESSALVAS / COM A SEGUINTE RETIFICAÇÃO: (DESCREVER)].
+P ITEM II – RELATÓRIO FINANCEIRO: O(A) [1º TESOUREIRO(A)] apresentou o demonstrativo financeiro do mês de [MÊS/ANO], que fica arquivado com esta ata, com os seguintes dados:
+%GRID 10,6
+Descrição | Valor (R$)
+Saldo inicial (contas bancárias, aplicações e fundo fixo de caixa) | [ ]
+(+) Dízimos e ofertas | [ ]
+(+) Doações designadas | [ ]
+(+) Receitas de atividades-meio (segregadas – Estatuto, art. [[fin]], § 1º) | [ ]
+(+) Outras receitas | [ ]
+(–) Despesas ordinárias | [ ]
+(–) Sustento ministerial | [ ]
+(–) Folha de pagamento e encargos | [ ]
+(–) Investimentos e despesas extraordinárias | [ ]
+Saldo final | [ ]
+Execução acumulada do orçamento anual (receitas / despesas) | [ ]% / [ ]%
+%ENDGRID
+P Informou-se que [OS SALDOS CONFEREM COM OS EXTRATOS BANCÁRIOS E COM OS TERMOS DE CONTAGEM / HÁ AS SEGUINTES DIVERGÊNCIAS OU PENDÊNCIAS: (DESCREVER)], e que as despesas autorizadas por um único dirigente dentro da alçada do art. <<alc>>, I, do Regimento Interno somaram R$ [VALOR], cuja relação fica arquivada. O relatório foi [APROVADO / APROVADO COM AS SEGUINTES OBSERVAÇÕES: (DESCREVER)].
+P ITEM III – [TÍTULO DA MATÉRIA]: [RESUMO DA PROPOSTA E DOS DOCUMENTOS EXAMINADOS, COMO ORÇAMENTOS, PARECERES E CONTRATOS]. [DECLARAÇÃO DE IMPEDIMENTO, SE HOUVER: O(A) (CARGO) (NOME) DECLAROU INTERESSE PESSOAL NA MATÉRIA, POR (MOTIVO), E NÃO PARTICIPOU DA DISCUSSÃO NEM DA VOTAÇÃO.] Submetida à votação, a proposta foi [APROVADA / REJEITADA] por [UNANIMIDADE DOS PRESENTES / (NÚMERO) VOTOS FAVORÁVEIS, (NÚMERO) CONTRÁRIOS E (NÚMERO) ABSTENÇÕES], ficando [DESCREVER EXATAMENTE O QUE FOI DECIDIDO: OBJETO, VALOR, FORNECEDOR, PRAZO, CONDIÇÕES E RESPONSÁVEL PELA EXECUÇÃO].
+P ITEM IV – [TÍTULO DA MATÉRIA]: [MESMA ESTRUTURA DO ITEM III].
+P ITEM V – ASSUNTOS GERAIS E PENDÊNCIAS: [RESUMO DOS INFORMES, SEM DELIBERAÇÃO]. A situação das pendências de reuniões anteriores e as novas providências ficam assim registradas:
+%GRID 7,4,2.5,2.5
+Providência | Responsável | Prazo | Situação
+[ ] | [ ] | [ ] | [NOVA / EM ANDAMENTO / CONCLUÍDA]
+[ ] | [ ] | [ ] | [ ]
+[ ] | [ ] | [ ] | [ ]
+%ENDGRID
+
+## 4. ENCERRAMENTO
+P Nada mais havendo a tratar, o(a) Presidente encerrou a reunião às [HORA] horas, e eu, [NOME], [1º SECRETÁRIO(A)], lavrei a presente ata, que, lida e achada conforme, vai assinada por todos os presentes.
+%SIGNS [NOME];Presidente|[NOME];Vice-Presidente|[NOME];1º Secretário(a)|[NOME];2º Secretário(a)|[NOME];1º Tesoureiro(a)|[NOME];2º Tesoureiro(a)
+
+%PAGEBREAK
+## ANEXO – MODELOS DE REDAÇÃO PARA DELIBERAÇÕES FREQUENTES
+!(Copiar para o item correspondente da ata, adaptando os campos)
+P APROVAÇÃO DE DESPESA ACIMA DA ALÇADA: "Examinados os orçamentos de [FORNECEDOR 1] (R$ [VALOR]), [FORNECEDOR 2] (R$ [VALOR]) e [FORNECEDOR 3] (R$ [VALOR]), foi aprovada a contratação de [FORNECEDOR], pelo valor de R$ [VALOR], para [OBJETO], com recursos da rubrica [RUBRICA] do orçamento, autorizando-se o Presidente e o 1º Tesoureiro a firmar o contrato e efetuar os pagamentos, nos termos do art. <<alc>>, III, do Regimento Interno."
+P DESPESA NÃO PREVISTA NO ORÇAMENTO: "Tratando-se de despesa não prevista que excede em mais de [10%] a rubrica [RUBRICA], a aprovação fica condicionada ao parecer do Conselho Fiscal e será submetida a referendo da próxima Assembleia Geral (Regimento Interno, art. <<alc>>, IV)."
+P NEGÓCIO COM PARTE RELACIONADA: "Considerando que [NOME] é [VÍNCULO] do(a) [CARGO] [NOME], que se declarou impedido(a) e não votou, e à vista do parecer favorável do Conselho Fiscal de [DATA] e da comprovação de preço de mercado por [3 ORÇAMENTOS / AVALIAÇÃO], foi aprovada a [CONTRATAÇÃO/LOCAÇÃO/AQUISIÇÃO], nos termos do art. [[ci]] do Estatuto Social."
+P PERFIS DE ACESSO BANCÁRIO: "Ficam definidos os seguintes perfis de acesso às contas da IGREJA no [BANCO], agência [NÚMERO], conta [NÚMERO]: [NOME] (Presidente) e [NOME] (1º Tesoureiro), com movimentação em conjunto; [NOME] (2º Tesoureiro), com perfil de consulta [E MOVIMENTAÇÃO EM CONJUNTO NA AUSÊNCIA DO 1º TESOUREIRO]; chaves PIX cadastradas: [CHAVES, TODAS VINCULADAS AO CNPJ]. Revogam-se os acessos de [NOMES], com efeito imediato (Estatuto Social, art. [[mov]], § 2º)."
+P CONTRATAÇÃO DE EMPREGADO: "Aprovada a admissão de [NOME] para a função de [FUNÇÃO], com salário mensal de R$ [VALOR] e jornada de [JORNADA], conforme o orçamento, mediante contrato de trabalho no modelo aprovado, [DECLARANDO-SE QUE O CONTRATADO NÃO TEM PARENTESCO COM DIRIGENTES / OBSERVADO O ART. [[ci]] DO ESTATUTO SOCIAL]."
+P DESIGNAÇÕES PREVISTAS NAS POLÍTICAS INTERNAS: "Designa-se [NOME] como encarregado(a) pelo tratamento de dados pessoais (Política de Privacidade, art. {{politica_privacidade:papeis}}, parágrafo único) / como Coordenador(a) de Proteção, e [NOME] como suplente, para mandato de [2] anos (Política de Proteção, art. {{politica_protecao:coord}}) / como membros da Comissão Eleitoral (Regimento Interno, art. <<el1>>)."
+P CONVOCAÇÃO DE ASSEMBLEIA GERAL: "Aprovada a convocação da Assembleia Geral [ORDINÁRIA/EXTRAORDINÁRIA] para [DATA], às [HORA], na [LOCAL/MEIO ELETRÔNICO], com a seguinte ordem do dia: [ITENS], determinando-se a publicação do edital com a antecedência do art. [[conv]], § 2º, do Estatuto Social."
+P CONTAS ANUAIS: "Aprovadas as demonstrações contábeis do exercício de [ANO] e o relatório anual de atividades, que serão encaminhados ao Conselho Fiscal para parecer e, em seguida, submetidos à Assembleia Geral Ordinária."

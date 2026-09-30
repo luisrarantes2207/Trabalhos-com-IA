@@ -17,6 +17,7 @@ Arquivos:
 - `Contrato_Trabalho_Empregado_Igreja_ISAC.docx`: contrato individual de trabalho (CLT), com descrição da função, acordo de compensação e banco de horas e opção pelo vale-transporte.
 - `Contrato_Prestacao_Servicos_Igreja_ISAC.docx`: contrato de prestação de serviços para fornecedores pessoa física ou jurídica, com escopo e níveis de serviço e declarações da contratada.
 - `RPA_Recibo_Pagamento_Autonomo_Igreja_ISAC.docx`: recibo de pagamento a autônomo, com instruções de uso, demonstrativo de retenções, declarações do prestador e quadro de controle interno.
+- `Ata_Reuniao_Diretoria_Executiva_Igreja_ISAC.docx`: modelo de ata de reunião da Diretoria Executiva, com orientações e redações-padrão para as deliberações mais frequentes.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -266,3 +267,19 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **"Oferta" ao pregador convidado:** um valor fixo pago como "ajuda de custo" ou "oferta", sem comprovação de despesas, é remuneração e tem retenções. Só o reembolso de despesas comprovadas fica fora da base de cálculo e vai em campo próprio.
 - **Vínculo de emprego:** pagamentos frequentes à mesma pessoa, com horário e subordinação, podem caracterizar emprego. Nesse caso, use o contrato CLT ou o contrato de prestação de serviços.
 - **Obrigações acessórias:** os pagamentos precisam ser informados no eSocial e na DCTFWeb, com recolhimento dos tributos nos prazos legais.
+
+## 20. Ata de reunião da Diretoria Executiva
+
+- **Estrutura:**
+  - numeração sequencial por exercício;
+  - modalidade da reunião (presencial, eletrônica ou híbrida, admitida pelo Regimento, art. 28);
+  - quadro de presenças e verificação de quórum;
+  - ordem do dia;
+  - relatório financeiro padronizado, com conciliação e receitas de atividades-meio separadas;
+  - deliberações com resultado de cada votação e registro de impedimentos;
+  - quadro de providências, com responsável, prazo e situação;
+  - assinatura de todos os presentes.
+- **O que precisa estar em ata:** despesas acima da alçada (Regimento, art. 29); perfis de acesso bancário e chaves PIX (Estatuto, art. 41, § 2º); negócios com partes relacionadas (Estatuto, art. 40); designações exigidas pelas políticas (encarregado de dados, Coordenador(a) de Proteção, Comissão Eleitoral); e convocações de Assembleia. A ata é a prova de que os controles do Estatuto foram cumpridos, e a fiscalização tributária e o Conselho Fiscal podem pedi-la.
+- **O que não registrar:** informações pastorais, de saúde ou disciplinares de membros. Essas matérias são do Conselho Ministerial, em ata sigilosa, conforme a LGPD e o Regimento.
+- **Redações-padrão:** o anexo traz textos prontos para aprovar despesa, despesa fora do orçamento, negócio com parte relacionada, perfis bancários, contratação de empregado, designações, convocação de Assembleia e contas anuais.
+- **Registro em cartório:** em regra não é necessário, salvo quando um banco ou órgão público exigir, por exemplo para comprovar poderes de movimentação.
