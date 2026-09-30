@@ -21,7 +21,8 @@ DOCS = [("estatuto.txt", "Estatuto_Social_Igreja_ISAC_v2.docx"),
         ("termo_voluntariado.txt", "Termo_Adesao_Servico_Voluntario_Igreja_ISAC.docx"),
         ("contrato_comodato.txt", "Contrato_Comodato_Templo_Igreja_ISAC.docx"),
         ("contrato_locacao.txt", "Contrato_Locacao_Templo_Igreja_ISAC.docx"),
-        ("recibo_dizimos.txt", "Recibo_Dizimos_Ofertas_Igreja_ISAC.docx")]
+        ("recibo_dizimos.txt", "Recibo_Dizimos_Ofertas_Igreja_ISAC.docx"),
+        ("termo_doacao.txt", "Termo_Doacao_Bens_Igreja_ISAC.docx")]
 
 def label(n):
     return f"{n}º" if n < 10 else f"{n}"

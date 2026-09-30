@@ -12,6 +12,7 @@ Arquivos:
 - `Contrato_Comodato_Templo_Igreja_ISAC.docx`: modelo de contrato de comodato do imóvel usado como templo, com laudo de vistoria e termo de devolução.
 - `Contrato_Locacao_Templo_Igreja_ISAC.docx`: modelo de contrato de locação não residencial do imóvel usado como templo, com laudo de vistoria e termo de devolução.
 - `Recibo_Dizimos_Ofertas_Igreja_ISAC.docx`: instruções à Tesouraria e modelos de recibo de contribuição (com canhoto), de declaração anual de contribuições e de requerimento de devolução por erro material.
+- `Termo_Doacao_Bens_Igreja_ISAC.docx`: termo de doação de bens móveis, inclusive veículos, com roteiro para a doação de imóveis.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -189,3 +190,16 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Doações designadas:** quando o contribuinte indica uma finalidade (por exemplo, construção), a igreja deve aplicar o dinheiro nela. O recibo prevê o destino do saldo se a finalidade for concluída ou se tornar impossível, o que evita disputas futuras.
 - **Devolução por erro material:** o dinheiro só volta em caso de erro comprovado (PIX em duplicidade, valor errado, transferência para o destinatário errado), com aprovação da Diretoria em ata e sempre para a conta de origem. Isso impede que "devoluções" sejam usadas para desviar recursos.
 - **Doações de bens:** não usam este recibo, e sim termo de doação próprio (Regimento, art. 41, § 3º). Imóveis exigem escritura pública. Pela LC 227/2026, art. 149, a imunidade de ITCMD para doações a entidades religiosas alcança os bens ligados às finalidades essenciais. Verifique a lei do seu Estado.
+
+## 15. Termo de doação de bens
+
+**Base legal:** CC, arts. 538 a 564. Bens móveis podem ser doados por instrumento particular (art. 541). Imóveis de valor superior a 30 salários mínimos exigem escritura pública (art. 108), e a propriedade só passa para a igreja com o registro no Registro de Imóveis (art. 1.245). Por isso o termo cobre só bens móveis e traz, em anexo, um roteiro para a doação de imóveis. Os artigos do Código Civil foram citados sem conferência do texto, porque a base de legislação estava sem consultas.
+
+**Proteções para a igreja:**
+- **Contrapartidas:** a doação não traz contrapartida nem dá ao doador direito sobre o patrimônio ou a administração, conforme o Estatuto, art. 38, § 3º.
+- **Encargos:** há duas opções. Na primeira, o doador apenas manifesta um desejo de uso, sem obrigar a igreja. Na segunda, há encargo formal (art. 553), mas a igreja pode vender o bem ou mudar o uso se ele ficar inservível ou desnecessário. Encargos desproporcionais ou que desvirtuem as finalidades da igreja são proibidos.
+- **Reversão (art. 547):** o bem voltar ao doador se ele sobreviver à igreja fica apenas como opção, e recomendo não usar. Essa cláusula conflita com o destino do patrimônio previsto no Estatuto em caso de dissolução.
+- **Declarações do doador:** a doação não pode comprometer a subsistência do doador (art. 548, que torna nula a doação de todos os bens sem reserva) nem ultrapassar a parte de que ele pode dispor em testamento (art. 549). Bens comuns do casal exigem a assinatura do cônjuge (art. 1.647, IV). O termo também traz declarações de propriedade, origem lícita e eventual vínculo com dirigentes.
+- **Veículos:** placa, RENAVAM e chassi, a situação de débitos e a obrigação do doador de assinar a transferência no órgão de trânsito.
+
+**ITCMD:** a doação à igreja é imune quando os bens se relacionam às finalidades essenciais (LC 227/2026, art. 149, I, "c", e § 1º, II, conferido anteriormente). O Estado pode exigir declaração ou procedimento próprio (§ 4º do mesmo artigo). No caso de imóveis, o reconhecimento da imunidade deve ser pedido antes da escritura.
