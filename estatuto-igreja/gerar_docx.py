@@ -230,6 +230,7 @@ def build(src_name, out_name):
     doc.save(out)
     print(out.name)
 
-for src_name, out_name in DOCS:
-    build(src_name, out_name)
-print(f"{len(nums)} artigos no estatuto")
+if __name__ == "__main__":
+    for src_name, out_name in DOCS:
+        build(src_name, out_name)
+    print(f"{len(nums)} artigos no estatuto")

@@ -32,6 +32,8 @@ Arquivos:
 - `Certificado_Casamento_Religioso_Igreja_ISAC.docx`: pedido de celebração, termo de casamento religioso para registro civil, requerimento ao cartório, certificado e livro de registro de casamentos.
 - `Certificado_Ordenacao_Ministro_Igreja_ISAC.docx`: ata de exame e aprovação, termo de compromisso ministerial, certificado de ordenação, credencial ministerial e livro de registro.
 - `Relatorio_Anual_Atividades_Igreja_ISAC.docx`: modelo de relatório anual de atividades da Diretoria Executiva para a Assembleia Geral Ordinária.
+- `Manual_dos_Documentos_Igreja.docx` e `Nota_Tecnica.docx`: manual de uso de todos os documentos e esta nota em Word, gerados por `python3 gerar_manual.py`.
+- `../envio-pastor-isac/`: pastas numeradas com os arquivos para envio ao Pastor Isac, e o script `organizar_envio_pastor.ps1` para organizar a pasta local no Windows.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -459,3 +461,10 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Declaração final da Diretoria:** atesta um a um os requisitos da imunidade (art. 5º, § 1º) e complementa o parecer do Conselho Fiscal.
 - **Privacidade:** nenhuma pessoa é identificada nas seções sensíveis (membresia, ação social, proteção de vulneráveis, disciplina, privacidade). Os dados aparecem só em números.
 - **Comprovação:** cada informação deve ter documento arquivado. Seções sem atividade no ano são mantidas com essa indicação, em vez de suprimidas.
+
+## 35. Manual dos Documentos e pastas de envio
+
+- **Manual:** para cada um dos 32 documentos, uma ficha com arquivo, finalidade, base legal, quem prepara, aprova e assina, guarda e prazos, estrutura, regras de preenchimento, campos a preencher e cuidados. Também traz as regras gerais de preenchimento, os campos comuns, a ordem de utilização (da fundação ao funcionamento anual) e a estrutura das pastas de envio.
+- **Geração:** o manual é gerado por `gerar_manual.py`. A estrutura e os campos a preencher são extraídos automaticamente de cada modelo, e as remissões a artigos acompanham a numeração real. Se um modelo mudar, basta rodar `gerar_docx.py` e depois `gerar_manual.py`.
+- **Pastas de envio ao Pastor:** a pasta `00_Leia_Primeiro` tem o manual e a nota técnica. As pastas `01` a `07` organizam os modelos por uso, com prefixo numérico na ordem de utilização. Os `.txt` e os geradores não fazem parte do envio.
+- **Script para Windows:** `organizar_envio_pastor.ps1` copia, sem apagar nem mover nada, os arquivos da pasta local `Documentos - Constituição Igreja IBP` para a mesma estrutura, dentro de `Envio - Pastor Isac`. No final, lista os documentos não encontrados e os arquivos da pasta que não fazem parte do envio. O script não foi executado em Windows durante a elaboração; os padrões de nome foram conferidos contra os arquivos gerados.
