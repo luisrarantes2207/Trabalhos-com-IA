@@ -18,6 +18,7 @@ Arquivos:
 - `Contrato_Prestacao_Servicos_Igreja_ISAC.docx`: contrato de prestação de serviços para fornecedores pessoa física ou jurídica, com escopo e níveis de serviço e declarações da contratada.
 - `RPA_Recibo_Pagamento_Autonomo_Igreja_ISAC.docx`: recibo de pagamento a autônomo, com instruções de uso, demonstrativo de retenções, declarações do prestador e quadro de controle interno.
 - `Ata_Reuniao_Diretoria_Executiva_Igreja_ISAC.docx`: modelo de ata de reunião da Diretoria Executiva, com orientações e redações-padrão para as deliberações mais frequentes.
+- `Ata_Assembleia_Geral_Ordinaria_Igreja_ISAC.docx`: calendário preparatório, edital de convocação e modelo de ata da Assembleia Geral Ordinária, com lista de presença.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -283,3 +284,18 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **O que não registrar:** informações pastorais, de saúde ou disciplinares de membros. Essas matérias são do Conselho Ministerial, em ata sigilosa, conforme a LGPD e o Regimento.
 - **Redações-padrão:** o anexo traz textos prontos para aprovar despesa, despesa fora do orçamento, negócio com parte relacionada, perfis bancários, contratação de empregado, designações, convocação de Assembleia e contas anuais.
 - **Registro em cartório:** em regra não é necessário, salvo quando um banco ou órgão público exigir, por exemplo para comprovar poderes de movimentação.
+
+## 21. Assembleia Geral Ordinária
+
+- **Calendário preparatório:** uma tabela de prazos contados da data da AGO reúne o que o Estatuto e o Regimento exigem:
+  - Comissão Eleitoral 60 dias antes;
+  - edital de eleições 45 dias antes;
+  - parecer do Conselho Fiscal 30 dias antes;
+  - documentos e relação de votantes 15 dias antes;
+  - edital de convocação 8 dias antes, ou 15 se houver matéria de Assembleia Extraordinária;
+  - registro da ata de eleição em até 30 dias depois.
+- **Presidência ad hoc nas contas:** o Estatuto, art. 19, § 3º, manda eleger presidente e secretário ad hoc quando a pauta envolve as contas do Presidente e do Secretário. Na AGO isso acontece sempre, então o modelo já prevê a troca da mesa no item das contas. Também recomenda que os diretores se abstenham de votar as próprias contas.
+- **Contas e imunidade:** a ata registra os principais números das demonstrações, o relatório de auditoria (se houver) e o parecer do Conselho Fiscal, inclusive a declaração de cumprimento dos requisitos da imunidade (Estatuto, art. 5º, § 1º). Essa é a prova anual, perante o Fisco, de que a igreja não distribui resultados e aplica tudo em suas finalidades.
+- **Eleições:** o resultado é registrado com a qualificação completa dos eleitos, exigida para o registro. A ata autoriza o registro no cartório e a atualização dos cadastros na Receita Federal e nos bancos.
+- **Recurso disciplinar:** é julgado em sessão reservada. A ata geral registra só o resultado, e os detalhes ficam em ata reservada, conforme a LGPD e o Regimento.
+- **Lista de presença:** anexa, com número no Rol de Membros, para conferência do direito de voto.
