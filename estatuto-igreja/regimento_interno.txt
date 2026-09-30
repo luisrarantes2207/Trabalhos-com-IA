@@ -234,7 +234,7 @@ IV – sigilo sobre as informações recebidas em razão da função;
 V – declaração de conflitos de interesses (Estatuto, art. [[ci]]).
 Parágrafo único. Os dirigentes, conselheiros e ministros firmarão, anualmente, declaração de conflitos de interesses, na qual informarão as pessoas jurídicas de que sejam sócios ou administradores e os parentes que prestem serviços ou forneçam bens à IGREJA.
 
-RART[elei] Em observância ao art. [[fin]], § 3º, do Estatuto Social e à legislação eleitoral, que considera os templos bens de uso comum para fins eleitorais (Lei nº 9.504/1997), é vedado:
+RART[elei] Em observância ao art. [[fin]], § 3º, do Estatuto Social e à legislação eleitoral, que considera os templos bens de uso comum para fins eleitorais (Lei nº 9.504/1997, art. 37, § 4º), é vedado:
 I – realizar propaganda eleitoral de qualquer natureza nos templos, nas congregações e nos demais espaços e meios de comunicação da IGREJA;
 II – ceder o púlpito, a palavra ou os espaços da IGREJA a candidatos, pré-candidatos ou partidos para fins eleitorais;
 III – utilizar recursos, bens, cadastros ou listas de contatos da IGREJA em campanhas;
@@ -244,7 +244,7 @@ Parágrafo único. Fica preservado o direito de cada membro, ministro ou dirigen
 ### Capítulo II – Da proteção de crianças, adolescentes e vulneráveis
 
 RART[prot] Em cumprimento ao art. [[int]], II, do Estatuto Social e ao Estatuto da Criança e do Adolescente, as atividades com crianças, adolescentes e pessoas vulneráveis observarão as seguintes regras:
-I – os voluntários e empregados que atuem com esses públicos serão membros da IGREJA há pelo menos [6 (SEIS)] meses, apresentarão certidões criminais atualizadas a cada 2 (dois) anos e participarão de capacitação específica;
+I – os voluntários e empregados que atuem com esses públicos serão membros da IGREJA há pelo menos [6 (SEIS)] meses, apresentarão certidões de antecedentes criminais atualizadas na periodicidade fixada pela Política de Proteção, não superior a 12 (doze) meses, ou a cada 6 (seis) meses quando a IGREJA receber recursos públicos para atividades com crianças e adolescentes (Estatuto da Criança e do Adolescente, art. 59-A), e participarão de capacitação específica;
 II – as atividades serão conduzidas por pelo menos 2 (dois) adultos habilitados, vedada a permanência de um adulto a sós com criança ou adolescente em ambiente fechado ou sem visibilidade;
 III – as crianças somente serão entregues aos pais, aos responsáveis legais ou a pessoas por eles previamente autorizadas por escrito;
 IV – as atividades externas, viagens e pernoites dependerão de autorização escrita dos pais ou responsáveis e observarão a legislação aplicável;

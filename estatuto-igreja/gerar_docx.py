@@ -14,7 +14,9 @@ DOCS = [("estatuto.txt", "Estatuto_Social_Igreja_ISAC_v2.docx"),
         ("ata_fundacao.txt", "Ata_Assembleia_Fundacao_Igreja_ISAC.docx"),
         ("edital_convocacao.txt", "Edital_Convocacao_Fundacao_Igreja_ISAC.docx"),
         ("requerimento_registro.txt", "Requerimento_Registro_RCPJ_Igreja_ISAC.docx"),
-        ("regimento_interno.txt", "Regimento_Interno_Igreja_ISAC.docx")]
+        ("regimento_interno.txt", "Regimento_Interno_Igreja_ISAC.docx"),
+        ("codigo_conduta.txt", "Codigo_de_Conduta_Igreja_ISAC.docx"),
+        ("politica_protecao.txt", "Politica_Protecao_Menores_Vulneraveis_Igreja_ISAC.docx")]
 
 def label(n):
     return f"{n}º" if n < 10 else f"{n}"
@@ -27,14 +29,23 @@ for line in (base / "estatuto.txt").read_text(encoding="utf-8").splitlines():
         n += 1
         nums[m.group(1)] = n
 
+# Numeração do Regimento Interno, para remissões <<chave>> de outros documentos
+ri_nums, n = {}, 0
+for line in (base / "regimento_interno.txt").read_text(encoding="utf-8").splitlines():
+    m = re.match(r"RART\[(\w+)\]", line)
+    if m:
+        n += 1
+        ri_nums[m.group(1)] = n
+
 def refs(text, local=None):
-    """[[chave]] remete a artigo do estatuto; {{chave}} a artigo do próprio documento (RART)."""
+    """[[chave]] remete ao Estatuto, <<chave>> ao Regimento Interno e {{chave}} ao próprio documento (RART)."""
     def sub(table, m):
         k = m.group(1)
         if k not in table:
             sys.exit(f"Referência inexistente: {k}")
         return label(table[k])
     text = re.sub(r"\[\[(\w+)\]\]", lambda m: sub(nums, m), text)
+    text = re.sub(r"<<(\w+)>>", lambda m: sub(ri_nums, m), text)
     return re.sub(r"\{\{(\w+)\}\}", lambda m: sub(local or {}, m), text)
 
 def build(src_name, out_name):

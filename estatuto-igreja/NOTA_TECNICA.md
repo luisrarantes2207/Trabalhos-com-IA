@@ -6,7 +6,8 @@ Arquivos:
 - `Edital_Convocacao_Fundacao_Igreja_ISAC.docx`: edital de convocação da Assembleia de Fundação, com a certidão de afixação e divulgação.
 - `Requerimento_Registro_RCPJ_Igreja_ISAC.docx`: requerimento de registro ao Registro Civil de Pessoas Jurídicas, com a lista de documentos que o acompanham.
 - `Regimento_Interno_Igreja_ISAC.docx`: Regimento Interno (53 artigos), a ser aprovado pela Assembleia Geral em até 180 dias da fundação.
-- `estatuto.txt`, `ata_fundacao.txt`, `edital_convocacao.txt`, `requerimento_registro.txt` e `regimento_interno.txt`: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. No Regimento, os artigos têm numeração própria: `[[chave]]` remete ao Estatuto e `{{chave}}` ao próprio Regimento.
+- `Codigo_de_Conduta_Igreja_ISAC.docx` e `Politica_Protecao_Menores_Vulneraveis_Igreja_ISAC.docx`: normas complementares aprovadas pela Diretoria Executiva, ouvido o Conselho Ministerial (Estatuto, art. 43).
+- Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno e `{{chave}}` ao próprio documento.
 
 ## 1. Base legal verificada (setembro de 2026)
 
@@ -85,5 +86,26 @@ Ele regulamenta todos os pontos que o Estatuto delega ao Regimento: modos de adm
 - **Proteção de menores:** regra de pelo menos dois adultos em cada atividade, certidões criminais para voluntários e comunicação obrigatória ao Conselho Tutelar (ECA, arts. 13 e 70-B; o parágrafo único do art. 70-B alcança expressamente quem exerce "ministério"). Nenhum órgão da igreja pode impedir ou atrasar essa comunicação.
 - **Finanças:** alçadas de despesa, exigência de 3 orçamentos, proibição de fracionar despesas, contagem de ofertas em duplicidade com depósito em até 2 dias úteis, proibição de PIX em contas pessoais, e ministérios e congregações sem caixa próprio.
 - **Sustento pastoral:** proibidas metas, comissões ou qualquer vínculo com a arrecadação (Lei 8.212, art. 22, § 13).
-- **Eleições e conduta:** Comissão Eleitoral independente e termo de transição entre diretorias. Proibição de uso político-eleitoral da igreja, pois a legislação eleitoral trata templos como bens de uso comum. Confirme o dispositivo exato da Lei 9.504/1997 antes de citá-lo; não consegui conferi-lo na base consultada.
+- **Eleições e conduta:** Comissão Eleitoral independente e termo de transição entre diretorias. Proibição de uso político-eleitoral da igreja, pois a legislação eleitoral trata templos como bens de uso comum. O dispositivo foi confirmado: Lei 9.504/1997, art. 37, § 4º.
 - **Valores a preencher:** alçadas em R$, fundo fixo de caixa, prazos e número de presbíteros ou oficiais, conforme o porte da igreja.
+
+## 9. Código de Conduta e Política de Proteção
+
+Os dois são aprovados pela Diretoria Executiva, ouvido o Conselho Ministerial, sem precisar de Assembleia (Estatuto, art. 43). Todo colaborador assina o termo anexo a cada um.
+
+**Código de Conduta (22 artigos):**
+- **Abrangência e condutas vedadas:** vale para dirigentes, ministros, líderes, voluntários, empregados e prestadores de serviço. Proíbe assédio moral e sexual, discriminação e retaliação.
+- **Autoridade espiritual:** proíbe coagir pessoas a contribuir e prometer bênçãos em troca de dinheiro, coerente com a Declaração de Fé, seção VI. Isso protege o caráter voluntário das contribuições, do qual depende a imunidade.
+- **Aconselhamento:** em ambiente visível, com encaminhamento a profissionais quando necessário e proibição de relacionamento afetivo com a pessoa aconselhada.
+- **Recursos:** conflito de interesses, presentes de fornecedores e anticorrupção (Lei 12.846/2013).
+- **Comunicação e política:** regras para redes sociais e neutralidade eleitoral. O colaborador que se candidatar se afasta da liderança durante a campanha; essa regra é opcional e pode ser retirada.
+- **Consequências por vínculo:** disciplina eclesiástica para membros, legislação trabalhista para empregados, desligamento para voluntários e rescisão para prestadores.
+
+**Política de Proteção (24 artigos e 4 anexos):**
+- **Governança:** um(a) Coordenador(a) de Proteção, preferencialmente independente do Pastor Titular.
+- **Habilitação de colaboradores:** certidões criminais renovadas a cada 12 meses, ou a cada 6 meses se a igreja receber recursos públicos para atividades com crianças (ECA, art. 59-A, conferido); impedimentos; capacitação; e período supervisionado.
+- **Regras operacionais:** regra dos dois adultos, proporção de crianças por adulto, entrada e saída com senha, banheiros, contato físico, comunicação digital, transporte, viagens (ECA, art. 83, conferido), medicamentos e imagem (LGPD, art. 14).
+- **Resposta a revelações:** acolher sem investigar e comunicar imediatamente ao Conselho Tutelar (ECA, arts. 13 e 70-B; Lei 13.431/2017, art. 13, conferido). Nenhum órgão da igreja pode impedir essa comunicação, é proibida qualquer mediação entre a vítima e o suspeito, e o suspeito é afastado imediatamente.
+- **Pessoas com histórico de violência:** podem assistir aos cultos mediante acordo de participação supervisionada.
+- **Anexos:** termo do colaborador, ficha e autorizações da criança (com consentimento conforme a LGPD), autorização para viagem e formulário sigiloso de registro de incidente.
+- **Adaptações locais:** a proporção de crianças por adulto e os prazos entre colchetes são sugestões; ajuste ao espaço e ao número de voluntários. Nas viagens, confira a resolução vigente do CNJ sobre autorização de viagem.
