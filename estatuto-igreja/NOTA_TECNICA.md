@@ -15,6 +15,7 @@ Arquivos:
 - `Termo_Doacao_Bens_Igreja_ISAC.docx`: termo de doação de bens móveis, inclusive veículos, com roteiro para a doação de imóveis.
 - `Termo_Doacao_Imovel_Igreja_ISAC.docx`: minuta de escritura pública de doação de imóvel, instrumento particular para imóveis de pequeno valor e extrato de ata de aceitação pela Diretoria.
 - `Contrato_Trabalho_Empregado_Igreja_ISAC.docx`: contrato individual de trabalho (CLT), com descrição da função, acordo de compensação e banco de horas e opção pelo vale-transporte.
+- `Contrato_Prestacao_Servicos_Igreja_ISAC.docx`: contrato de prestação de serviços para fornecedores pessoa física ou jurídica, com escopo e níveis de serviço e declarações da contratada.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -236,3 +237,16 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 **Encargos:** a imunidade da igreja vale só para impostos. Ela recolhe FGTS e a contribuição previdenciária patronal sobre a folha. A isenção de contribuições sociais depende da certificação como entidade beneficente de assistência social (CF, art. 195, § 7º), que uma igreja em regra não tem. Inclua esses custos no orçamento e confira com o contador.
 
 **Antes de usar:** verifique se existe convenção coletiva aplicável (por exemplo, de empregados de entidades religiosas ou de asseio e conservação) com piso salarial e regras próprias. Ela prevalece sobre o contrato se for mais favorável ao empregado.
+
+## 18. Contrato de prestação de serviços
+
+**Base legal:** CC, arts. 593 a 609. É o modelo para contador, advogado, manutenção, limpeza terceirizada, som e mídia, site, fotografia e serviços semelhantes. Os artigos citados não foram conferidos no texto oficial, porque a base de legislação estava sem consultas.
+
+**Riscos que o contrato trata:**
+- **Vínculo de emprego disfarçado:** o prestador trabalha com autonomia, sem subordinação, sem controle de horário e sem exclusividade, e pode se fazer substituir. Na prática, não trate o prestador como empregado: sem horário fixo imposto, sem ordens do dia a dia e sem advertências. Por cautela, o contrato também proíbe contratar como prestador um ex-empregado dos últimos 18 meses, regra que a lei da terceirização aplica às empresas prestadoras (Lei 6.019/1974, arts. 5º-C e 5º-D).
+- **Terceirização com mão de obra alocada (limpeza, portaria):** a igreja responde subsidiariamente pelas dívidas trabalhistas da empresa com os trabalhadores que atuam para ela (Lei 6.019, art. 5º-A, § 5º). Por isso o contrato exige comprovantes mensais de salário, FGTS e INSS e permite reter o pagamento enquanto a situação não for regularizada.
+- **Retenções de tributos:** a imunidade da igreja vale para os impostos dela, mas não a dispensa de reter tributos devidos por terceiros. Conforme o caso, podem ser devidos IRRF, INSS, as contribuições federais retidas na fonte e ISS. Quando o prestador é pessoa física, a igreja também paga a contribuição previdenciária patronal de 20% e informa o pagamento no eSocial e na EFD-Reinf. **Confirme cada caso com o contador**, porque as regras variam conforme o serviço e o município.
+- **Pregadores e músicos convidados:** valores pagos a eles, além do reembolso de despesas, em regra são tratados como remuneração de contribuinte individual. Use este contrato ou um recibo (RPA) com as retenções. Isso não se confunde com o sustento dos ministros da própria igreja (Estatuto, art. 34).
+- **Dados pessoais:** se o prestador tratar dados da igreja (contador, sistema, site), ele atua como operador e segue a cláusula-padrão do Anexo III da Política de Privacidade.
+- **Prazo máximo:** o CC, art. 598, limita cada contrato de prestação de serviços a 4 anos. Depois disso, faça um novo contrato.
+- **Aprovações internas:** alçadas de despesa (Regimento, art. 29) e, se o prestador for parente de dirigente, 3 orçamentos, parecer do Conselho Fiscal e aprovação da Diretoria sem o interessado (Estatuto, art. 40).
