@@ -1,0 +1,26 @@
+P ILUSTRÍSSIMO(A) SENHOR(A) OFICIAL DO REGISTRO CIVIL DE PESSOAS JURÍDICAS DA COMARCA DE [CIDADE]/[UF]
+
+P [NOME COMPLETO], [NACIONALIDADE], [ESTADO CIVIL], [PROFISSÃO], portador(a) da cédula de identidade RG nº [NÚMERO] [ÓRGÃO EXPEDIDOR/UF], inscrito(a) no CPF sob o nº [NÚMERO], residente e domiciliado(a) na [ENDEREÇO COMPLETO, COM CEP], endereço eletrônico [E-MAIL] e telefone [TELEFONE], na qualidade de Presidente da Diretoria Executiva e representante legal da [NOME COMPLETO DA IGREJA] – [SIGLA], organização religiosa, pessoa jurídica de direito privado sem fins lucrativos, com sede na [ENDEREÇO COMPLETO DA SEDE, COM CEP], no Município de [CIDADE]/[UF], eleito(a) na Assembleia Geral de Fundação realizada em [DATA], vem, respeitosamente, com fundamento no art. 44, IV, e no art. 45 do Código Civil e nos arts. 114, I, 120 e 121 da Lei nº 6.015/1973 (Lei de Registros Públicos), REQUERER a Vossa Senhoria:
+
+I – o REGISTRO dos atos constitutivos da [NOME COMPLETO DA IGREJA], consistentes no Estatuto Social, com seu Anexo I (Declaração de Fé), e na Ata da Assembleia Geral de Fundação, com a Lista de Presença dos fundadores e os Termos de Posse da Diretoria Executiva, do Conselho Fiscal e do Pastor Titular;
+II – a devolução ao requerente, após o registro, de via dos documentos apresentados em papel, com a respectiva certidão de registro, bem como a expedição de [1 (UMA)] certidão de inteiro teor, para fins de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ).
+
+P Para os fins do art. 120 da Lei nº 6.015/1973, informa que as indicações exigidas constam dos documentos apresentados, a saber: denominação, fins, sede, prazo de duração e fundo social (Estatuto, arts. [[den]], [[dur]] e [[fin]], e Ata, item V); modo de administração e representação (Estatuto, arts. [[de]] a [[tes]]); forma de reforma do Estatuto (Estatuto, arts. [[qref]] e [[alt]]); não responsabilidade subsidiária dos membros (Estatuto, art. [[resp]]); condições de extinção e destino do patrimônio (Estatuto, arts. [[dis]] a [[dest]]); e nomes e qualificação dos fundadores e dos membros da Diretoria (Ata, item IV, e Anexo A). O(A) apresentante dos documentos é [O(A) PRÓPRIO(A) REQUERENTE / (NOME COMPLETO), RESIDENTE NA (ENDEREÇO COMPLETO)].
+
+P Declara, sob as penas da lei, que as informações prestadas e os documentos apresentados são verdadeiros, que a denominação adotada não reproduz a de outra pessoa jurídica de que tenha conhecimento, e que a entidade não depende de aprovação de autoridade para funcionar (Lei nº 6.015/1973, art. 119, parágrafo único).
+
+P Autoriza o Oficial a comunicar eventuais exigências por meio do endereço eletrônico ou do telefone acima indicados.
+
+## DOCUMENTOS APRESENTADOS
+I – Estatuto Social, com seu Anexo I (Declaração de Fé), rubricado em todas as folhas pelo(a) Presidente e pelo(a) Secretário(a) da Assembleia e visado por advogado (Lei nº 8.906/1994, art. 1º, § 2º): [1 (UMA)] via [OU (NÚMERO) VIAS, CONFORME EXIGÊNCIA DO CARTÓRIO];
+II – Ata da Assembleia Geral de Fundação, visada por advogado, com a Lista de Presença dos fundadores (Anexo A) e os Termos de Posse e Declarações de Desimpedimento (Anexo B);
+III – cópia do Edital de Convocação e da respectiva Certidão de Afixação e Divulgação;
+IV – cópias dos documentos de identidade e do CPF dos membros da Diretoria Executiva e do Conselho Fiscal e do Pastor Titular;
+V – comprovante de endereço da sede;
+VI – [OUTROS DOCUMENTOS EXIGIDOS PELAS NORMAS DE SERVIÇO DA CORREGEDORIA-GERAL DA JUSTIÇA DO ESTADO OU PELO CARTÓRIO];
+VII – comprovante de recolhimento dos emolumentos, [SE EXIGIDO PREVIAMENTE].
+
+P Nestes termos,
+P pede deferimento.
+%DATE
+%SIGNS [NOME COMPLETO DO(A) PRESIDENTE];Presidente da Diretoria Executiva da [NOME COMPLETO DA IGREJA] – CPF nº [NÚMERO] [FIRMA RECONHECIDA, SE EXIGIDO]

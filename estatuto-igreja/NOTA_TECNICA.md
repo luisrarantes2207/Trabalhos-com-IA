@@ -3,7 +3,9 @@
 Arquivos:
 - `Estatuto_Social_Igreja_ISAC_v2.docx`: o estatuto pronto para preencher e registrar.
 - `Ata_Assembleia_Fundacao_Igreja_ISAC.docx`: ata da Assembleia de Fundação, com o Anexo A (lista de presença dos fundadores) e o Anexo B (termo de posse e declaração de desimpedimento, um por eleito).
-- `estatuto.txt` e `ata_fundacao.txt`: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões da ata acompanham essa numeração.
+- `Edital_Convocacao_Fundacao_Igreja_ISAC.docx`: edital de convocação da Assembleia de Fundação, com a certidão de afixação e divulgação.
+- `Requerimento_Registro_RCPJ_Igreja_ISAC.docx`: requerimento de registro ao Registro Civil de Pessoas Jurídicas, com a lista de documentos que o acompanham.
+- `estatuto.txt`, `ata_fundacao.txt`, `edital_convocacao.txt` e `requerimento_registro.txt`: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões da ata acompanham essa numeração.
 
 ## 1. Base legal verificada (setembro de 2026)
 
@@ -65,4 +67,10 @@ Nome e sigla, endereço, prazo de carência para membro votante, prazos de manda
 - **Qualificação completa de cada eleito** (nome, nacionalidade, estado civil, profissão, RG, CPF e endereço): é exigida pelo art. 120 da Lei 6.015/1973, e sua falta é o motivo mais comum de o cartório devolver o pedido.
 - **Assinaturas e visto:** a ata é assinada pelo presidente e pelo secretário da Assembleia e pelos eleitos, com visto de advogado. Todas as folhas do Estatuto devem ser rubricadas. Consulte o cartório local sobre reconhecimento de firma e número de vias.
 - **Preenchimento dos campos:** preencha todos os [COLCHETES] e apague as alternativas que não se aplicam. Não deixe espaços em branco nem rasuras. O resultado de cada votação deve bater com o número de presentes.
-- **Documentos para o cartório (normalmente):** requerimento assinado pelo Presidente, duas vias do Estatuto e da ata, lista de presença, cópia do edital de convocação e documentos de identidade dos dirigentes. Confirme a lista exata com o Registro Civil de Pessoas Jurídicas da comarca.
+- **Documentos para o cartório (normalmente):** requerimento assinado pelo Presidente (`Requerimento_Registro_RCPJ_Igreja_ISAC.docx`), uma via do Estatuto e da ata em papel ou em meio eletrônico (Lei 6.015, art. 121, na redação atual; alguns cartórios ainda pedem mais vias), lista de presença, cópia do edital de convocação e documentos de identidade dos dirigentes. Confirme a lista exata com o Registro Civil de Pessoas Jurídicas da comarca.
+
+## 7. Edital e requerimento
+
+- **Edital:** antes do registro a igreja ainda não existe, então quem convoca é uma Comissão Organizadora. O prazo de 15 dias repete a regra do Estatuto para assembleias extraordinárias (art. 18, § 2º). A ordem do dia é idêntica à da ata. Guarde as provas da divulgação (a certidão de afixação e capturas de tela), porque a ata faz referência ao edital.
+- **Requerimento:** fundamenta o pedido no CC, arts. 44 e 45, e na Lei 6.015/1973, arts. 114, 120 e 121. Ele aponta ao cartório onde está cada informação exigida pelo art. 120 e identifica o apresentante (art. 120, VI). Pela redação atual do art. 121, § 1º, o requerimento pode ser dispensado quando o representante legal assinou o estatuto. Mesmo assim, vale apresentá-lo, porque ele organiza o pedido e informa os contatos para eventuais exigências.
+- **Antes de protocolar:** confira no próprio cartório as normas de serviço da Corregedoria do seu Estado (número de vias, reconhecimento de firma e documentos adicionais) e faça uma pesquisa de nome para evitar homonímia.

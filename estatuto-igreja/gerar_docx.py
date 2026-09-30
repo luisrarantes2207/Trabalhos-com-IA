@@ -1,4 +1,4 @@
-"""Gera os .docx do estatuto e da ata de fundação a partir dos arquivos .txt.
+"""Gera os .docx (estatuto, ata, edital e requerimento) a partir dos arquivos .txt.
 
 Os artigos do estatuto são numerados automaticamente, e as remissões [[chave]]
 (em qualquer dos arquivos) apontam para a numeração do estatuto.
@@ -11,7 +11,9 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 base = Path(__file__).parent
 DOCS = [("estatuto.txt", "Estatuto_Social_Igreja_ISAC_v2.docx"),
-        ("ata_fundacao.txt", "Ata_Assembleia_Fundacao_Igreja_ISAC.docx")]
+        ("ata_fundacao.txt", "Ata_Assembleia_Fundacao_Igreja_ISAC.docx"),
+        ("edital_convocacao.txt", "Edital_Convocacao_Fundacao_Igreja_ISAC.docx"),
+        ("requerimento_registro.txt", "Requerimento_Registro_RCPJ_Igreja_ISAC.docx")]
 
 def label(n):
     return f"{n}º" if n < 10 else f"{n}"
@@ -90,7 +92,7 @@ def build(src_name, out_name):
         elif line.startswith("P "):
             p = para(line[2:]); p.paragraph_format.first_line_indent = Cm(1.25)
         elif line.startswith("%SIGNS "):
-            signatures([(None, c) for c in line[7:].split("|")])
+            signatures([tuple(c.split(";")) if ";" in c else (None, c) for c in line[7:].split("|")])
         elif line.startswith("%SIGN"):
             date_line()
             signatures([("[NOME DO PRESIDENTE DA ASSEMBLEIA]", "Presidente da Assembleia"),
