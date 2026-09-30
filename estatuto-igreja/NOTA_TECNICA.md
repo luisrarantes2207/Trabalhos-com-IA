@@ -8,7 +8,8 @@ Arquivos:
 - `Regimento_Interno_Igreja_ISAC.docx`: Regimento Interno (53 artigos), a ser aprovado pela Assembleia Geral em até 180 dias da fundação.
 - `Codigo_de_Conduta_Igreja_ISAC.docx` e `Politica_Protecao_Menores_Vulneraveis_Igreja_ISAC.docx`: normas complementares aprovadas pela Diretoria Executiva, ouvido o Conselho Ministerial (Estatuto, art. 43).
 - `Politica_Privacidade_Protecao_Dados_Igreja_ISAC.docx`: política de privacidade (aviso público aos titulares e normas internas), aprovada pela Diretoria Executiva (Estatuto, art. 43, IV).
-- Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento e `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`).
+- `Termo_Adesao_Servico_Voluntario_Igreja_ISAC.docx`: termo de adesão ao serviço voluntário (Lei 9.608/1998), com registro de atividades e termo de encerramento.
+- Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
 
@@ -125,3 +126,23 @@ Os dois são aprovados pela Diretoria Executiva, ouvido o Conselho Ministerial, 
 - **Encarregado obrigatório:** as organizações sem fins lucrativos podem ser agentes de pequeno porte (Resolução CD/ANPD nº 2/2022), mas esse regime não vale para tratamento de alto risco. Dados de religião e de crianças podem se enquadrar nesse critério, então a Política mantém o encarregado de qualquer forma.
 - **Incidentes:** comunicação à ANPD e aos titulares em 3 dias úteis, ou no prazo diferenciado de pequeno porte, se aplicável (Resolução CD/ANPD nº 15/2024, conferida por pesquisa na web).
 - **Adaptações:** os prazos de conservação entre colchetes e o prazo de 48 horas para fornecedores comunicarem incidentes são sugestões. Ajuste a tabela de dados às atividades que a igreja realmente tem, por exemplo retirando site ou aplicativo se não existirem.
+
+## 11. Termo de adesão ao serviço voluntário
+
+**Base legal:** Lei 9.608/1998. O termo de adesão escrito, com o objeto e as condições do serviço, é o que a lei exige (art. 2º). O serviço não gera vínculo empregatício nem obrigação trabalhista ou previdenciária (art. 1º, parágrafo único). Só se ressarcem despesas comprovadas e previamente autorizadas (art. 3º). O Estatuto remete a essa lei no art. 35. Esses artigos foram citados sem conferência do texto, porque a base de legislação estava sem consultas, então vale o advogado checar.
+
+**Como evitar o reconhecimento de vínculo de emprego.** O termo sozinho não impede uma condenação trabalhista: a Justiça do Trabalho olha a prática. Por isso o termo:
+- trata a disponibilidade como uma referência definida pelo próprio voluntário, sem controle de jornada nem penalidade por falta;
+- proíbe ajuda de custo fixa ou periódica sem comprovante, que costuma ser vista como salário disfarçado;
+- deixa claro que ser voluntário não é condição para ser membro.
+
+Na prática, evite também metas, escalas impostas, advertências em estilo trabalhista e pagamentos habituais. Se alguém trabalha com habitualidade, horário fixo e subordinação, contrate pela CLT.
+
+**Outras cláusulas:**
+- **Crianças e vulneráveis:** o voluntário que atuar com esses públicos só começa depois de cumprir todos os requisitos da Política de Proteção.
+- **Imagem e obras:** autorização de imagem revogável e licença gratuita, não exclusiva, das obras produzidas para a igreja (músicas, artes, vídeos), preservados os direitos morais do autor (Lei 9.610/1998).
+- **Dados pessoais:** tratamento conforme a Política de Privacidade.
+- **Encerramento:** qualquer das partes pode encerrar a qualquer tempo, com devolução de bens e credenciais.
+- **Adolescentes de 14 a 17 anos:** cláusula opcional que exige a assinatura dos pais, compatibilidade com a escola e proíbe trabalho noturno ou perigoso.
+
+**Anexos:** registro de atividades e ressarcimentos, que serve de base para a declaração de serviço voluntário, e termo de encerramento com quitação.

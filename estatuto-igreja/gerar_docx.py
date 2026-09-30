@@ -17,7 +17,8 @@ DOCS = [("estatuto.txt", "Estatuto_Social_Igreja_ISAC_v2.docx"),
         ("regimento_interno.txt", "Regimento_Interno_Igreja_ISAC.docx"),
         ("codigo_conduta.txt", "Codigo_de_Conduta_Igreja_ISAC.docx"),
         ("politica_protecao.txt", "Politica_Protecao_Menores_Vulneraveis_Igreja_ISAC.docx"),
-        ("politica_privacidade.txt", "Politica_Privacidade_Protecao_Dados_Igreja_ISAC.docx")]
+        ("politica_privacidade.txt", "Politica_Privacidade_Protecao_Dados_Igreja_ISAC.docx"),
+        ("termo_voluntariado.txt", "Termo_Adesao_Servico_Voluntario_Igreja_ISAC.docx")]
 
 def label(n):
     return f"{n}º" if n < 10 else f"{n}"
@@ -47,8 +48,14 @@ def doc_nums(stem):
             table[m.group(1)] = k
     return table
 
-def refs(text, local=None):
-    """[[chave]] remete ao Estatuto, <<chave>> ao Regimento Interno e {{chave}} ao próprio documento (RART)."""
+def refs(text, local=None, clauses=None):
+    """[[chave]] remete ao Estatuto, <<chave>> ao Regimento Interno, {{chave}} a artigo (RART)
+    e ((chave)) a cláusula (CL) do próprio documento."""
+    def clause(m):
+        if m.group(1) not in (clauses or {}):
+            sys.exit(f"Referência inexistente: {m.group(0)}")
+        return f"{clauses[m.group(1)]}ª"
+    text = re.sub(r"\(\((\w+)\)\)", clause, text)
     def sub(table, m):
         k = m.group(1)
         if k not in table:
@@ -70,6 +77,11 @@ def build(src_name, out_name):
         if m:
             k += 1
             local[m.group(1)] = k
+    clauses = {}
+    for line in src:
+        m = re.match(r"CL\[(\w+)\]", line)
+        if m:
+            clauses[m.group(1)] = len(clauses) + 1
     doc = Document()
     sec = doc.sections[0]
     sec.page_height, sec.page_width = Cm(29.7), Cm(21)
@@ -120,7 +132,7 @@ def build(src_name, out_name):
         doc.add_paragraph()
 
     for line in src:
-        line = refs(line.rstrip(), local)
+        line = refs(line.rstrip(), local, clauses)
         if grid is not None:
             if line.startswith("%ENDGRID"):
                 flush_grid(grid); grid = None
@@ -145,6 +157,10 @@ def build(src_name, out_name):
             k = re.match(r"R?ART\[(\w+)\]\s*", line)
             n = (local if line.startswith("R") else nums)[k.group(1)]
             para(line[k.end():], bold_prefix=f"Art. {label(n)}{'.' if n >= 10 else ''} ")
+        elif line.startswith("CL["):
+            k = re.match(r"CL\[(\w+)\]\s*", line)
+            p = para(f"CLÁUSULA {clauses[k.group(1)]}ª – {line[k.end():]}", bold=True)
+            p.paragraph_format.space_before = Pt(10)
         elif line.startswith("%PAGEBREAK"):
             doc.add_page_break()
         elif line.startswith("P "):
