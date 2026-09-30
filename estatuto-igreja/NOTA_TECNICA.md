@@ -13,6 +13,7 @@ Arquivos:
 - `Contrato_Locacao_Templo_Igreja_ISAC.docx`: modelo de contrato de locação não residencial do imóvel usado como templo, com laudo de vistoria e termo de devolução.
 - `Recibo_Dizimos_Ofertas_Igreja_ISAC.docx`: instruções à Tesouraria e modelos de recibo de contribuição (com canhoto), de declaração anual de contribuições e de requerimento de devolução por erro material.
 - `Termo_Doacao_Bens_Igreja_ISAC.docx`: termo de doação de bens móveis, inclusive veículos, com roteiro para a doação de imóveis.
+- `Termo_Doacao_Imovel_Igreja_ISAC.docx`: minuta de escritura pública de doação de imóvel, instrumento particular para imóveis de pequeno valor e extrato de ata de aceitação pela Diretoria.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -203,3 +204,16 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Veículos:** placa, RENAVAM e chassi, a situação de débitos e a obrigação do doador de assinar a transferência no órgão de trânsito.
 
 **ITCMD:** a doação à igreja é imune quando os bens se relacionam às finalidades essenciais (LC 227/2026, art. 149, I, "c", e § 1º, II, conferido anteriormente). O Estado pode exigir declaração ou procedimento próprio (§ 4º do mesmo artigo). No caso de imóveis, o reconhecimento da imunidade deve ser pedido antes da escritura.
+
+## 16. Doação de imóvel
+
+- **Escritura ou instrumento particular:** acima de 30 salários mínimos, a doação exige escritura pública (CC, art. 108). O Modelo 1 é uma minuta para o tabelião adaptar ao padrão dele. O Modelo 2, particular, serve só para imóveis de valor até esse limite; na dúvida, use escritura. Em qualquer caso, a igreja só se torna dona com o registro na matrícula (art. 1.245).
+- **Proteções da escritura:**
+  - O cônjuge do doador dá sua outorga (art. 1.647, I e IV).
+  - O doador declara que o imóvel não tem ônus, que a doação não compromete sua subsistência e que não ultrapassa a parte de que pode dispor em testamento (arts. 548 e 549), e informa se tem vínculo com dirigentes.
+  - O documento que reconhece a imunidade do ITCMD é arquivado no cartório.
+  - É feita consulta à Central Nacional de Indisponibilidade de Bens (CNIB).
+- **Usufruto reservado:** o doador pode continuar usando o imóvel enquanto viver, e a igreja recebe a propriedade sem o uso (a chamada nua-propriedade). Isso é útil quando o doador mora no imóvel, mas a igreja só poderá usá-lo depois que o usufruto acabar.
+- **Encargo:** a igreja pode vender o imóvel ou mudar o uso se a finalidade combinada se tornar impossível ou desnecessária. Evite cláusulas de reversão e de proibição de venda.
+- **Aceitação (Modelo 3):** a Diretoria aceita a doação depois do parecer do Conselho Fiscal sobre custos e riscos. Diretor com vínculo com o doador não vota. Encargo relevante ou ônus real exige a Assembleia.
+- **IPTU depois da doação:** a imunidade alcança o imóvel usado nas finalidades essenciais (CF, art. 150, § 4º). Um imóvel alugado a terceiros também pode ser imune se a renda for aplicada nessas finalidades, conforme entendimento do STF (RE 325.822). Guarde a comprovação dessa aplicação.
