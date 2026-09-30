@@ -63,6 +63,7 @@ Rol de Membros (membros ativos) | Enquanto durar a condição de membro | Mantê
 Dados de membro desligado | Nome e datas: permanentemente, como registro histórico e para defesa de direitos; demais dados: [5 (CINCO)] anos após o desligamento | Eliminação dos demais dados
 Documentos contábeis, fiscais e de contribuições | 10 (dez) anos, ou o prazo legal maior (Estatuto, art. [[imu]], § 1º, IV) | Eliminação ou anonimização
 Atas, termos de posse e documentos de governança | Permanentemente | —
+Livro de Registro de Batismos (nome, data de nascimento, filiação, data, local e ministro) | Permanentemente, como registro histórico da vida religiosa, com acesso restrito | —
 Autos de procedimentos disciplinares | [10 (DEZ)] anos após a decisão final (Regimento Interno, art. <<pd7>>) | Eliminação
 Registros de incidentes de proteção de menores | [20 (VINTE)] anos | Revisão pelo(a) Coordenador(a) de Proteção
 Fichas de crianças e autorizações | Enquanto participar das atividades e mais [2 (DOIS)] anos | Eliminação

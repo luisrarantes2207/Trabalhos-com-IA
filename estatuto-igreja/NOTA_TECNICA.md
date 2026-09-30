@@ -27,6 +27,7 @@ Arquivos:
 - `Termo_Admissao_Membro_Menor_Igreja_ISAC.docx`: termo de autorização dos pais, manifestação do menor, comunicação ao outro genitor e ratificação na maioridade.
 - `Termo_Desligamento_Membro_Igreja_ISAC.docx`: pedido de desligamento, termo de desligamento com providências da Secretaria, notificação por ausência prolongada e resposta ao ex-membro.
 - `Termo_Readmissao_Membro_Igreja_ISAC.docx`: pedido de readmissão, termo de readmissão, termo de compromisso de reparação de dano e comunicação da decisão.
+- `Certificado_Batismo_Igreja_ISAC.docx`: certificado de batismo, livro de registro de batismos e declaração de segunda via.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -410,3 +411,12 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Reparação de dano:** é formalizada em termo próprio, com parcelamento e contabilização como ressarcimento, e não como contribuição, para não confundir a receita. A incapacidade financeira comprovada não impede, por si só, a reconciliação.
 - **Proteção de vulneráveis:** quem foi excluído por violência contra criança ou pessoa vulnerável, ou por crime sexual, só é readmitido com acordo de participação supervisionada e continua impedido de atuar com esses públicos.
 - **Indeferimento:** é comunicado com motivos objetivos e com a possibilidade de renovar o pedido, mantendo a pessoa bem-vinda como frequentadora.
+
+## 30. Certificado e registro de batismo
+
+- **Três modelos:** certificado numerado, com o texto centralizado, ligado ao livro e à folha do registro; Livro de Registro de Batismos, com termo de abertura e de encerramento e proibição de rasuras (correções só por anotação); e declaração de segunda via, emitida apenas ao próprio batizado ou aos pais, se ele for menor.
+- **Dados mínimos:** o livro não registra CPF nem endereço, só os dados necessários ao ato religioso, e a filiação é opcional. Os dados de membresia ficam na Ficha de Cadastro.
+- **Guarda permanente:** o registro de batismo é um registro histórico da igreja. Por isso incluí uma linha na tabela de prazos da Política de Privacidade (art. 10) prevendo guarda permanente com acesso restrito, para manter os dois documentos coerentes.
+- **Menores:** o batismo de menor exige a autorização dos pais e a manifestação do próprio menor, pelo Termo de Admissão de Membro Menor.
+- **Natureza religiosa:** o certificado não substitui documentos civis.
+- **Adaptação doutrinária:** a forma do batismo, a fórmula e o versículo estão entre colchetes, para ajuste à Declaração de Fé (seção VIII) e à liturgia da igreja.

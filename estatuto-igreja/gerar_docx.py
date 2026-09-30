@@ -36,7 +36,8 @@ DOCS = [("estatuto.txt", "Estatuto_Social_Igreja_ISAC_v2.docx"),
         ("ficha_membro.txt", "Ficha_Cadastro_Membro_Igreja_ISAC.docx"),
         ("termo_membro_menor.txt", "Termo_Admissao_Membro_Menor_Igreja_ISAC.docx"),
         ("termo_desligamento.txt", "Termo_Desligamento_Membro_Igreja_ISAC.docx"),
-        ("termo_readmissao.txt", "Termo_Readmissao_Membro_Igreja_ISAC.docx")]
+        ("termo_readmissao.txt", "Termo_Readmissao_Membro_Igreja_ISAC.docx"),
+        ("certificado_batismo.txt", "Certificado_Batismo_Igreja_ISAC.docx")]
 
 def label(n):
     return f"{n}º" if n < 10 else f"{n}"
@@ -184,6 +185,9 @@ def build(src_name, out_name):
             p.paragraph_format.space_before = Pt(10)
         elif line.startswith("%PAGEBREAK"):
             doc.add_page_break()
+        elif line.startswith("C "):  # parágrafo centralizado (certificados)
+            p = para(line[2:], align=WD_ALIGN_PARAGRAPH.CENTER, size=13)
+            p.paragraph_format.space_after = Pt(10)
         elif line.startswith("P "):
             p = para(line[2:]); p.paragraph_format.first_line_indent = Cm(1.25)
         elif line.startswith("%SIGNS "):
