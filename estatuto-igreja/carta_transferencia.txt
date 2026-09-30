@@ -1,0 +1,77 @@
+# MODELOS DE CARTA DE TRANSFERÊNCIA E DOCUMENTOS DE MEMBRESIA
+![NOME COMPLETO DA IGREJA] – [SIGLA]
+!Estatuto Social, arts. [[adm]] e [[disc]] – Regimento Interno, arts. <<adm2>> e <<rol>>
+
+## ORIENTAÇÕES DE USO
+I – A carta de transferência é emitida somente a pedido do próprio membro (Modelo 1) e somente para membro em plena comunhão (Estatuto, art. [[cat]], I). A emissão é deliberada pelo Conselho Ministerial e registrada na ata geral.
+II – A condição de membro cessa com a transferência (Estatuto, art. [[disc]], II), considerando-se efetivada na data em que a igreja de destino comunicar o recebimento do membro (Modelo 3). Até lá, o nome permanece no Rol de Membros com a anotação "em transferência". Se a comunicação não chegar no prazo de validade da carta, a Secretaria consultará o interessado antes de qualquer anotação.
+III – A carta contém apenas os dados necessários: nome, data e modo de admissão, data do batismo e a declaração de plena comunhão. Não se informam fatos pastorais, de saúde, financeiros ou disciplinares. O envio desses dados a outra igreja ocorre com o consentimento do membro, manifestado no pedido (Política de Privacidade, art. {{politica_privacidade:comp}}).
+IV – O membro que estiver cumprindo medida disciplinar de suspensão não está em plena comunhão. Nesse caso, não se emite carta de transferência; a pedido do interessado, pode ser emitida Declaração de Membresia (Modelo 5), com dados objetivos e sem mencionar motivos, preservada a vedação de exposição do Regimento Interno (art. <<med>>, § 1º).
+V – Para o membro que vai se ausentar temporariamente, sem deixar a IGREJA, utiliza-se a Carta de Recomendação (Modelo 4), que não altera sua condição de membro.
+VI – Para receber membro vindo de outra comunidade, utiliza-se o Modelo 6. Se a carta não for fornecida em 60 (sessenta) dias, o Conselho Ministerial poderá admitir o interessado por aclamação (Regimento, art. <<adm2>>, parágrafo único).
+
+%PAGEBREAK
+## MODELO 1 – PEDIDO DE CARTA DE TRANSFERÊNCIA
+P Ao Conselho Ministerial da [NOME COMPLETO DA IGREJA].
+P Eu, [NOME COMPLETO], CPF nº [NÚMERO], membro desta IGREJA desde [DATA], solicito a emissão de carta de transferência para a [NOME DA IGREJA DE DESTINO], situada na [ENDEREÇO, CIDADE/UF], [PASTOR(A) RESPONSÁVEL: (NOME), CONTATO: (E-MAIL/TELEFONE)], em razão de [MUDANÇA DE DOMICÍLIO / OUTRO MOTIVO, SE QUISER INFORMAR].
+P [SE DESEJAR INCLUIR FAMILIARES MEMBROS:] Solicito a transferência também de: [NOMES DOS FAMILIARES MAIORES, QUE ASSINAM ABAIXO, E DOS FILHOS MENORES SOB MINHA RESPONSABILIDADE].
+P Autorizo a IGREJA a enviar à igreja de destino os dados necessários à transferência, constantes da carta, nos termos de sua Política de Privacidade e Proteção de Dados. Estou ciente de que minha condição de membro desta IGREJA cessará com a comunicação do meu recebimento pela igreja de destino.
+%DATE
+%SIGNS [NOME COMPLETO];Requerente|[NOME COMPLETO – SE HOUVER];Familiar requerente
+
+%PAGEBREAK
+## MODELO 2 – CARTA DE TRANSFERÊNCIA
+P CARTA DE TRANSFERÊNCIA Nº [NÚMERO]/[ANO]
+P À [NOME DA IGREJA DE DESTINO]
+P [ENDEREÇO, CIDADE/UF]
+P A/C do(a) Pastor(a) [NOME]
+P Graça e paz.
+P A [NOME COMPLETO DA IGREJA], organização religiosa com sede na [ENDEREÇO], em [CIDADE/UF], por deliberação de seu Conselho Ministerial em [DATA], a pedido do(a) interessado(a), apresenta e recomenda a essa amada comunidade o(a) irmão(ã):
+%GRID 6,10
+Nome | [NOME COMPLETO]
+Data de nascimento | [DATA]
+Membro desta IGREJA desde | [DATA]
+Modo de admissão | [PROFISSÃO DE FÉ E BATISMO / TRANSFERÊNCIA DE (IGREJA) / OUTRO]
+Data do batismo | [DATA] [E IGREJA, SE OUTRA]
+Funções exercidas (se o interessado autorizar a informação) | [EX.: PROFESSOR(A) DA ESCOLA BÍBLICA; MÚSICO(A)]
+Familiares incluídos nesta carta | [NOMES OU "NENHUM"]
+%ENDGRID
+P Declaramos que o(a) irmão(ã) acima se encontra em plena comunhão com esta IGREJA e o(a) transferimos para essa comunidade, rogando que o(a) recebam no Senhor.
+P Esta carta é válida por [90 (NOVENTA)] dias a partir de sua emissão. Pedimos a gentileza de nos comunicar o recebimento do(a) irmão(ã), por meio do formulário anexo ou do endereço eletrônico [E-MAIL DA SECRETARIA], data a partir da qual ele(a) deixará de integrar nosso Rol de Membros.
+P Os dados desta carta foram compartilhados com o consentimento do(a) titular e destinam-se exclusivamente ao seu recebimento como membro dessa comunidade, devendo ser tratados com a confidencialidade própria dos dados pessoais sensíveis (Lei nº 13.709/2018).
+P Fraternalmente,
+%DATE
+%SIGNS [NOME];Pastor(a) Titular|[NOME];1º Secretário(a)
+
+%PAGEBREAK
+## MODELO 3 – COMUNICAÇÃO DE RECEBIMENTO (A SER DEVOLVIDA PELA IGREJA DE DESTINO)
+P À [NOME COMPLETO DA IGREJA] – [ENDEREÇO DA SECRETARIA / E-MAIL].
+P Comunicamos que o(a) irmão(ã) [NOME COMPLETO], portador(a) da Carta de Transferência nº [NÚMERO]/[ANO], foi recebido(a) como membro da [NOME DA IGREJA DE DESTINO] em [DATA][, JUNTAMENTE COM OS FAMILIARES (NOMES)].
+%DATE
+%SIGNS [NOME];Pastor(a) ou Secretário(a) da igreja de destino
+P PARA USO DA SECRETARIA: Comunicação recebida em [DATA]. Rol de Membros atualizado em [DATA] por [NOME], com registro de desligamento por transferência (Estatuto, art. [[disc]], II), a ser informado na próxima ata geral do Conselho Ministerial.
+
+%PAGEBREAK
+## MODELO 4 – CARTA DE RECOMENDAÇÃO (AUSÊNCIA TEMPORÁRIA)
+P A quem possa interessar, e especialmente às igrejas irmãs da localidade de [CIDADE/UF / PAÍS].
+P A [NOME COMPLETO DA IGREJA] recomenda à comunhão das igrejas irmãs o(a) irmão(ã) [NOME COMPLETO], membro em plena comunhão desta IGREJA desde [DATA], que permanecerá em [LOCAL] no período de [DATA] a [DATA], por motivo de [ESTUDOS / TRABALHO / TRATAMENTO DE SAÚDE / OUTRO, SE O INTERESSADO QUISER INFORMAR].
+P Esta carta não constitui transferência e não altera a condição de membro do(a) portador(a) nesta IGREJA. Rogamos que o(a) recebam com a hospitalidade cristã.
+%DATE
+%SIGNS [NOME];Pastor(a) Titular
+
+%PAGEBREAK
+## MODELO 5 – DECLARAÇÃO DE MEMBRESIA
+P A [NOME COMPLETO DA IGREJA], inscrita no CNPJ sob o nº [NÚMERO], DECLARA, a pedido do(a) interessado(a) e para os fins por ele(a) indicados, que [NOME COMPLETO], CPF nº [NÚMERO], [É MEMBRO DESTA IGREJA DESDE (DATA) / FOI MEMBRO DESTA IGREJA NO PERÍODO DE (DATA) A (DATA)], admitido(a) por [MODO DE ADMISSÃO][, TENDO SIDO BATIZADO(A) EM (DATA)].
+P Esta declaração limita-se aos dados acima e não contém informação sobre a situação disciplinar, pastoral ou financeira do(a) interessado(a).
+%DATE
+%SIGNS [NOME];1º Secretário(a)
+
+%PAGEBREAK
+## MODELO 6 – SOLICITAÇÃO DE CARTA À IGREJA DE ORIGEM (MEMBRO QUE CHEGA)
+P À [NOME DA IGREJA DE ORIGEM] – [ENDEREÇO, CIDADE/UF] – A/C do(a) Pastor(a) [NOME].
+P Graça e paz. O(A) irmão(ã) [NOME COMPLETO], que declara ser membro dessa amada igreja, manifestou o desejo de integrar-se à [NOME COMPLETO DA IGREJA], em razão de [MOTIVO INFORMADO PELO INTERESSADO]. Com a autorização do(a) interessado(a), que assina abaixo, solicitamos a gentileza de enviar a respectiva carta de transferência, se ele(a) se encontrar em plena comunhão, ou de nos informar se não for possível emiti-la.
+P A carta poderá ser enviada para [ENDEREÇO DA SECRETARIA / E-MAIL]. Informaremos o recebimento do(a) irmão(ã) tão logo ocorra.
+P Fraternalmente,
+%DATE
+%SIGNS [NOME];Pastor(a) Titular|[NOME COMPLETO];Interessado(a) – autorizo a solicitação
+P PARA USO DA SECRETARIA: Solicitação enviada em [DATA]. Carta recebida em [DATA] / não recebida no prazo de 60 (sessenta) dias (Regimento Interno, art. <<adm2>>, parágrafo único), encaminhando-se o caso ao Conselho Ministerial.

@@ -22,6 +22,7 @@ Arquivos:
 - `Ata_Assembleia_Geral_Extraordinaria_Igreja_ISAC.docx`: tabela de matérias e quóruns, edital de convocação, modelo de ata da Assembleia Geral Extraordinária com módulos por matéria, lista de presença e termo de verificação de quórum.
 - `Ata_Parecer_Conselho_Fiscal_Igreja_ISAC.docx`: orientações, ata de reunião trimestral com roteiro de verificações, parecer anual sobre as contas, parecer específico e comunicação de constatação à Diretoria.
 - `Ata_Conselho_Ministerial_Igreja_ISAC.docx`: orientações, ata geral de reunião, ata reservada de instauração de procedimento disciplinar, notificação ao acusado, ata reservada de decisão e comunicação da decisão.
+- `Carta_Transferencia_Membro_Igreja_ISAC.docx`: pedido e carta de transferência, comunicação de recebimento, carta de recomendação, declaração de membresia e solicitação de carta à igreja de origem.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -359,3 +360,12 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Violência contra vulneráveis:** a ata registra só a data e o protocolo da comunicação às autoridades, que deve ser imediata e não depende do procedimento interno.
 - **Acusação contra o Pastor Titular:** a sessão é presidida pelo ministro mais antigo, com comunicação ao Conselho Fiscal.
 - **Não exposição:** a comunicação à comunidade se limita ao estritamente necessário, sem expor o membro, o que reduz o risco de ação por dano moral.
+
+## 25. Carta de transferência e documentos de membresia
+
+- **Somente a pedido e para membro em plena comunhão:** a carta depende de pedido escrito do membro e de deliberação do Conselho Ministerial. O pedido traz o consentimento para enviar os dados à outra igreja, necessário pela LGPD, já que a membresia revela a religião da pessoa.
+- **Fim da condição de membro:** a pessoa deixa de ser membro na data em que a igreja de destino comunica o recebimento, e não na emissão da carta. Isso evita que ela fique sem vínculo com nenhuma igreja no intervalo, e o Rol de Membros registra "em transferência" até a confirmação.
+- **Dados mínimos:** a carta traz só nome, datas e modo de admissão e a declaração de plena comunhão. Nunca informa fatos pastorais, de saúde, financeiros ou disciplinares.
+- **Membro sob disciplina:** membro suspenso não está em plena comunhão, então não recebe carta de transferência. A pedido dele, pode receber uma Declaração de Membresia com dados objetivos e sem motivos. Isso evita tanto uma declaração falsa de comunhão quanto a exposição do membro, que poderia gerar ação por dano moral.
+- **Ausência temporária:** a Carta de Recomendação serve para estudo, trabalho ou tratamento fora, sem desligar o membro.
+- **Membro que chega de outra igreja:** a solicitação de carta à igreja de origem tem controle do prazo de 60 dias, depois do qual o Conselho pode admitir o membro por aclamação (Regimento, art. 5º, parágrafo único).
