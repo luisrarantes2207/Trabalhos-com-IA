@@ -7,7 +7,8 @@ Arquivos:
 - `Requerimento_Registro_RCPJ_Igreja_ISAC.docx`: requerimento de registro ao Registro Civil de Pessoas Jurídicas, com a lista de documentos que o acompanham.
 - `Regimento_Interno_Igreja_ISAC.docx`: Regimento Interno (53 artigos), a ser aprovado pela Assembleia Geral em até 180 dias da fundação.
 - `Codigo_de_Conduta_Igreja_ISAC.docx` e `Politica_Protecao_Menores_Vulneraveis_Igreja_ISAC.docx`: normas complementares aprovadas pela Diretoria Executiva, ouvido o Conselho Ministerial (Estatuto, art. 43).
-- Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno e `{{chave}}` ao próprio documento.
+- `Politica_Privacidade_Protecao_Dados_Igreja_ISAC.docx`: política de privacidade (aviso público aos titulares e normas internas), aprovada pela Diretoria Executiva (Estatuto, art. 43, IV).
+- Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento e `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`).
 
 ## 1. Base legal verificada (setembro de 2026)
 
@@ -109,3 +110,18 @@ Os dois são aprovados pela Diretoria Executiva, ouvido o Conselho Ministerial, 
 - **Pessoas com histórico de violência:** podem assistir aos cultos mediante acordo de participação supervisionada.
 - **Anexos:** termo do colaborador, ficha e autorizações da criança (com consentimento conforme a LGPD), autorização para viagem e formulário sigiloso de registro de incidente.
 - **Adaptações locais:** a proporção de crianças por adulto e os prazos entre colchetes são sugestões; ajuste ao espaço e ao número de voluntários. Nas viagens, confira a resolução vigente do CNJ sobre autorização de viagem.
+
+## 10. Política de Privacidade e Proteção de Dados
+
+**Estrutura:**
+- **Parte I (aviso aos titulares):** controlador e encarregado; tabela com dados, finalidades e base legal para cada público (membros, visitantes, crianças, doadores, colaboradores, empregados, dirigentes, assistidos, participantes de eventos, pessoas filmadas e usuários do site); compartilhamentos; transferência internacional; tabela de prazos de conservação; direitos do titular (LGPD, art. 18, com resposta em até 15 dias conforme o art. 19); segurança; e cookies.
+- **Parte II (normas internas):** papéis de cada um; registro das operações e relatório de impacto (LGPD, arts. 37 e 38); regras do dia a dia (acessos, credenciais, planilhas, papéis, grupos de mensagens, pedidos de oração); contratos com fornecedores que tratam dados; plano de resposta a incidentes; e relatório anual.
+- **Anexos:** termo de consentimento do membro, formulário de solicitação do titular e cláusula de proteção de dados para contratos com fornecedores.
+
+**Escolhas de fundo:**
+- **Religião como dado sensível:** estar nos registros da igreja já revela a religião da pessoa (LGPD, art. 5º, II). Por isso, os dados de membros se baseiam em consentimento específico (art. 11, I). Os registros exigidos por lei ou pelo Estatuto se baseiam em obrigação legal ou exercício regular de direitos (art. 11, II, "a" e "d"), e continuam guardados mesmo se o consentimento for revogado. O legítimo interesse nunca é usado para dados sensíveis.
+- **Aconselhamento pastoral:** a orientação é não registrar detalhes por escrito e não incluí-los em cadastros gerais.
+- **Transmissões de cultos:** aviso na entrada, área fora das câmeras e enquadramento no púlpito, sem focar pessoas do público.
+- **Encarregado obrigatório:** as organizações sem fins lucrativos podem ser agentes de pequeno porte (Resolução CD/ANPD nº 2/2022), mas esse regime não vale para tratamento de alto risco. Dados de religião e de crianças podem se enquadrar nesse critério, então a Política mantém o encarregado de qualquer forma.
+- **Incidentes:** comunicação à ANPD e aos titulares em 3 dias úteis, ou no prazo diferenciado de pequeno porte, se aplicável (Resolução CD/ANPD nº 15/2024, conferida por pesquisa na web).
+- **Adaptações:** os prazos de conservação entre colchetes e o prazo de 48 horas para fornecedores comunicarem incidentes são sugestões. Ajuste a tabela de dados às atividades que a igreja realmente tem, por exemplo retirando site ou aplicativo se não existirem.

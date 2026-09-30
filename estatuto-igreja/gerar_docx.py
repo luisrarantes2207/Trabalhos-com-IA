@@ -16,7 +16,8 @@ DOCS = [("estatuto.txt", "Estatuto_Social_Igreja_ISAC_v2.docx"),
         ("requerimento_registro.txt", "Requerimento_Registro_RCPJ_Igreja_ISAC.docx"),
         ("regimento_interno.txt", "Regimento_Interno_Igreja_ISAC.docx"),
         ("codigo_conduta.txt", "Codigo_de_Conduta_Igreja_ISAC.docx"),
-        ("politica_protecao.txt", "Politica_Protecao_Menores_Vulneraveis_Igreja_ISAC.docx")]
+        ("politica_protecao.txt", "Politica_Protecao_Menores_Vulneraveis_Igreja_ISAC.docx"),
+        ("politica_privacidade.txt", "Politica_Privacidade_Protecao_Dados_Igreja_ISAC.docx")]
 
 def label(n):
     return f"{n}º" if n < 10 else f"{n}"
@@ -37,6 +38,15 @@ for line in (base / "regimento_interno.txt").read_text(encoding="utf-8").splitli
         n += 1
         ri_nums[m.group(1)] = n
 
+def doc_nums(stem):
+    table, k = {}, 0
+    for line in (base / f"{stem}.txt").read_text(encoding="utf-8").splitlines():
+        m = re.match(r"RART\[(\w+)\]", line)
+        if m:
+            k += 1
+            table[m.group(1)] = k
+    return table
+
 def refs(text, local=None):
     """[[chave]] remete ao Estatuto, <<chave>> ao Regimento Interno e {{chave}} ao próprio documento (RART)."""
     def sub(table, m):
@@ -46,6 +56,10 @@ def refs(text, local=None):
         return label(table[k])
     text = re.sub(r"\[\[(\w+)\]\]", lambda m: sub(nums, m), text)
     text = re.sub(r"<<(\w+)>>", lambda m: sub(ri_nums, m), text)
+    # {{arquivo:chave}} remete a artigo de outro documento (ex.: {{codigo_conduta:cons}})
+    text = re.sub(r"\{\{(\w+):(\w+)\}\}",
+                  lambda m: label(doc_nums(m.group(1)).get(m.group(2)) or sys.exit(f"Referência inexistente: {m.group(0)}")),
+                  text)
     return re.sub(r"\{\{(\w+)\}\}", lambda m: sub(local or {}, m), text)
 
 def build(src_name, out_name):
@@ -90,8 +104,32 @@ def build(src_name, out_name):
                 p = para(nome, align=WD_ALIGN_PARAGRAPH.CENTER); p.paragraph_format.space_after = Pt(0)
             para(cargo, align=WD_ALIGN_PARAGRAPH.CENTER)
 
+    grid = None  # linhas acumuladas de uma tabela preenchida (%GRID ... %ENDGRID)
+
+    def flush_grid(rows):
+        cols = len(rows[0])
+        t = doc.add_table(rows=len(rows), cols=cols)
+        t.style = "Table Grid"
+        for i, row in enumerate(rows):
+            for j in range(cols):
+                cell = t.rows[i].cells[j]
+                cell.text = ""
+                r = cell.paragraphs[0].add_run(row[j] if j < len(row) else "")
+                r.font.size = Pt(9.5); r.bold = (i == 0)
+                cell.width = Cm(16 / cols)
+        doc.add_paragraph()
+
     for line in src:
         line = refs(line.rstrip(), local)
+        if grid is not None:
+            if line.startswith("%ENDGRID"):
+                flush_grid(grid); grid = None
+            elif line:
+                grid.append([c.strip() for c in line.split("|")])
+            continue
+        if line.startswith("%GRID"):
+            grid = []
+            continue
         if not line:
             continue
         if line.startswith("# "):
