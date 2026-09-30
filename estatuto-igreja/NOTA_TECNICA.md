@@ -20,6 +20,7 @@ Arquivos:
 - `Ata_Reuniao_Diretoria_Executiva_Igreja_ISAC.docx`: modelo de ata de reunião da Diretoria Executiva, com orientações e redações-padrão para as deliberações mais frequentes.
 - `Ata_Assembleia_Geral_Ordinaria_Igreja_ISAC.docx`: calendário preparatório, edital de convocação e modelo de ata da Assembleia Geral Ordinária, com lista de presença.
 - `Ata_Assembleia_Geral_Extraordinaria_Igreja_ISAC.docx`: tabela de matérias e quóruns, edital de convocação, modelo de ata da Assembleia Geral Extraordinária com módulos por matéria, lista de presença e termo de verificação de quórum.
+- `Ata_Parecer_Conselho_Fiscal_Igreja_ISAC.docx`: orientações, ata de reunião trimestral com roteiro de verificações, parecer anual sobre as contas, parecer específico e comunicação de constatação à Diretoria.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -319,3 +320,24 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
   - dissolução, com a verificação do número mínimo de membros que querem manter a igreja, nomeação de liquidante e destinação do patrimônio.
 - **Termo de Verificação de Quórum:** registra os números exatos da presença e da votação. É o documento que o cartório e eventuais impugnações judiciais vão examinar. O direito de anular deliberações de assembleia prescreve em prazos curtos, e a prova numérica é a melhor defesa.
 - **Convocação pela minoria:** 1/5 dos membros pode convocar a AGE diretamente se o Presidente não o fizer em 15 dias (CC, art. 60). O edital prevê essa hipótese.
+
+## 23. Conselho Fiscal: atas e pareceres
+
+- **Roteiro de verificações trimestrais:** a ata traz uma tabela de conferência que cobre todos os controles do Estatuto e do Regimento:
+  - conciliação bancária e fundo fixo de caixa;
+  - termos de contagem de ofertas;
+  - recebimentos só no CNPJ da igreja;
+  - amostra de pagamentos, conferindo alçadas e orçamentos;
+  - autorização conjunta na movimentação bancária;
+  - reembolsos, folha, sustento ministerial e RPAs;
+  - tributos retidos e obrigações acessórias;
+  - negócios com partes relacionadas;
+  - separação das receitas de atividades-meio;
+  - doações com finalidade específica;
+  - ausência de distribuição de recursos;
+  - execução do orçamento e, no último trimestre, inventário.
+  Assim o Conselho examina a mesma lista todo trimestre e cria um histórico.
+- **Parecer anual e imunidade:** o parecer sobre as contas atesta, requisito por requisito, o cumprimento das condições da imunidade (Estatuto, art. 5º, § 1º). Esse atestado é lido na AGO e é a principal prova documental da imunidade.
+- **Parecer específico:** um modelo único para todos os pareceres prévios exigidos: partes relacionadas, imóveis, endividamento, orçamento, despesa não prevista, sustento de ministro que integra a Diretoria e doação de imóvel. A análise segue um roteiro: vantagem para a igreja, preço de mercado, fonte de recursos, riscos e ausência de benefício indevido.
+- **Constatação de irregularidade:** comunicação formal à Diretoria, com prazo para resposta. Sem resposta satisfatória, o Conselho leva a matéria à Assembleia e pode recomendar o afastamento cautelar do dirigente envolvido (Estatuto, art. 30, parágrafo único).
+- **Limites de atuação:** o Conselho fiscaliza; não administra nem trata de matéria pastoral. Conselheiro com interesse pessoal na matéria se declara impedido e é substituído por suplente.
