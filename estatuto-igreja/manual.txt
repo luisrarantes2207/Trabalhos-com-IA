@@ -1,0 +1,596 @@
+# MANUAL DOS DOCUMENTOS DA [NOME COMPLETO DA IGREJA] – [SIGLA]
+!Como os documentos foram montados, o que contém cada um e como preenchê-los
+!Versão de [DATA] – documento de apoio, não substitui a revisão por advogado
+## 1. APRESENTAÇÃO
+P Este manual acompanha o conjunto de 32 modelos preparado para constituir, registrar e fazer funcionar a [NOME COMPLETO DA IGREJA] como organização religiosa com imunidade tributária. Para cada documento, explica a finalidade, a base legal, quem prepara, aprova e assina, a estrutura, as regras de preenchimento, os campos a preencher, a guarda e os principais cuidados.
+P O manual não substitui a revisão por advogado inscrito na OAB, que é indispensável antes do registro e antes da primeira utilização de cada contrato. Parte dos dispositivos legais citados nos documentos não pôde ser conferida no texto oficial durante a elaboração; a Nota Técnica (pasta 00) indica quais.
+## 2. COMO OS DOCUMENTOS FORAM MONTADOS
+P Ponto de partida: o rascunho inicial do Estatuto enviado pela igreja, reestruturado com base no Código Civil, na Constituição Federal (imunidade religiosa, com a redação da Reforma Tributária), no Código Tributário Nacional, nas Leis Complementares 214/2025 e 227/2026, na Lei de Registros Públicos, na legislação previdenciária e trabalhista, no ECA e na LGPD.
+P Ordem de construção: primeiro o Estatuto e a Declaração de Fé; depois os documentos de fundação e registro; em seguida as normas internas (Regimento, Código de Conduta e Políticas), que regulamentam o que o Estatuto delega; por fim os modelos de uso diário, sempre remetendo ao Estatuto e ao Regimento para manter a coerência.
+P Método técnico: cada documento foi escrito em um arquivo de texto (.txt) com marcações simples e convertido em Word (.docx) por um programa gerador. O gerador numera automaticamente os artigos e as cláusulas e resolve as remissões entre documentos (por exemplo, quando a ata de fundação cita "art. 50 do Estatuto"), de modo que, se o Estatuto for alterado e os artigos mudarem de número, basta gerar de novo para que todos os documentos acompanhem a nova numeração.
+P Verificações feitas: todos os documentos foram gerados sem erro; toda remissão a artigo é conferida pelo gerador, que interrompe a execução se a referência não existir; e os números de artigo citados na Nota Técnica foram conferidos contra a numeração gerada. A formatação visual (quebras de página e tabelas) deve ser conferida no Word antes da impressão.
+## 3. REGRAS GERAIS DE PREENCHIMENTO
+I – Tudo o que está entre [COLCHETES] deve ser preenchido ou apagado. Nada entre colchetes pode permanecer no documento final.
+II – Colchetes com barra (por exemplo, [SIM / NÃO] ou [PURO E SIMPLES / COM ENCARGO]) indicam alternativas: mantenha a aplicável e apague as demais.
+III – Valores entre colchetes com número e extenso (por exemplo, [6 (SEIS)] meses) são sugestões: podem ser mantidos ou ajustados, sempre com número e extenso.
+IV – Campos marcados com [ ] são opções para assinalar com X; não apague as opções não marcadas em formulários.
+V – Trechos iniciados por [SE ...:] ou [OPCIONAL:] só se aplicam na situação indicada; apague-os quando não se aplicarem.
+VI – Datas por extenso em atas e escrituras; valores em reais com número e extenso; qualificação completa de pessoas (nome, nacionalidade, estado civil, profissão, RG com órgão expedidor, CPF e endereço com CEP) sempre que o documento pedir.
+VII – Não renumere artigos à mão nem insira ou remova artigos diretamente no Word: as remissões dos outros documentos ficariam erradas. Para alterar a estrutura, edite o arquivo .txt correspondente e gere os documentos de novo (ou peça a quem mantém os arquivos).
+VIII – Documentos para cartório: sem rasuras, sem espaços em branco, rubricas em todas as folhas quando exigido e firmas reconhecidas conforme a exigência do cartório local.
+IX – Dados pessoais: preencha apenas o que o documento pede, guarde os documentos preenchidos com acesso restrito e siga os prazos de guarda da Política de Privacidade.
+X – Numeração: atas, recibos, certificados e termos são numerados em sequência por ano (por exemplo, 07/2027), e cada livro de registro tem termo de abertura e de encerramento.
+## 4. CAMPOS COMUNS A VÁRIOS DOCUMENTOS
+%GRID 6,10
+Campo | Como preencher
+[NOME COMPLETO DA IGREJA] e [SIGLA] | Exatamente como no Estatuto registrado, em todos os documentos
+[DATA], [DIA], [MÊS], [ANO], [HORA] | Data do ato; em atas e escrituras, por extenso
+[CIDADE]/[UF] | Município e Estado da sede ou do ato
+[NOME COMPLETO] e [QUALIFICAÇÃO] | Nome civil completo, sem abreviações; qualificação completa quando pedida
+[NÚMERO] | Número do documento, do registro, do CPF, do RG ou da matrícula, conforme o contexto
+[VALOR] e [VALOR POR EXTENSO] | Valor em reais, com número e extenso
+[ENDEREÇO COMPLETO, COM CEP] | Logradouro, número, complemento, bairro, cidade, UF e CEP
+[NOME DO PRESIDENTE] e [NOME DO PASTOR TITULAR] | Ocupantes atuais dos cargos, conforme a última ata de eleição
+%ENDGRID
+## 5. ORDEM DE UTILIZAÇÃO
+I – Fundação: Edital de Convocação → Assembleia de Fundação (aprovação do Estatuto e da Declaração de Fé, eleições e posse) → Ata de Fundação.
+II – Registro: visto de advogado → Requerimento de Registro no RCPJ → CNPJ com natureza jurídica 322-0 (Organização Religiosa) → pedidos de imunidade de IPTU, ITBI, IPVA e ITCMD → contas bancárias, contador e alvarás.
+III – Primeiros 180 dias: aprovação do Regimento Interno pela Assembleia; aprovação do Código de Conduta e das Políticas pela Diretoria; designação do encarregado de dados e do(a) Coordenador(a) de Proteção; contrato do imóvel do templo (comodato ou locação).
+IV – Funcionamento contínuo: atas mensais da Diretoria e do Conselho Ministerial, atas trimestrais do Conselho Fiscal, recibos, fichas de membros, certificados, contratos de pessoas e serviços.
+V – Todo ano: parecer do Conselho Fiscal, relatório anual de atividades e Assembleia Geral Ordinária até 30 de abril.
+## 6. FICHAS DOS DOCUMENTOS
+## Pasta 01 Constituicao e Registro
+### 6.1. Estatuto Social e Declaração de Fé
+%GRID 5,11
+Item | Descrição
+Arquivo | 01_Constituicao_e_Registro/01_Estatuto_Social_e_Declaracao_de_Fe.docx
+Finalidade | Ato constitutivo da igreja. Define natureza jurídica, finalidades, órgãos, direitos e deveres dos membros, patrimônio, controles financeiros e dissolução, e reúne as cláusulas que sustentam a imunidade tributária. A Declaração de Fé (Anexo I) fixa os fundamentos doutrinários.
+Base legal | Código Civil, arts. 44, IV e § 1º, 46, 48-A e 54 a 61; CF, art. 150, VI, "b" (EC 132/2023) e art. 156, § 1º-A; CTN, arts. 9º e 14; LC 214/2025, art. 9º; LC 227/2026, art. 149; Lei 6.015/1973, arts. 114 e 120; Lei 8.212/1991, art. 22, §§ 13 e 14.
+Quem prepara, aprova e assina | Aprovado pela Assembleia Geral de Fundação (ou de reforma), com visto de advogado inscrito na OAB, e registrado no Registro Civil de Pessoas Jurídicas (RCPJ). Alterações posteriores exigem Assembleia Extraordinária com quórum qualificado.
+Guarda e prazos | Via registrada guardada permanentemente na Secretaria, com cópia digital. Toda alteração deve ser averbada no RCPJ e consolidada em nova versão.
+%ENDGRID
+P Estrutura (51 artigos): CAPÍTULO I – DA DENOMINAÇÃO, NATUREZA JURÍDICA, SEDE, FORO E DURAÇÃO; CAPÍTULO II – DAS FINALIDADES; CAPÍTULO III – DA DECLARAÇÃO DE FÉ E DO REGIMENTO INTERNO; CAPÍTULO IV – DOS MEMBROS; CAPÍTULO V – DOS ÓRGÃOS DA IGREJA; CAPÍTULO VI – DOS MINISTROS DE CONFISSÃO RELIGIOSA, VOLUNTÁRIOS E EMPREGADOS; CAPÍTULO VII – DO PATRIMÔNIO, DAS RECEITAS E DA GESTÃO FINANCEIRA; CAPÍTULO VIII – DA INTEGRIDADE, DA PROTEÇÃO DE DADOS E DA PROTEÇÃO DE VULNERÁVEIS; CAPÍTULO IX – DA ALTERAÇÃO ESTATUTÁRIA; CAPÍTULO X – DA DISSOLUÇÃO E DA DESTINAÇÃO DO PATRIMÔNIO; CAPÍTULO XI – DAS DISPOSIÇÕES GERAIS, FINAIS E TRANSITÓRIAS; ANEXO I – DECLARAÇÃO DE FÉ DA [NOME COMPLETO DA IGREJA].
+P Regras de preenchimento:
+I – Preencha nome, sigla, sede e as opções doutrinárias da Declaração de Fé (seções IV e VIII).
+II – Decida os parâmetros entre colchetes: carência para votar (sugestão: 6 meses), tempo de membresia para cargos (2 anos), mandatos e reconduções, limite de endividamento, valor que obriga auditoria, mínimo de membros que impede a dissolução e a entidade que recebe o patrimônio na dissolução.
+III – Escolha se o Pastor Titular será presidente nato ou eleito para a Diretoria, e se terá mandato fixo.
+IV – Não altere as cláusulas protegidas do art. [[qref]], § 3º (natureza religiosa, não distribuição, aplicação dos recursos e destino do patrimônio): elas sustentam a imunidade.
+V – Rubrique todas as folhas (presidente e secretário da Assembleia) e colha o visto do advogado na última página.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [5 (CINCO)]; [1 (UMA)]; [6 (SEIS)]; [12 (DOZE)]; [X]; [1/3 (UM TERÇO)]; [1/2 (METADE)]; [4 (QUATRO)]; [PODERÁ SER ELEITO / SERÁ MEMBRO NATO E EXERCERÁ O CARGO DE]; [SE ADOTADA A OPÇÃO "MEMBRO NATO", EXCLUIR A PARTE FINAL]; [MENSALMENTE]; [2 (DOIS)]; [PRESBÍTEROS/OFICIAIS]; [PARA MANDATO DE (X) ANOS, RENOVÁVEL / POR PRAZO INDETERMINADO]; [R$ (VALOR)]; [NÚMERO MÍNIMO, EX.: 10 (DEZ)]; [NOME DA ENTIDADE RELIGIOSA DESTINATÁRIA, OU "INSTITUIÇÃO MUNICIPAL, ESTADUAL OU FEDERAL DE FINS IDÊNTICOS OU SEMELHANTES", NOS TERMOS DO ART. 61, § 2º, DO CÓDIGO CIVIL]; [OU DE REFORMA ESTATUTÁRIA]; [SE REFORMA:]; [OPÇÃO PENTECOSTAL/CARISMÁTICA:]; [OPÇÃO TRADICIONAL: suprimir este parágrafo ou substituí-lo por redação própria.]; [OU SACRAMENTOS]; [POR IMERSÃO, AOS QUE FIZEREM PÚBLICA PROFISSÃO DE FÉ / OU FORMA ADOTADA PELA IGREJA]; [FRANQUEADA AOS MEMBROS E A CRISTÃOS DE OUTRAS COMUNIDADES EM COMUNHÃO COM SUAS IGREJAS / OU CRITÉRIO ADOTADO PELA IGREJA].
+P Cuidados: O art. [[trans]], § 1º, dispensa os prazos de membresia só na fundação. Toda remissão a artigo é gerada automaticamente: se editar o Word diretamente e inserir ou remover artigos, as remissões de todos os documentos ficarão erradas; prefira editar o .txt e gerar de novo.
+### 6.2. Ata da Assembleia Geral de Fundação
+%GRID 5,11
+Item | Descrição
+Arquivo | 01_Constituicao_e_Registro/02_Ata_da_Assembleia_de_Fundacao.docx
+Finalidade | Registra a fundação da igreja, a aprovação do Estatuto e da Declaração de Fé, o reconhecimento dos fundadores como membros, as eleições e a posse, a sede, o patrimônio inicial e as autorizações para registro, CNPJ e imunidades. Traz a lista de presença (Anexo A) e os termos de posse (Anexo B).
+Base legal | Código Civil, arts. 45 e 46; Lei 6.015/1973, arts. 114, 120 e 121; Estatuto, art. [[trans]].
+Quem prepara, aprova e assina | Lavrada pelo secretário da Assembleia; assinada pelo presidente e pelo secretário da Assembleia, pelos eleitos e visada por advogado. Os fundadores assinam a lista de presença.
+Guarda e prazos | Registrada no RCPJ com o Estatuto; original arquivado permanentemente.
+%ENDGRID
+P Estrutura: 1. ABERTURA E COMPOSIÇÃO DA MESA; 2. ITEM I – DA FUNDAÇÃO; 3. ITEM II – DO ESTATUTO SOCIAL E DA DECLARAÇÃO DE FÉ; 4. ITEM III – DOS MEMBROS FUNDADORES; 5. ITEM IV – DAS ELEIÇÕES E DA POSSE; 6. ITEM V – DA SEDE E DO PATRIMÔNIO INICIAL; 7. ITEM VI – DAS AUTORIZAÇÕES; 8. ITEM VII – ASSUNTOS GERAIS E ENCERRAMENTO; ANEXO A – LISTA DE PRESENÇA DOS FUNDADORES; ANEXO B – TERMO DE POSSE E DECLARAÇÃO DE DESIMPEDIMENTO.
+P Regras de preenchimento:
+I – A qualificação completa de cada eleito (nome, nacionalidade, estado civil, profissão, RG, CPF e endereço) é obrigatória para o registro.
+II – Os resultados das votações devem ser coerentes com o número de presentes.
+III – Apague as alternativas que não se aplicam e não deixe espaços em branco nem rasuras.
+IV – Fundadores devem ser civilmente capazes (maiores de 18 anos).
+V – Um Termo de Posse (Anexo B) para cada eleito, inclusive suplentes do Conselho Fiscal.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [NOME COMPLETO E QUALIFICAÇÃO COMPLETA]; [UNANIMIDADE / (NÚMERO) VOTOS]; [UNANIMIDADE / (NÚMERO) VOTOS FAVORÁVEIS, (NÚMERO) CONTRÁRIOS E (NÚMERO) ABSTENÇÕES]; [ANO POR EXTENSO]; [NÚMERO POR EXTENSO]; [MEIO DE DIVULGAÇÃO]; [NOME DE QUEM CONVOCOU]; [DIRIGIU UMA ORAÇÃO E FEZ A LEITURA DE (TEXTO BÍBLICO)]; [51 (CINQUENTA E UM)]; [NÃO HOUVE PROPOSTAS DE ALTERAÇÃO / FORAM APRESENTADAS E VOTADAS AS SEGUINTES PROPOSTAS DE ALTERAÇÃO: (DESCREVER CADA PROPOSTA E O RESULTADO DA VOTAÇÃO)]; [POR ACLAMAÇÃO / POR VOTO SECRETO, EM CÉDULAS RECOLHIDAS E APURADAS PELA MESA]; [PARA MANDATO DE (X) ANOS, DE (DATA) A (DATA) / POR PRAZO INDETERMINADO]; [IGREJA OU CONVENÇÃO ORDENANTE]; [4 (QUATRO)]; [NOME COMPLETO E QUALIFICAÇÃO COMPLETA, NO MESMO FORMATO]; [NOMES DOS MINISTROS ORDENADOS E (PRESBÍTEROS/OFICIAIS) QUE O INTEGRAM / NESTE MOMENTO, APENAS PELO(A) PASTOR(A) TITULAR, ATÉ A CONSAGRAÇÃO DE NOVOS MINISTROS OU OFICIAIS]; [É DE PROPRIEDADE DA IGREJA / FOI CEDIDO EM COMODATO POR (NOME), PELO PRAZO DE (X) ANOS / SERÁ LOCADO EM NOME DA IGREJA, MEDIANTE CONTRATO APROVADO PELA DIRETORIA EXECUTIVA]; [INICIA SUAS ATIVIDADES SEM PATRIMÔNIO / INICIA SUAS ATIVIDADES COM FUNDO SOCIAL DE R$ (VALOR) ((VALOR POR EXTENSO)), CONSTITUÍDO POR DOAÇÕES VOLUNTÁRIAS DOS FUNDADORES E DE TERCEIROS E PELOS SEGUINTES BENS: (DESCRIÇÃO)]; [180 (CENTO E OITENTA)]; [90 (NOVENTA)]; [NINGUÉM SE MANIFESTOU / MANIFESTARAM-SE (NOMES), QUE (RESUMO DAS MANIFESTAÇÕES, SEM DELIBERAÇÃO)]; [UNANIMIDADE]; [NOME DO(A) SECRETÁRIO(A)]; [DATA DE INÍCIO]; [DATA DE TÉRMINO]; [PARA CONSELHEIROS FISCAIS:]; [OS CARGOS DA DIRETORIA EXECUTIVA E DO CONSELHO FISCAL SÃO EXERCIDOS GRATUITAMENTE (art. (nº), parágrafo único) / (PARA O PASTOR TITULAR:) EVENTUAL SUSTENTO MINISTERIAL OBSERVARÁ EXCLUSIVAMENTE O ART. (nº) DO ESTATUTO SOCIAL]; [NOME COMPLETO DO(A) EMPOSSADO(A)].
+P Cuidados: Principal motivo de devolução pelo cartório: qualificação incompleta dos eleitos. Confirme com o cartório local a exigência de firma reconhecida e o número de vias.
+### 6.3. Edital de Convocação da Assembleia de Fundação
+%GRID 5,11
+Item | Descrição
+Arquivo | 01_Constituicao_e_Registro/03_Edital_de_Convocacao_da_Fundacao.docx
+Finalidade | Convoca os interessados para a Assembleia de Fundação, informa a ordem do dia e as regras de participação. Inclui a certidão de afixação e divulgação.
+Base legal | CF, art. 5º, VI e XVII; Código Civil, art. 44, IV; Lei 13.709/2018 (LGPD).
+Quem prepara, aprova e assina | Assinado pela Comissão Organizadora (a igreja ainda não existe antes do registro).
+Guarda e prazos | Arquivado com a ata de fundação; cópia apresentada ao cartório.
+%ENDGRID
+P Estrutura: ASSEMBLEIA GERAL DE FUNDAÇÃO DA [NOME COMPLETO DA IGREJA] – [SIGLA]; ORDEM DO DIA; INFORMAÇÕES AOS INTERESSADOS; CERTIDÃO DE AFIXAÇÃO E DIVULGAÇÃO.
+P Regras de preenchimento:
+I – Publique com pelo menos 15 dias de antecedência.
+II – A ordem do dia deve ser idêntica à da ata de fundação.
+III – Informe onde a minuta do Estatuto pode ser consultada e o prazo para sugestões.
+IV – Preencha a certidão de afixação e guarde capturas de tela da divulgação digital.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [NOMES DOS INTEGRANTES DA COMISSÃO]; [DIA DA SEMANA]; [HORA + 30 MIN]; [LOCAL E HORÁRIO DE CONSULTA / ENDEREÇO ELETRÔNICO]; [SE HOUVER INDICAÇÃO PRÉVIA: O(A) Pastor(a) (NOME) é o(a) nome indicado(a) pela Comissão Organizadora para o cargo de Pastor(a) Titular, sem prejuízo de outras indicações.]; [LOCAL DE REUNIÃO DO GRUPO]; [CULTO(S)/REUNIÃO(ÕES) DE (DATAS)]; [MEIOS: GRUPO DE MENSAGENS, REDES SOCIAIS, CORREIO ELETRÔNICO]; [DATAS DOS CULTOS/REUNIÕES]; [MEIOS]; [DATA(S)].
+P Cuidados: A ata faz referência ao edital; sem a prova da convocação, a fundação fica vulnerável a questionamentos.
+### 6.4. Requerimento de Registro no Cartório (RCPJ)
+%GRID 5,11
+Item | Descrição
+Arquivo | 01_Constituicao_e_Registro/04_Requerimento_de_Registro_no_Cartorio.docx
+Finalidade | Pede ao Registro Civil de Pessoas Jurídicas o registro do Estatuto e da ata de fundação e indica onde estão as informações exigidas por lei.
+Base legal | Código Civil, arts. 44 e 45; Lei 6.015/1973, arts. 114, 119, 120 e 121.
+Quem prepara, aprova e assina | Assinado pelo Presidente eleito na fundação.
+Guarda e prazos | Cópia protocolada arquivada com os atos constitutivos.
+%ENDGRID
+P Estrutura: DOCUMENTOS APRESENTADOS.
+P Regras de preenchimento:
+I – Informe e-mail e telefone para o cartório comunicar exigências.
+II – Indique o apresentante (o próprio requerente ou outra pessoa com endereço).
+III – Confira a lista de documentos com o cartório da comarca antes de protocolar e faça pesquisa de nome.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [1 (UMA)]; [ENDEREÇO COMPLETO DA SEDE, COM CEP]; [O(A) PRÓPRIO(A) REQUERENTE / (NOME COMPLETO), RESIDENTE NA (ENDEREÇO COMPLETO)]; [OU (NÚMERO) VIAS, CONFORME EXIGÊNCIA DO CARTÓRIO]; [OUTROS DOCUMENTOS EXIGIDOS PELAS NORMAS DE SERVIÇO DA CORREGEDORIA-GERAL DA JUSTIÇA DO ESTADO OU PELO CARTÓRIO]; [SE EXIGIDO PREVIAMENTE]; [NOME COMPLETO DO(A) PRESIDENTE]; [FIRMA RECONHECIDA, SE EXIGIDO].
+P Cuidados: A Lei 6.015, art. 121, exige hoje uma via (papel ou eletrônica), mas alguns cartórios ainda pedem mais.
+## Pasta 02 Normas Internas
+### 6.5. Regimento Interno
+%GRID 5,11
+Item | Descrição
+Arquivo | 02_Normas_Internas/01_Regimento_Interno.docx
+Finalidade | Regulamenta o que o Estatuto delega: admissão e disciplina de membros, assembleias e eleições, funcionamento dos órgãos, alçadas financeiras, ministérios, congregações, integridade, proteção de vulneráveis, LGPD, celebrações e mediação.
+Base legal | Estatuto, arts. [[reg]] e [[agc]], X; ECA, arts. 13, 59-A e 70-B; Lei 9.504/1997, art. 37, § 4º; LGPD.
+Quem prepara, aprova e assina | Proposto pela Diretoria (ouvido o Conselho Ministerial) e aprovado pela Assembleia Geral por maioria simples, em até 180 dias da fundação. Não precisa de registro em cartório.
+Guarda e prazos | Versão aprovada e ata de aprovação arquivadas; cópia disponível aos membros.
+%ENDGRID
+P Estrutura (53 artigos): TÍTULO I – DISPOSIÇÕES PRELIMINARES; TÍTULO II – DOS MEMBROS; TÍTULO III – DA DISCIPLINA ECLESIÁSTICA; TÍTULO IV – DAS ASSEMBLEIAS GERAIS; TÍTULO V – DAS ELEIÇÕES; TÍTULO VI – DO FUNCIONAMENTO DOS ÓRGÃOS DE ADMINISTRAÇÃO E FISCALIZAÇÃO; TÍTULO VII – DO CONSELHO MINISTERIAL E DOS MINISTROS; TÍTULO VIII – DOS MINISTÉRIOS E DEPARTAMENTOS; TÍTULO IX – DAS CONGREGAÇÕES; TÍTULO X – DOS PROCEDIMENTOS FINANCEIROS E PATRIMONIAIS; TÍTULO XI – DA INTEGRIDADE; TÍTULO XII – DAS CELEBRAÇÕES RELIGIOSAS; TÍTULO XIII – DA MEDIAÇÃO INTERNA; TÍTULO XIV – DISPOSIÇÕES FINAIS.
+P Regras de preenchimento:
+I – Defina os valores das alçadas de despesa (art. <<alc>>), do fundo fixo de caixa (art. <<caixa>>) e de alienação de bens móveis.
+II – Defina prazos de medidas disciplinares, número de presbíteros/oficiais e a lista de ministérios.
+III – Revise a cada 4 anos.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [3 (TRÊS)]; [12 (DOZE)]; [4 (QUATRO)]; [MENSALMENTE]; [2 (DOIS)]; [10 (DEZ)]; [10% (DEZ POR CENTO)]; [PRESBÍTEROS/OFICIAIS]; [1 (UM)]; [LOUVOR E ADORAÇÃO; ENSINO E ESCOLA BÍBLICA; INFANTIL; ADOLESCENTES E JOVENS; MULHERES; HOMENS; FAMÍLIAS; MISSÕES E EVANGELISMO; AÇÃO SOCIAL; COMUNICAÇÃO E MÍDIA; RECEPÇÃO E INTEGRAÇÃO]; [6 (SEIS)]; [ENDEREÇO ELETRÔNICO EXCLUSIVO / FORMULÁRIO / CAIXA LACRADA]; [NOME DO PRESIDENTE DA ASSEMBLEIA]; [NOME DO SECRETÁRIO DA ASSEMBLEIA].
+P Cuidados: Não pode contrariar o Estatuto. A regra eleitoral cita a Lei 9.504, art. 37, § 4º (templos como bens de uso comum).
+### 6.6. Código de Conduta
+%GRID 5,11
+Item | Descrição
+Arquivo | 02_Normas_Internas/02_Codigo_de_Conduta.docx
+Finalidade | Padrões de conduta para dirigentes, ministros, líderes, voluntários, empregados e prestadores: respeito, autoridade espiritual, aconselhamento, recursos, conflitos de interesse, comunicação, neutralidade política, segurança e consequências.
+Base legal | Estatuto, art. [[int]], I; Regimento, arts. <<cc1>> e <<fin1>>; Lei 12.846/2013.
+Quem prepara, aprova e assina | Aprovado pela Diretoria, ouvido o Conselho Ministerial. Cada colaborador assina o Termo de Ciência anexo.
+Guarda e prazos | Termos de Ciência arquivados na Secretaria enquanto durar a função e depois pelo prazo da Política de Privacidade.
+%ENDGRID
+P Estrutura (22 artigos): CAPÍTULO I – DISPOSIÇÕES GERAIS; CAPÍTULO II – DO RESPEITO ÀS PESSOAS; CAPÍTULO III – DO EXERCÍCIO DA AUTORIDADE ESPIRITUAL E DO ACONSELHAMENTO; CAPÍTULO IV – DA INTEGRIDADE NA GESTÃO DE RECURSOS; CAPÍTULO V – DA INFORMAÇÃO, DA COMUNICAÇÃO E DAS REDES SOCIAIS; CAPÍTULO VI – DA NEUTRALIDADE POLÍTICO-PARTIDÁRIA; CAPÍTULO VII – DA SEGURANÇA E DO AMBIENTE DAS ATIVIDADES; CAPÍTULO VIII – DA PROTEÇÃO DE CRIANÇAS, ADOLESCENTES E VULNERÁVEIS; CAPÍTULO IX – DO DEVER DE COMUNICAR E DO CANAL DE DENÚNCIAS; CAPÍTULO X – DAS CONSEQUÊNCIAS DO DESCUMPRIMENTO; CAPÍTULO XI – DISPOSIÇÕES FINAIS; ANEXO – TERMO DE CIÊNCIA E COMPROMISSO.
+P Regras de preenchimento:
+I – Defina o valor máximo de brindes aceitáveis.
+II – Decida se mantém a regra opcional de afastamento de candidatos a cargo eletivo durante a campanha.
+III – Colha o Termo de Ciência no início de cada função e a cada renovação.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [2 (DOIS)]; [DIRIGENTE / CONSELHEIRO / MINISTRO / LÍDER / VOLUNTÁRIO / EMPREGADO / PRESTADOR DE SERVIÇOS]; [FUNÇÃO]; [NÃO POSSUO CONFLITO DE INTERESSES COM A IGREJA / POSSUO O SEGUINTE CONFLITO DE INTERESSES, QUE DECLARO PARA OS FINS DO ART. (nº) DO CÓDIGO: (DESCREVER)].
+P Cuidados: A proibição de prometer bênçãos em troca de contribuições reforça o caráter voluntário das receitas, importante para a imunidade.
+### 6.7. Política de Proteção de Crianças, Adolescentes e Pessoas Vulneráveis
+%GRID 5,11
+Item | Descrição
+Arquivo | 02_Normas_Internas/03_Politica_de_Protecao_de_Criancas_e_Vulneraveis.docx
+Finalidade | Prevenção, identificação e resposta a violências nas atividades da igreja: governança, seleção de colaboradores, regras de atividades, viagens, imagem, resposta a revelações e participação de pessoas com histórico de violência. Anexos: termo do colaborador, ficha da criança, autorização de viagem e registro de incidente.
+Base legal | CF, art. 227; ECA, arts. 2º, 13, 18-A, 59-A, 70-B e 83; Lei 13.431/2017, arts. 4º e 13; LGPD, art. 14.
+Quem prepara, aprova e assina | Aprovada pela Diretoria, ouvido o Conselho Ministerial. Aplicada pelo(a) Coordenador(a) de Proteção.
+Guarda e prazos | Registros de incidentes: 20 anos, sigilosos. Certidões: durante a função e mais 5 anos.
+%ENDGRID
+P Estrutura (24 artigos): CAPÍTULO I – DISPOSIÇÕES GERAIS; CAPÍTULO II – DA GOVERNANÇA; CAPÍTULO III – DA SELEÇÃO E HABILITAÇÃO DOS COLABORADORES; CAPÍTULO IV – DAS REGRAS PARA AS ATIVIDADES; CAPÍTULO V – DA RESPOSTA A SUSPEITAS E REVELAÇÕES DE VIOLÊNCIA; CAPÍTULO VI – DA PARTICIPAÇÃO DE PESSOAS COM HISTÓRICO DE VIOLÊNCIA; CAPÍTULO VII – DISPOSIÇÕES FINAIS; ANEXO I – TERMO DE COMPROMISSO DO COLABORADOR; ANEXO II – FICHA DE CADASTRO E AUTORIZAÇÕES DA CRIANÇA OU DO ADOLESCENTE; ANEXO III – AUTORIZAÇÃO PARA EVENTO, VIAGEM OU PERNOITE; ANEXO IV – FORMULÁRIO DE REGISTRO DE RELATO OU INCIDENTE (SIGILOSO).
+P Regras de preenchimento:
+I – Designe o(a) Coordenador(a) de Proteção e suplente (de preferência sem ligação com o Pastor Titular).
+II – Ajuste a proporção de crianças por adulto ao espaço e ao número de voluntários.
+III – Certidões criminais dos colaboradores renovadas a cada 12 meses (6 meses se houver recursos públicos).
+IV – Nas viagens, confira a resolução do CNJ vigente sobre autorização de viagem.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [DESCREVER]; [2 (DOIS)]; [5 (CINCO)]; [NOME E TELEFONE]; [6 (SEIS)]; [1 (UMA)]; [3 (TRÊS)]; [8 (OITO)]; [12 (DOZE)]; [20 (VINTE)]; [FUNÇÃO]; [NOME DO MINISTÉRIO]; [NOME, PARENTESCO, CPF, TELEFONE E E-MAIL DE CADA UM]; [NOME, PARENTESCO, DOCUMENTO E TELEFONE]; [PARENTESCO/QUALIDADE DE RESPONSÁVEL]; [NOME COMPLETO DA CRIANÇA OU DO ADOLESCENTE]; [NOME DO EVENTO]; [DATA E HORA DE SAÍDA]; [DATA E HORA DE RETORNO]; [NOMES, RG E TELEFONE DOS RESPONSÁVEIS PELO EVENTO]; [SE A VIAGEM FOR PARA FORA DA COMARCA E O MENOR TIVER MENOS DE 16 ANOS:]; [OU CONFORME A NORMA DO CONSELHO NACIONAL DE JUSTIÇA VIGENTE / AUTORIZAÇÃO JUDICIAL ANEXA].
+P Cuidados: A comunicação ao Conselho Tutelar em caso de suspeita é obrigatória e imediata, e nenhum órgão da igreja pode impedi-la ou atrasá-la.
+### 6.8. Política de Privacidade e Proteção de Dados
+%GRID 5,11
+Item | Descrição
+Arquivo | 02_Normas_Internas/04_Politica_de_Privacidade_e_Protecao_de_Dados.docx
+Finalidade | Aviso aos titulares (dados tratados, finalidades, bases legais, compartilhamentos, prazos de guarda e direitos) e normas internas (responsabilidades, segurança, operadores e incidentes). Anexos: consentimento do membro, formulário do titular e cláusula para fornecedores.
+Base legal | LGPD (Lei 13.709/2018), arts. 5º, 7º, 11, 14, 16, 18, 19, 33, 37, 38, 41, 46 e 48; Resoluções CD/ANPD nº 2/2022 e 15/2024.
+Quem prepara, aprova e assina | Aprovada pela Diretoria. O encarregado de dados é designado em ata da Diretoria.
+Guarda e prazos | Versões anteriores arquivadas. Registro de incidentes por pelo menos 5 anos.
+%ENDGRID
+P Estrutura (24 artigos): PARTE I – AVISO DE PRIVACIDADE AOS TITULARES; CAPÍTULO I – QUEM SOMOS E A QUEM ESTA POLÍTICA SE APLICA; CAPÍTULO II – QUAIS DADOS TRATAMOS, PARA QUE E COM QUAL BASE LEGAL; CAPÍTULO III – COM QUEM COMPARTILHAMOS; CAPÍTULO IV – POR QUANTO TEMPO GUARDAMOS; CAPÍTULO V – DIREITOS DOS TITULARES; CAPÍTULO VI – SEGURANÇA E INCIDENTES; CAPÍTULO VII – CANAIS DIGITAIS E COOKIES; PARTE II – NORMAS INTERNAS DE GOVERNANÇA EM PRIVACIDADE; CAPÍTULO VIII – RESPONSABILIDADES; CAPÍTULO IX – REGRAS DE SEGURANÇA NO DIA A DIA; CAPÍTULO X – DISPOSIÇÕES FINAIS; ANEXO I – TERMO DE CONSENTIMENTO DO MEMBRO; ANEXO II – FORMULÁRIO DE SOLICITAÇÃO DO TITULAR; ANEXO III – CLÁUSULA DE PROTEÇÃO DE DADOS PARA CONTRATOS COM OPERADORES.
+P Regras de preenchimento:
+I – Preencha os dados e o e-mail exclusivo do encarregado.
+II – Ajuste a tabela de dados às atividades reais da igreja (retire site, app ou ação social se não existirem).
+III – Defina os prazos de guarda entre colchetes.
+IV – Publique a versão vigente no site e na Secretaria, com a data de atualização.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [2 (DOIS)]; [5 (CINCO)]; [48 (QUARENTA E OITO)]; [E-MAIL EXCLUSIVO, EX.: privacidade@...]; [CONVENÇÃO, CONCÍLIO OU ORGANIZAÇÃO RELIGIOSA A QUE A IGREJA SEJA FILIADA]; [10 (DEZ)]; [20 (VINTE)].
+P Cuidados: Religião é dado sensível: o simples cadastro de membro revela a crença. Nunca use legítimo interesse para dados sensíveis. Incidentes: comunicação à ANPD em 3 dias úteis (6 para pequeno porte).
+## Pasta 03 Assembleias e Conselhos
+### 6.9. Ata de Reunião da Diretoria Executiva
+%GRID 5,11
+Item | Descrição
+Arquivo | 03_Assembleias_e_Conselhos/01_Ata_de_Reuniao_da_Diretoria.docx
+Finalidade | Modelo de ata mensal da Diretoria, com presenças, relatório financeiro padronizado, deliberações, quadro de providências e textos prontos para as decisões mais comuns.
+Base legal | Estatuto, arts. [[de]], § 4º, [[ci]] e [[mov]]; Regimento, arts. <<dir1>> e <<alc>>.
+Quem prepara, aprova e assina | Lavrada pelo 1º Secretário e assinada por todos os presentes.
+Guarda e prazos | Livro ou arquivo de atas, permanente.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES DE USO; ATA Nº [NÚMERO]/[ANO] DA REUNIÃO [ORDINÁRIA / EXTRAORDINÁRIA] DA DIRETORIA EXECUTIVA DA [NOME COMPLETO DA IGREJA]; 1. PRESENÇAS E QUÓRUM; 2. ORDEM DO DIA; 3. DELIBERAÇÕES; 4. ENCERRAMENTO; ANEXO – MODELOS DE REDAÇÃO PARA DELIBERAÇÕES FREQUENTES.
+P Regras de preenchimento:
+I – Numere as atas em sequência a cada ano (ex.: 07/2027).
+II – Registre por completo decisões, valores, prazos e responsáveis, e o resultado de cada votação.
+III – Registre obrigatoriamente: despesas acima da alçada, perfis de acesso bancário, negócios com partes relacionadas, doações relevantes, designações e convocações de Assembleia.
+IV – Não registre informações pastorais, de saúde ou disciplinares de membros.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [MÊS/ANO]; [MATÉRIA]; [TÍTULO DA MATÉRIA]; [RUBRICA]; [ORDINÁRIA / EXTRAORDINÁRIA]; [NA SEDE DA IGREJA, SITUADA NA (ENDEREÇO) / POR MEIO ELETRÔNICO, PELA PLATAFORMA (NOME) / DE FORMA HÍBRIDA, NA SEDE E PELA PLATAFORMA (NOME)]; [EM DATA PREVIAMENTE FIXADA NO CALENDÁRIO ANUAL / MEDIANTE CONVOCAÇÃO DE (NOME), ENVIADA EM (DATA), COM ANTECEDÊNCIA MÍNIMA DE 3 (TRÊS) DIAS]; [PRESENTE / AUSENTE JUSTIFICADO / AUSENTE]; [NOME E QUALIFICAÇÃO, EX.: (NOME), MEMBRO DO CONSELHO FISCAL; (NOME), CONTADOR(A); (NOME), PASTOR(A) TITULAR, PARA O ITEM (NÚMERO)]; [1º SECRETÁRIO(A) / NOME]; [SEM RESSALVAS / COM A SEGUINTE RETIFICAÇÃO: (DESCREVER)]; [1º TESOUREIRO(A)]; [OS SALDOS CONFEREM COM OS EXTRATOS BANCÁRIOS E COM OS TERMOS DE CONTAGEM / HÁ AS SEGUINTES DIVERGÊNCIAS OU PENDÊNCIAS: (DESCREVER)]; [APROVADO / APROVADO COM AS SEGUINTES OBSERVAÇÕES: (DESCREVER)]; [RESUMO DA PROPOSTA E DOS DOCUMENTOS EXAMINADOS, COMO ORÇAMENTOS, PARECERES E CONTRATOS]; [DECLARAÇÃO DE IMPEDIMENTO, SE HOUVER: O(A) (CARGO) (NOME) DECLAROU INTERESSE PESSOAL NA MATÉRIA, POR (MOTIVO), E NÃO PARTICIPOU DA DISCUSSÃO NEM DA VOTAÇÃO.]; [APROVADA / REJEITADA]; [UNANIMIDADE DOS PRESENTES / (NÚMERO) VOTOS FAVORÁVEIS, (NÚMERO) CONTRÁRIOS E (NÚMERO) ABSTENÇÕES]; [DESCREVER EXATAMENTE O QUE FOI DECIDIDO: OBJETO, VALOR, FORNECEDOR, PRAZO, CONDIÇÕES E RESPONSÁVEL PELA EXECUÇÃO]; [MESMA ESTRUTURA DO ITEM III]; [RESUMO DOS INFORMES, SEM DELIBERAÇÃO]; [NOVA / EM ANDAMENTO / CONCLUÍDA]; [1º SECRETÁRIO(A)]; [FORNECEDOR 1]; [FORNECEDOR 2]; [FORNECEDOR 3]; [FORNECEDOR]; [OBJETO]; [10%]; [VÍNCULO]; [3 ORÇAMENTOS / AVALIAÇÃO]; [CONTRATAÇÃO/LOCAÇÃO/AQUISIÇÃO]; [BANCO]; [E MOVIMENTAÇÃO EM CONJUNTO NA AUSÊNCIA DO 1º TESOUREIRO]; [CHAVES, TODAS VINCULADAS AO CNPJ]; [FUNÇÃO]; [JORNADA]; [DECLARANDO-SE QUE O CONTRATADO NÃO TEM PARENTESCO COM DIRIGENTES / OBSERVADO O ART. (nº) DO ESTATUTO SOCIAL]; [2]; [ORDINÁRIA/EXTRAORDINÁRIA]; [LOCAL/MEIO ELETRÔNICO]; [ITENS].
+P Cuidados: A ata é a prova de que os controles do Estatuto foram cumpridos perante o Conselho Fiscal e o Fisco.
+### 6.10. Assembleia Geral Ordinária
+%GRID 5,11
+Item | Descrição
+Arquivo | 03_Assembleias_e_Conselhos/02_Assembleia_Geral_Ordinaria.docx
+Finalidade | Calendário preparatório, edital e ata da AGO anual (contas, orçamento e eleições), com lista de presença.
+Base legal | Estatuto, arts. [[agc]] a [[ata]]; Regimento, arts. <<ag1>> a <<ag5>> e <<el1>> a <<el4>>.
+Quem prepara, aprova e assina | Convocada pelo Presidente; presidida pelo Presidente, com presidente e secretário ad hoc no item das contas; ata assinada pela mesa e pelos eleitos.
+Guarda e prazos | Ata registrada no RCPJ quando houver eleição; original permanente.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES E CALENDÁRIO PREPARATÓRIO; EDITAL DE CONVOCAÇÃO; ATA DA ASSEMBLEIA GERAL ORDINÁRIA DE [ANO] DA [NOME COMPLETO DA IGREJA]; 1. INSTALAÇÃO; 2. ITEM I – RELATÓRIO DE ATIVIDADES E CONTAS DO EXERCÍCIO DE [ANO]; 3. ITEM II – ORÇAMENTO E PLANO DE ATIVIDADES DO EXERCÍCIO DE [ANO]; 4. ITEM III – ELEIÇÕES [SE HOUVER]; 5. ITEM IV – REFERENDO DE DESPESAS NÃO PREVISTAS [SE HOUVER]; 6. ITEM V – RECURSO DISCIPLINAR [SE HOUVER]; 7. ITEM VI – [OUTRAS MATÉRIAS]; 8. ITEM VII – COMUNICAÇÕES E ENCERRAMENTO; ANEXO – LISTA DE PRESENÇA DOS MEMBROS EM PLENA COMUNHÃO.
+P Regras de preenchimento:
+I – Siga o calendário de prazos da primeira página (Conselho Fiscal 30 dias antes, documentos 15 dias antes, edital 8 ou 15 dias antes).
+II – Eleja presidente e secretário ad hoc para as contas (Estatuto, art. [[quo]], § 3º); recomende que diretores não votem as próprias contas.
+III – Registre a qualificação completa dos eleitos e autorize o registro da ata no cartório.
+IV – Recurso disciplinar: só o resultado na ata geral; detalhes em ata reservada.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [NOME E QUALIFICAÇÃO COMPLETA]; [SE HOUVER:]; [RESULTADO DA VOTAÇÃO]; [SE HOUVER]; [NOMES E QUALIFICAÇÃO COMPLETA]; [HORA + 30 MIN]; [E POR MEIO ELETRÔNICO, PELA PLATAFORMA (NOME), MEDIANTE CADASTRO PRÉVIO ATÉ (DATA) (ESTATUTO, ART. (nº))]; [PERÍODO]; [OUTRAS MATÉRIAS DE COMPETÊNCIA DA ASSEMBLEIA ORDINÁRIA]; [DIAS E HORÁRIOS]; [PRIMEIRA / SEGUNDA]; [E POR MEIO ELETRÔNICO, PELA PLATAFORMA (NOME)]; [DATAS]; [MEIOS]; [E PELO RELATÓRIO DE ACESSO DA PLATAFORMA ELETRÔNICA]; [ATINGIDO O QUÓRUM DE PRIMEIRA CONVOCAÇÃO / INSTALANDO-SE A ASSEMBLEIA EM SEGUNDA CONVOCAÇÃO, COM QUALQUER NÚMERO]; [NÃO HOUVE / FORAM DECIDIDAS AS SEGUINTES]; [DESCREVER]; [ACLAMAÇÃO / (NÚMERO) VOTOS]; [SUPERÁVIT / DÉFICIT]; [INCORPORADO AO PATRIMÔNIO SOCIAL PARA APLICAÇÃO NAS FINALIDADES DA IGREJA / COBERTO POR (DESCREVER)]; [SE HOUVER AUDITORIA:]; [SEM RESSALVAS / COM AS SEGUINTES RESSALVAS: (DESCREVER)]; [APROVAÇÃO / APROVAÇÃO COM RESSALVAS / REJEIÇÃO]; [FORAM / NÃO FORAM]; [NOMES E RESUMO DAS PERGUNTAS E RESPOSTAS]; [COM A ABSTENÇÃO DOS MEMBROS DA DIRETORIA EXECUTIVA]; [APROVADAS / APROVADAS COM AS RESSALVAS DO CONSELHO FISCAL / REJEITADAS]; [SE REJEITADAS: A ASSEMBLEIA DETERMINOU (PROVIDÊNCIAS, EX.: AUDITORIA, PRAZO PARA ESCLARECIMENTOS, APURAÇÃO DE RESPONSABILIDADES).]; [FAVORAVELMENTE / COM AS SEGUINTES OBSERVAÇÕES]; [APROVADO / APROVADO COM AS SEGUINTES ALTERAÇÕES: (DESCREVER)]; [CHAPA(S) PARA A DIRETORIA EXECUTIVA E CANDIDATOS AO CONSELHO FISCAL]; [NÃO HOUVE IMPUGNAÇÕES / FORAM DECIDIDAS AS SEGUINTES IMPUGNAÇÕES: (DESCREVER)]; [POR ACLAMAÇÃO, POR SE TRATAR DE CHAPA E CANDIDATOS ÚNICOS, SEM REQUERIMENTO DE VOTAÇÃO SECRETA / POR VOTO SECRETO, COM APURAÇÃO PELA COMISSÃO ELEITORAL E PELOS ESCRUTINADORES (NOMES)]; [VOTOS POR CHAPA E POR CANDIDATO, BRANCOS E NULOS]; [DATA DE INÍCIO]; [DATA DE TÉRMINO]; [TOMARAM POSSE NESTA DATA / TOMARÃO POSSE EM (DATA), NO PRAZO DE ATÉ 30 (TRINTA) DIAS]; [DESCRIÇÃO, VALOR, DATA DA APROVAÇÃO E DO PARECER]; [REFERENDADAS / NÃO REFERENDADAS, DETERMINANDO-SE (PROVIDÊNCIAS)]; [MANTER / REDUZIR / ANULAR]; [OUTRAS MATÉRIAS]; [RESUMO DA PROPOSTA, DISCUSSÃO E RESULTADO DA VOTAÇÃO, NA MESMA ESTRUTURA DOS ITENS ANTERIORES.]; [EX.: ORDENAÇÕES REALIZADAS NO EXERCÍCIO (REGIMENTO, ART. (nº), V); RELATÓRIO RESUMIDO, SEM IDENTIFICAÇÃO DE PESSOAS, DA APLICAÇÃO DA POLÍTICA DE PROTEÇÃO; OUTROS INFORMES]; [LIDA E APROVADA AO FINAL DA ASSEMBLEIA / LAVRADA NO PRAZO DO ART. (nº) DO REGIMENTO INTERNO E SUBMETIDA À APROVAÇÃO DA ASSEMBLEIA SEGUINTE]; [NOME DO ADVOGADO].
+P Cuidados: Realizar até 30 de abril de cada ano. O parecer do Conselho Fiscal lido na AGO é a prova anual da imunidade.
+### 6.11. Assembleia Geral Extraordinária
+%GRID 5,11
+Item | Descrição
+Arquivo | 03_Assembleias_e_Conselhos/03_Assembleia_Geral_Extraordinaria.docx
+Finalidade | Tabela de quóruns por matéria, edital, ata com módulos (reforma estatutária, destituição, cargo vago, imóveis, Declaração de Fé, filiação, dissolução), lista de presença e termo de verificação de quórum.
+Base legal | Código Civil, arts. 59 e 60; Estatuto, arts. [[agc]] a [[ata]], [[vac]], [[dest0]] e [[alt]] a [[dest]].
+Quem prepara, aprova e assina | Convocada pelo Presidente, pela Diretoria, pelo Conselho Fiscal ou por 1/5 dos membros.
+Guarda e prazos | Ata averbada no RCPJ quando alterar o Estatuto, eleger ou dissolver; original permanente.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES: MATÉRIAS, QUÓRUNS E EXIGÊNCIAS; EDITAL DE CONVOCAÇÃO; ATA DA ASSEMBLEIA GERAL EXTRAORDINÁRIA DE [DATA] DA [NOME COMPLETO DA IGREJA]; 1. INSTALAÇÃO E VERIFICAÇÃO DOS QUÓRUNS; 2. MÓDULOS DE DELIBERAÇÃO (UTILIZAR APENAS OS CORRESPONDENTES À PAUTA); 3. ENCERRAMENTO; ANEXO I – LISTA DE PRESENÇA DOS MEMBROS EM PLENA COMUNHÃO; ANEXO II – TERMO DE VERIFICAÇÃO DE QUÓRUM.
+P Regras de preenchimento:
+I – Use só os módulos que correspondem à pauta.
+II – Descreva a matéria de forma específica no edital (na destituição, os fatos da justa causa) e publique com 15 dias de antecedência.
+III – Confira a presença mínima antes de votar; se não atingida, faça nova convocação com 15 dias de intervalo.
+IV – Preencha o Termo de Verificação de Quórum em toda votação qualificada.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [PERCENTUAL]; [APROVADA / REJEITADA]; [1/3]; [1/2]; [RESUMO]; [RELATOR(A)]; [NÚMEROS]; [O(A) PRESIDENTE DA DIRETORIA EXECUTIVA / A DIRETORIA EXECUTIVA / O CONSELHO FISCAL / OS MEMBROS EM PLENA COMUNHÃO ABAIXO ASSINADOS, EM NÚMERO SUPERIOR A 1/5 (UM QUINTO) DO TOTAL]; [INCISO]; [HORA + 30 MIN]; [E POR MEIO ELETRÔNICO, PELA PLATAFORMA (NOME), MEDIANTE CADASTRO PRÉVIO ATÉ (DATA)]; [MATÉRIA, DESCRITA DE FORMA ESPECÍFICA, EX.: "ALTERAÇÃO DOS ARTS. (NÚMEROS) DO ESTATUTO SOCIAL, CONFORME PROPOSTA ANEXA" / "DESTITUIÇÃO DO(A) (CARGO) (NOME), POR (FATOS QUE CONFIGURAM A JUSTA CAUSA), ASSEGURADO O DIREITO DE DEFESA" / "ALIENAÇÃO DO IMÓVEL DA MATRÍCULA Nº (NÚMERO), PELO VALOR MÍNIMO DE R$ (VALOR)"]; [MATÉRIA]; [DE ALTERAÇÃO ESTATUTÁRIA / DE ALIENAÇÃO, COM LAUDO DE AVALIAÇÃO E PARECER DO CONSELHO FISCAL / DEMAIS DOCUMENTOS]; [PRESIDENTE DA DIRETORIA EXECUTIVA / DEMAIS CONVOCANTES, COM NOME E CPF]; [PRIMEIRA / SEGUNDA]; [E POR MEIO ELETRÔNICO, PELA PLATAFORMA (NOME)]; [CONVOCANTE]; [DATAS]; [MEIOS]; [O(A) PRESIDENTE DA DIRETORIA EXECUTIVA, (NOME) / (NOME), ELEITO(A) PRESIDENTE AD HOC POR (RESULTADO), POR ENVOLVER A PAUTA A DESTITUIÇÃO DO(A) (CARGO) (ESTATUTO, ART. (nº), § 3º)]; [E PELO RELATÓRIO DE ACESSO DA PLATAFORMA]; [FOI ATINGIDO O QUÓRUM DE INSTALAÇÃO EXIGIDO PARA TODAS AS MATÉRIAS DA PAUTA / FOI ATINGIDO O QUÓRUM PARA OS ITENS (NÚMEROS), MAS NÃO PARA O ITEM (NÚMERO), QUE NÃO SERÁ DELIBERADO E SERÁ OBJETO DE NOVA CONVOCAÇÃO (ESTATUTO, ART. (nº), § 2º)]; [RESUMO DAS MANIFESTAÇÕES E DAS EMENDAS APRESENTADAS E VOTADAS]; [TENDO APRESENTADO DEFESA ESCRITA, LIDA NA ÍNTEGRA / E EXERCEU O DIREITO DE DEFESA ORALMENTE, PELO PRAZO DE (MINUTOS) / E NÃO COMPARECEU NEM APRESENTOU DEFESA]; [SE HOUVER: FOI LIDO O PARECER DO CONSELHO FISCAL / DO CONSELHO MINISTERIAL.]; [SE APROVADA: O CARGO SERÁ PREENCHIDO NA FORMA DO ART. (nº) DO ESTATUTO SOCIAL / A ASSEMBLEIA ELEGEU, NESTA MESMA SESSÃO, CONFORME PREVISTO NO EDITAL, (NOME E QUALIFICAÇÃO COMPLETA) PARA COMPLETAR O MANDATO. O(A) DESTITUÍDO(A) DEVERÁ ENTREGAR, EM ATÉ (PRAZO), OS BENS, DOCUMENTOS, CHAVES E CREDENCIAIS DA IGREJA, REVOGANDO-SE IMEDIATAMENTE SEUS ACESSOS BANCÁRIOS.]; [RENÚNCIA / FALECIMENTO / DESTITUIÇÃO / OUTRO]; [NOME(S)]; [RESULTADO]; [ALIENAÇÃO / PERMUTA / DOAÇÃO / CONSTITUIÇÃO DE HIPOTECA OU ALIENAÇÃO FIDUCIÁRIA EM GARANTIA]; [DESCRIÇÃO]; [Nº]; [AVALIADOR]; [SE ALIENAÇÃO: O PRODUTO SERÁ APLICADO EM (DESTINAÇÃO), NAS FINALIDADES ESSENCIAIS DA IGREJA.]; [SE DOAÇÃO: A DONATÁRIA, (NOME), É ENTIDADE RELIGIOSA OU ASSISTENCIAL SEM FINS LUCRATIVOS QUE ATENDE AOS REQUISITOS DO ART. (nº) DO ESTATUTO SOCIAL, VEDADA DOAÇÃO A MEMBROS, DIRIGENTES OU PARTES RELACIONADAS.]; [CONDIÇÕES]; [FILIAÇÃO À / DESFILIAÇÃO DA]; [NOME DA CONVENÇÃO OU CONCÍLIO]; [ESTATUTO E CONDIÇÕES DE FILIAÇÃO / MOTIVOS DA DESFILIAÇÃO]; [NENHUM MEMBRO / APENAS (NÚMERO) MEMBROS, NÚMERO INFERIOR AO MÍNIMO ESTATUTÁRIO,]; [NOME E QUALIFICAÇÃO COMPLETA]; [NOME, CNPJ E SEDE DA ENTIDADE]; [OU ASSISTENCIAL]; [RESUMO DA PROPOSTA, DOS DOCUMENTOS EXAMINADOS, DA DISCUSSÃO E DO RESULTADO DA VOTAÇÃO, COM INDICAÇÃO DO QUÓRUM APLICÁVEL.]; [NOME DO ADVOGADO]; [1/3 ou 1/2]; [SIM / NÃO]; [2/3 ou 3/4]; [ITEM DA PAUTA].
+P Cuidados: Edital genérico, falta de defesa na destituição e quórum mal contado são as causas mais comuns de anulação judicial.
+### 6.12. Conselho Fiscal: Atas e Pareceres
+%GRID 5,11
+Item | Descrição
+Arquivo | 03_Assembleias_e_Conselhos/04_Conselho_Fiscal_Atas_e_Pareceres.docx
+Finalidade | Ata trimestral com roteiro de verificações, parecer anual sobre as contas com atestado da imunidade, parecer específico e comunicação de irregularidade à Diretoria.
+Base legal | Estatuto, arts. [[imu]], § 1º, [[dest0]], [[cf]] e [[ci]]; Regimento, art. <<cfis>>.
+Quem prepara, aprova e assina | Conselho Fiscal (titulares e, nas faltas, suplentes).
+Guarda e prazos | Permanente, com as demonstrações do exercício.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES DE USO; MODELO 1 – ATA DE REUNIÃO DO CONSELHO FISCAL; MODELO 2 – PARECER DO CONSELHO FISCAL SOBRE AS CONTAS DO EXERCÍCIO; MODELO 3 – PARECER ESPECÍFICO DO CONSELHO FISCAL; MODELO 4 – COMUNICAÇÃO DE CONSTATAÇÃO À DIRETORIA EXECUTIVA.
+P Regras de preenchimento:
+I – Aplique o mesmo roteiro de verificações todo trimestre.
+II – Entregue o parecer anual até 30 dias antes da AGO.
+III – Conselheiro com interesse pessoal declara impedimento e é substituído.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [PERCENTUAL]; [NA SEDE DA IGREJA / POR MEIO ELETRÔNICO]; [ORDINARIAMENTE, PARA O EXAME DO (NÚMERO)º TRIMESTRE DE (ANO) / EXTRAORDINARIAMENTE, PARA (MATÉRIA)]; [NOMES, INDICANDO TITULARES E SUPLENTES EM EXERCÍCIO]; [NOMES E FUNÇÕES, EX.: 1º TESOUREIRO(A), CONTADOR(A)]; [PERÍODO]; [NÚMEROS]; [OUTROS]; [CONFORME / RESSALVA]; [NO ÚLTIMO TRIMESTRE:]; [NENHUM / PARECER SOBRE (MATÉRIA), NO MODELO 3, QUE FICA ANEXO]; [NÃO FORAM CONSTATADAS IRREGULARIDADES NO PERÍODO EXAMINADO / FORAM CONSTATADAS AS SEGUINTES INCONSISTÊNCIAS, QUE SERÃO COMUNICADAS À DIRETORIA EXECUTIVA NA FORMA DO MODELO 4, COM PRAZO DE (DIAS) PARA ESCLARECIMENTOS OU CORREÇÃO: (DESCREVER)]; [RECOMENDAÇÕES DE MELHORIA DOS CONTROLES]; [SITUAÇÃO DE CADA RECOMENDAÇÃO ANTERIOR: ATENDIDA / EM ANDAMENTO / NÃO ATENDIDA]; [ACOMPANHADAS DO RELATÓRIO DA AUDITORIA INDEPENDENTE (NOME), DE (DATA)]; [SUPERÁVIT / DÉFICIT]; [ATESTA QUE FORAM OBSERVADOS / RESSALVA QUE NÃO FORAM INTEGRALMENTE OBSERVADOS]; [OBSERVADO / RESSALVA: (DESCREVER)]; [EX.: CUMPRIMENTO DAS RECOMENDAÇÕES DO EXERCÍCIO ANTERIOR; NEGÓCIOS COM PARTES RELACIONADAS REALIZADOS E RESPECTIVOS PARECERES; CONFERÊNCIA DO INVENTÁRIO; CONSIDERAÇÕES SOBRE OS RELATÓRIOS DO(A) ENCARREGADO(A) DE DADOS (POLÍTICA DE PRIVACIDADE, ART. (nº)) E DO(A) COORDENADOR(A) DE PROTEÇÃO (POLÍTICA DE PROTEÇÃO, ART. (nº)), SEM IDENTIFICAÇÃO DE PESSOAS]; [APROVAÇÃO / APROVAÇÃO COM AS RESSALVAS ACIMA / REJEIÇÃO]; [NEGÓCIO COM PARTE RELACIONADA (ESTATUTO, ART. (nº)) / AQUISIÇÃO, ALIENAÇÃO OU ONERAÇÃO DE IMÓVEL (ART. (nº), § 1º, III) / ENDIVIDAMENTO / ORÇAMENTO ANUAL / DESPESA NÃO PREVISTA (REGIMENTO, ART. (nº), IV) / SUSTENTO DE MINISTRO QUE INTEGRA A DIRETORIA (ESTATUTO, ART. (nº), § 3º) / ACEITAÇÃO DE DOAÇÃO DE IMÓVEL / OUTRA]; [DESCRIÇÃO DA OPERAÇÃO: PARTES, OBJETO, VALOR, PRAZO E CONDIÇÕES]; [ORÇAMENTOS, LAUDO DE AVALIAÇÃO, MINUTA DE CONTRATO, CERTIDÕES, DEMONSTRATIVO DE IMPACTO NO ORÇAMENTO, DECLARAÇÃO DE VÍNCULO DAS PARTES]; [EX.: (A) A OPERAÇÃO É INDISPENSÁVEL OU COMPROVADAMENTE VANTAJOSA PARA A IGREJA PORQUE (...); (B) O PREÇO É COMPATÍVEL COM O MERCADO, CONFORME (...); (C) HÁ RECURSOS ORÇAMENTÁRIOS OU FONTE DE CUSTEIO; (D) OS RISCOS IDENTIFICADOS SÃO (...); (E) A OPERAÇÃO NÃO IMPLICA DISTRIBUIÇÃO DE PATRIMÔNIO OU VANTAGEM INDEVIDA A PARTE RELACIONADA]; [FAVORAVELMENTE / FAVORAVELMENTE, DESDE QUE (CONDIÇÕES) / DESFAVORAVELMENTE]; [O CONSELHEIRO (NOME) DECLAROU-SE IMPEDIDO E FOI SUBSTITUÍDO PELO SUPLENTE (NOME).]; [DESCRIÇÃO OBJETIVA DO FATO, DOS DOCUMENTOS E DOS VALORES ENVOLVIDOS, SEM JUÍZO SOBRE RESPONSABILIDADES INDIVIDUAIS]; [15 (QUINZE)]; [REGULARIZAÇÃO / RESSARCIMENTO / CORREÇÃO DOS CONTROLES]; [NOME E CARGO].
+P Cuidados: O Conselho fiscaliza, mas não administra nem trata de assuntos pastorais.
+### 6.13. Conselho Ministerial: Atas e Procedimento Disciplinar
+%GRID 5,11
+Item | Descrição
+Arquivo | 03_Assembleias_e_Conselhos/05_Conselho_Ministerial_Atas_e_Disciplina.docx
+Finalidade | Ata geral (admissões, desligamentos, líderes, credenciais, celebrações) e documentos reservados do procedimento disciplinar: instauração, notificação, decisão e comunicação.
+Base legal | Estatuto, arts. [[disc]] e [[cm]]; Regimento, arts. <<fal>> a <<pd7>> e <<ord>>; LGPD; ECA.
+Quem prepara, aprova e assina | Presidido pelo Pastor Titular (ou pelo ministro mais antigo se ele for o acusado).
+Guarda e prazos | Autos disciplinares sigilosos por 10 anos; ata geral permanente.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES DE USO; MODELO 1 – ATA GERAL DE REUNIÃO DO CONSELHO MINISTERIAL; MODELO 2 – ATA RESERVADA DE INSTAURAÇÃO DE PROCEDIMENTO DISCIPLINAR; MODELO 3 – NOTIFICAÇÃO AO(À) ACUSADO(A); MODELO 4 – ATA RESERVADA DE DECISÃO DISCIPLINAR; MODELO 5 – COMUNICAÇÃO DE DECISÃO AO(À) INTERESSADO(A).
+P Regras de preenchimento:
+I – Separe ata geral e ata reservada.
+II – Descreva os fatos de forma objetiva, sem adjetivos, e fundamente a decisão.
+III – Garanta ao acusado acesso aos autos, 10 dias para defesa, testemunhas e acompanhante ou advogado.
+IV – Informe o prazo de 15 dias para recurso à Assembleia.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [MENSALMENTE]; [NA SEDE DA IGREJA / POR MEIO ELETRÔNICO]; [ORDINARIAMENTE / EXTRAORDINARIAMENTE]; [NOMES E FUNÇÕES: PASTORES AUXILIARES, MINISTROS, (PRESBÍTEROS/OFICIAIS)]; [PROFISSÃO DE FÉ E BATISMO / TRANSFERÊNCIA / RECONCILIAÇÃO / ACLAMAÇÃO / JURISDIÇÃO]; [CLASSE DE PREPARAÇÃO, ENTREVISTA, DECLARAÇÃO DE ADESÃO, AUTORIZAÇÃO DOS PAIS SE MENOR, CARTA DE TRANSFERÊNCIA]; [PEDIDO ESCRITO DE (DATA) / TRANSFERÊNCIA PARA (IGREJA) / FALECIMENTO EM (DATA) / AUSÊNCIA SUPERIOR A (PRAZO), APÓS NOTIFICAÇÃO DE (DATA) SEM MANIFESTAÇÃO OU COM MANIFESTAÇÃO NÃO ACOLHIDA]; [FOI EXPEDIDA CARTA DE TRANSFERÊNCIA A (NOME), A PEDIDO.]; [PRAZO]; [MINISTÉRIO – NOMES]; [PARA OS MINISTÉRIOS COM CRIANÇAS E ADOLESCENTES: FOI CONFIRMADA, COM O(A) COORDENADOR(A) DE PROTEÇÃO, A HABILITAÇÃO DOS DESIGNADOS NOS TERMOS DA POLÍTICA DE PROTEÇÃO.]; [APROVADA A RENOVAÇÃO DAS CREDENCIAIS DE (NOMES) PARA O ANO DE (ANO) / APROVADO, APÓS EXAME, O CANDIDATO (NOME) À (CONSAGRAÇÃO/ORDENAÇÃO), VERIFICADOS OS REQUISITOS DO ART. (nº) DO REGIMENTO INTERNO, COM CERIMÔNIA EM (DATA) E COMUNICAÇÃO À PRÓXIMA ASSEMBLEIA GERAL / RECEBIDO O MINISTRO (NOME), EM TRANSFERÊNCIA DE (IGREJA)]; [CASAMENTOS, COM HABILITAÇÃO CIVIL E ACONSELHAMENTO PRÉVIO VERIFICADOS (REGIMENTO, ART. (nº)); BATISMOS; CEIA; EVENTOS ESPECIAIS]; [RESUMO DAS ORIENTAÇÕES APROVADAS, QUE NÃO PODERÃO CONTRARIAR A DECLARAÇÃO DE FÉ]; [DESIGNADO(S) (NOME(S)) COMO MEDIADOR(ES) NO PEDIDO DE (DATA), COM A ANUÊNCIA DAS PARTES]; [MATÉRIAS QUE DEPENDEM DE PROVIDÊNCIA ADMINISTRATIVA OU FINANCEIRA, SEM DADOS PASTORAIS, EX.: NECESSIDADE DE RECURSOS PARA MISSÕES, INDICAÇÃO DE CRIAÇÃO DE CONGREGAÇÃO]; [REPRESENTAÇÃO ESCRITA DE (NOME OU "CANAL DE DENÚNCIAS") DE (DATA) / FATOS CONHECIDOS DE OFÍCIO]; [NOME DO(A) MEMBRO]; [DESCRIÇÃO OBJETIVA: O QUÊ, QUANDO, ONDE, SEM ADJETIVOS NEM CONCLUSÕES]; [FALTA DO ART. (nº), (INCISO), DO REGIMENTO INTERNO]; [NENHUM INTEGRANTE DECLAROU IMPEDIMENTO / (NOME) DECLAROU-SE IMPEDIDO(A) POR (MOTIVO) E NÃO PARTICIPARÁ DO PROCEDIMENTO]; [SE O ACUSADO FOR O PASTOR TITULAR: A SESSÃO FOI PRESIDIDA POR (NOME), MINISTRO MAIS ANTIGO, E O CONSELHO FISCAL FOI COMUNICADO EM (DATA).]; [RESULTADO]; [DESIGNAR COMISSÃO DE APURAÇÃO COMPOSTA POR (NOMES), SEM IMPEDIMENTOS, COM PRAZO DE 30 (TRINTA) DIAS (REGIMENTO, ART. (nº), § 1º) / CONDUZIR DIRETAMENTE A APURAÇÃO]; [NÃO APLICAR MEDIDA CAUTELAR / AFASTAR CAUTELARMENTE O(A) ACUSADO(A) DAS SEGUINTES FUNÇÕES E ATIVIDADES, ATÉ A DECISÃO FINAL, EM RAZÃO DE (RISCO) (REGIMENTO, ART. (nº)): (DESCREVER)]; [SE OS FATOS PUDEREM CONSTITUIR CRIME OU VIOLÊNCIA CONTRA VULNERÁVEL]; [CONSELHO TUTELAR / AUTORIDADE POLICIAL / OUTRO ÓRGÃO]; [DESCRIÇÃO SUMÁRIA, IGUAL À DA ATA DE INSTAURAÇÃO]; [INCISO]; [DIAS E HORÁRIOS]; [3 (TRÊS)]; [DATA, HORA E LOCAL / DATA A AGENDAR]; [SE HOUVER MEDIDA CAUTELAR:]; [DESCREVER]; [NOME DO(A) NOTIFICADO(A)]; [APRESENTOU DEFESA ESCRITA EM (DATA) / FOI OUVIDO(A) EM (DATA), ACOMPANHADO(A) DE (NOME) / NÃO APRESENTOU DEFESA, TENDO SIDO CERTIFICADA A REGULARIDADE DA NOTIFICAÇÃO]; [NOMES OU "NENHUMA"]; [A COMISSÃO DE APURAÇÃO APRESENTOU RELATÓRIO EM (DATA)]; [DESCRIÇÃO OBJETIVA, COM INDICAÇÃO DAS PROVAS QUE OS SUSTENTAM]; [DESCRIÇÃO OU "NENHUM"]; [RESUMO DOS ARGUMENTOS DA DEFESA E DAS RAZÕES PELAS QUAIS FORAM ACOLHIDOS OU NÃO]; [ARQUIVAR O PROCEDIMENTO, POR (INSUFICIÊNCIA DE PROVAS / INEXISTÊNCIA DE FALTA) / RECONHECER A PRÁTICA DA FALTA DO ART. (nº), (INCISO), DO REGIMENTO INTERNO E APLICAR A MEDIDA DE (ADVERTÊNCIA ESCRITA / AFASTAMENTO DE (FUNÇÕES) POR (PRAZO) / SUSPENSÃO DOS DIREITOS DE MEMBRO EM PLENA COMUNHÃO POR (PRAZO) / EXCLUSÃO)]; [FUNDAMENTAÇÃO DA PROPORCIONALIDADE]; [MEDIDA CAUTELAR: REVOGADA / MANTIDA ATÉ O TRÂNSITO DO RECURSO, SE HOUVER.]; [ACOMPANHAMENTO PASTORAL OFERECIDO AO(À) INTERESSADO(A) E, SE HOUVER, À VÍTIMA: (DESCREVER).]; [DISPOSITIVO DA DECISÃO].
+P Cuidados: Suspeita de violência contra vulnerável é comunicada imediatamente às autoridades, independentemente do procedimento.
+### 6.14. Relatório Anual de Atividades
+%GRID 5,11
+Item | Descrição
+Arquivo | 03_Assembleias_e_Conselhos/06_Relatorio_Anual_de_Atividades.docx
+Finalidade | Relatório da Diretoria para a AGO, organizado pelas finalidades da igreja, com números, resumo financeiro por finalidade, indicadores, conformidade e declaração sobre os requisitos da imunidade.
+Base legal | Estatuto, arts. [[fin]], [[imu]], [[agc]], IV, [[dec]], II, e [[cont]], § 1º.
+Quem prepara, aprova e assina | Elaborado pela Diretoria; assinado por Presidente, 1º Tesoureiro, 1º Secretário e Pastor Titular.
+Guarda e prazos | Permanente, com as contas do exercício.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES DE PREENCHIMENTO; 1. APRESENTAÇÃO; 2. IDENTIFICAÇÃO E GOVERNANÇA; 3. MEMBRESIA; 4. ATIVIDADES RELIGIOSAS (FINALIDADE ESSENCIAL – ESTATUTO, ART. [[fin]], I A III); 5. ENSINO, FORMAÇÃO E COMUNICAÇÃO (ESTATUTO, ART. [[fin]], II E III); 6. MISSÕES E EVANGELIZAÇÃO (ESTATUTO, ART. [[fin]], V); 7. AÇÃO SOCIAL E ASSISTÊNCIA (ESTATUTO, ART. [[fin]], VI); 8. MINISTÉRIOS, DEPARTAMENTOS E CONGREGAÇÕES; 9. PESSOAS; 10. PATRIMÔNIO E INFRAESTRUTURA; 11. RESUMO FINANCEIRO; 12. INTEGRIDADE E CONFORMIDADE; 13. PLANEJAMENTO PARA O EXERCÍCIO SEGUINTE; 14. DECLARAÇÃO DA DIRETORIA EXECUTIVA; ANEXOS (ARQUIVADOS NA SECRETARIA).
+P Regras de preenchimento:
+I – Os números devem conferir com a contabilidade.
+II – Cada informação deve ter documento arquivado.
+III – Ninguém é identificado nas seções sensíveis; use só números.
+IV – Seções sem atividade ficam com a indicação "sem atividade no exercício".
+P Campos específicos a preencher (além dos campos comuns da seção 4): [DESCRIÇÃO]; [MENSAGEM DO(A) PASTOR(A) TITULAR E DO(A) PRESIDENTE DA DIRETORIA EXECUTIVA, COM OS PRINCIPAIS FATOS DO ANO, EM ATÉ UMA PÁGINA.]; [RCPJ, Nº E DATA]; [NÚMERO E LOCALIDADES]; [NOMES E CARGOS – MANDATO DE (DATA) A (DATA)]; [NOMES E FUNÇÕES]; [EX.: REGIMENTO INTERNO, POLÍTICAS, CÓDIGO DE CONDUTA]; [DESCRIÇÃO SUCINTA DOS PRINCIPAIS EVENTOS E INICIATIVAS RELIGIOSAS DO ANO]; [EX.: DISTRIBUIÇÃO DE CESTAS BÁSICAS]; [EX.: ATENDIMENTO A PESSOAS EM SITUAÇÃO DE RUA]; [EX.: CURSOS E OFICINAS COMUNITÁRIAS]; [EX.: PARCERIA COM O PODER PÚBLICO (TERMO Nº, VALOR E PRESTAÇÃO DE CONTAS)]; [PARA CADA MINISTÉRIO, DEPARTAMENTO E CONGREGAÇÃO: LIDERANÇA, PRINCIPAIS ATIVIDADES, PARTICIPANTES E CUMPRIMENTO DO PLANO ANUAL, EM POUCAS LINHAS.]; [RELAÇÃO, COM A SITUAÇÃO DE CADA UM E O RECONHECIMENTO DA IMUNIDADE DO IPTU]; [DESCRIÇÃO, COM A DATA DA AUTORIZAÇÃO DO ÓRGÃO COMPETENTE]; [SIM / PENDÊNCIAS: (DESCREVER)]; [ANO SEGUINTE].
+P Cuidados: É a principal prova, perante o Fisco, de que a igreja se dedica às finalidades essenciais.
+## Pasta 04 Membros
+### 6.15. Ficha de Cadastro de Membro
+%GRID 5,11
+Item | Descrição
+Arquivo | 04_Membros/01_Ficha_de_Cadastro_de_Membro.docx
+Finalidade | Coleta os dados necessários ao Rol de Membros, dados facultativos, declaração de adesão, consentimento LGPD, autorização dos pais (menores), campos da Secretaria e atualização anual.
+Base legal | Estatuto, arts. [[adm]] e [[cat]]; Regimento, arts. <<adm1>> e <<rol>>; LGPD, arts. 11 e 14.
+Quem prepara, aprova e assina | Preenchida pelo candidato (ou pelos pais, se menor) antes da entrevista; Parte E pela Secretaria.
+Guarda e prazos | Armário trancado ou sistema com acesso individual; após desligamento, só nome e datas.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES DE USO (PARA A SECRETARIA); PARTE A – DADOS NECESSÁRIOS; PARTE B – DADOS FACULTATIVOS; PARTE C – DECLARAÇÃO DE ADESÃO; PARTE D – CONSENTIMENTO PARA O TRATAMENTO DE DADOS PESSOAIS; AUTORIZAÇÃO DOS PAIS OU RESPONSÁVEIS (CANDIDATO MENOR DE 18 ANOS); PARTE E – USO EXCLUSIVO DA SECRETARIA; PARTE F – ATUALIZAÇÃO CADASTRAL ANUAL.
+P Regras de preenchimento:
+I – Parte A é obrigatória; Parte B é facultativa e a recusa não impede a admissão.
+II – Não peça dados de saúde, renda ou opinião política.
+III – Medidas disciplinares não vão na ficha.
+IV – Aplique a Parte F (atualização) todo ano, antes da AGO.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [PREENCHIDO PELA SECRETARIA]; [PAI / MÃE / RESPONSÁVEL LEGAL]; [NOME DO(A) CANDIDATO(A)]; [MEMBRO MENOR / MEMBRO EM PLENA COMUNHÃO A PARTIR DE (DATA)].
+P Cuidados: O consentimento pode ser revogado a qualquer tempo, conservando-se apenas os registros exigidos por lei ou pelo Estatuto.
+### 6.16. Termo de Admissão de Membro Menor de 18 Anos
+%GRID 5,11
+Item | Descrição
+Arquivo | 04_Membros/02_Admissao_de_Membro_Menor.docx
+Finalidade | Autorização dos pais, manifestação do próprio menor, comunicação ao outro genitor e ratificação aos 18 anos.
+Base legal | ECA, art. 16, III; Código Civil (poder familiar); LGPD, art. 14; Regimento, art. <<adm1>>, § 1º.
+Quem prepara, aprova e assina | Pais ou responsáveis (Parte A), o menor (Parte B), Conselho Ministerial (registro da conversa).
+Guarda e prazos | Com a ficha do membro.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES DE USO; PARTE A – TERMO DE AUTORIZAÇÃO DOS PAIS OU RESPONSÁVEIS; PARTE B – MANIFESTAÇÃO DO(A) MENOR; PARTE C – COMUNICAÇÃO AO OUTRO GENITOR OU RESPONSÁVEL (QUANDO APLICÁVEL); PARTE D – RATIFICAÇÃO NA MAIORIDADE.
+P Regras de preenchimento:
+I – Defina a idade mínima conforme a doutrina.
+II – Colha a assinatura dos dois pais sempre que possível.
+III – A conversa com o menor ocorre em local visível, com os pais presentes ou cientes.
+IV – Havendo oposição de um dos pais, suspenda a admissão.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [IDADE]; [SIM / NÃO]; [IDADE MÍNIMA DEFINIDA PELO CONSELHO MINISTERIAL, CONFORME A DOUTRINA DA IGREJA]; [NOME DA MÃE]; [NOME DO PAI]; [MÃE / PAI / TUTOR(A) / GUARDIÃO(Ã)]; [SE APENAS UM RESPONSÁVEL ASSINAR:]; [TEM CONHECIMENTO DESTE PEDIDO E NÃO SE OPÕE / NÃO TEM CONHECIMENTO, EM RAZÃO DE (MOTIVO) / É FALECIDO(A) / TEVE O PODER FAMILIAR SUSPENSO OU EXTINTO]; [NÃO HÁ / HÁ]; [PROFISSÃO DE FÉ E BATISMO / TRANSFERÊNCIA / OUTRO]; [E A REALIZAÇÃO DE SEU BATISMO EM (DATA)]; [ESCREVA COM SUAS PALAVRAS]; [LOCAL VISÍVEL]; [PRESENÇA / CIÊNCIA]; [NOME DO(A) OUTRO(A) GENITOR(A) OU RESPONSÁVEL]; [ENDEREÇO OU CONTATO]; [NOME DO RESPONSÁVEL QUE ASSINOU]; [NOME DO(A) MENOR]; [DATA, PRAZO SUGERIDO DE 15 DIAS].
+P Cuidados: Nenhum menor é admitido contra a vontade ou sob pressão. Aos 18 anos, colha o consentimento em nome próprio.
+### 6.17. Carta de Transferência e Documentos de Membresia
+%GRID 5,11
+Item | Descrição
+Arquivo | 04_Membros/03_Carta_de_Transferencia_e_Membresia.docx
+Finalidade | Pedido e carta de transferência, comunicação de recebimento, carta de recomendação, declaração de membresia e solicitação de carta à igreja de origem.
+Base legal | Estatuto, arts. [[adm]], [[cat]] e [[disc]]; Regimento, arts. <<adm2>> e <<rol>>; LGPD.
+Quem prepara, aprova e assina | Emitida por deliberação do Conselho Ministerial; assinada pelo Pastor Titular e pelo 1º Secretário.
+Guarda e prazos | Cópia com a ficha do membro.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES DE USO; MODELO 1 – PEDIDO DE CARTA DE TRANSFERÊNCIA; MODELO 2 – CARTA DE TRANSFERÊNCIA; MODELO 3 – COMUNICAÇÃO DE RECEBIMENTO (A SER DEVOLVIDA PELA IGREJA DE DESTINO); MODELO 4 – CARTA DE RECOMENDAÇÃO (AUSÊNCIA TEMPORÁRIA); MODELO 5 – DECLARAÇÃO DE MEMBRESIA; MODELO 6 – SOLICITAÇÃO DE CARTA À IGREJA DE ORIGEM (MEMBRO QUE CHEGA).
+P Regras de preenchimento:
+I – Só a pedido do membro e só para membro em plena comunhão.
+II – Dados mínimos: nome, datas, modo de admissão e batismo.
+III – O membro sai do Rol quando a igreja de destino confirmar o recebimento.
+IV – Membro suspenso recebe apenas Declaração de Membresia, sem motivos.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [NOME DA IGREJA DE DESTINO]; [ENDEREÇO, CIDADE/UF]; [ENDEREÇO DA SECRETARIA / E-MAIL]; [PASTOR(A) RESPONSÁVEL: (NOME), CONTATO: (E-MAIL/TELEFONE)]; [MUDANÇA DE DOMICÍLIO / OUTRO MOTIVO, SE QUISER INFORMAR]; [SE DESEJAR INCLUIR FAMILIARES MEMBROS:]; [NOMES DOS FAMILIARES MAIORES, QUE ASSINAM ABAIXO, E DOS FILHOS MENORES SOB MINHA RESPONSABILIDADE]; [NOME COMPLETO – SE HOUVER]; [CIDADE/UF]; [PROFISSÃO DE FÉ E BATISMO / TRANSFERÊNCIA DE (IGREJA) / OUTRO]; [E IGREJA, SE OUTRA]; [EX.: PROFESSOR(A) DA ESCOLA BÍBLICA; MÚSICO(A)]; [NOMES OU "NENHUM"]; [90 (NOVENTA)]; [E-MAIL DA SECRETARIA]; [CIDADE/UF / PAÍS]; [ESTUDOS / TRABALHO / TRATAMENTO DE SAÚDE / OUTRO, SE O INTERESSADO QUISER INFORMAR]; [É MEMBRO DESTA IGREJA DESDE (DATA) / FOI MEMBRO DESTA IGREJA NO PERÍODO DE (DATA) A (DATA)]; [MODO DE ADMISSÃO]; [NOME DA IGREJA DE ORIGEM]; [MOTIVO INFORMADO PELO INTERESSADO].
+P Cuidados: Nunca informar fatos pastorais, de saúde, financeiros ou disciplinares.
+### 6.18. Desligamento de Membro
+%GRID 5,11
+Item | Descrição
+Arquivo | 04_Membros/04_Desligamento_de_Membro.docx
+Finalidade | Pedido de desligamento, termo de desligamento (qualquer hipótese) com providências da Secretaria, notificação por ausência prolongada e resposta ao ex-membro.
+Base legal | CF, art. 5º, VI e XX; Estatuto, arts. [[dir]], VII, e [[disc]]; Regimento, art. <<aus>>.
+Quem prepara, aprova e assina | Membro (pedido); Secretaria e Conselho Ministerial (termo); Pastor Titular (notificação e resposta).
+Guarda e prazos | Termo com a ficha; após o prazo da Política de Privacidade, só nome e datas.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES DE USO; MODELO 1 – PEDIDO DE DESLIGAMENTO; MODELO 2 – TERMO DE DESLIGAMENTO; MODELO 3 – NOTIFICAÇÃO POR AUSÊNCIA PROLONGADA; MODELO 4 – RESPOSTA AO PEDIDO DE DESLIGAMENTO.
+P Regras de preenchimento:
+I – Nunca condicione a saída a entrevista ou quitação de contribuições.
+II – Cumpra todas as providências do quadro do Modelo 2.
+III – Na ausência prolongada, aguarde 15 dias após a notificação.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [MOTIVO, SE QUISER INFORMAR: (DESCREVER).]; [SE DESEJAR INCLUIR FAMILIARES MEMBROS:]; [NOMES DOS FAMILIARES MAIORES, QUE ASSINAM ABAIXO, E DOS FILHOS MENORES SOB MINHA RESPONSABILIDADE]; [SE EXERCER FUNÇÃO:]; [DESCREVER OU "NENHUM"]; [NOME COMPLETO – SE HOUVER]; [MODO]; [SEM RECURSO / RECURSO JULGADO EM (DATA)]; [CARGO ESTATUTÁRIO / LIDERANÇA / SERVIÇO VOLUNTÁRIO / NENHUMA]; [NOMES OU "NENHUM"]; [DATA PREVISTA]; [MÊS/ANO APROXIMADO]; [TELEFONE / E-MAIL / PESSOALMENTE NA SECRETARIA]; [MEIO].
+P Cuidados: O motivo da saída nunca é divulgado. Não há devolução de contribuições.
+### 6.19. Readmissão de Membro
+%GRID 5,11
+Item | Descrição
+Arquivo | 04_Membros/05_Readmissao_de_Membro.docx
+Finalidade | Pedido de readmissão, termo de readmissão, compromisso de reparação de dano e comunicação da decisão.
+Base legal | Estatuto, arts. [[adm]], [[cat]] e [[req]]; Regimento, arts. <<adm2>> a <<adm4>> e <<pd4>>.
+Quem prepara, aprova e assina | Conselho Ministerial decide; Presidente assina o termo de reparação.
+Guarda e prazos | Com a ficha do membro.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES DE USO; MODELO 1 – PEDIDO DE READMISSÃO; MODELO 2 – TERMO DE READMISSÃO; MODELO 3 – TERMO DE COMPROMISSO DE REPARAÇÃO DE DANO; MODELO 4 – COMUNICAÇÃO DA DECISÃO AO(À) INTERESSADO(A).
+P Regras de preenchimento:
+I – Use o modo conforme a saída: aclamação (a pedido ou ausência), transferência ou reconciliação (exclusão).
+II – Os prazos de carência recomeçam; exija nova ficha e novo consentimento.
+III – Reparação de dano é contabilizada como ressarcimento, não como oferta.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [SE DEFERIDA:]; [6 (SEIS)]; [PEDIDO MEU / AUSÊNCIA PROLONGADA / TRANSFERÊNCIA PARA (IGREJA) / EXCLUSÃO]; [ESCREVA COM SUAS PALAVRAS]; [SE HOUVE EXCLUSÃO:]; [RECONHEÇO OS FATOS QUE MOTIVARAM A EXCLUSÃO E MANIFESTO MEU ARREPENDIMENTO / (OUTRA MANIFESTAÇÃO)]; [NÃO HÁ DANO MATERIAL A REPARAR / ME DISPONHO A REPARAR O DANO CAUSADO À IGREJA, NA FORMA A SER AJUSTADA]; [SE HOUVE TRANSFERÊNCIA:]; [NOME DA IGREJA]; [JÁ SOLICITEI / AUTORIZO ESTA IGREJA A SOLICITAR]; [PEDIDO / AUSÊNCIA / TRANSFERÊNCIA / EXCLUSÃO – PROCEDIMENTO Nº (NÚMERO)]; [IGREJA]; [RESULTADO]; [DEFERIU / INDEFERIU]; [MENOR / QUE PASSARÁ À PLENA COMUNHÃO EM (DATA), DECORRIDO O PRAZO DO ART. (nº), I, DO ESTATUTO SOCIAL]; [OU: SEM RECEPÇÃO PÚBLICA, A PEDIDO DO(A) INTERESSADO(A)]; [SE HOUVER CONDIÇÕES:]; [EX.: CUMPRIMENTO DO TERMO DE REPARAÇÃO; IMPEDIMENTO DE ATUAR COM CRIANÇAS, ADOLESCENTES E PESSOAS VULNERÁVEIS, NOS TERMOS DA POLÍTICA DE PROTEÇÃO; ACOMPANHAMENTO PASTORAL POR (PRAZO)]; [OU: CONFORME DEMONSTRATIVO ANEXO]; [PAGAMENTO À VISTA EM (DATA) / EM (NÚMERO) PARCELAS MENSAIS DE R$ (VALOR), COM VENCIMENTO NO DIA (DIA), A PARTIR DE (DATA) / DEVOLUÇÃO DOS BENS: (DESCREVER)]; [DADOS BANCÁRIOS NO CNPJ DA IGREJA]; [2 (DUAS)]; [A RECEPÇÃO PÚBLICA SERÁ NO CULTO DE (DATA), SE VOCÊ CONCORDAR.]; [SE INDEFERIDA:]; [MOTIVOS OBJETIVOS]; [APÓS (PRAZO) / QUANDO ATENDIDOS OS REQUISITOS INDICADOS].
+P Cuidados: Casos de violência contra vulneráveis exigem acordo de participação supervisionada. Exclusão anulada em recurso não é readmissão.
+## Pasta 05 Atos Religiosos
+### 6.20. Certificado e Registro de Batismo
+%GRID 5,11
+Item | Descrição
+Arquivo | 05_Atos_Religiosos/01_Batismo_Certificado_e_Registro.docx
+Finalidade | Certificado numerado, livro de registro de batismos e declaração de segunda via.
+Base legal | Declaração de Fé, seção VIII; Regimento, art. <<adm1>>, § 1º; LGPD.
+Quem prepara, aprova e assina | Ministro celebrante e Pastor Titular (certificado); Secretaria (livro).
+Guarda e prazos | Livro de batismos permanente, com acesso restrito.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES DE USO; MODELO 1 – CERTIFICADO DE BATISMO; MODELO 2 – LIVRO DE REGISTRO DE BATISMOS; MODELO 3 – DECLARAÇÃO DE BATISMO (SEGUNDA VIA).
+P Regras de preenchimento:
+I – Numere o certificado com o livro e a folha do registro.
+II – Não registre CPF nem endereço no livro.
+III – Correções só por anotação datada, nunca por rasura.
+IV – Ajuste forma, fórmula e versículo à doutrina.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [LOGOTIPO DA IGREJA]; [NOME COMPLETO DO(A) BATIZADO(A)]; [DATA DE NASCIMENTO]; [POR IMERSÃO / FORMA ADOTADA PELA IGREJA]; [NO TEMPLO DA SEDE / NA CONGREGAÇÃO (NOME) / EM (LOCAL)]; [OU OUTRO VERSÍCULO ESCOLHIDO PELO CONSELHO MINISTERIAL]; [NOME DO(A) SOLICITANTE]; [O(A) PRÓPRIO(A) BATIZADO(A) / PAI, MÃE OU RESPONSÁVEL LEGAL DO(A) BATIZADO(A)]; [FORMA].
+P Cuidados: Batismo de menor exige autorização dos pais e manifestação do menor. O certificado não substitui documentos civis.
+### 6.21. Apresentação de Crianças
+%GRID 5,11
+Item | Descrição
+Arquivo | 05_Atos_Religiosos/02_Apresentacao_de_Criancas.docx
+Finalidade | Pedido dos pais (com autorização de imagem), certificado, livro de registro e roteiro litúrgico.
+Base legal | LGPD, art. 14; Regimento, art. <<cel>>; Política de Proteção.
+Quem prepara, aprova e assina | Pais ou responsáveis (pedido); ministro celebrante e Pastor Titular (certificado).
+Guarda e prazos | Livro permanente, com acesso restrito.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES DE USO; MODELO 1 – PEDIDO DE APRESENTAÇÃO DE CRIANÇA; MODELO 2 – CERTIFICADO DE APRESENTAÇÃO; MODELO 3 – LIVRO DE REGISTRO DE APRESENTAÇÃO DE CRIANÇAS; MODELO 4 – ROTEIRO LITÚRGICO SUGERIDO.
+P Regras de preenchimento:
+I – Só a pedido dos responsáveis, de preferência os dois.
+II – Respeite a opção de imagem marcada pelos pais na transmissão.
+III – O ato é gratuito.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [NOME COMPLETO DA CRIANÇA]; [NOME DO RESPONSÁVEL 1]; [NOME DO RESPONSÁVEL 2]; [PAI E MÃE / RESPONSÁVEIS LEGAIS]; [DATA PREFERIDA]; [NA SEDE / NA CONGREGAÇÃO (NOME)]; [SE APENAS UM RESPONSÁVEL ASSINAR:]; [TEM CONHECIMENTO DESTE PEDIDO E NÃO SE OPÕE / É FALECIDO(A) / NÃO EXERCE O PODER FAMILIAR / OUTRO: (DESCREVER)]; [TELEFONE E E-MAIL]; [NOMES DOS PAIS, AVÓS OU PADRINHOS, CONFORME O COSTUME DA FAMÍLIA]; [LOGOTIPO DA IGREJA]; [DATA DE NASCIMENTO]; [NO TEMPLO DA SEDE / NA CONGREGAÇÃO (NOME)]; [OU OUTRO VERSÍCULO ESCOLHIDO PELO CONSELHO MINISTERIAL].
+P Cuidados: Não é batismo nem admissão como membro.
+### 6.22. Casamento Religioso
+%GRID 5,11
+Item | Descrição
+Arquivo | 05_Atos_Religiosos/03_Casamento_Religioso.docx
+Finalidade | Pedido de celebração, Termo de Casamento Religioso para registro civil, requerimento ao cartório, certificado e livro de registro.
+Base legal | Código Civil, arts. 1.515, 1.516 e 1.532; Lei 6.015/1973, arts. 71 a 75; Regimento, art. <<cel>>; Declaração de Fé, seção IX.
+Quem prepara, aprova e assina | Noivos (pedido); celebrante, contraentes e duas testemunhas (Termo); celebrante (requerimento).
+Guarda e prazos | Livro permanente; cópia do protocolo e da certidão de registro.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES DE USO; MODELO 1 – PEDIDO DE CELEBRAÇÃO DE CASAMENTO; MODELO 2 – TERMO DE CASAMENTO RELIGIOSO (PARA REGISTRO CIVIL); MODELO 3 – REQUERIMENTO DE REGISTRO CIVIL DO CASAMENTO RELIGIOSO; MODELO 4 – CERTIFICADO DE CASAMENTO RELIGIOSO; MODELO 5 – LIVRO DE REGISTRO DE CASAMENTOS RELIGIOSOS.
+P Regras de preenchimento:
+I – Com efeito civil, só celebre com a certidão de habilitação conferida e dentro da validade.
+II – Preencha o Termo sem rasuras, com a qualificação completa dos contraentes e testemunhas.
+III – Protocole o registro no cartório o quanto antes e confirme o prazo e a exigência de firma reconhecida.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [Nº]; [NOME COMPLETO DO CELEBRANTE]; [CONFORME A CERTIDÃO DE HABILITAÇÃO]; [SIM/NÃO]; [OUTRAS HIPÓTESES ADMITIDAS PELA DOUTRINA DA IGREJA]; [NOME COMPLETO DO(A) NOIVO(A) 1]; [NOME COMPLETO DO(A) NOIVO(A) 2]; [DATA E HORÁRIO PRETENDIDOS]; [NO TEMPLO DA SEDE / NA CONGREGAÇÃO (NOME) / EM (LOCAL EXTERNO)]; [JÁ PROMOVEMOS / PROMOVEREMOS]; [DATA, COM ANTECEDÊNCIA MÍNIMA DE 10 DIAS DA CERIMÔNIA]; [JÁ SOMOS CASADOS NO CIVIL DESDE (DATA), CONFORME CERTIDÃO ANEXA / OUTRA HIPÓTESE: (DESCREVER)]; [DATAS]; [RCPN]; [LOCAL DA CELEBRAÇÃO, COM ENDEREÇO COMPLETO]; [QUALIDADE: PASTOR(A) / MINISTRO(A) DE CONFISSÃO RELIGIOSA]; [DENOMINAÇÃO RELIGIOSA/CONFISSÃO]; [QUALIDADE]; [OU: (NOME DO INTERESSADO), CONTRAENTE]; [NOME DO CONTRAENTE 1]; [NOME DO CONTRAENTE 2]; [LOGOTIPO DA IGREJA]; [NOME COMPLETO DO(A) CÔNJUGE 1]; [NOME COMPLETO DO(A) CÔNJUGE 2]; [NO TEMPLO DA SEDE / NA CONGREGAÇÃO (NOME) / EM (LOCAL)]; [OU OUTRO VERSÍCULO ESCOLHIDO PELO CONSELHO MINISTERIAL]; [COM EFEITO CIVIL: O CASAMENTO FOI LEVADO A REGISTRO NO (Nº) RCPN DE (CIDADE)/(UF), E SUA PROVA CIVIL É A CERTIDÃO EMITIDA POR AQUELE OFÍCIO. / SEM EFEITO CIVIL: ESTA CERIMÔNIA NÃO PRODUZ EFEITOS CIVIS.].
+P Cuidados: Sem registro no prazo, o casamento não tem efeito civil. O certificado religioso não prova casamento civil.
+### 6.23. Ordenação de Ministro
+%GRID 5,11
+Item | Descrição
+Arquivo | 05_Atos_Religiosos/04_Ordenacao_de_Ministro.docx
+Finalidade | Ata de exame e aprovação, termo de compromisso ministerial, certificado de ordenação, credencial anual e livro de registro.
+Base legal | Estatuto, arts. [[cm]] e [[min]]; Regimento, arts. <<ord>> e <<sus>>; Lei 8.212/1991, art. 22, §§ 13 e 14.
+Quem prepara, aprova e assina | Conselho Ministerial examina e aprova; o ministro assina o termo; Pastor Titular, Presidente e oficiante assinam o certificado.
+Guarda e prazos | Livro de ordenações permanente.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES DE USO; MODELO 1 – ATA DE EXAME E APROVAÇÃO PARA ORDENAÇÃO; MODELO 2 – TERMO DE COMPROMISSO MINISTERIAL; MODELO 3 – CERTIFICADO DE ORDENAÇÃO; MODELO 4 – CREDENCIAL MINISTERIAL; MODELO 5 – LIVRO DE REGISTRO DE ORDENAÇÕES E CREDENCIAIS.
+P Regras de preenchimento:
+I – Confira todos os requisitos da tabela antes do exame.
+II – O termo de compromisso é assinado antes do culto de ordenação.
+III – Renove a credencial todo ano e recolha as vencidas ou suspensas.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [ORDENAÇÃO / CONSAGRAÇÃO]; [PASTOR(A) / EVANGELISTA / MISSIONÁRIO(A) / (FUNÇÃO)]; [ORDENAÇÃO AO MINISTÉRIO PASTORAL / CONSAGRAÇÃO A (FUNÇÃO MINISTERIAL: EVANGELISTA, MISSIONÁRIO(A), PRESBÍTERO(A), DIÁCONO(A) OU OUTRA)]; [NOME E FUNÇÃO DE QUEM INDICOU]; [3]; [SIM/NÃO]; [DATA DE ADMISSÃO – Nº NO ROL]; [CURSO, INSTITUIÇÃO E ANO]; [1]; [PERÍODO E SUPERVISOR]; [DATAS DE EMISSÃO]; [VERIFICADO PELA SECRETARIA]; [ENTREVISTA DE (DATA)]; [DOUTRINA, ÉTICA MINISTERIAL, ESTATUTO SOCIAL, REGIMENTO INTERNO, CÓDIGO DE CONDUTA E POLÍTICA DE PROTEÇÃO]; [EXAMINADORES]; [APROVADO(A) / NÃO APROVADO(A), COM AS SEGUINTES RECOMENDAÇÕES: (DESCREVER)]; [RESULTADO]; [APROVOU / NÃO APROVOU]; [COM A PARTICIPAÇÃO DE (MINISTROS CONVIDADOS OU DA CONVENÇÃO, SE HOUVER)]; [NENHUM INTEGRANTE DO CONSELHO DECLAROU IMPEDIMENTO / (NOME) DECLAROU-SE IMPEDIDO(A) POR PARENTESCO E NÃO VOTOU.]; [FUNÇÃO MINISTERIAL]; [LOGOTIPO DA IGREJA]; [ORDENADO(A) / CONSAGRADO(A)]; [NO TEMPLO DA SEDE, À (ENDEREÇO)]; [OU OUTRO VERSÍCULO ESCOLHIDO PELO CONSELHO MINISTERIAL]; [OU REPRESENTANTE DA CONVENÇÃO, SE HOUVER]; [TELEFONE OU E-MAIL DA SECRETARIA / CÓDIGO OU QR CODE DE VERIFICAÇÃO]; [FOTO 3X4]; [CONTATO].
+P Cuidados: O termo de compromisso é a principal prova contra pedido de vínculo de emprego e contra a caracterização do sustento como salário.
+## Pasta 06 Financas e Patrimonio
+### 6.24. Recibo de Dízimos, Ofertas e Doações
+%GRID 5,11
+Item | Descrição
+Arquivo | 06_Financas_e_Patrimonio/01_Recibo_de_Dizimos_e_Ofertas.docx
+Finalidade | Instruções à Tesouraria, recibo com canhoto, declaração anual de contribuições e requerimento de devolução por erro material.
+Base legal | Estatuto, arts. [[dev]], [[disc]], § 5º, [[rec]] e [[nd]]; Regimento, art. <<cont>>; Declaração de Fé, seção VI.
+Quem prepara, aprova e assina | Tesoureiro emite e assina; Presidente assina a declaração anual.
+Guarda e prazos | 10 anos, com termos de contagem e comprovantes.
+%ENDGRID
+P Estrutura: INSTRUÇÕES DE USO (PARA A TESOURARIA); MODELO 1 – RECIBO DE CONTRIBUIÇÃO; MODELO 2 – DECLARAÇÃO ANUAL DE CONTRIBUIÇÕES; MODELO 3 – REQUERIMENTO DE DEVOLUÇÃO POR ERRO MATERIAL.
+P Regras de preenchimento:
+I – Numeração sequencial em duas vias; recibo obrigatório acima do valor definido e em doações designadas.
+II – Nunca emita recibo com dados diferentes do efetivamente recebido.
+III – Devolução só por erro material, com aprovação da Diretoria e para a conta de origem.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [NÚMERO SEQUENCIAL]; [1ª VIA – CONTRIBUINTE / 2ª VIA – TESOURARIA]; [ENDEREÇO DA SEDE]; [FINALIDADE]; [SEDE / CONGREGAÇÃO (NOME)]; [SE DOAÇÃO DESIGNADA:]; [1º OU 2º]; [NATUREZA]; [FORMA]; [DATA E CONTA]; [PIX/TRANSFERÊNCIA/CARTÃO]; [PAGAMENTO EM DUPLICIDADE / VALOR DIGITADO INCORRETAMENTE / TRANSFERÊNCIA DESTINADA A OUTRO BENEFICIÁRIO / OUTRO: (DESCREVER)]; [BANCO, AGÊNCIA E CONTA OU CHAVE PIX DE TITULARIDADE DO REQUERENTE].
+P Cuidados: O recibo não serve para dedução de IR, salvo hipótese legal. Confirme com o contador antes de emitir para empresas.
+### 6.25. Doação de Bens Móveis
+%GRID 5,11
+Item | Descrição
+Arquivo | 06_Financas_e_Patrimonio/02_Doacao_de_Bens_Moveis.docx
+Finalidade | Termo de doação de bens móveis e veículos, com roteiro para doação de imóvel.
+Base legal | Código Civil, arts. 538 a 564; LC 227/2026, art. 149.
+Quem prepara, aprova e assina | Doador (e cônjuge, se bens comuns) e Presidente da igreja.
+Guarda e prazos | Com o inventário patrimonial, enquanto o bem existir e mais 10 anos.
+%ENDGRID
+P Estrutura: Cláusula 1ª – DO OBJETO; Cláusula 2ª – DA NATUREZA DA DOAÇÃO; Cláusula 3ª – DA DESTINAÇÃO E DO ENCARGO; Cláusula 4ª – DAS DECLARAÇÕES DO(A) DOADOR(A); Cláusula 5ª – DA ENTREGA E DO ESTADO DOS BENS; Cláusula 6ª – DOS TRIBUTOS E DAS DESPESAS; Cláusula 7ª – DA ACEITAÇÃO E DO REGISTRO PATRIMONIAL; Cláusula 8ª – DOS DADOS PESSOAIS E DO FORO; ANEXO – ROTEIRO PARA DOAÇÃO DE IMÓVEL À IGREJA.
+P Regras de preenchimento:
+I – Descreva cada bem com estado e valor estimado.
+II – Escolha doação pura ou com encargo (com a válvula de alienação).
+III – Evite a cláusula de reversão.
+IV – Para veículos, informe placa, RENAVAM e chassi e exija a transferência no órgão de trânsito.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [SE PESSOA FÍSICA:]; [SE PESSOA JURÍDICA:]; [CASADO(A) SOB O REGIME DE (REGIME) COM (NOME DO CÔNJUGE), (QUALIFICAÇÃO), QUE COMPARECE COMO ANUENTE]; [RAZÃO SOCIAL]; [NOME E QUALIFICAÇÃO DO REPRESENTANTE]; [SE VEÍCULO:]; [MARCA/MODELO]; [COR]; [PLACA]; [OU: COM OS SEGUINTES DÉBITOS, QUE SERÃO QUITADOS PELO(A) DOADOR(A) ATÉ (DATA): (DESCREVER)]; [PURO E SIMPLES, SEM ENCARGO / COM O ENCARGO DESCRITO NA CLÁUSULA (nº)]; [OPCIONAL, SOMENTE SE DESEJADO PELO(A) DOADOR(A):]; [RECOMENDA-SE NÃO ADOTAR ESTA CLÁUSULA, POIS O ESTATUTO DESTINA O PATRIMÔNIO REMANESCENTE, EM CASO DE DISSOLUÇÃO, A OUTRA ENTIDADE RELIGIOSA (ART. (nº)).]; [ALTERNATIVA A – SEM ENCARGO:]; [FINALIDADE, EX.: MINISTÉRIO INFANTIL / AÇÃO SOCIAL]; [ALTERNATIVA B – COM ENCARGO:]; [FINALIDADE ESPECÍFICA]; [SE CASADO(A) E OS BENS FOREM COMUNS:]; [OU: É (VÍNCULO), SENDO A DOAÇÃO PURA E SEM ENCARGO, OU, SE COM ENCARGO, PRECEDIDA DE PARECER DO CONSELHO FISCAL E APROVAÇÃO DA DIRETORIA EXECUTIVA SEM A PARTICIPAÇÃO DO INTERESSADO (ESTATUTO SOCIAL, ART. (nº))]; [OU: SERÃO ENTREGUES ATÉ (DATA), NO ENDEREÇO (ENDEREÇO)]; [IGREJA / DO(A) DOADOR(A)]; [COM BASE NA DELIBERAÇÃO DA DIRETORIA EXECUTIVA DE (DATA), EXIGIDA PARA DOAÇÕES COM ENCARGO OU DE VALOR SUPERIOR A R$ (VALOR)]; [NOME COMPLETO – SE CASADO(A) E BENS COMUNS].
+P Cuidados: Imóveis não se doam por este termo; use a doação de imóvel (escritura).
+### 6.26. Doação de Imóvel
+%GRID 5,11
+Item | Descrição
+Arquivo | 06_Financas_e_Patrimonio/03_Doacao_de_Imovel.docx
+Finalidade | Minuta de escritura pública, instrumento particular (imóveis até 30 salários mínimos) e extrato de ata de aceitação.
+Base legal | Código Civil, arts. 108, 538 a 564, 1.245 e 1.647; LC 227/2026, art. 149.
+Quem prepara, aprova e assina | Tabelião (escritura), doador e cônjuge, Presidente da igreja; Diretoria aceita (e Assembleia se houver encargo relevante).
+Guarda e prazos | Escritura e matrícula atualizada, permanentemente.
+%ENDGRID
+P Estrutura: ORIENTAÇÕES DE USO; MODELO 1 – MINUTA DE ESCRITURA PÚBLICA DE DOAÇÃO DE IMÓVEL; MODELO 2 – INSTRUMENTO PARTICULAR DE DOAÇÃO DE IMÓVEL; Cláusula 1ª – DO OBJETO E DA DOAÇÃO; Cláusula 2ª – DA DESTINAÇÃO; Cláusula 3ª – DAS DECLARAÇÕES DO(A) DOADOR(A); Cláusula 4ª – DA POSSE, DOS TRIBUTOS E DO REGISTRO; Cláusula 5ª – DO FORO; MODELO 3 – EXTRATO DE ATA DA DIRETORIA EXECUTIVA: ACEITAÇÃO DE DOAÇÃO DE IMÓVEL.
+P Regras de preenchimento:
+I – Acima de 30 salários mínimos, sempre escritura pública.
+II – Faça as diligências (matrícula, certidões, CNIB) antes de aceitar.
+III – Peça o reconhecimento da imunidade de ITCMD antes da escritura.
+IV – Registre na matrícula imediatamente.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [Nº]; [CASADO(A) SOB O REGIME DE (REGIME), NA VIGÊNCIA DA LEI Nº 6.515/1977, COM (NOME E QUALIFICAÇÃO DO CÔNJUGE), QUE COMPARECE PARA MANIFESTAR SUA OUTORGA (CÓDIGO CIVIL, ART. 1.647, I E IV)]; [OU, SE PESSOA JURÍDICA: (RAZÃO SOCIAL, CNPJ, SEDE E REPRESENTANTE, COM A DELIBERAÇÃO SOCIETÁRIA QUE AUTORIZA A DOAÇÃO)]; [NOME E QUALIFICAÇÃO COMPLETA]; [DESCRIÇÃO COMPLETA CONFORME A MATRÍCULA: TIPO, ENDEREÇO, ÁREA, MEDIDAS E CONFRONTAÇÕES]; [SE RURAL: E NO INCRA SOB O CCIR Nº (NÚMERO), NA RECEITA FEDERAL SOB O NIRF/CIB Nº (NÚMERO) E NO CADASTRO AMBIENTAL RURAL SOB O Nº (NÚMERO)]; [TÍTULO AQUISITIVO E REGISTRO Nº (R-/AV-) NA MATRÍCULA]; [EM CARÁTER PURO E SIMPLES / COM O ENCARGO DE DESTINÁ-LO A (FINALIDADE), NOS TERMOS DO ART. 553 DO CÓDIGO CIVIL, PODENDO A DONATÁRIA ALIENÁ-LO OU DAR-LHE OUTRA DESTINAÇÃO COMPATÍVEL COM SUAS FINALIDADES SE A UTILIZAÇÃO SE TORNAR IMPOSSÍVEL OU DESNECESSÁRIA, APLICANDO O PRODUTO EM SUAS FINALIDADES ESSENCIAIS]; [SEM RESERVA DE USUFRUTO / COM RESERVA DE USUFRUTO VITALÍCIO EM FAVOR DO(A) DOADOR(A), QUE SE EXTINGUIRÁ COM O SEU FALECIMENTO, MEDIANTE AVERBAÇÃO]; [OU: SALVO (DESCREVER)]; [NEM DE CONTRIBUIÇÕES CONDOMINIAIS, CONFORME DECLARAÇÃO DO SÍNDICO APRESENTADA]; [OU: DECLARAR O VÍNCULO]; [NESTA DATA / NA DATA DE (DATA) / COM A EXTINÇÃO DO USUFRUTO]; [CERTIDÃO, DECLARAÇÃO OU RECONHECIMENTO DE IMUNIDADE Nº (NÚMERO) EXPEDIDO PELA SECRETARIA DA FAZENDA DO ESTADO DE (UF)]; [CERTIDÃO NEGATIVA DE DÉBITOS DE TRIBUTOS IMOBILIÁRIOS]; [DECLARAÇÃO DE QUITAÇÃO CONDOMINIAL]; [NEGATIVO]; [ENCERRAMENTO NO PADRÃO DO TABELIONATO.]; [QUALIFICAÇÃO COMPLETA DO(A) DOADOR(A) E, SE CASADO(A), DO CÔNJUGE ANUENTE, CONFORME O MODELO 1]; [QUALIFICAÇÃO COMPLETA CONFORME O MODELO 1]; [DESCRIÇÃO COMPLETA CONFORME A MATRÍCULA]; [EM CARÁTER PURO E SIMPLES / COM O ENCARGO DESCRITO NA CLÁUSULA (nº)]; [SEM ENCARGO:]; [COM ENCARGO:]; [FINALIDADE]; [IGREJA / DO(A) DOADOR(A)]; [3 (TRÊS)]; [NOME COMPLETO – SE CASADO(A)]; [NOMES E CARGOS]; [NOME DO(A) DOADOR(A)]; [EM CARÁTER PURO E SIMPLES / COM O ENCARGO DE (DESCREVER)]; [TEMPLO / CONGREGAÇÃO / AÇÃO SOCIAL / RENDA APLICADA NAS FINALIDADES ESSENCIAIS]; [SE HOUVER:]; [UNANIMIDADE / (NÚMERO) VOTOS]; [SE A DOAÇÃO ENVOLVER ENCARGO QUE IMPORTE OBRIGAÇÃO RELEVANTE OU A CONSTITUIÇÃO DE ÔNUS REAL:].
+P Cuidados: A igreja só é dona após o registro. Depois, peça a imunidade do IPTU.
+### 6.27. Contrato de Comodato do Templo
+%GRID 5,11
+Item | Descrição
+Arquivo | 06_Financas_e_Patrimonio/04_Contrato_de_Comodato_do_Templo.docx
+Finalidade | Empréstimo gratuito do imóvel usado como templo, com laudo de vistoria e termo de devolução.
+Base legal | Código Civil, arts. 579 a 585 e 1.647; Estatuto, art. [[ci]].
+Quem prepara, aprova e assina | Comodante (e cônjuge) e Presidente da igreja; duas testemunhas.
+Guarda e prazos | Durante o contrato e mais 10 anos.
+%ENDGRID
+P Estrutura: Cláusula 1ª – DO OBJETO; Cláusula 2ª – DA GRATUIDADE; Cláusula 3ª – DA DESTINAÇÃO; Cláusula 4ª – DO PRAZO; Cláusula 5ª – DAS DESPESAS E DOS ENCARGOS; Cláusula 6ª – DA CONSERVAÇÃO E DAS OBRIGAÇÕES DA IGREJA; Cláusula 7ª – DAS OBRIGAÇÕES DO COMODANTE; Cláusula 8ª – DAS OBRAS E BENFEITORIAS; Cláusula 9ª – DA RESCISÃO; Cláusula 10ª – DA RESTITUIÇÃO E DA MORA; Cláusula 11ª – DA SUCESSÃO; Cláusula 12ª – DA DECLARAÇÃO SOBRE CONFLITO DE INTERESSES; Cláusula 13ª – DO REGISTRO E DAS DISPOSIÇÕES FINAIS; ANEXO I – LAUDO DE VISTORIA INICIAL; ANEXO II – TERMO DE DEVOLUÇÃO DO IMÓVEL.
+P Regras de preenchimento:
+I – Prefira prazo determinado (sugestão: 10 anos) e aviso de 180 dias para devolução.
+II – Defina quem paga o IPTU se a imunidade for negada.
+III – Preencha o laudo de vistoria com fotos.
+IV – Se o comodante for ligado a dirigente, cumpra o art. [[ci]] do Estatuto.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [ÁREA]; [60 (SESSENTA)]; [SE PESSOA FÍSICA:]; [CASADO(A) SOB O REGIME DE (REGIME) COM (NOME DO CÔNJUGE), (QUALIFICAÇÃO), QUE COMPARECE COMO ANUENTE]; [SE PESSOA JURÍDICA:]; [RAZÃO SOCIAL]; [NOME E QUALIFICAÇÃO DO REPRESENTANTE]; [OU POSSUIDOR/TITULAR DE DIREITO QUE LHE PERMITE CEDER O USO, CONFORME (DOCUMENTO)]; [Nº]; [DESCRIÇÃO SUMÁRIA: SALÃO, SALAS, BANHEIROS, ESTACIONAMENTO ETC.]; [OU: SALVO (DESCREVER)]; [OU CONGREGAÇÃO]; [10 (DEZ)]; [90 (NOVENTA)]; [180 (CENTO E OITENTA)]; [OPCIONAL:]; [AS DESPESAS ORDINÁRIAS DE CONDOMÍNIO, SE HOUVER]; [COMODANTE / PELA IGREJA, A TÍTULO DE ENCARGO DE USO, NOS TERMOS DO PARÁGRAFO ÚNICO DA CLÁUSULA (nº)]; [5 (CINCO)]; [48 (QUARENTA E OITO)]; [VALOR OU CRITÉRIO]; [SEM DIREITO A INDENIZAÇÃO OU RETENÇÃO / COM DIREITO À INDENIZAÇÃO DAS BENFEITORIAS NECESSÁRIAS E DAS ÚTEIS PREVIAMENTE AUTORIZADAS POR ESCRITO, PELO VALOR (CRITÉRIO)]; [30 (TRINTA)]; [OU: CORRESPONDENTE AO ALUGUEL DE MERCADO APURADO POR AVALIAÇÃO]; [NÃO É DIRIGENTE, CONSELHEIRO OU MINISTRO DA IGREJA, NEM CÔNJUGE, COMPANHEIRO OU PARENTE ATÉ O TERCEIRO GRAU DE QUEM O SEJA / É (VÍNCULO) DA IGREJA OU DE (NOME E CARGO)]; [E-MAIL DO COMODANTE]; [E-MAIL DA IGREJA]; [NOME COMPLETO – SE CASADO(A)]; [NOMES DOS REPRESENTANTES DAS PARTES]; [SALÃO PRINCIPAL]; [SALAS]; [BANHEIROS]; [COZINHA/COPA]; [ÁREA EXTERNA/ESTACIONAMENTO]; [FACHADA/COBERTURA]; [RELACIONAR, COM ESTADO DE CONSERVAÇÃO, OU "NENHUM"]; [O IMÓVEL FOI RESTITUÍDO NO ESTADO EM QUE FOI RECEBIDO, RESSALVADO O DESGASTE NATURAL / FORAM CONSTATADAS AS SEGUINTES PENDÊNCIAS, A SEREM SANADAS PELA IGREJA ATÉ (DATA): (DESCREVER)].
+P Cuidados: A imunidade de IPTU para imóvel em comodato é incerta; não converta em locação simbólica. O comodato não obriga quem comprar o imóvel.
+### 6.28. Contrato de Locação do Templo
+%GRID 5,11
+Item | Descrição
+Arquivo | 06_Financas_e_Patrimonio/05_Contrato_de_Locacao_do_Templo.docx
+Finalidade | Locação não residencial do imóvel usado como templo, com laudo de vistoria e termo de devolução.
+Base legal | Lei 8.245/1991, arts. 4º, 8º, 9º, 13, 19, 22, 23, 27 a 37, 45, 53, 56 e 63; CF, art. 156, § 1º-A; Estatuto, arts. [[agc]], VI, e [[ci]].
+Quem prepara, aprova e assina | Locador (e cônjuge), Presidente da igreja, fiador se houver; duas testemunhas.
+Guarda e prazos | Durante o contrato e mais 10 anos.
+%ENDGRID
+P Estrutura: Cláusula 1ª – DO OBJETO; Cláusula 2ª – DA DESTINAÇÃO E DA PROTEÇÃO LEGAL; Cláusula 3ª – DO PRAZO; Cláusula 4ª – DO ALUGUEL E DO PAGAMENTO; Cláusula 5ª – DO REAJUSTE E DA REVISÃO; Cláusula 6ª – DOS TRIBUTOS SOBRE A OPERAÇÃO; Cláusula 7ª – DOS ENCARGOS DA LOCAÇÃO; Cláusula 8ª – DA GARANTIA; Cláusula 9ª – DAS OBRIGAÇÕES DO LOCADOR; Cláusula 10ª – DAS OBRIGAÇÕES DA IGREJA; Cláusula 11ª – DAS OBRAS E BENFEITORIAS; Cláusula 12ª – DA ALIENAÇÃO DO IMÓVEL E DO DIREITO DE PREFERÊNCIA; Cláusula 13ª – DA CESSÃO E DA SUBLOCAÇÃO; Cláusula 14ª – DA DEVOLUÇÃO ANTECIPADA; Cláusula 15ª – DAS INFRAÇÕES E DA RESCISÃO; Cláusula 16ª – DA RESTITUIÇÃO DO IMÓVEL; Cláusula 17ª – DA DECLARAÇÃO SOBRE CONFLITO DE INTERESSES; Cláusula 18ª – DAS DISPOSIÇÕES FINAIS; ANEXO I – LAUDO DE VISTORIA INICIAL; ANEXO II – TERMO DE DEVOLUÇÃO DO IMÓVEL.
+P Regras de preenchimento:
+I – Informe o número de registro da igreja (necessário para a proteção do art. 53).
+II – Escolha uma só garantia (preferir caução ou seguro-fiança).
+III – Registre ou averbe o contrato na matrícula logo após assinar.
+IV – Locação por mais de 5 anos exige autorização da Assembleia.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [ÁREA]; [SE PESSOA FÍSICA:]; [CASADO(A) SOB O REGIME DE (REGIME) COM (NOME DO CÔNJUGE), (QUALIFICAÇÃO), QUE COMPARECE COMO ANUENTE]; [SE PESSOA JURÍDICA:]; [RAZÃO SOCIAL]; [NOME E QUALIFICAÇÃO DO REPRESENTANTE]; [SE HOUVER ADMINISTRADORA:]; [IMOBILIÁRIA]; [OU TITULAR DE DIREITO QUE LHE PERMITE LOCAR, CONFORME (DOCUMENTO)]; [Nº]; [DESCRIÇÃO SUMÁRIA]; [OU: SALVO (DESCREVER)]; [OU CONGREGAÇÃO]; [5 (CINCO)]; [SE O PRAZO FOR SUPERIOR A 5 (CINCO) ANOS:]; [BANCO, AGÊNCIA, CONTA OU CHAVE PIX]; [OPCIONAL:]; [2% (DOIS POR CENTO) / 10% (DEZ POR CENTO)]; [AS DESPESAS ORDINÁRIAS DE CONDOMÍNIO, SE HOUVER]; [PAGO PELA IGREJA, QUE TERÁ DIREITO À RESTITUIÇÃO QUE VIER A SER OBTIDA / PAGO PELO LOCADOR]; [LOCADOR / PELA IGREJA]; [VALOR OU CRITÉRIO]; [CAUÇÃO EM DINHEIRO NO VALOR DE R$ (VALOR), CORRESPONDENTE A NO MÁXIMO 3 (TRÊS) ALUGUÉIS, DEPOSITADA EM CADERNETA DE POUPANÇA (LEI Nº 8.245/1991, ART. 38, § 2º) / SEGURO DE FIANÇA LOCATÍCIA CONTRATADO COM (SEGURADORA), APÓLICE Nº (NÚMERO) / FIANÇA DE (QUALIFICAÇÃO COMPLETA DO FIADOR E DO CÔNJUGE)]; [48 (QUARENTA E OITO)]; [OU: ABATIDAS DO ALUGUEL, NA FORMA AJUSTADA EM ADITIVO]; [ALTERNATIVA, SE O LOCADOR NÃO ACEITAR: AS BENFEITORIAS ÚTEIS INCORPORAR-SE-ÃO AO IMÓVEL SEM INDENIZAÇÃO, MANTIDA A INDENIZAÇÃO DAS NECESSÁRIAS.]; [OPCIONAL, FAVORÁVEL À IGREJA:]; [12 (DOZE)]; [90 (NOVENTA)]; [3 (TRÊS)]; [30 (TRINTA)]; [NÃO É DIRIGENTE, CONSELHEIRO OU MINISTRO DA IGREJA, NEM CÔNJUGE, COMPANHEIRO OU PARENTE ATÉ O TERCEIRO GRAU DE QUEM O SEJA, NEM SÓCIO OU ADMINISTRADOR DE PESSOA JURÍDICA LOCADORA COM TAL VÍNCULO / É (VÍNCULO) DA IGREJA OU DE (NOME E CARGO)]; [E-MAIL DO LOCADOR]; [E-MAIL DA IGREJA]; [NOME COMPLETO – SE CASADO(A)]; [NOME COMPLETO – SE HOUVER]; [NOMES DOS REPRESENTANTES DAS PARTES]; [SALÃO PRINCIPAL]; [SALAS]; [BANHEIROS]; [COZINHA/COPA]; [ÁREA EXTERNA/ESTACIONAMENTO]; [FACHADA/COBERTURA]; [O IMÓVEL FOI RESTITUÍDO NO ESTADO EM QUE FOI RECEBIDO, RESSALVADO O DESGASTE NATURAL / FORAM CONSTATADAS AS SEGUINTES PENDÊNCIAS: (DESCREVER), A SEREM SANADAS PELA IGREJA ATÉ (DATA) OU INDENIZADAS PELO VALOR DE R$ (VALOR)]; [DESCREVER E VALOR, OU "NENHUMA"]; [CAUÇÃO A SER DEVOLVIDA COM OS RENDIMENTOS EM ATÉ (PRAZO) / SEGURO-FIANÇA LIBERADO / FIANÇA EXONERADA].
+P Cuidados: Se o locador for pessoa física, a igreja retém o IR sobre o aluguel.
+## Pasta 07 Pessoas e Contratacoes
+### 6.29. Contrato de Trabalho
+%GRID 5,11
+Item | Descrição
+Arquivo | 07_Pessoas_e_Contratacoes/01_Contrato_de_Trabalho.docx
+Finalidade | Contrato CLT para funções administrativas, técnicas ou operacionais, com descrição da função, banco de horas e opção de vale-transporte.
+Base legal | CLT, arts. 2º, 58-A, 59, 71, 73, 74, 443 a 469, 477 e 482; Lei 7.418/1985; Estatuto, art. [[ci]].
+Quem prepara, aprova e assina | Presidente da igreja e empregado; duas testemunhas.
+Guarda e prazos | Documentos trabalhistas pelos prazos da legislação.
+%ENDGRID
+P Estrutura: Cláusula 1ª – DA FUNÇÃO; Cláusula 2ª – DO PRAZO E DA EXPERIÊNCIA; Cláusula 3ª – DO LOCAL DE TRABALHO; Cláusula 4ª – DA JORNADA DE TRABALHO; Cláusula 5ª – DA DISTINÇÃO ENTRE O TRABALHO E A PARTICIPAÇÃO RELIGIOSA OU VOLUNTÁRIA; Cláusula 6ª – DA REMUNERAÇÃO; Cláusula 7ª – DOS DESCONTOS E BENEFÍCIOS; Cláusula 8ª – DOS DEVERES DO(A) EMPREGADO(A); Cláusula 9ª – DOS DEVERES DA EMPREGADORA; Cláusula 10ª – DA IMAGEM E DAS OBRAS; Cláusula 11ª – DA DECLARAÇÃO SOBRE PARENTESCO; Cláusula 12ª – DA EXTINÇÃO DO CONTRATO; Cláusula 13ª – DAS DISPOSIÇÕES FINAIS; ANEXO I – DESCRIÇÃO DA FUNÇÃO; ANEXO II – ACORDO INDIVIDUAL DE COMPENSAÇÃO DE JORNADA E BANCO DE HORAS; ANEXO III – DECLARAÇÃO DE OPÇÃO PELO VALE-TRANSPORTE.
+P Regras de preenchimento:
+I – Não use para ministros.
+II – Descreva a função no Anexo I.
+III – Registre o ponto mesmo quando não obrigatório.
+IV – Verifique convenção coletiva aplicável (piso e regras).
+P Campos específicos a preencher (além dos campos comuns da seção 4): [45 (QUARENTA E CINCO)]; [FUNÇÃO, EX.: AUXILIAR ADMINISTRATIVO / SECRETÁRIO(A) / ZELADOR(A) / AUXILIAR DE SERVIÇOS GERAIS / TÉCNICO(A) DE SOM E MÍDIA]; [DATA DE ADMISSÃO]; [E/OU NAS SEGUINTES CONGREGAÇÕES: (ENDEREÇOS)]; [8 (OITO)]; [44 (QUARENTA E QUATRO)]; [OU: (X) HORAS SEMANAIS, EM REGIME DE TEMPO PARCIAL (CLT, ART. 58-A)]; [DIAS DA SEMANA E HORÁRIOS DE ENTRADA E SAÍDA]; [1 (UMA)]; [SÁBADOS / DOMINGOS / PERÍODO NOTURNO]; [SISTEMA DE PONTO ELETRÔNICO / REGISTRO MANUAL / REGISTRO POR EXCEÇÃO, MEDIANTE ACORDO INDIVIDUAL ESCRITO]; [BANCO, AGÊNCIA E CONTA]; [30% (TRINTA POR CENTO)]; [OPCIONAL:]; [VALE-REFEIÇÃO/ALIMENTAÇÃO DE R$ (VALOR) POR DIA TRABALHADO / PLANO DE SAÚDE / OUTROS]; [SE A FUNÇÃO ENVOLVER CONTATO COM CRIANÇAS OU ADOLESCENTES:]; [NÃO É CÔNJUGE, COMPANHEIRO(A) OU PARENTE ATÉ O TERCEIRO GRAU DE DIRIGENTE, CONSELHEIRO OU MINISTRO DA EMPREGADORA / É (VÍNCULO) DE (NOME E CARGO)]; [FUNÇÃO]; [CARGO, EX.: 1º SECRETÁRIO(A) DA DIRETORIA EXECUTIVA]; [RESUMO]; [LISTAR DE 5 A 10 TAREFAS OBJETIVAS. EXEMPLOS POR FUNÇÃO:]; [AUXILIAR ADMINISTRATIVO/SECRETÁRIO(A):]; [ZELADOR(A)/SERVIÇOS GERAIS:]; [TÉCNICO(A) DE SOM E MÍDIA:]; [ESCOLARIDADE, EXPERIÊNCIA, HABILITAÇÃO, CERTIDÕES]; [48 (QUARENTA E OITO)]; [ENDEREÇO; LINHAS, TRAJETOS E TARIFAS].
+P Cuidados: Participação em cultos fora do horário é livre e não conta como jornada. É proibido descontar dízimo do salário.
+### 6.30. Contrato de Prestação de Serviços
+%GRID 5,11
+Item | Descrição
+Arquivo | 07_Pessoas_e_Contratacoes/02_Contrato_de_Prestacao_de_Servicos.docx
+Finalidade | Contrato com prestador pessoa física ou jurídica, com escopo e níveis de serviço e declarações da contratada.
+Base legal | Código Civil, arts. 593 a 609; Lei 6.019/1974; LGPD; Lei 12.846/2013; Estatuto, art. [[ci]].
+Quem prepara, aprova e assina | Presidente da igreja e contratada; duas testemunhas.
+Guarda e prazos | Durante o contrato e mais 10 anos.
+%ENDGRID
+P Estrutura: Cláusula 1ª – DO OBJETO; Cláusula 2ª – DA AUTONOMIA E DA INEXISTÊNCIA DE VÍNCULO EMPREGATÍCIO; Cláusula 3ª – DAS OBRIGAÇÕES DA CONTRATADA; Cláusula 4ª – DAS OBRIGAÇÕES DA IGREJA; Cláusula 5ª – DO PREÇO, DO PAGAMENTO E DOS TRIBUTOS; Cláusula 6ª – DO REAJUSTE; Cláusula 7ª – DA VIGÊNCIA; Cláusula 8ª – DA RESCISÃO E DAS PENALIDADES; Cláusula 9ª – DO SIGILO E DA PROTEÇÃO DE DADOS; Cláusula 10ª – DA PROPRIEDADE INTELECTUAL; Cláusula 11ª – DA INTEGRIDADE E DO CONFLITO DE INTERESSES; Cláusula 12ª – DAS DISPOSIÇÕES FINAIS; ANEXO I – ESCOPO, NÍVEIS DE SERVIÇO E ENTREGAS; ANEXO II – DECLARAÇÕES DA CONTRATADA.
+P Regras de preenchimento:
+I – Descreva o escopo no Anexo I.
+II – Em terceirização com mão de obra alocada, exija comprovantes mensais.
+III – Confirme as retenções com o contador.
+IV – Prazo máximo de 4 anos por contrato.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [SE PESSOA FÍSICA:]; [DESCREVER]; [SE PESSOA JURÍDICA:]; [RAZÃO SOCIAL]; [NOME E QUALIFICAÇÃO DO REPRESENTANTE]; [REGISTRO PROFISSIONAL, SE HOUVER]; [DESCRIÇÃO SUMÁRIA, EX.: ASSESSORIA CONTÁBIL / ASSESSORIA JURÍDICA / MANUTENÇÃO PREDIAL / LIMPEZA / MANUTENÇÃO DE EQUIPAMENTOS DE SOM E IMAGEM / DESENVOLVIMENTO E MANUTENÇÃO DE SITE / FOTOGRAFIA E FILMAGEM DE EVENTO]; [SE HOUVER CESSÃO DE MÃO DE OBRA OU TERCEIRIZAÇÃO, COMO LIMPEZA OU PORTARIA:]; [NOME E FUNÇÃO]; [O VALOR MENSAL DE R$ (VALOR) / O VALOR TOTAL DE R$ (VALOR), EM (NÚMERO) PARCELAS DE R$ (VALOR) / O VALOR DE R$ (VALOR) POR (HORA, VISITA, EVENTO OU ENTREGA)]; [OU, SE PESSOA FÍSICA SEM INSCRIÇÃO MUNICIPAL, DE RECIBO DE PAGAMENTO A AUTÔNOMO (RPA)]; [SE HOUVER CESSÃO DE MÃO DE OBRA:]; [12 (DOZE) MESES / PRAZO DETERMINADO DE (PRAZO) / ATÉ A CONCLUSÃO DAS ENTREGAS DO ANEXO I]; [30 (TRINTA)]; [10 (DEZ)]; [10% (DEZ POR CENTO)]; [MENSAL / TOTAL]; [MEDIANTE CESSÃO DOS DIREITOS PATRIMONIAIS DE AUTOR À IGREJA / MEDIANTE LICENÇA GRATUITA, NÃO EXCLUSIVA E IRREVOGÁVEL]; [NÃO É, NEM SEUS SÓCIOS OU ADMINISTRADORES SÃO, DIRIGENTE, CONSELHEIRO OU MINISTRO DA IGREJA, NEM CÔNJUGE, COMPANHEIRO OU PARENTE ATÉ O TERCEIRO GRAU DE QUEM O SEJA / TEM O SEGUINTE VÍNCULO: (DESCREVER)]; [E-MAIL DA IGREJA]; [E-MAIL DA CONTRATADA]; [DESCREVER, EVITANDO HORÁRIOS DE CULTO QUANDO POSSÍVEL]; [DESCREVER OU "NENHUM"]; [PRAZO]; [EXEMPLOS DE ESCOPO – ASSESSORIA CONTÁBIL:].
+P Cuidados: Não trate o prestador como empregado (horário, ordens, advertências).
+### 6.31. RPA – Recibo de Pagamento a Autônomo
+%GRID 5,11
+Item | Descrição
+Arquivo | 07_Pessoas_e_Contratacoes/03_RPA_Recibo_de_Pagamento_a_Autonomo.docx
+Finalidade | Recibo para pagamentos eventuais a pessoa física sem nota fiscal, com demonstrativo de retenções, declarações do prestador e quadro de controle interno.
+Base legal | Lei 8.212/1991 (contribuinte individual); legislação do IR e do ISS.
+Quem prepara, aprova e assina | Tesoureiro emite; prestador assina e preenche as declarações.
+Guarda e prazos | 10 anos, com as guias.
+%ENDGRID
+P Estrutura: INSTRUÇÕES DE USO (PARA A TESOURARIA E A CONTABILIDADE); RECIBO DE PAGAMENTO A AUTÔNOMO Nº [NÚMERO SEQUENCIAL]; ANEXO – DECLARAÇÕES DO(A) PRESTADOR(A); QUADRO DE CONTROLE INTERNO (USO EXCLUSIVO DA IGREJA – NÃO ENTREGAR AO PRESTADOR).
+P Regras de preenchimento:
+I – Confira as tabelas vigentes de INSS e IR e a lei do ISS a cada pagamento.
+II – Reembolso de despesas comprovadas vai em campo separado e não é tributado.
+III – Informe no eSocial e na DCTFWeb.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [ALÍQUOTA VIGENTE]; [MÊS/ANO]; [NÚMERO SEQUENCIAL]; [ENDEREÇO COMPLETO DA SEDE]; [OCUPAÇÃO E CÓDIGO]; [NÚMERO OU "NÃO POSSUI"]; [BANCO, AGÊNCIA E CONTA OU CHAVE PIX DE TITULARIDADE DO(A) PRESTADOR(A)]; [EX.: PREGAÇÃO NO CULTO DE (DATA) / APRESENTAÇÃO MUSICAL NO EVENTO (NOME) / MANUTENÇÃO ELÉTRICA DO TEMPLO]; [DATA(S)]; [SEDE / CONGREGAÇÃO (NOME) / OUTRO]; [NOME DE QUEM AUTORIZOU E DATA, CONFORME AS ALÇADAS DO REGIMENTO INTERNO]; [ALÍQUOTA]; [1º OU 2º]; [NOME, CPF, PARENTESCO E DATA DE NASCIMENTO]; [COM RECOLHIMENTO DO ISS PELO REGIME FIXO ANUAL, CONFORME COMPROVANTE ANEXO]; [DATAS E NÚMEROS]; [CONTA]; [NOMES E DATAS].
+P Cuidados: "Oferta" fixa a pregador convidado sem comprovantes é remuneração. Pagamentos frequentes à mesma pessoa podem virar vínculo de emprego.
+### 6.32. Termo de Adesão ao Serviço Voluntário
+%GRID 5,11
+Item | Descrição
+Arquivo | 07_Pessoas_e_Contratacoes/04_Termo_de_Adesao_ao_Servico_Voluntario.docx
+Finalidade | Formaliza o voluntariado, com registro de atividades e termo de encerramento.
+Base legal | Lei 9.608/1998, arts. 1º a 3º; Lei 9.610/1998; Estatuto, art. [[vol]].
+Quem prepara, aprova e assina | Representante da igreja e voluntário (e pais, se adolescente).
+Guarda e prazos | Durante o serviço e mais 5 anos.
+%ENDGRID
+P Estrutura: Cláusula 1ª – DO OBJETO; Cláusula 2ª – DA NATUREZA DO SERVIÇO; Cláusula 3ª – DO RESSARCIMENTO DE DESPESAS; Cláusula 4ª – DAS OBRIGAÇÕES DO(A) VOLUNTÁRIO(A); Cláusula 5ª – DAS OBRIGAÇÕES DA IGREJA; Cláusula 6ª – DA ATUAÇÃO COM CRIANÇAS, ADOLESCENTES E PESSOAS VULNERÁVEIS; Cláusula 7ª – DA IMAGEM E DAS OBRAS PRODUZIDAS; Cláusula 8ª – DA PROTEÇÃO DE DADOS PESSOAIS; Cláusula 9ª – DA VIGÊNCIA E DO ENCERRAMENTO; Cláusula 10ª – DO(A) VOLUNTÁRIO(A) MENOR DE 18 ANOS; Cláusula 11ª – DAS DISPOSIÇÕES FINAIS E DO FORO; ANEXO I – REGISTRO DE ATIVIDADES E RESSARCIMENTOS; ANEXO II – TERMO DE ENCERRAMENTO DO SERVIÇO VOLUNTÁRIO.
+P Regras de preenchimento:
+I – Descreva a atividade e a disponibilidade definida pelo voluntário.
+II – Ressarcimento só de despesas autorizadas e comprovadas.
+III – Adolescentes de 14 a 17 anos só com os pais e fora de horário noturno ou perigoso.
+P Campos específicos a preencher (além dos campos comuns da seção 4): [NOME DO REPRESENTANTE]; [NOME COMPLETO DO(A) VOLUNTÁRIO(A)]; [DESCRIÇÃO OBJETIVA DAS TAREFAS]; [SEDE / CONGREGAÇÃO (NOME E ENDEREÇO) / EVENTOS EXTERNOS / REMOTO]; [DIAS E TURNOS / CERCA DE (X) HORAS POR SEMANA OU MÊS]; [NOME E FUNÇÃO DO LÍDER]; [MANTER SEGURO DE ACIDENTES PESSOAIS EM FAVOR DOS VOLUNTÁRIOS QUE ATUEM EM ATIVIDADES DE RISCO, VIAGENS OU OBRAS / SUPRIMIR SE NÃO HOUVER]; [AUTORIZA / NÃO AUTORIZA]; [SE HOUVER OBRAS DE MAIOR VALOR, AJUSTAR EM TERMO ESPECÍFICO.]; [PRAZO INDETERMINADO / (X) MESES, PRORROGÁVEL POR ACORDO ESCRITO]; [APLICÁVEL SOMENTE SE O(A) VOLUNTÁRIO(A) TIVER ENTRE 14 E 18 ANOS INCOMPLETOS; CASO CONTRÁRIO, SUPRIMIR.]; [NOME COMPLETO – SOMENTE SE MENOR DE 18 ANOS]; [MINISTÉRIO/DEPARTAMENTO]; [DATA DE INÍCIO]; [DATA DE ENCERRAMENTO]; [INICIATIVA DO(A) VOLUNTÁRIO(A) / INICIATIVA DA IGREJA / TÉRMINO DO PRAZO / COMUM ACORDO]; [OU: RESSALVADO O VALOR DE R$ (VALOR), A SER PAGO ATÉ (DATA)].
+P Cuidados: Evite metas, escalas obrigatórias e ajudas de custo fixas, que caracterizam vínculo de emprego.
+## 7. PASTAS DE ENVIO AO PASTOR
+P Os arquivos foram organizados em pastas numeradas, na ordem em que serão utilizados:
+%GRID 6,10
+Pasta | Conteúdo
+00_Leia_Primeiro | Este manual e a Nota Técnica
+01_Constituicao_e_Registro | Documentos para fundar a igreja e registrá-la em cartório. Estatuto Social e Declaração de Fé, Ata da Assembleia Geral de Fundação, Edital de Convocação da Assembleia de Fundação, Requerimento de Registro no Cartório (RCPJ).
+02_Normas_Internas | Normas que regem o funcionamento, a conduta, a proteção de menores e a privacidade. Regimento Interno, Código de Conduta, Política de Proteção de Crianças, Adolescentes e Pessoas Vulneráveis, Política de Privacidade e Proteção de Dados.
+03_Assembleias_e_Conselhos | Modelos de atas dos órgãos da igreja e relatório anual. Ata de Reunião da Diretoria Executiva, Assembleia Geral Ordinária, Assembleia Geral Extraordinária, Conselho Fiscal: Atas e Pareceres, Conselho Ministerial: Atas e Procedimento Disciplinar, Relatório Anual de Atividades.
+04_Membros | Entrada, saída e movimentação de membros. Ficha de Cadastro de Membro, Termo de Admissão de Membro Menor de 18 Anos, Carta de Transferência e Documentos de Membresia, Desligamento de Membro, Readmissão de Membro.
+05_Atos_Religiosos | Certificados e livros de registro dos atos religiosos. Certificado e Registro de Batismo, Apresentação de Crianças, Casamento Religioso, Ordenação de Ministro.
+06_Financas_e_Patrimonio | Recibos, doações e contratos do imóvel do templo. Recibo de Dízimos, Ofertas e Doações, Doação de Bens Móveis, Doação de Imóvel, Contrato de Comodato do Templo, Contrato de Locação do Templo.
+07_Pessoas_e_Contratacoes | Empregados, prestadores de serviço, autônomos e voluntários. Contrato de Trabalho, Contrato de Prestação de Serviços, RPA – Recibo de Pagamento a Autônomo, Termo de Adesão ao Serviço Voluntário.
+%ENDGRID
+P Não fazem parte do envio os arquivos de texto (.txt) e o programa gerador, que servem apenas para manter e atualizar os modelos.

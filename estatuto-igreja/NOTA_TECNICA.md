@@ -1,37 +1,39 @@
 # Nota técnica: novo Estatuto Social da Igreja (organização religiosa)
 
 Arquivos:
-- `Estatuto_Social_Igreja_ISAC_v2.docx`: o estatuto pronto para preencher e registrar.
-- `Ata_Assembleia_Fundacao_Igreja_ISAC.docx`: ata da Assembleia de Fundação, com o Anexo A (lista de presença dos fundadores) e o Anexo B (termo de posse e declaração de desimpedimento, um por eleito).
-- `Edital_Convocacao_Fundacao_Igreja_ISAC.docx`: edital de convocação da Assembleia de Fundação, com a certidão de afixação e divulgação.
-- `Requerimento_Registro_RCPJ_Igreja_ISAC.docx`: requerimento de registro ao Registro Civil de Pessoas Jurídicas, com a lista de documentos que o acompanham.
-- `Regimento_Interno_Igreja_ISAC.docx`: Regimento Interno (53 artigos), a ser aprovado pela Assembleia Geral em até 180 dias da fundação.
-- `Codigo_de_Conduta_Igreja_ISAC.docx` e `Politica_Protecao_Menores_Vulneraveis_Igreja_ISAC.docx`: normas complementares aprovadas pela Diretoria Executiva, ouvido o Conselho Ministerial (Estatuto, art. 43).
-- `Politica_Privacidade_Protecao_Dados_Igreja_ISAC.docx`: política de privacidade (aviso público aos titulares e normas internas), aprovada pela Diretoria Executiva (Estatuto, art. 43, IV).
-- `Termo_Adesao_Servico_Voluntario_Igreja_ISAC.docx`: termo de adesão ao serviço voluntário (Lei 9.608/1998), com registro de atividades e termo de encerramento.
-- `Contrato_Comodato_Templo_Igreja_ISAC.docx`: modelo de contrato de comodato do imóvel usado como templo, com laudo de vistoria e termo de devolução.
-- `Contrato_Locacao_Templo_Igreja_ISAC.docx`: modelo de contrato de locação não residencial do imóvel usado como templo, com laudo de vistoria e termo de devolução.
-- `Recibo_Dizimos_Ofertas_Igreja_ISAC.docx`: instruções à Tesouraria e modelos de recibo de contribuição (com canhoto), de declaração anual de contribuições e de requerimento de devolução por erro material.
-- `Termo_Doacao_Bens_Igreja_ISAC.docx`: termo de doação de bens móveis, inclusive veículos, com roteiro para a doação de imóveis.
-- `Termo_Doacao_Imovel_Igreja_ISAC.docx`: minuta de escritura pública de doação de imóvel, instrumento particular para imóveis de pequeno valor e extrato de ata de aceitação pela Diretoria.
-- `Contrato_Trabalho_Empregado_Igreja_ISAC.docx`: contrato individual de trabalho (CLT), com descrição da função, acordo de compensação e banco de horas e opção pelo vale-transporte.
-- `Contrato_Prestacao_Servicos_Igreja_ISAC.docx`: contrato de prestação de serviços para fornecedores pessoa física ou jurídica, com escopo e níveis de serviço e declarações da contratada.
-- `RPA_Recibo_Pagamento_Autonomo_Igreja_ISAC.docx`: recibo de pagamento a autônomo, com instruções de uso, demonstrativo de retenções, declarações do prestador e quadro de controle interno.
-- `Ata_Reuniao_Diretoria_Executiva_Igreja_ISAC.docx`: modelo de ata de reunião da Diretoria Executiva, com orientações e redações-padrão para as deliberações mais frequentes.
-- `Ata_Assembleia_Geral_Ordinaria_Igreja_ISAC.docx`: calendário preparatório, edital de convocação e modelo de ata da Assembleia Geral Ordinária, com lista de presença.
-- `Ata_Assembleia_Geral_Extraordinaria_Igreja_ISAC.docx`: tabela de matérias e quóruns, edital de convocação, modelo de ata da Assembleia Geral Extraordinária com módulos por matéria, lista de presença e termo de verificação de quórum.
-- `Ata_Parecer_Conselho_Fiscal_Igreja_ISAC.docx`: orientações, ata de reunião trimestral com roteiro de verificações, parecer anual sobre as contas, parecer específico e comunicação de constatação à Diretoria.
-- `Ata_Conselho_Ministerial_Igreja_ISAC.docx`: orientações, ata geral de reunião, ata reservada de instauração de procedimento disciplinar, notificação ao acusado, ata reservada de decisão e comunicação da decisão.
-- `Carta_Transferencia_Membro_Igreja_ISAC.docx`: pedido e carta de transferência, comunicação de recebimento, carta de recomendação, declaração de membresia e solicitação de carta à igreja de origem.
-- `Ficha_Cadastro_Membro_Igreja_ISAC.docx`: ficha de cadastro de membro, com dados necessários e facultativos, declaração de adesão, consentimento LGPD, autorização dos pais, campos da Secretaria e atualização anual.
-- `Termo_Admissao_Membro_Menor_Igreja_ISAC.docx`: termo de autorização dos pais, manifestação do menor, comunicação ao outro genitor e ratificação na maioridade.
-- `Termo_Desligamento_Membro_Igreja_ISAC.docx`: pedido de desligamento, termo de desligamento com providências da Secretaria, notificação por ausência prolongada e resposta ao ex-membro.
-- `Termo_Readmissao_Membro_Igreja_ISAC.docx`: pedido de readmissão, termo de readmissão, termo de compromisso de reparação de dano e comunicação da decisão.
-- `Certificado_Batismo_Igreja_ISAC.docx`: certificado de batismo, livro de registro de batismos e declaração de segunda via.
-- `Certificado_Apresentacao_Criancas_Igreja_ISAC.docx`: pedido de apresentação, certificado, livro de registro e roteiro litúrgico sugerido.
-- `Certificado_Casamento_Religioso_Igreja_ISAC.docx`: pedido de celebração, termo de casamento religioso para registro civil, requerimento ao cartório, certificado e livro de registro de casamentos.
-- `Certificado_Ordenacao_Ministro_Igreja_ISAC.docx`: ata de exame e aprovação, termo de compromisso ministerial, certificado de ordenação, credencial ministerial e livro de registro.
-- `Relatorio_Anual_Atividades_Igreja_ISAC.docx`: modelo de relatório anual de atividades da Diretoria Executiva para a Assembleia Geral Ordinária.
+- `Estatuto_Social_Igreja_IBP.docx`: o estatuto pronto para preencher e registrar.
+- `Ata_Assembleia_Fundacao_Igreja_IBP.docx`: ata da Assembleia de Fundação, com o Anexo A (lista de presença dos fundadores) e o Anexo B (termo de posse e declaração de desimpedimento, um por eleito).
+- `Edital_Convocacao_Fundacao_Igreja_IBP.docx`: edital de convocação da Assembleia de Fundação, com a certidão de afixação e divulgação.
+- `Requerimento_Registro_RCPJ_Igreja_IBP.docx`: requerimento de registro ao Registro Civil de Pessoas Jurídicas, com a lista de documentos que o acompanham.
+- `Regimento_Interno_Igreja_IBP.docx`: Regimento Interno (53 artigos), a ser aprovado pela Assembleia Geral em até 180 dias da fundação.
+- `Codigo_de_Conduta_Igreja_IBP.docx` e `Politica_Protecao_Menores_Vulneraveis_Igreja_IBP.docx`: normas complementares aprovadas pela Diretoria Executiva, ouvido o Conselho Ministerial (Estatuto, art. 43).
+- `Politica_Privacidade_Protecao_Dados_Igreja_IBP.docx`: política de privacidade (aviso público aos titulares e normas internas), aprovada pela Diretoria Executiva (Estatuto, art. 43, IV).
+- `Termo_Adesao_Servico_Voluntario_Igreja_IBP.docx`: termo de adesão ao serviço voluntário (Lei 9.608/1998), com registro de atividades e termo de encerramento.
+- `Contrato_Comodato_Templo_Igreja_IBP.docx`: modelo de contrato de comodato do imóvel usado como templo, com laudo de vistoria e termo de devolução.
+- `Contrato_Locacao_Templo_Igreja_IBP.docx`: modelo de contrato de locação não residencial do imóvel usado como templo, com laudo de vistoria e termo de devolução.
+- `Recibo_Dizimos_Ofertas_Igreja_IBP.docx`: instruções à Tesouraria e modelos de recibo de contribuição (com canhoto), de declaração anual de contribuições e de requerimento de devolução por erro material.
+- `Termo_Doacao_Bens_Igreja_IBP.docx`: termo de doação de bens móveis, inclusive veículos, com roteiro para a doação de imóveis.
+- `Termo_Doacao_Imovel_Igreja_IBP.docx`: minuta de escritura pública de doação de imóvel, instrumento particular para imóveis de pequeno valor e extrato de ata de aceitação pela Diretoria.
+- `Contrato_Trabalho_Empregado_Igreja_IBP.docx`: contrato individual de trabalho (CLT), com descrição da função, acordo de compensação e banco de horas e opção pelo vale-transporte.
+- `Contrato_Prestacao_Servicos_Igreja_IBP.docx`: contrato de prestação de serviços para fornecedores pessoa física ou jurídica, com escopo e níveis de serviço e declarações da contratada.
+- `RPA_Recibo_Pagamento_Autonomo_Igreja_IBP.docx`: recibo de pagamento a autônomo, com instruções de uso, demonstrativo de retenções, declarações do prestador e quadro de controle interno.
+- `Ata_Reuniao_Diretoria_Executiva_Igreja_IBP.docx`: modelo de ata de reunião da Diretoria Executiva, com orientações e redações-padrão para as deliberações mais frequentes.
+- `Ata_Assembleia_Geral_Ordinaria_Igreja_IBP.docx`: calendário preparatório, edital de convocação e modelo de ata da Assembleia Geral Ordinária, com lista de presença.
+- `Ata_Assembleia_Geral_Extraordinaria_Igreja_IBP.docx`: tabela de matérias e quóruns, edital de convocação, modelo de ata da Assembleia Geral Extraordinária com módulos por matéria, lista de presença e termo de verificação de quórum.
+- `Ata_Parecer_Conselho_Fiscal_Igreja_IBP.docx`: orientações, ata de reunião trimestral com roteiro de verificações, parecer anual sobre as contas, parecer específico e comunicação de constatação à Diretoria.
+- `Ata_Conselho_Ministerial_Igreja_IBP.docx`: orientações, ata geral de reunião, ata reservada de instauração de procedimento disciplinar, notificação ao acusado, ata reservada de decisão e comunicação da decisão.
+- `Carta_Transferencia_Membro_Igreja_IBP.docx`: pedido e carta de transferência, comunicação de recebimento, carta de recomendação, declaração de membresia e solicitação de carta à igreja de origem.
+- `Ficha_Cadastro_Membro_Igreja_IBP.docx`: ficha de cadastro de membro, com dados necessários e facultativos, declaração de adesão, consentimento LGPD, autorização dos pais, campos da Secretaria e atualização anual.
+- `Termo_Admissao_Membro_Menor_Igreja_IBP.docx`: termo de autorização dos pais, manifestação do menor, comunicação ao outro genitor e ratificação na maioridade.
+- `Termo_Desligamento_Membro_Igreja_IBP.docx`: pedido de desligamento, termo de desligamento com providências da Secretaria, notificação por ausência prolongada e resposta ao ex-membro.
+- `Termo_Readmissao_Membro_Igreja_IBP.docx`: pedido de readmissão, termo de readmissão, termo de compromisso de reparação de dano e comunicação da decisão.
+- `Certificado_Batismo_Igreja_IBP.docx`: certificado de batismo, livro de registro de batismos e declaração de segunda via.
+- `Certificado_Apresentacao_Criancas_Igreja_IBP.docx`: pedido de apresentação, certificado, livro de registro e roteiro litúrgico sugerido.
+- `Certificado_Casamento_Religioso_Igreja_IBP.docx`: pedido de celebração, termo de casamento religioso para registro civil, requerimento ao cartório, certificado e livro de registro de casamentos.
+- `Certificado_Ordenacao_Ministro_Igreja_IBP.docx`: ata de exame e aprovação, termo de compromisso ministerial, certificado de ordenação, credencial ministerial e livro de registro.
+- `Relatorio_Anual_Atividades_Igreja_IBP.docx`: modelo de relatório anual de atividades da Diretoria Executiva para a Assembleia Geral Ordinária.
+- `Manual_dos_Documentos_Igreja_IBP.docx` e `Nota_Tecnica_Igreja_IBP.docx`: manual de uso de todos os documentos e esta nota em Word, gerados por `python3 gerar_manual.py`.
+- `../envio-pastor-isac/`: pastas numeradas com os arquivos para envio ao Pastor Isac, e o script `organizar_envio_pastor.ps1` para organizar a pasta local no Windows.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -94,7 +96,7 @@ Nome e sigla, endereço, prazo de carência para membro votante, prazos de manda
 - **Qualificação completa de cada eleito** (nome, nacionalidade, estado civil, profissão, RG, CPF e endereço): é exigida pelo art. 120 da Lei 6.015/1973, e sua falta é o motivo mais comum de o cartório devolver o pedido.
 - **Assinaturas e visto:** a ata é assinada pelo presidente e pelo secretário da Assembleia e pelos eleitos, com visto de advogado. Todas as folhas do Estatuto devem ser rubricadas. Consulte o cartório local sobre reconhecimento de firma e número de vias.
 - **Preenchimento dos campos:** preencha todos os [COLCHETES] e apague as alternativas que não se aplicam. Não deixe espaços em branco nem rasuras. O resultado de cada votação deve bater com o número de presentes.
-- **Documentos para o cartório (normalmente):** requerimento assinado pelo Presidente (`Requerimento_Registro_RCPJ_Igreja_ISAC.docx`), uma via do Estatuto e da ata em papel ou em meio eletrônico (Lei 6.015, art. 121, na redação atual; alguns cartórios ainda pedem mais vias), lista de presença, cópia do edital de convocação e documentos de identidade dos dirigentes. Confirme a lista exata com o Registro Civil de Pessoas Jurídicas da comarca.
+- **Documentos para o cartório (normalmente):** requerimento assinado pelo Presidente (`Requerimento_Registro_RCPJ_Igreja_IBP.docx`), uma via do Estatuto e da ata em papel ou em meio eletrônico (Lei 6.015, art. 121, na redação atual; alguns cartórios ainda pedem mais vias), lista de presença, cópia do edital de convocação e documentos de identidade dos dirigentes. Confirme a lista exata com o Registro Civil de Pessoas Jurídicas da comarca.
 
 ## 7. Edital e requerimento
 
@@ -459,3 +461,10 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Declaração final da Diretoria:** atesta um a um os requisitos da imunidade (art. 5º, § 1º) e complementa o parecer do Conselho Fiscal.
 - **Privacidade:** nenhuma pessoa é identificada nas seções sensíveis (membresia, ação social, proteção de vulneráveis, disciplina, privacidade). Os dados aparecem só em números.
 - **Comprovação:** cada informação deve ter documento arquivado. Seções sem atividade no ano são mantidas com essa indicação, em vez de suprimidas.
+
+## 35. Manual dos Documentos e pastas de envio
+
+- **Manual:** para cada um dos 32 documentos, uma ficha com arquivo, finalidade, base legal, quem prepara, aprova e assina, guarda e prazos, estrutura, regras de preenchimento, campos a preencher e cuidados. Também traz as regras gerais de preenchimento, os campos comuns, a ordem de utilização (da fundação ao funcionamento anual) e a estrutura das pastas de envio.
+- **Geração:** o manual é gerado por `gerar_manual.py`. A estrutura e os campos a preencher são extraídos automaticamente de cada modelo, e as remissões a artigos acompanham a numeração real. Se um modelo mudar, basta rodar `gerar_docx.py` e depois `gerar_manual.py`.
+- **Pastas de envio ao Pastor:** a pasta `00_Leia_Primeiro` tem o manual e a nota técnica. As pastas `01` a `07` organizam os modelos por uso, com prefixo numérico na ordem de utilização. Os `.txt` e os geradores não fazem parte do envio.
+- **Script para Windows:** `organizar_envio_pastor.ps1` copia, sem apagar nem mover nada, os arquivos da pasta local `Documentos - Constituição Igreja IBP` para a mesma estrutura, dentro de `Envio - Pastor Isac`. No final, lista os documentos não encontrados e os arquivos da pasta que não fazem parte do envio. O script não foi executado em Windows durante a elaboração; os padrões de nome foram conferidos contra os arquivos gerados.

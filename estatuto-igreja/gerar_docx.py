@@ -10,38 +10,38 @@ from docx.shared import Pt, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 base = Path(__file__).parent
-DOCS = [("estatuto.txt", "Estatuto_Social_Igreja_ISAC_v2.docx"),
-        ("ata_fundacao.txt", "Ata_Assembleia_Fundacao_Igreja_ISAC.docx"),
-        ("edital_convocacao.txt", "Edital_Convocacao_Fundacao_Igreja_ISAC.docx"),
-        ("requerimento_registro.txt", "Requerimento_Registro_RCPJ_Igreja_ISAC.docx"),
-        ("regimento_interno.txt", "Regimento_Interno_Igreja_ISAC.docx"),
-        ("codigo_conduta.txt", "Codigo_de_Conduta_Igreja_ISAC.docx"),
-        ("politica_protecao.txt", "Politica_Protecao_Menores_Vulneraveis_Igreja_ISAC.docx"),
-        ("politica_privacidade.txt", "Politica_Privacidade_Protecao_Dados_Igreja_ISAC.docx"),
-        ("termo_voluntariado.txt", "Termo_Adesao_Servico_Voluntario_Igreja_ISAC.docx"),
-        ("contrato_comodato.txt", "Contrato_Comodato_Templo_Igreja_ISAC.docx"),
-        ("contrato_locacao.txt", "Contrato_Locacao_Templo_Igreja_ISAC.docx"),
-        ("recibo_dizimos.txt", "Recibo_Dizimos_Ofertas_Igreja_ISAC.docx"),
-        ("termo_doacao.txt", "Termo_Doacao_Bens_Igreja_ISAC.docx"),
-        ("termo_doacao_imovel.txt", "Termo_Doacao_Imovel_Igreja_ISAC.docx"),
-        ("contrato_trabalho.txt", "Contrato_Trabalho_Empregado_Igreja_ISAC.docx"),
-        ("contrato_servicos.txt", "Contrato_Prestacao_Servicos_Igreja_ISAC.docx"),
-        ("rpa.txt", "RPA_Recibo_Pagamento_Autonomo_Igreja_ISAC.docx"),
-        ("ata_diretoria.txt", "Ata_Reuniao_Diretoria_Executiva_Igreja_ISAC.docx"),
-        ("ata_ago.txt", "Ata_Assembleia_Geral_Ordinaria_Igreja_ISAC.docx"),
-        ("ata_age.txt", "Ata_Assembleia_Geral_Extraordinaria_Igreja_ISAC.docx"),
-        ("ata_conselho_fiscal.txt", "Ata_Parecer_Conselho_Fiscal_Igreja_ISAC.docx"),
-        ("ata_conselho_ministerial.txt", "Ata_Conselho_Ministerial_Igreja_ISAC.docx"),
-        ("carta_transferencia.txt", "Carta_Transferencia_Membro_Igreja_ISAC.docx"),
-        ("ficha_membro.txt", "Ficha_Cadastro_Membro_Igreja_ISAC.docx"),
-        ("termo_membro_menor.txt", "Termo_Admissao_Membro_Menor_Igreja_ISAC.docx"),
-        ("termo_desligamento.txt", "Termo_Desligamento_Membro_Igreja_ISAC.docx"),
-        ("termo_readmissao.txt", "Termo_Readmissao_Membro_Igreja_ISAC.docx"),
-        ("certificado_batismo.txt", "Certificado_Batismo_Igreja_ISAC.docx"),
-        ("certificado_apresentacao.txt", "Certificado_Apresentacao_Criancas_Igreja_ISAC.docx"),
-        ("certificado_casamento.txt", "Certificado_Casamento_Religioso_Igreja_ISAC.docx"),
-        ("certificado_ordenacao.txt", "Certificado_Ordenacao_Ministro_Igreja_ISAC.docx"),
-        ("relatorio_anual.txt", "Relatorio_Anual_Atividades_Igreja_ISAC.docx")]
+DOCS = [("estatuto.txt", "Estatuto_Social_Igreja_IBP.docx"),
+        ("ata_fundacao.txt", "Ata_Assembleia_Fundacao_Igreja_IBP.docx"),
+        ("edital_convocacao.txt", "Edital_Convocacao_Fundacao_Igreja_IBP.docx"),
+        ("requerimento_registro.txt", "Requerimento_Registro_RCPJ_Igreja_IBP.docx"),
+        ("regimento_interno.txt", "Regimento_Interno_Igreja_IBP.docx"),
+        ("codigo_conduta.txt", "Codigo_de_Conduta_Igreja_IBP.docx"),
+        ("politica_protecao.txt", "Politica_Protecao_Menores_Vulneraveis_Igreja_IBP.docx"),
+        ("politica_privacidade.txt", "Politica_Privacidade_Protecao_Dados_Igreja_IBP.docx"),
+        ("termo_voluntariado.txt", "Termo_Adesao_Servico_Voluntario_Igreja_IBP.docx"),
+        ("contrato_comodato.txt", "Contrato_Comodato_Templo_Igreja_IBP.docx"),
+        ("contrato_locacao.txt", "Contrato_Locacao_Templo_Igreja_IBP.docx"),
+        ("recibo_dizimos.txt", "Recibo_Dizimos_Ofertas_Igreja_IBP.docx"),
+        ("termo_doacao.txt", "Termo_Doacao_Bens_Igreja_IBP.docx"),
+        ("termo_doacao_imovel.txt", "Termo_Doacao_Imovel_Igreja_IBP.docx"),
+        ("contrato_trabalho.txt", "Contrato_Trabalho_Empregado_Igreja_IBP.docx"),
+        ("contrato_servicos.txt", "Contrato_Prestacao_Servicos_Igreja_IBP.docx"),
+        ("rpa.txt", "RPA_Recibo_Pagamento_Autonomo_Igreja_IBP.docx"),
+        ("ata_diretoria.txt", "Ata_Reuniao_Diretoria_Executiva_Igreja_IBP.docx"),
+        ("ata_ago.txt", "Ata_Assembleia_Geral_Ordinaria_Igreja_IBP.docx"),
+        ("ata_age.txt", "Ata_Assembleia_Geral_Extraordinaria_Igreja_IBP.docx"),
+        ("ata_conselho_fiscal.txt", "Ata_Parecer_Conselho_Fiscal_Igreja_IBP.docx"),
+        ("ata_conselho_ministerial.txt", "Ata_Conselho_Ministerial_Igreja_IBP.docx"),
+        ("carta_transferencia.txt", "Carta_Transferencia_Membro_Igreja_IBP.docx"),
+        ("ficha_membro.txt", "Ficha_Cadastro_Membro_Igreja_IBP.docx"),
+        ("termo_membro_menor.txt", "Termo_Admissao_Membro_Menor_Igreja_IBP.docx"),
+        ("termo_desligamento.txt", "Termo_Desligamento_Membro_Igreja_IBP.docx"),
+        ("termo_readmissao.txt", "Termo_Readmissao_Membro_Igreja_IBP.docx"),
+        ("certificado_batismo.txt", "Certificado_Batismo_Igreja_IBP.docx"),
+        ("certificado_apresentacao.txt", "Certificado_Apresentacao_Criancas_Igreja_IBP.docx"),
+        ("certificado_casamento.txt", "Certificado_Casamento_Religioso_Igreja_IBP.docx"),
+        ("certificado_ordenacao.txt", "Certificado_Ordenacao_Ministro_Igreja_IBP.docx"),
+        ("relatorio_anual.txt", "Relatorio_Anual_Atividades_Igreja_IBP.docx")]
 
 def label(n):
     return f"{n}º" if n < 10 else f"{n}"
@@ -230,6 +230,7 @@ def build(src_name, out_name):
     doc.save(out)
     print(out.name)
 
-for src_name, out_name in DOCS:
-    build(src_name, out_name)
-print(f"{len(nums)} artigos no estatuto")
+if __name__ == "__main__":
+    for src_name, out_name in DOCS:
+        build(src_name, out_name)
+    print(f"{len(nums)} artigos no estatuto")
