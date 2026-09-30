@@ -26,6 +26,7 @@ Arquivos:
 - `Ficha_Cadastro_Membro_Igreja_ISAC.docx`: ficha de cadastro de membro, com dados necessários e facultativos, declaração de adesão, consentimento LGPD, autorização dos pais, campos da Secretaria e atualização anual.
 - `Termo_Admissao_Membro_Menor_Igreja_ISAC.docx`: termo de autorização dos pais, manifestação do menor, comunicação ao outro genitor e ratificação na maioridade.
 - `Termo_Desligamento_Membro_Igreja_ISAC.docx`: pedido de desligamento, termo de desligamento com providências da Secretaria, notificação por ausência prolongada e resposta ao ex-membro.
+- `Termo_Readmissao_Membro_Igreja_ISAC.docx`: pedido de readmissão, termo de readmissão, termo de compromisso de reparação de dano e comunicação da decisão.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -396,3 +397,16 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Ausência prolongada:** a notificação tem tom pastoral, lista os motivos de ausência que não contam como injustificada, deixa claro que o desligamento por ausência não é punição e permite a readmissão.
 - **Dados e contribuições:** ninguém tem direito à devolução de contribuições (Estatuto, art. 13, § 5º). Contribuições recorrentes são canceladas pelo próprio contribuinte no banco. Depois da saída, a igreja guarda só os registros mínimos e o ex-membro escolhe se quer continuar recebendo comunicações como frequentador.
 - **Discrição:** o motivo da saída não é divulgado.
+
+## 29. Readmissão de membro
+
+- **Caminho conforme o motivo da saída:** o Regimento não tem um modo específico chamado "readmissão", então o modelo usa os modos que já existem:
+  - quem saiu a pedido ou por ausência volta por aclamação (art. 7º), e o registro antigo no Rol serve de comprovação;
+  - quem se transferiu volta por carta de transferência;
+  - quem foi excluído volta por reconciliação (art. 6º), com pedido escrito, arrependimento quando o motivo exigir e reparação de dano.
+  Não é preciso alterar o Regimento. Se preferir um modo expresso de "readmissão", ele pode ser acrescentado na primeira revisão.
+- **Restabelecimento não é readmissão:** se a Assembleia anular uma exclusão em recurso, o membro volta à situação anterior, sem novo prazo de carência. Basta cancelar a anotação de desligamento.
+- **Carência recomeça:** o readmitido conta de novo os 6 meses para a plena comunhão e os prazos de membresia para cargos e funções, porque o Estatuto (art. 9º, I) conta o prazo da admissão. Nova ficha e novo consentimento de dados são necessários, porque os dados antigos podem ter sido apagados.
+- **Reparação de dano:** é formalizada em termo próprio, com parcelamento e contabilização como ressarcimento, e não como contribuição, para não confundir a receita. A incapacidade financeira comprovada não impede, por si só, a reconciliação.
+- **Proteção de vulneráveis:** quem foi excluído por violência contra criança ou pessoa vulnerável, ou por crime sexual, só é readmitido com acordo de participação supervisionada e continua impedido de atuar com esses públicos.
+- **Indeferimento:** é comunicado com motivos objetivos e com a possibilidade de renovar o pedido, mantendo a pessoa bem-vinda como frequentadora.

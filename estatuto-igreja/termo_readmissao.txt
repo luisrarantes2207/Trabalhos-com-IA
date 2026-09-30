@@ -1,0 +1,64 @@
+# MODELOS PARA A READMISSÃO DE MEMBRO
+![NOME COMPLETO DA IGREJA] – [SIGLA]
+!Estatuto Social, arts. [[adm]] e [[cat]] – Regimento Interno, arts. <<adm3>>, <<adm4>> e <<rol>>
+
+## ORIENTAÇÕES DE USO
+I – A readmissão é o retorno ao Rol de Membros de quem já foi membro da IGREJA e deixou de sê-lo. O caminho depende do motivo do desligamento anterior:
+%GRID 5,5,6
+Desligamento anterior | Modo de readmissão | Requisitos
+Pedido do membro ou ausência prolongada | Aclamação (Regimento, art. <<adm4>>), servindo o registro no Rol de Membros como meio idôneo de comprovação | Pedido escrito, entrevista, nova ficha de cadastro e deliberação do Conselho Ministerial
+Transferência para outra igreja | Transferência de volta, com carta da igreja atual (Regimento, art. <<adm2>>), ou aclamação, se a carta não for obtida em 60 dias | Pedido escrito, carta de transferência, nova ficha de cadastro e deliberação do Conselho Ministerial
+Exclusão por decisão disciplinar | Reconciliação (Regimento, art. <<adm3>>) | Pedido escrito, manifestação de arrependimento quando o motivo o exigir, reparação de eventual dano à IGREJA e deliberação do Conselho Ministerial
+%ENDGRID
+II – Não é caso de readmissão, mas de restabelecimento, a situação do membro cuja exclusão foi anulada pela Assembleia Geral em recurso (Regimento, art. <<pd4>>, § 3º): a Secretaria simplesmente cancela a anotação de desligamento, e o membro retorna à situação anterior, sem novo prazo de carência.
+III – O readmitido volta como membro recém-admitido: o prazo de [6 (SEIS)] meses para a plena comunhão e o direito de voto conta da data da readmissão (Estatuto, art. [[cat]], I), e os prazos de tempo de membresia para cargos (Estatuto, art. [[req]], I) e para funções previstas no Regimento e nas políticas internas recomeçam a contar.
+IV – Como os dados do período anterior podem ter sido eliminados conforme a Política de Privacidade, o readmitido preencherá nova Ficha de Cadastro de Membro, com novo consentimento para o tratamento de dados.
+V – Na reconciliação, o arrependimento é apreciado pelo Conselho Ministerial com discrição pastoral e sem exposição pública. A reparação de dano material à IGREJA será formalizada por termo próprio (Modelo 3), podendo ser parcelada; a incapacidade financeira comprovada não impede a reconciliação, a critério do Conselho Ministerial.
+VI – A readmissão de pessoa excluída por fatos envolvendo violência contra criança, adolescente ou pessoa vulnerável, ou por crime contra a dignidade sexual, dependerá da celebração do acordo de participação supervisionada da Política de Proteção (art. {{politica_protecao:hist}}), e a pessoa permanecerá impedida de atuar com esses públicos (art. {{politica_protecao:req}}, § 2º).
+
+%PAGEBREAK
+## MODELO 1 – PEDIDO DE READMISSÃO
+P Ao Conselho Ministerial da [NOME COMPLETO DA IGREJA].
+P Eu, [NOME COMPLETO], CPF nº [NÚMERO], fui membro desta IGREJA de [DATA] a [DATA], tendo sido desligado(a) por [PEDIDO MEU / AUSÊNCIA PROLONGADA / TRANSFERÊNCIA PARA (IGREJA) / EXCLUSÃO], e solicito minha readmissão como membro.
+P Motivo do pedido: [ESCREVA COM SUAS PALAVRAS].
+P [SE HOUVE EXCLUSÃO:] Declaro que [RECONHEÇO OS FATOS QUE MOTIVARAM A EXCLUSÃO E MANIFESTO MEU ARREPENDIMENTO / (OUTRA MANIFESTAÇÃO)] e que [NÃO HÁ DANO MATERIAL A REPARAR / ME DISPONHO A REPARAR O DANO CAUSADO À IGREJA, NA FORMA A SER AJUSTADA].
+P [SE HOUVE TRANSFERÊNCIA:] Sou membro atualmente da [NOME DA IGREJA], à qual [JÁ SOLICITEI / AUTORIZO ESTA IGREJA A SOLICITAR] carta de transferência.
+P Declaro que continuo a professar a Declaração de Fé e aceito o Estatuto Social e o Regimento Interno, e comprometo-me a preencher nova Ficha de Cadastro de Membro.
+%DATE
+%SIGNS [NOME COMPLETO];Requerente
+
+%PAGEBREAK
+## MODELO 2 – TERMO DE READMISSÃO
+P TERMO Nº [NÚMERO]/[ANO]. O Conselho Ministerial da [NOME COMPLETO DA IGREJA], em reunião de [DATA] (ata geral nº [NÚMERO]), examinou o pedido de readmissão de:
+%GRID 6,10
+Nome | [NOME COMPLETO]
+Período anterior como membro | [DATA] a [DATA] – Nº anterior no Rol: [NÚMERO]
+Motivo do desligamento anterior | [PEDIDO / AUSÊNCIA / TRANSFERÊNCIA / EXCLUSÃO – PROCEDIMENTO Nº (NÚMERO)]
+Modo de readmissão | [ ] Aclamação (Regimento, art. <<adm4>>)   [ ] Transferência (carta nº [ ] de [IGREJA])   [ ] Reconciliação (Regimento, art. <<adm3>>)
+Entrevista (data e entrevistadores) | [ ]
+Requisitos verificados | [ ] Pedido escrito   [ ] Nova ficha de cadastro e consentimento   [ ] Carta de transferência   [ ] Manifestação de arrependimento   [ ] Reparação ou termo de reparação (Modelo 3)   [ ] Acordo de participação supervisionada (Política de Proteção)
+%ENDGRID
+P DECISÃO: por [RESULTADO], o Conselho Ministerial [DEFERIU / INDEFERIU] a readmissão[, PELOS SEGUINTES FUNDAMENTOS: (DESCREVER, SE INDEFERIDA)].
+P [SE DEFERIDA:] O(A) readmitido(a) é inscrito(a) no Rol de Membros sob o nº [NÚMERO], como membro [MENOR / QUE PASSARÁ À PLENA COMUNHÃO EM (DATA), DECORRIDO O PRAZO DO ART. [[cat]], I, DO ESTATUTO SOCIAL], com recepção pública em [DATA] [OU: SEM RECEPÇÃO PÚBLICA, A PEDIDO DO(A) INTERESSADO(A)].
+P [SE HOUVER CONDIÇÕES:] A readmissão observa as seguintes condições: [EX.: CUMPRIMENTO DO TERMO DE REPARAÇÃO; IMPEDIMENTO DE ATUAR COM CRIANÇAS, ADOLESCENTES E PESSOAS VULNERÁVEIS, NOS TERMOS DA POLÍTICA DE PROTEÇÃO; ACOMPANHAMENTO PASTORAL POR (PRAZO)]. O descumprimento das condições poderá ensejar procedimento disciplinar, na forma do Regimento Interno.
+%DATE
+%SIGNS [NOME];Pastor(a) Titular – Presidente do Conselho Ministerial|[NOME];1º Secretário(a) – anotação no Rol
+
+%PAGEBREAK
+## MODELO 3 – TERMO DE COMPROMISSO DE REPARAÇÃO DE DANO
+!(Somente na readmissão por reconciliação, quando houver dano material à IGREJA)
+P Eu, [NOME COMPLETO], CPF nº [NÚMERO], reconheço que causei à [NOME COMPLETO DA IGREJA] dano material no valor de R$ [VALOR] ([VALOR POR EXTENSO]), apurado no Procedimento Disciplinar nº [NÚMERO]/[ANO] [OU: CONFORME DEMONSTRATIVO ANEXO], e comprometo-me a repará-lo da seguinte forma: [PAGAMENTO À VISTA EM (DATA) / EM (NÚMERO) PARCELAS MENSAIS DE R$ (VALOR), COM VENCIMENTO NO DIA (DIA), A PARTIR DE (DATA) / DEVOLUÇÃO DOS BENS: (DESCREVER)], por transferência para a conta da IGREJA [DADOS BANCÁRIOS NO CNPJ DA IGREJA].
+P Os valores serão contabilizados como ressarcimento, e não como contribuição voluntária. O atraso de mais de [2 (DUAS)] parcelas implicará o vencimento antecipado do saldo, sem prejuízo das medidas cabíveis.
+P A IGREJA, por seu representante legal, com base na deliberação da Diretoria Executiva de [DATA], aceita as condições acima e dará quitação ao final do cumprimento.
+%DATE
+%SIGNS [NOME COMPLETO];Devedor(a)|[NOME];Presidente da Diretoria Executiva
+### Testemunhas
+%SIGNS [NOME];Testemunha – CPF nº [NÚMERO]|[NOME];Testemunha – CPF nº [NÚMERO]
+
+%PAGEBREAK
+## MODELO 4 – COMUNICAÇÃO DA DECISÃO AO(À) INTERESSADO(A)
+P A(o) Sr.(a) [NOME].
+P [SE DEFERIDA:] Com alegria, comunicamos que o Conselho Ministerial da [NOME COMPLETO DA IGREJA], em reunião de [DATA], deferiu seu pedido de readmissão como membro. Você está inscrito(a) no Rol de Membros desde [DATA] e passará à plena comunhão, com direito a voto, em [DATA]. [A RECEPÇÃO PÚBLICA SERÁ NO CULTO DE (DATA), SE VOCÊ CONCORDAR.] Seja bem-vindo(a) de volta!
+P [SE INDEFERIDA:] Comunicamos que o Conselho Ministerial da [NOME COMPLETO DA IGREJA], em reunião de [DATA], não deferiu, neste momento, seu pedido de readmissão, pelos seguintes motivos: [MOTIVOS OBJETIVOS]. O pedido poderá ser renovado [APÓS (PRAZO) / QUANDO ATENDIDOS OS REQUISITOS INDICADOS], e continuamos à sua disposição para acompanhamento pastoral. Você continua bem-vindo(a) às nossas atividades como frequentador(a).
+%DATE
+%SIGNS [NOME];Pastor(a) Titular
