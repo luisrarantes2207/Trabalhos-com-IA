@@ -25,6 +25,7 @@ Arquivos:
 - `Carta_Transferencia_Membro_Igreja_ISAC.docx`: pedido e carta de transferência, comunicação de recebimento, carta de recomendação, declaração de membresia e solicitação de carta à igreja de origem.
 - `Ficha_Cadastro_Membro_Igreja_ISAC.docx`: ficha de cadastro de membro, com dados necessários e facultativos, declaração de adesão, consentimento LGPD, autorização dos pais, campos da Secretaria e atualização anual.
 - `Termo_Admissao_Membro_Menor_Igreja_ISAC.docx`: termo de autorização dos pais, manifestação do menor, comunicação ao outro genitor e ratificação na maioridade.
+- `Termo_Desligamento_Membro_Igreja_ISAC.docx`: pedido de desligamento, termo de desligamento com providências da Secretaria, notificação por ausência prolongada e resposta ao ex-membro.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -387,3 +388,11 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Idade mínima:** fica a critério do Conselho Ministerial, conforme a doutrina, porque há tradições que não admitem crianças como membros. Até os 16 anos o menor é membro sem voto. Dos 16 em diante, pode votar (Estatuto, art. 9º), mas só pode ocupar cargo com plena capacidade civil.
 - **Proteção:** o termo remete às regras da Política de Proteção sobre atividades, aconselhamento (em local visível e com ciência dos pais) e comunicação de violência. O consentimento de dados e de imagem segue o art. 14 da LGPD.
 - **Revogação e maioridade:** os pais podem revogar a autorização a qualquer tempo, e a igreja ouve o menor antes de desligá-lo ou suspender a condição de membro. Aos 18 anos, a Parte D permite ratificar a condição de membro e dar o consentimento em nome próprio, substituindo o dos pais, ou pedir desligamento.
+
+## 28. Desligamento de membro
+
+- **Direito incondicional:** o membro pode sair a qualquer tempo, sem justificar (Estatuto, art. 10, VII). A igreja não pode condicionar a saída a entrevista, quitação de contribuições ou qualquer outra exigência. Condicionar a saída contraria a liberdade de associação e de crença (CF, art. 5º, VI e XX) e pode gerar ação judicial. A conversa pastoral é oferecida, mas nunca imposta.
+- **Termo único para todas as hipóteses:** o Modelo 2 registra qualquer forma de desligamento (pedido, transferência, falecimento, ausência ou exclusão), com referência ao documento de origem e à ata do Conselho Ministerial, e traz a lista de providências: anotação no Rol, retirada da lista de votantes, exclusão de grupos, revogação de acessos, devolução de bens, vacância de cargo, encerramento do voluntariado e prazo para eliminar os dados.
+- **Ausência prolongada:** a notificação tem tom pastoral, lista os motivos de ausência que não contam como injustificada, deixa claro que o desligamento por ausência não é punição e permite a readmissão.
+- **Dados e contribuições:** ninguém tem direito à devolução de contribuições (Estatuto, art. 13, § 5º). Contribuições recorrentes são canceladas pelo próprio contribuinte no banco. Depois da saída, a igreja guarda só os registros mínimos e o ex-membro escolhe se quer continuar recebendo comunicações como frequentador.
+- **Discrição:** o motivo da saída não é divulgado.
