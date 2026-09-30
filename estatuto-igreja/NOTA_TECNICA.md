@@ -19,6 +19,7 @@ Arquivos:
 - `RPA_Recibo_Pagamento_Autonomo_Igreja_ISAC.docx`: recibo de pagamento a autônomo, com instruções de uso, demonstrativo de retenções, declarações do prestador e quadro de controle interno.
 - `Ata_Reuniao_Diretoria_Executiva_Igreja_ISAC.docx`: modelo de ata de reunião da Diretoria Executiva, com orientações e redações-padrão para as deliberações mais frequentes.
 - `Ata_Assembleia_Geral_Ordinaria_Igreja_ISAC.docx`: calendário preparatório, edital de convocação e modelo de ata da Assembleia Geral Ordinária, com lista de presença.
+- `Ata_Assembleia_Geral_Extraordinaria_Igreja_ISAC.docx`: tabela de matérias e quóruns, edital de convocação, modelo de ata da Assembleia Geral Extraordinária com módulos por matéria, lista de presença e termo de verificação de quórum.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -299,3 +300,22 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Eleições:** o resultado é registrado com a qualificação completa dos eleitos, exigida para o registro. A ata autoriza o registro no cartório e a atualização dos cadastros na Receita Federal e nos bancos.
 - **Recurso disciplinar:** é julgado em sessão reservada. A ata geral registra só o resultado, e os detalhes ficam em ata reservada, conforme a LGPD e o Regimento.
 - **Lista de presença:** anexa, com número no Rol de Membros, para conferência do direito de voto.
+
+## 22. Assembleia Geral Extraordinária
+
+- **Tabela de quóruns:** reúne, para cada matéria, o quórum de instalação, o quórum de aprovação e as exigências adicionais do Estatuto:
+  - alteração do Estatuto, destituições e imóveis: 2/3 dos presentes, com presença mínima de [1/3] dos membros;
+  - Declaração de Fé, filiação a convenção e dissolução: 3/4 dos presentes, com presença mínima de [1/2];
+  - demais matérias: maioria simples.
+  Se o quórum de instalação não for atingido, é preciso nova convocação, com pelo menos 15 dias de intervalo (Estatuto, art. 20, § 2º).
+- **Edital específico:** a matéria precisa estar descrita de forma específica no edital, publicado com 15 dias de antecedência (CC, art. 59, parágrafo único). Na destituição, os fatos que configuram a justa causa devem constar do edital. Deliberar sobre assunto fora do edital é nulo.
+- **Módulos de deliberação:** use só os que correspondem à pauta:
+  - alteração estatutária, com texto consolidado e averbação;
+  - destituição, com notificação prévia, defesa e voto secreto;
+  - eleição para cargo vago;
+  - venda, doação ou garantia de imóvel, com avaliação e parecer do Conselho Fiscal, e doação só para entidade que atenda ao Estatuto, art. 47;
+  - alteração da Declaração de Fé;
+  - filiação a convenção, preservada a autonomia patrimonial da igreja;
+  - dissolução, com a verificação do número mínimo de membros que querem manter a igreja, nomeação de liquidante e destinação do patrimônio.
+- **Termo de Verificação de Quórum:** registra os números exatos da presença e da votação. É o documento que o cartório e eventuais impugnações judiciais vão examinar. O direito de anular deliberações de assembleia prescreve em prazos curtos, e a prova numérica é a melhor defesa.
+- **Convocação pela minoria:** 1/5 dos membros pode convocar a AGE diretamente se o Presidente não o fizer em 15 dias (CC, art. 60). O edital prevê essa hipótese.

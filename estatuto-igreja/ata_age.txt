@@ -1,0 +1,88 @@
+# MODELO DE ATA DA ASSEMBLEIA GERAL EXTRAORDINÁRIA
+![NOME COMPLETO DA IGREJA] – [SIGLA] – CNPJ nº [NÚMERO]
+!Estatuto Social, arts. [[agc]], [[agtipo]], [[conv]], [[quo]] e [[qref]] – Regimento Interno, arts. <<ag1>> a <<ag5>>
+
+## ORIENTAÇÕES: MATÉRIAS, QUÓRUNS E EXIGÊNCIAS
+P A Assembleia Geral Extraordinária (AGE) reúne-se sempre que necessário. As matérias abaixo exigem Assembleia especialmente convocada, com a matéria expressamente indicada no edital, publicado com antecedência mínima de 15 (quinze) dias (Estatuto, arts. [[agtipo]], II, e [[conv]], § 2º; Código Civil, art. 59, parágrafo único). Deliberação sobre matéria não incluída no edital é nula (Estatuto, art. [[conv]], § 3º).
+%GRID 5,3.5,3.5,4
+Matéria | Quórum de instalação (qualquer convocação) | Quórum de aprovação | Exigências adicionais
+Alteração do Estatuto Social | [1/3] dos membros em plena comunhão | 2/3 dos presentes | Texto da alteração no edital; vedada a alteração das cláusulas do art. [[qref]], § 3º; averbação no RCPJ (art. [[alt]])
+Destituição de dirigente, conselheiro fiscal ou Pastor Titular | [1/3] dos membros em plena comunhão | 2/3 dos presentes | Justa causa descrita no edital; notificação prévia do interessado e direito de defesa; votação secreta (arts. [[dest0]] e [[pt]]; Regimento, art. <<ag3>>, III)
+Alienação, doação, permuta ou oneração de imóveis | [1/3] dos membros em plena comunhão | 2/3 dos presentes | Avaliação do imóvel e parecer do Conselho Fiscal (art. [[agc]], VI)
+Alteração da Declaração de Fé | [1/2] dos membros em plena comunhão | 3/4 dos presentes | Parecer do Conselho Ministerial; Assembleia presencial ou híbrida (art. [[elet]], parágrafo único)
+Filiação ou desfiliação a convenção ou concílio | [1/2] dos membros em plena comunhão | 3/4 dos presentes | Estatuto e condições da entidade à disposição dos membros
+Dissolução da IGREJA | [1/2] dos membros em plena comunhão | 3/4 dos presentes | Assembleia presencial ou híbrida; verificação do art. [[dis]], parágrafo único; nomeação de liquidante e destinação do patrimônio (arts. [[liq]] e [[dest]])
+Eleição para cargo vago, aquisição de imóvel, empréstimos acima do limite, locação por mais de 5 anos, criação de organização assistencial e outras matérias | Estatuto, art. [[quo]] (maioria absoluta em 1ª convocação; qualquer número em 2ª) | Maioria simples dos presentes | Observar o art. [[agc]] e, na eleição, os arts. [[vac]] e [[req]]
+%ENDGRID
+P Não atingido o quórum de instalação qualificado, a Assembleia não poderá deliberar sobre a matéria, e nova Assembleia será convocada com as mesmas formalidades e intervalo mínimo de 15 (quinze) dias (Estatuto, art. [[qref]], § 2º). Nas votações com quórum qualificado, os votos serão contados um a um e o resultado numérico constará da ata (Regimento, art. <<ag3>>, § 1º), utilizando-se o Termo de Verificação de Quórum do Anexo II.
+P A AGE pode ser convocada pelo Presidente, pela maioria da Diretoria Executiva, pelo Conselho Fiscal nos casos do Estatuto, ou por 1/5 (um quinto) dos membros em plena comunhão, que poderão convocá-la diretamente se o Presidente não o fizer em 15 (quinze) dias (Estatuto, art. [[conv]]; Código Civil, art. 60). Quando a pauta envolver a destituição do Presidente ou do Secretário, a Assembleia elegerá presidente e secretário ad hoc (Estatuto, art. [[quo]], § 3º).
+
+%PAGEBREAK
+## EDITAL DE CONVOCAÇÃO
+P [O(A) PRESIDENTE DA DIRETORIA EXECUTIVA / A DIRETORIA EXECUTIVA / O CONSELHO FISCAL / OS MEMBROS EM PLENA COMUNHÃO ABAIXO ASSINADOS, EM NÚMERO SUPERIOR A 1/5 (UM QUINTO) DO TOTAL] da [NOME COMPLETO DA IGREJA], com fundamento no art. [[conv]], [INCISO], do Estatuto Social, CONVOCA os membros em plena comunhão para a ASSEMBLEIA GERAL EXTRAORDINÁRIA, especialmente convocada para os fins abaixo, a realizar-se em [DATA], às [HORA] horas em primeira convocação e às [HORA + 30 MIN] horas em segunda convocação, na [LOCAL] [E POR MEIO ELETRÔNICO, PELA PLATAFORMA (NOME), MEDIANTE CADASTRO PRÉVIO ATÉ (DATA)], observados os quóruns de instalação e de aprovação do Estatuto Social, para deliberar sobre a seguinte ORDEM DO DIA:
+I – [MATÉRIA, DESCRITA DE FORMA ESPECÍFICA, EX.: "ALTERAÇÃO DOS ARTS. (NÚMEROS) DO ESTATUTO SOCIAL, CONFORME PROPOSTA ANEXA" / "DESTITUIÇÃO DO(A) (CARGO) (NOME), POR (FATOS QUE CONFIGURAM A JUSTA CAUSA), ASSEGURADO O DIREITO DE DEFESA" / "ALIENAÇÃO DO IMÓVEL DA MATRÍCULA Nº (NÚMERO), PELO VALOR MÍNIMO DE R$ (VALOR)"];
+II – [MATÉRIA];
+III – leitura e aprovação da ata.
+P A proposta [DE ALTERAÇÃO ESTATUTÁRIA / DE ALIENAÇÃO, COM LAUDO DE AVALIAÇÃO E PARECER DO CONSELHO FISCAL / DEMAIS DOCUMENTOS] está à disposição dos membros na Secretaria desde a data deste edital. A relação de membros aptos a votar está afixada na sede. Não será admitido voto por procuração.
+%DATE
+%SIGNS [NOME];[PRESIDENTE DA DIRETORIA EXECUTIVA / DEMAIS CONVOCANTES, COM NOME E CPF]
+
+%PAGEBREAK
+## ATA DA ASSEMBLEIA GERAL EXTRAORDINÁRIA DE [DATA] DA [NOME COMPLETO DA IGREJA]
+P Aos [DIA POR EXTENSO] dias do mês de [MÊS] do ano de [ANO], às [HORA] horas, em [PRIMEIRA / SEGUNDA] convocação, na [LOCAL] [E POR MEIO ELETRÔNICO, PELA PLATAFORMA (NOME)], reuniram-se em Assembleia Geral Extraordinária, especialmente convocada, os membros em plena comunhão da [NOME COMPLETO DA IGREJA], convocados por [CONVOCANTE], mediante edital publicado em [DATA], afixado na sede e nas congregações, lido no(s) culto(s) de [DATAS] e divulgado por [MEIOS], com antecedência de [NÚMERO] dias, igual ou superior à exigida pelo art. [[conv]], § 2º, do Estatuto Social.
+
+## 1. INSTALAÇÃO E VERIFICAÇÃO DOS QUÓRUNS
+P Assumiu a presidência dos trabalhos [O(A) PRESIDENTE DA DIRETORIA EXECUTIVA, (NOME) / (NOME), ELEITO(A) PRESIDENTE AD HOC POR (RESULTADO), POR ENVOLVER A PAUTA A DESTITUIÇÃO DO(A) (CARGO) (ESTATUTO, ART. [[quo]], § 3º)], secretariado(a) por [NOME]. Verificou-se, pela lista de presença que integra esta ata [E PELO RELATÓRIO DE ACESSO DA PLATAFORMA], a presença de [NÚMERO] membros em plena comunhão, de um total de [NÚMERO] constantes da relação de votantes, correspondente a [PERCENTUAL]%. O(A) presidente declarou que [FOI ATINGIDO O QUÓRUM DE INSTALAÇÃO EXIGIDO PARA TODAS AS MATÉRIAS DA PAUTA / FOI ATINGIDO O QUÓRUM PARA OS ITENS (NÚMEROS), MAS NÃO PARA O ITEM (NÚMERO), QUE NÃO SERÁ DELIBERADO E SERÁ OBJETO DE NOVA CONVOCAÇÃO (ESTATUTO, ART. [[qref]], § 2º)], leu o edital e informou as regras de uso da palavra e de votação (Regimento, arts. <<ag2>> e <<ag3>>).
+
+## 2. MÓDULOS DE DELIBERAÇÃO (UTILIZAR APENAS OS CORRESPONDENTES À PAUTA)
+
+### 2.1. Alteração do Estatuto Social
+P O(A) [RELATOR(A)] apresentou a proposta de alteração dos arts. [NÚMEROS] do Estatuto Social, disponibilizada aos membros desde [DATA], com a seguinte justificativa: [RESUMO]. Esclareceu que a proposta não altera as disposições protegidas pelo art. [[qref]], § 3º, do Estatuto Social. Aberta a discussão, [RESUMO DAS MANIFESTAÇÕES E DAS EMENDAS APRESENTADAS E VOTADAS]. Submetida à votação, a alteração foi APROVADA por [NÚMERO] votos favoráveis, [NÚMERO] contrários e [NÚMERO] abstenções, correspondendo os votos favoráveis a [PERCENTUAL]% dos presentes, superior aos 2/3 (dois terços) exigidos pelo art. [[qref]], I, do Estatuto Social, conforme o Termo de Verificação de Quórum anexo. O Estatuto Social passa a vigorar com a redação consolidada anexa, rubricada pelo(a) presidente e pelo(a) secretário(a) da Assembleia, que integra esta ata e será averbada no Registro Civil de Pessoas Jurídicas (Estatuto, art. [[alt]]).
+
+### 2.2. Destituição de dirigente, conselheiro fiscal ou Pastor Titular
+P O(A) [RELATOR(A)] expôs os fatos que fundamentam o pedido de destituição do(a) [CARGO] [NOME], indicados no edital de convocação, e os documentos que os comprovam. Registrou-se que o(a) interessado(a) foi notificado(a) em [DATA], com cópia da pauta e dos documentos, [TENDO APRESENTADO DEFESA ESCRITA, LIDA NA ÍNTEGRA / E EXERCEU O DIREITO DE DEFESA ORALMENTE, PELO PRAZO DE (MINUTOS) / E NÃO COMPARECEU NEM APRESENTOU DEFESA]. [SE HOUVER: FOI LIDO O PARECER DO CONSELHO FISCAL / DO CONSELHO MINISTERIAL.] Encerrada a discussão, procedeu-se à votação secreta (Regimento, art. <<ag3>>, III), com apuração pelos escrutinadores [NOMES], sendo a destituição [APROVADA / REJEITADA] por [NÚMERO] votos favoráveis, [NÚMERO] contrários, [NÚMERO] brancos e [NÚMERO] nulos, correspondendo os votos favoráveis a [PERCENTUAL]% dos presentes (exigidos 2/3 – Estatuto, arts. [[qref]], II, e [[dest0]]). [SE APROVADA: O CARGO SERÁ PREENCHIDO NA FORMA DO ART. [[vac]] DO ESTATUTO SOCIAL / A ASSEMBLEIA ELEGEU, NESTA MESMA SESSÃO, CONFORME PREVISTO NO EDITAL, (NOME E QUALIFICAÇÃO COMPLETA) PARA COMPLETAR O MANDATO. O(A) DESTITUÍDO(A) DEVERÁ ENTREGAR, EM ATÉ (PRAZO), OS BENS, DOCUMENTOS, CHAVES E CREDENCIAIS DA IGREJA, REVOGANDO-SE IMEDIATAMENTE SEUS ACESSOS BANCÁRIOS.]
+
+### 2.3. Eleição para cargo vago
+P Em razão da vacância do cargo de [CARGO], decorrente de [RENÚNCIA / FALECIMENTO / DESTITUIÇÃO / OUTRO], em [DATA], e não havendo substituto estatutário, procedeu-se à eleição prevista no art. [[vac]] do Estatuto Social. Candidatou-se [NOME(S)], que declarou(aram) preencher os requisitos do art. [[req]] do Estatuto Social. Foi eleito(a), por [RESULTADO], para completar o mandato até [DATA], [NOME COMPLETO], [NACIONALIDADE], [ESTADO CIVIL], [PROFISSÃO], RG nº [NÚMERO] [ÓRGÃO/UF], CPF nº [NÚMERO], residente e domiciliado(a) na [ENDEREÇO COMPLETO, COM CEP], que tomou posse mediante assinatura do Termo de Posse e Declaração de Desimpedimento.
+
+### 2.4. Alienação, doação, permuta ou oneração de imóvel
+P Foi apresentada a proposta de [ALIENAÇÃO / PERMUTA / DOAÇÃO / CONSTITUIÇÃO DE HIPOTECA OU ALIENAÇÃO FIDUCIÁRIA EM GARANTIA] do imóvel [DESCRIÇÃO], objeto da matrícula nº [NÚMERO] do [Nº] Registro de Imóveis da Comarca de [CIDADE], com as seguintes justificativas: [RESUMO]. Foram examinados o laudo de avaliação de [AVALIADOR], datado de [DATA], que atribuiu ao imóvel o valor de R$ [VALOR], e o parecer do Conselho Fiscal de [DATA]. [SE ALIENAÇÃO: O PRODUTO SERÁ APLICADO EM (DESTINAÇÃO), NAS FINALIDADES ESSENCIAIS DA IGREJA.] [SE DOAÇÃO: A DONATÁRIA, (NOME), É ENTIDADE RELIGIOSA OU ASSISTENCIAL SEM FINS LUCRATIVOS QUE ATENDE AOS REQUISITOS DO ART. [[dest]] DO ESTATUTO SOCIAL, VEDADA DOAÇÃO A MEMBROS, DIRIGENTES OU PARTES RELACIONADAS.] A proposta foi APROVADA por [NÚMERO] votos favoráveis, [NÚMERO] contrários e [NÚMERO] abstenções ([PERCENTUAL]% dos presentes; exigidos 2/3 – Estatuto, art. [[qref]], III), autorizando-se o Presidente e o 1º Tesoureiro a firmar os instrumentos necessários, pelo valor mínimo de R$ [VALOR] e nas seguintes condições: [CONDIÇÕES].
+
+### 2.5. Alteração da Declaração de Fé
+P O(A) Pastor(a) Titular apresentou, em nome do Conselho Ministerial, cujo parecer de [DATA] foi lido, a proposta de alteração da(s) seção(ões) [NÚMEROS] da Declaração de Fé, disponibilizada aos membros desde [DATA]. Após discussão, a alteração foi [APROVADA / REJEITADA] por [NÚMERO] votos favoráveis, [NÚMERO] contrários e [NÚMERO] abstenções ([PERCENTUAL]% dos presentes; exigidos 3/4 – Estatuto, art. [[qref]], § 1º, I), passando a Declaração de Fé a vigorar com a redação consolidada anexa, que integra o Estatuto Social e será averbada no Registro Civil de Pessoas Jurídicas.
+
+### 2.6. Filiação ou desfiliação a convenção ou concílio
+P Foi apresentada a proposta de [FILIAÇÃO À / DESFILIAÇÃO DA] [NOME DA CONVENÇÃO OU CONCÍLIO], com [ESTATUTO E CONDIÇÕES DE FILIAÇÃO / MOTIVOS DA DESFILIAÇÃO] à disposição dos membros desde [DATA]. Registrou-se que a filiação não transfere à entidade qualquer direito sobre o patrimônio, a administração ou a representação da IGREJA, que conserva sua personalidade jurídica e sua autonomia. A proposta foi [APROVADA / REJEITADA] por [NÚMERO] votos favoráveis, [NÚMERO] contrários e [NÚMERO] abstenções ([PERCENTUAL]% dos presentes; exigidos 3/4 – Estatuto, art. [[qref]], § 1º, III).
+
+### 2.7. Dissolução da IGREJA
+P Foi apresentada a proposta de dissolução da IGREJA, com os seguintes fundamentos: [RESUMO]. O(A) presidente consultou os presentes, nos termos do art. [[dis]], parágrafo único, do Estatuto Social, e [NENHUM MEMBRO / APENAS (NÚMERO) MEMBROS, NÚMERO INFERIOR AO MÍNIMO ESTATUTÁRIO,] manifestou-se pela manutenção da IGREJA. A dissolução foi APROVADA por [NÚMERO] votos favoráveis, [NÚMERO] contrários e [NÚMERO] abstenções ([PERCENTUAL]% dos presentes; exigidos 3/4 – Estatuto, art. [[qref]], § 1º, II). A Assembleia nomeou liquidante [NOME E QUALIFICAÇÃO COMPLETA] (Estatuto, art. [[liq]]), que realizará o ativo, pagará o passivo e prestará contas à Assembleia, e deliberou que o patrimônio líquido remanescente será destinado a [NOME, CNPJ E SEDE DA ENTIDADE], organização religiosa [OU ASSISTENCIAL] sem fins lucrativos que atende aos requisitos do art. [[dest]] do Estatuto Social, vedada qualquer partilha entre membros, dirigentes ou seus herdeiros.
+
+### 2.8. Outras matérias
+P [RESUMO DA PROPOSTA, DOS DOCUMENTOS EXAMINADOS, DA DISCUSSÃO E DO RESULTADO DA VOTAÇÃO, COM INDICAÇÃO DO QUÓRUM APLICÁVEL.]
+
+## 3. ENCERRAMENTO
+P Nada mais havendo a tratar, o(a) presidente encerrou os trabalhos às [HORA] horas, e eu, [NOME], secretário(a) da Assembleia, lavrei a presente ata, que, lida e achada conforme, foi aprovada e vai assinada por mim, pelo(a) presidente e, se for o caso, pelos eleitos, integrando-a a lista de presença, o Termo de Verificação de Quórum e, quando houver, o texto consolidado do Estatuto Social ou da Declaração de Fé.
+%DATE
+%SIGNS [NOME];Presidente da Assembleia|[NOME];Secretário(a) da Assembleia|[NOME DO ADVOGADO] – OAB/[UF] nº [NÚMERO];Visto do advogado (alteração estatutária ou dissolução, conforme exigência do cartório)
+
+%PAGEBREAK
+## ANEXO I – LISTA DE PRESENÇA DOS MEMBROS EM PLENA COMUNHÃO
+!Assembleia Geral Extraordinária de [DATA]
+%TABLE 40 Nº|Nome completo|CPF|Nº no Rol de Membros|Assinatura
+
+%PAGEBREAK
+## ANEXO II – TERMO DE VERIFICAÇÃO DE QUÓRUM
+%GRID 10,6
+Item | Número
+Membros em plena comunhão constantes da relação de votantes | [ ]
+Presentes (lista de presença e relatório eletrônico) | [ ]
+Quórum de instalação exigido para a matéria ([1/3 ou 1/2] dos membros em plena comunhão) | [ ]
+Quórum de instalação atingido? | [SIM / NÃO]
+Votos favoráveis | [ ]
+Votos contrários | [ ]
+Abstenções, brancos e nulos | [ ]
+Votos favoráveis necessários ([2/3 ou 3/4] dos presentes, arredondado para cima) | [ ]
+Resultado | [APROVADA / REJEITADA]
+%ENDGRID
+P Matéria: [ITEM DA PAUTA]. Escrutinadores: [NOMES].
+%SIGNS [NOME];Presidente da Assembleia|[NOME];Escrutinador(a)|[NOME];Escrutinador(a)
