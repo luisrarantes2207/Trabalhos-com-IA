@@ -1,0 +1,152 @@
+# RELATÓRIO ANUAL DE ATIVIDADES – EXERCÍCIO DE [ANO]
+![NOME COMPLETO DA IGREJA] – [SIGLA] – CNPJ nº [NÚMERO]
+!Elaborado pela Diretoria Executiva (Estatuto Social, art. [[dec]], II) e submetido à Assembleia Geral Ordinária (art. [[agc]], IV)
+
+## ORIENTAÇÕES DE PREENCHIMENTO
+I – O relatório acompanha as demonstrações contábeis e o parecer do Conselho Fiscal e fica à disposição dos membros por pelo menos 15 (quinze) dias antes da Assembleia Geral Ordinária (Estatuto, art. [[cont]], § 1º).
+II – Além de prestar contas aos membros, o relatório é a principal prova, perante a fiscalização tributária, de que a IGREJA se dedica às suas finalidades essenciais e aplica nelas todos os seus recursos (Estatuto, arts. [[fin]] e [[imu]]). Por isso, os números devem conferir com a contabilidade, e cada afirmação deve poder ser comprovada por documentos arquivados (atas, livros de registro, listas de presença, fotos, relatórios dos ministérios).
+III – Nenhuma pessoa será identificada nas seções de membresia, ação social, proteção de vulneráveis, disciplina e privacidade: os dados são apresentados apenas em números.
+IV – Seções sem atividade no exercício devem ser mantidas com a indicação "sem atividade no exercício", em vez de suprimidas.
+
+%PAGEBREAK
+## 1. APRESENTAÇÃO
+P [MENSAGEM DO(A) PASTOR(A) TITULAR E DO(A) PRESIDENTE DA DIRETORIA EXECUTIVA, COM OS PRINCIPAIS FATOS DO ANO, EM ATÉ UMA PÁGINA.]
+
+## 2. IDENTIFICAÇÃO E GOVERNANÇA
+%GRID 7,9
+Item | Informação
+Denominação, CNPJ e sede | [ ]
+Registro dos atos constitutivos e última alteração estatutária | [RCPJ, Nº E DATA]
+Congregações em funcionamento | [NÚMERO E LOCALIDADES]
+Diretoria Executiva (cargos e mandato) | [NOMES E CARGOS – MANDATO DE (DATA) A (DATA)]
+Conselho Fiscal (titulares e suplentes) | [NOMES]
+Conselho Ministerial | [NOMES E FUNÇÕES]
+Reuniões realizadas no exercício | Diretoria: [ ] – Conselho Fiscal: [ ] – Conselho Ministerial: [ ]
+Assembleias Gerais realizadas (datas e principais deliberações) | [ ]
+Normas internas aprovadas ou alteradas no exercício | [EX.: REGIMENTO INTERNO, POLÍTICAS, CÓDIGO DE CONDUTA]
+%ENDGRID
+
+## 3. MEMBRESIA
+%GRID 10,6
+Movimento | Quantidade
+Membros no início do exercício | [ ]
+(+) Admissões por profissão de fé e batismo | [ ]
+(+) Admissões por transferência, reconciliação, aclamação ou jurisdição | [ ]
+(–) Desligamentos a pedido | [ ]
+(–) Transferências para outras igrejas | [ ]
+(–) Falecimentos | [ ]
+(–) Desligamentos por ausência | [ ]
+(–) Exclusões | [ ]
+Membros no final do exercício | [ ]
+Dos quais: membros em plena comunhão / membros menores / membros em disciplina | [ ] / [ ] / [ ]
+Frequência média nos cultos principais (membros e visitantes) | [ ]
+%ENDGRID
+
+## 4. ATIVIDADES RELIGIOSAS (FINALIDADE ESSENCIAL – ESTATUTO, ART. [[fin]], I A III)
+%GRID 10,6
+Atividade | Quantidade no exercício
+Cultos regulares realizados (sede e congregações) | [ ]
+Celebrações da Ceia do Senhor | [ ]
+Batismos | [ ]
+Apresentações de crianças | [ ]
+Casamentos religiosos (com efeito civil / sem efeito civil) | [ ] / [ ]
+Funerais e cultos fúnebres | [ ]
+Ordenações e consagrações | [ ]
+Retiros, congressos, vigílias e eventos especiais | [ ]
+Visitas pastorais, hospitalares e prisionais (número aproximado) | [ ]
+%ENDGRID
+P Destaques: [DESCRIÇÃO SUCINTA DOS PRINCIPAIS EVENTOS E INICIATIVAS RELIGIOSAS DO ANO].
+
+## 5. ENSINO, FORMAÇÃO E COMUNICAÇÃO (ESTATUTO, ART. [[fin]], II E III)
+%GRID 10,6
+Atividade | Dados
+Escola bíblica / classes de ensino (turmas, média de alunos) | [ ]
+Classes de preparação para novos membros (turmas e concluintes) | [ ]
+Cursos de formação de líderes e ministros | [ ]
+Publicações, transmissões e conteúdos digitais (tipo e alcance aproximado) | [ ]
+%ENDGRID
+
+## 6. MISSÕES E EVANGELIZAÇÃO (ESTATUTO, ART. [[fin]], V)
+P Projetos e missionários apoiados, no Brasil e no exterior: [DESCRIÇÃO]. Recursos destinados: R$ [VALOR], dos quais R$ [VALOR] remetidos ao exterior, conforme orçamento aprovado e com prestação de contas arquivada (Estatuto, art. [[imu]], § 1º, II).
+
+## 7. AÇÃO SOCIAL E ASSISTÊNCIA (ESTATUTO, ART. [[fin]], VI)
+%GRID 7,4.5,4.5
+Ação | Atendimentos no exercício | Recursos aplicados (R$)
+[EX.: DISTRIBUIÇÃO DE CESTAS BÁSICAS] | [ ] | [ ]
+[EX.: ATENDIMENTO A PESSOAS EM SITUAÇÃO DE RUA] | [ ] | [ ]
+[EX.: CURSOS E OFICINAS COMUNITÁRIAS] | [ ] | [ ]
+[EX.: PARCERIA COM O PODER PÚBLICO (TERMO Nº, VALOR E PRESTAÇÃO DE CONTAS)] | [ ] | [ ]
+%ENDGRID
+P As ações foram prestadas sem discriminação de qualquer natureza e sem exigência de adesão religiosa ou de participação em cultos (Estatuto, art. [[fin]], § 4º; Regimento, art. <<acsoc>>).
+
+## 8. MINISTÉRIOS, DEPARTAMENTOS E CONGREGAÇÕES
+P [PARA CADA MINISTÉRIO, DEPARTAMENTO E CONGREGAÇÃO: LIDERANÇA, PRINCIPAIS ATIVIDADES, PARTICIPANTES E CUMPRIMENTO DO PLANO ANUAL, EM POUCAS LINHAS.]
+
+## 9. PESSOAS
+%GRID 10,6
+Item | Quantidade
+Ministros em exercício (com credencial vigente) | [ ]
+Ministros com sustento ministerial | [ ]
+Empregados (CLT) no final do exercício | [ ]
+Voluntários com termo de adesão vigente | [ ]
+Prestadores de serviços contratados de forma continuada | [ ]
+%ENDGRID
+
+## 10. PATRIMÔNIO E INFRAESTRUTURA
+P Imóveis próprios, locados ou em comodato: [RELAÇÃO, COM A SITUAÇÃO DE CADA UM E O RECONHECIMENTO DA IMUNIDADE DO IPTU]. Aquisições, alienações, doações recebidas e obras relevantes no exercício: [DESCRIÇÃO, COM A DATA DA AUTORIZAÇÃO DO ÓRGÃO COMPETENTE]. Situação das licenças (alvará, Corpo de Bombeiros, acessibilidade): [ ].
+
+## 11. RESUMO FINANCEIRO
+!(Os valores devem conferir com as demonstrações contábeis do exercício)
+%GRID 10,6
+Receitas | Valor (R$)
+Dízimos e ofertas | [ ]
+Doações e legados (inclusive designadas) | [ ]
+Receitas de atividades-meio (cantina, livraria, eventos, locações) – segregadas | [ ]
+Rendimentos de aplicações | [ ]
+Recursos de parcerias com o Poder Público | [ ]
+Outras receitas | [ ]
+TOTAL DAS RECEITAS | [ ]
+%ENDGRID
+%GRID 10,6
+Despesas por finalidade | Valor (R$)
+Culto, ensino e atividades religiosas | [ ]
+Sustento ministerial | [ ]
+Missões e evangelização | [ ]
+Ação social e assistência | [ ]
+Pessoal (empregados) e encargos | [ ]
+Manutenção, conservação e utilidades dos templos | [ ]
+Administração (contabilidade, tarifas, seguros, tecnologia) | [ ]
+Investimentos em imóveis e equipamentos | [ ]
+TOTAL DAS DESPESAS | [ ]
+RESULTADO DO EXERCÍCIO (superávit/déficit), incorporado ao patrimônio social | [ ]
+%ENDGRID
+P Indicadores: receitas de atividades-meio representaram [ ]% das receitas totais; despesas diretamente ligadas às finalidades religiosas, missionárias e assistenciais representaram [ ]% das despesas totais; execução do orçamento: [ ]% das receitas e [ ]% das despesas previstas.
+
+## 12. INTEGRIDADE E CONFORMIDADE
+%GRID 10,6
+Item | Situação no exercício
+Obrigações acessórias entregues no prazo (ECF, EFD-Reinf, DCTFWeb, eSocial e demais), conforme informação do(a) contador(a) | [SIM / PENDÊNCIAS: (DESCREVER)]
+Tributos retidos recolhidos no prazo | [ ]
+Negócios com partes relacionadas (quantidade e pareceres do Conselho Fiscal) | [ ]
+Recomendações do Conselho Fiscal atendidas / pendentes | [ ] / [ ]
+Proteção de vulneráveis: colaboradores habilitados, capacitações realizadas e certidões atualizadas | [ ]
+Proteção de vulneráveis: relatos recebidos e comunicações às autoridades (apenas números) | [ ]
+Canal de denúncias: relatos recebidos e encaminhados (apenas números) | [ ]
+Proteção de dados: solicitações de titulares atendidas e incidentes registrados | [ ]
+Procedimentos disciplinares: instaurados / concluídos / recursos à Assembleia | [ ]
+%ENDGRID
+
+## 13. PLANEJAMENTO PARA O EXERCÍCIO SEGUINTE
+P Objetivos e prioridades para [ANO SEGUINTE], em harmonia com o orçamento submetido à Assembleia Geral: [DESCRIÇÃO].
+
+## 14. DECLARAÇÃO DA DIRETORIA EXECUTIVA
+P A Diretoria Executiva declara que, no exercício de [ANO], a [NOME COMPLETO DA IGREJA]: (a) dedicou-se às suas finalidades essenciais de professar a fé religiosa e praticar a religião, na forma do seu Estatuto Social; (b) não distribuiu, a qualquer título, parcela de seu patrimônio ou de suas rendas a membros, dirigentes, ministros ou terceiros; (c) aplicou integralmente os seus recursos no País, na manutenção e no desenvolvimento de suas finalidades, ressalvadas as remessas missionárias aprovadas e documentadas; (d) manteve escrituração contábil regular; e (e) exerceu as atividades-meio de forma acessória, com resultado integralmente aplicado nas finalidades essenciais (Estatuto, art. [[imu]], § 1º). As informações deste relatório conferem com os registros e documentos arquivados na sede.
+%DATE
+%SIGNS [NOME];Presidente da Diretoria Executiva|[NOME];1º Tesoureiro(a)|[NOME];1º Secretário(a)|[NOME];Pastor(a) Titular
+
+## ANEXOS (ARQUIVADOS NA SECRETARIA)
+I – Demonstrações contábeis do exercício e, se houver, relatório de auditoria independente;
+II – Parecer do Conselho Fiscal;
+III – Relatórios dos ministérios, departamentos e congregações;
+IV – Prestações de contas de parcerias e de remessas missionárias;
+V – Registro fotográfico e documental das principais atividades.

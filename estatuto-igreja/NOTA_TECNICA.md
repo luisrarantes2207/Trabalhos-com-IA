@@ -31,6 +31,7 @@ Arquivos:
 - `Certificado_Apresentacao_Criancas_Igreja_ISAC.docx`: pedido de apresentação, certificado, livro de registro e roteiro litúrgico sugerido.
 - `Certificado_Casamento_Religioso_Igreja_ISAC.docx`: pedido de celebração, termo de casamento religioso para registro civil, requerimento ao cartório, certificado e livro de registro de casamentos.
 - `Certificado_Ordenacao_Ministro_Igreja_ISAC.docx`: ata de exame e aprovação, termo de compromisso ministerial, certificado de ordenação, credencial ministerial e livro de registro.
+- `Relatorio_Anual_Atividades_Igreja_ISAC.docx`: modelo de relatório anual de atividades da Diretoria Executiva para a Assembleia Geral Ordinária.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -450,3 +451,11 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
 - **Termo de Compromisso Ministerial:** fixa o que o ministro assume (doutrina, normas internas, sigilo pastoral com as comunicações obrigatórias por lei, disciplina, uso da credencial) e o que ele reconhece: não há vínculo empregatício; o sustento segue critérios gerais do orçamento, sem ligação com receitas ou metas (Lei 8.212, art. 22, §§ 13 e 14); ele é contribuinte individual do INSS; e a ordenação não lhe dá direito sobre o patrimônio ou a administração. Esse termo é a principal prova contra pedidos de reconhecimento de vínculo de emprego e contra a caracterização do sustento como remuneração.
 - **Certificado e credencial têm papéis diferentes:** o certificado atesta um ato permanente. A credencial vale por um ano, prova que o ministro está em exercício e pode ser suspensa em procedimento disciplinar. Cartórios, hospitais e presídios costumam pedir os dois, por exemplo para casamento com efeito civil ou assistência religiosa.
 - **Natureza religiosa:** a ordenação não é habilitação profissional regulamentada. O livro de ordenações tem guarda permanente, e a linha da Política de Privacidade foi ampliada para incluí-lo.
+
+## 34. Relatório anual de atividades
+
+- **Duas funções:** prestar contas aos membros na AGO (Estatuto, arts. 16, IV, e 25, II) e servir de prova, perante o Fisco, de que a igreja se dedica às finalidades essenciais e aplica nelas todos os recursos.
+- **Estrutura:** as seções seguem as finalidades do art. 4º do Estatuto (atividades religiosas, ensino, missões e ação social), com números em tabelas. Há também seções de governança, membresia, pessoas, patrimônio, resumo financeiro por finalidade, indicadores (peso das atividades-meio e das despesas com finalidades essenciais), integridade e conformidade, e planejamento.
+- **Declaração final da Diretoria:** atesta um a um os requisitos da imunidade (art. 5º, § 1º) e complementa o parecer do Conselho Fiscal.
+- **Privacidade:** nenhuma pessoa é identificada nas seções sensíveis (membresia, ação social, proteção de vulneráveis, disciplina, privacidade). Os dados aparecem só em números.
+- **Comprovação:** cada informação deve ter documento arquivado. Seções sem atividade no ano são mantidas com essa indicação, em vez de suprimidas.
