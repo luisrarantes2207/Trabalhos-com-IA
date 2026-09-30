@@ -11,6 +11,7 @@ Arquivos:
 - `Termo_Adesao_Servico_Voluntario_Igreja_ISAC.docx`: termo de adesão ao serviço voluntário (Lei 9.608/1998), com registro de atividades e termo de encerramento.
 - `Contrato_Comodato_Templo_Igreja_ISAC.docx`: modelo de contrato de comodato do imóvel usado como templo, com laudo de vistoria e termo de devolução.
 - `Contrato_Locacao_Templo_Igreja_ISAC.docx`: modelo de contrato de locação não residencial do imóvel usado como templo, com laudo de vistoria e termo de devolução.
+- `Recibo_Dizimos_Ofertas_Igreja_ISAC.docx`: instruções à Tesouraria e modelos de recibo de contribuição (com canhoto), de declaração anual de contribuições e de requerimento de devolução por erro material.
 - Arquivos `.txt` com o texto-fonte de cada documento: o texto-fonte. Edite este arquivo e rode `python3 gerar_docx.py` para gerar os dois .docx de novo. Os artigos do estatuto são renumerados automaticamente, e as remissões dos demais documentos acompanham essa numeração. Cada documento normativo tem numeração própria: `[[chave]]` remete ao Estatuto, `<<chave>>` ao Regimento Interno, `{{chave}}` ao próprio documento `{{arquivo:chave}}` a outro documento (por exemplo, `{{codigo_conduta:cons}}`) e `((chave))` a cláusula do próprio termo.
 
 ## 1. Base legal verificada (setembro de 2026)
@@ -179,3 +180,12 @@ Na prática, evite também metas, escalas impostas, advertências em estilo trab
   - Locação por mais de 5 anos exige autorização da Assembleia (Estatuto, art. 16, VI).
   - Locador ligado a dirigente exige aluguel comprovadamente de mercado, parecer do Conselho Fiscal e aprovação da Diretoria sem o interessado (Estatuto, art. 40).
 - **Saída antecipada:** multa proporcional ao tempo restante (art. 4º), com cláusula opcional de dispensa em situações como interdição ou negativa de alvará.
+
+## 14. Recibos de dízimos e ofertas
+
+- **Por que o texto do recibo importa para a imunidade:** o recibo diz que a contribuição é voluntária, gratuita e sem contraprestação, e que não gera direito sobre o patrimônio nem restituição. Isso afasta a ideia de pagamento por serviço, protege a natureza religiosa das receitas e está em linha com o Estatuto (arts. 11 e 13, § 5º) e com a Declaração de Fé (seção VI).
+- **Imposto de renda:** em regra, a pessoa física não pode deduzir doações a igrejas no IRPF, e a pessoa jurídica só deduz doações a entidades com qualificações específicas previstas em lei. Por isso o recibo diz que não é documento para dedução, "salvo nas hipóteses expressamente previstas em lei". Confirme com o contador antes de emitir recibos para empresas doadoras.
+- **Controles:** numeração sequencial em duas vias, canhoto para lançamento contábil, recibo obrigatório acima de um valor definido e em doações designadas, recebimento só em contas no CNPJ da igreja e proibição de recibo com dados diferentes do recebido. Esses controles previnem fraude e uso do recibo para fins ilícitos.
+- **Doações designadas:** quando o contribuinte indica uma finalidade (por exemplo, construção), a igreja deve aplicar o dinheiro nela. O recibo prevê o destino do saldo se a finalidade for concluída ou se tornar impossível, o que evita disputas futuras.
+- **Devolução por erro material:** o dinheiro só volta em caso de erro comprovado (PIX em duplicidade, valor errado, transferência para o destinatário errado), com aprovação da Diretoria em ata e sempre para a conta de origem. Isso impede que "devoluções" sejam usadas para desviar recursos.
+- **Doações de bens:** não usam este recibo, e sim termo de doação próprio (Regimento, art. 41, § 3º). Imóveis exigem escritura pública. Pela LC 227/2026, art. 149, a imunidade de ITCMD para doações a entidades religiosas alcança os bens ligados às finalidades essenciais. Verifique a lei do seu Estado.

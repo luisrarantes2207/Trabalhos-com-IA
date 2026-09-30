@@ -20,7 +20,8 @@ DOCS = [("estatuto.txt", "Estatuto_Social_Igreja_ISAC_v2.docx"),
         ("politica_privacidade.txt", "Politica_Privacidade_Protecao_Dados_Igreja_ISAC.docx"),
         ("termo_voluntariado.txt", "Termo_Adesao_Servico_Voluntario_Igreja_ISAC.docx"),
         ("contrato_comodato.txt", "Contrato_Comodato_Templo_Igreja_ISAC.docx"),
-        ("contrato_locacao.txt", "Contrato_Locacao_Templo_Igreja_ISAC.docx")]
+        ("contrato_locacao.txt", "Contrato_Locacao_Templo_Igreja_ISAC.docx"),
+        ("recibo_dizimos.txt", "Recibo_Dizimos_Ofertas_Igreja_ISAC.docx")]
 
 def label(n):
     return f"{n}º" if n < 10 else f"{n}"
@@ -120,7 +121,7 @@ def build(src_name, out_name):
 
     grid = None  # linhas acumuladas de uma tabela preenchida (%GRID ... %ENDGRID)
 
-    def flush_grid(rows):
+    def flush_grid(rows, widths=None):
         cols = len(rows[0])
         t = doc.add_table(rows=len(rows), cols=cols)
         t.style = "Table Grid"
@@ -130,19 +131,22 @@ def build(src_name, out_name):
                 cell.text = ""
                 r = cell.paragraphs[0].add_run(row[j] if j < len(row) else "")
                 r.font.size = Pt(9.5); r.bold = (i == 0)
-                cell.width = Cm(16 / cols)
+                cell.width = Cm(widths[j] if widths else 16 / cols)
         doc.add_paragraph()
 
     for line in src:
         line = refs(line.rstrip(), local, clauses)
         if grid is not None:
             if line.startswith("%ENDGRID"):
-                flush_grid(grid); grid = None
+                flush_grid(grid, grid_widths); grid = None
             elif line:
                 grid.append([c.strip() for c in line.split("|")])
             continue
         if line.startswith("%GRID"):
             grid = []
+            # larguras opcionais em cm: "%GRID 5,11"
+            spec = line[5:].strip()
+            grid_widths = [float(w) for w in spec.split(",")] if spec else None
             continue
         if not line:
             continue

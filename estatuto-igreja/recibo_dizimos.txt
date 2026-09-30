@@ -1,0 +1,73 @@
+# MODELOS DE RECIBO DE DÍZIMOS, OFERTAS E DOAÇÕES
+![NOME COMPLETO DA IGREJA] – [SIGLA] – CNPJ nº [NÚMERO]
+!Aprovados pela Diretoria Executiva em [DATA], nos termos do art. [[rec]] do Estatuto Social e do art. <<cont>> do Regimento Interno
+
+## INSTRUÇÕES DE USO (PARA A TESOURARIA)
+I – O recibo individual (Modelo 1) será emitido sempre que o contribuinte o solicitar e, obrigatoriamente, nas doações de valor igual ou superior a R$ [VALOR] e nas doações designadas para finalidade específica.
+II – Os recibos terão numeração sequencial, sem saltos, e serão emitidos em 2 (duas) vias: a primeira para o contribuinte e a segunda arquivada pela Tesouraria. Recibos cancelados serão mantidos no bloco ou no sistema, com a anotação "CANCELADO" e o motivo.
+III – As contribuições recebidas em espécie nos cultos, inclusive as não identificadas, serão registradas no termo de contagem (Regimento Interno, art. <<cont>>); o recibo individual não substitui o termo de contagem.
+IV – As contribuições por PIX, transferência ou cartão somente serão recebidas em contas e meios de pagamento vinculados ao CNPJ da IGREJA (Regimento Interno, art. <<cont>>, § 3º), e o comprovante bancário será conferido antes da emissão do recibo.
+V – É vedado emitir recibo com valor, data, natureza ou contribuinte diferente do efetivamente recebido, ou em nome de pessoa diversa da que realizou a contribuição.
+VI – As contribuições são voluntárias e não serão restituídas (Estatuto, arts. [[dev]], parágrafo único, e [[disc]], § 5º), ressalvada a devolução de valor recebido por erro material comprovado, como pagamento em duplicidade ou transferência equivocada, mediante requerimento, autorização da Diretoria Executiva registrada em ata e devolução exclusivamente para a conta de origem.
+VII – As doações designadas pelo contribuinte para finalidade específica (por exemplo, construção, missões ou ação social) serão registradas em conta contábil própria e aplicadas na finalidade indicada. Se a finalidade se tornar impossível ou for concluída, o saldo será aplicado nas finalidades gerais da IGREJA, conforme a cláusula do Modelo 1.
+VIII – As doações de bens (imóveis, veículos, equipamentos e outros) não utilizarão este recibo, mas termo de doação próprio, com descrição e valor estimado do bem (Regimento Interno, art. <<pat1>>, § 3º); as doações de imóveis dependem de escritura pública e das autorizações estatutárias.
+IX – Os dados pessoais dos contribuintes serão tratados conforme a Política de Privacidade e Proteção de Dados, e a relação de contribuintes e os valores individuais não serão divulgados.
+X – Os recibos, termos de contagem e comprovantes serão conservados pelo prazo mínimo de 10 (dez) anos (Estatuto, art. [[imu]], § 1º, IV).
+
+%PAGEBREAK
+## MODELO 1 – RECIBO DE CONTRIBUIÇÃO
+%GRID 5,11
+RECIBO Nº [NÚMERO SEQUENCIAL] | [1ª VIA – CONTRIBUINTE / 2ª VIA – TESOURARIA]
+Recebedora | [NOME COMPLETO DA IGREJA] – CNPJ nº [NÚMERO] – [ENDEREÇO DA SEDE]
+Contribuinte | [NOME COMPLETO] – CPF/CNPJ nº [NÚMERO]
+Valor | R$ [VALOR] ([VALOR POR EXTENSO])
+Natureza | [ ] Dízimo   [ ] Oferta   [ ] Oferta missionária   [ ] Doação   [ ] Doação designada: [FINALIDADE]
+Forma | [ ] Espécie   [ ] PIX   [ ] Transferência   [ ] Cartão   [ ] Outra: [ ]   – Identificação da transação: [ ]
+Data do recebimento | [DATA]
+Local | [SEDE / CONGREGAÇÃO (NOME)]
+%ENDGRID
+P A [NOME COMPLETO DA IGREJA] declara ter recebido do(a) contribuinte acima identificado(a) a importância indicada, a título de contribuição voluntária e gratuita, destinada à manutenção e ao desenvolvimento de suas finalidades religiosas e assistenciais, dando plena quitação.
+P Declarações: (1) a contribuição é espontânea, não constitui pagamento por qualquer bem ou serviço, não confere ao(à) contribuinte direito sobre o patrimônio ou a administração da IGREJA e não é passível de restituição, salvo erro material comprovado; (2) nenhuma contribuição confere salvação, bênção condicionada ou posição espiritual (Declaração de Fé, seção VI); (3) este recibo não constitui documento hábil para dedução no imposto de renda, salvo nas hipóteses expressamente previstas em lei; (4) [SE DOAÇÃO DESIGNADA:] o valor será aplicado na finalidade indicada e, se esta se tornar impossível ou for concluída, o saldo será aplicado nas finalidades gerais da IGREJA.
+%SIGNS [NOME COMPLETO];[1º OU 2º] Tesoureiro(a) – [NOME COMPLETO DA IGREJA]
+
+P - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - (recortar) - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+!Canhoto – Tesouraria
+%GRID 5,11
+Recibo nº | [NÚMERO]
+Contribuinte | [NOME] – CPF/CNPJ nº [NÚMERO]
+Valor e natureza | R$ [VALOR] – [NATUREZA]
+Data e forma | [DATA] – [FORMA]
+Lançamento contábil | [DATA E CONTA]  – Conferido por: [NOME]
+%ENDGRID
+
+%PAGEBREAK
+## MODELO 2 – DECLARAÇÃO ANUAL DE CONTRIBUIÇÕES
+P A [NOME COMPLETO DA IGREJA] – [SIGLA], organização religiosa inscrita no CNPJ sob o nº [NÚMERO], com sede na [ENDEREÇO COMPLETO], DECLARA, para os fins que o(a) interessado(a) julgar necessários, que [NOME COMPLETO], inscrito(a) no CPF sob o nº [NÚMERO], realizou, no ano-calendário de [ANO], contribuições voluntárias à IGREJA no valor total de R$ [VALOR] ([VALOR POR EXTENSO]), conforme os registros contábeis da IGREJA, assim discriminadas:
+%GRID
+Mês | Dízimos (R$) | Ofertas (R$) | Doações designadas (R$) | Total (R$)
+Janeiro | [ ] | [ ] | [ ] | [ ]
+Fevereiro | [ ] | [ ] | [ ] | [ ]
+Março | [ ] | [ ] | [ ] | [ ]
+Abril | [ ] | [ ] | [ ] | [ ]
+Maio | [ ] | [ ] | [ ] | [ ]
+Junho | [ ] | [ ] | [ ] | [ ]
+Julho | [ ] | [ ] | [ ] | [ ]
+Agosto | [ ] | [ ] | [ ] | [ ]
+Setembro | [ ] | [ ] | [ ] | [ ]
+Outubro | [ ] | [ ] | [ ] | [ ]
+Novembro | [ ] | [ ] | [ ] | [ ]
+Dezembro | [ ] | [ ] | [ ] | [ ]
+TOTAL | [ ] | [ ] | [ ] | [ ]
+%ENDGRID
+P As contribuições acima foram realizadas de forma espontânea e gratuita, sem contraprestação de qualquer natureza, e esta declaração não constitui documento hábil para dedução no imposto de renda, salvo nas hipóteses expressamente previstas em lei. Os valores referem-se apenas às contribuições identificadas; as ofertas entregues de forma não identificada nos cultos não constam desta declaração.
+%DATE
+%SIGNS [NOME COMPLETO];1º Tesoureiro(a)|[NOME COMPLETO];Presidente da Diretoria Executiva
+
+%PAGEBREAK
+## MODELO 3 – REQUERIMENTO DE DEVOLUÇÃO POR ERRO MATERIAL
+P Eu, [NOME COMPLETO], inscrito(a) no CPF/CNPJ sob o nº [NÚMERO], REQUEIRO à [NOME COMPLETO DA IGREJA] a devolução do valor de R$ [VALOR], transferido em [DATA] por [PIX/TRANSFERÊNCIA/CARTÃO], identificação da transação [NÚMERO], em razão de [PAGAMENTO EM DUPLICIDADE / VALOR DIGITADO INCORRETAMENTE / TRANSFERÊNCIA DESTINADA A OUTRO BENEFICIÁRIO / OUTRO: (DESCREVER)], conforme comprovantes anexos, para a mesma conta de origem: [BANCO, AGÊNCIA E CONTA OU CHAVE PIX DE TITULARIDADE DO REQUERENTE].
+P Declaro estar ciente de que as contribuições voluntárias não são restituíveis e de que este pedido se limita à correção de erro material.
+%DATE
+%SIGNS [NOME COMPLETO];Requerente
+P PARA USO DA IGREJA: Erro material [ ] confirmado [ ] não confirmado pela Tesouraria em [DATA]. Devolução autorizada pela Diretoria Executiva na reunião de [DATA] (ata nº [NÚMERO]) [ ] / não autorizada [ ]. Devolução realizada em [DATA], comprovante nº [NÚMERO].
+%SIGNS [NOME COMPLETO];1º Tesoureiro(a)|[NOME COMPLETO];Presidente da Diretoria Executiva
